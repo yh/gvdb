@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Undercover Part 1",
+  "models": [
+    {
+      "name": "Liam Magnuson",
+      "person_id": 320
+    },
+    {
+      "name": "Tommy Defendi",
+      "person_id": 199
+    }
+  ],
+  "scene_id": 1516,
+  "title": "Undercover Part 1"
+}

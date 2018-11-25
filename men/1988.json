@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "Secret Agent Part 3",
+  "models": [
+    {
+      "name": "Logan Rogue",
+      "person_id": 365
+    },
+    {
+      "name": "Paddy O'Brian",
+      "person_id": 242
+    }
+  ],
+  "scene_id": 1988,
+  "title": "Secret Agent Part 3"
+}

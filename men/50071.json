@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Brian Michaels lucks out when he happens to move across the way and ends up with Beaux's mail. His plan was to drop off the package but he ended up receiving one instead.",
+  "models": [
+    {
+      "name": "Beaux Banks",
+      "person_id": 8571
+    },
+    {
+      "name": "Brian Michaels",
+      "person_id": 4111
+    }
+  ],
+  "scene_id": 50071,
+  "title": "Hunting Beaux Part 3"
+}

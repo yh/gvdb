@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "High School Bully Reunion",
+  "models": [
+    {
+      "name": "Jimmy Johnson",
+      "person_id": 256
+    },
+    {
+      "name": "Kyler Benz",
+      "person_id": 257
+    }
+  ],
+  "scene_id": 2081,
+  "title": "High School Bully Reunion"
+}

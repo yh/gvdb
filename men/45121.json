@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Seth shows that success is the best revenge when he invites Aston to stay over after Aston falls on hard times. Aston apologizes for how he treated Seth in high school and asks forgiveness with his welcoming gaping hole.",
+  "models": [
+    {
+      "name": "Aston Springs",
+      "person_id": 3501
+    },
+    {
+      "name": "Seth Knight",
+      "person_id": 70
+    }
+  ],
+  "scene_id": 45121,
+  "title": "Naughty Houseguest Part 1"
+}

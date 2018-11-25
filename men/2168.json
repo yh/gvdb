@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "The House",
+  "models": [
+    {
+      "name": "Johnny Rapid",
+      "person_id": 120
+    },
+    {
+      "name": "Zeb Atlas",
+      "person_id": 281
+    }
+  ],
+  "scene_id": 2168,
+  "title": "The House"
+}

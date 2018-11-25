@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Ethan Slade shows Damian Kyle who\u2019s really the bottom bitch after Damian jokes about it.",
+  "models": [
+    {
+      "name": "Damien Kyle",
+      "person_id": 3111
+    },
+    {
+      "name": "Ethan Slade",
+      "person_id": 321
+    }
+  ],
+  "scene_id": 44491,
+  "title": "Not A Bitch Boy"
+}

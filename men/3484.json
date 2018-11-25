@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "The End Part 2",
+  "models": [
+    {
+      "name": "Dato Foland",
+      "person_id": 421
+    },
+    {
+      "name": "Paddy O'Brian",
+      "person_id": 242
+    },
+    {
+      "name": "Rogan Richards",
+      "person_id": 315
+    }
+  ],
+  "scene_id": 3484,
+  "title": "The End Part 2"
+}

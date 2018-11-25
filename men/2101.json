@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Body Painting",
+  "models": [
+    {
+      "name": "Andrew Stark",
+      "person_id": 288
+    },
+    {
+      "name": "JD Phoenix",
+      "person_id": 305
+    }
+  ],
+  "scene_id": 2101,
+  "title": "Body Painting"
+}

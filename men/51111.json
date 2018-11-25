@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Gods Of Men"
+  ],
+  "description": "Jessy and Jean recall the good times they used to have and end up creating what will be, one of their hottest memories.",
+  "models": [
+    {
+      "name": "Jean Franko",
+      "person_id": 252
+    },
+    {
+      "name": "Jessy Ares",
+      "person_id": 265
+    }
+  ],
+  "scene_id": 51111,
+  "title": "Good Times"
+}

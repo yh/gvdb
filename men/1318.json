@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "Slacking On The Job",
+  "models": [
+    {
+      "name": "Robert Van Damme",
+      "person_id": 171
+    },
+    {
+      "name": "Tony Newport",
+      "person_id": 207
+    }
+  ],
+  "scene_id": 1318,
+  "title": "Slacking On The Job"
+}

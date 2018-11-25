@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Diego and his wife are on the outs after he tells her he's into men. She happens to find the bottle of elixir and wishes to become a man so she can keep her husband.",
+  "models": [
+    {
+      "name": "Diego Reyes",
+      "person_id": 8511
+    },
+    {
+      "name": "Jean Franko",
+      "person_id": 252
+    }
+  ],
+  "scene_id": 50811,
+  "title": "Elixir Part 2"
+}

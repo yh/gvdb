@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "The Pick Up",
+  "models": [
+    {
+      "name": "Dylan Hauser",
+      "person_id": 48
+    },
+    {
+      "name": "Leon Knight",
+      "person_id": 146
+    }
+  ],
+  "scene_id": 1122,
+  "title": "The Pick Up"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Secret Stash",
+  "models": [
+    {
+      "name": "Johnny Rapid",
+      "person_id": 120
+    },
+    {
+      "name": "Johnny Rocks",
+      "person_id": 245
+    }
+  ],
+  "scene_id": 1301,
+  "title": "Secret Stash"
+}

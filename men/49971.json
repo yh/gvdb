@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "Pietro gets his first client; Jessy Ares. Now it's his time to prove why he's a valuable asset.",
+  "models": [
+    {
+      "name": "Jessy Ares",
+      "person_id": 265
+    },
+    {
+      "name": "Pietro Duarte",
+      "person_id": 4061
+    }
+  ],
+  "scene_id": 49971,
+  "title": "The Boss Part 2"
+}

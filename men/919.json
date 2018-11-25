@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Man Overboard",
+  "models": [
+    {
+      "name": "Jeremy Bilding",
+      "person_id": 33
+    },
+    {
+      "name": "Trent Diesel",
+      "person_id": 31
+    }
+  ],
+  "scene_id": 919,
+  "title": "Man Overboard"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "Shaft Lane 2",
+  "models": [
+    {
+      "name": "Jay Roberts",
+      "person_id": 304
+    },
+    {
+      "name": "Marco Rubi",
+      "person_id": 431
+    }
+  ],
+  "scene_id": 3237,
+  "title": "Shaft Lane 2"
+}

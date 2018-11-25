@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "The Pizza Boy",
+  "models": [
+    {
+      "name": "Tristan Matthews",
+      "person_id": 72
+    },
+    {
+      "name": "Tyler Saint",
+      "person_id": 65
+    }
+  ],
+  "scene_id": 976,
+  "title": "The Pizza Boy"
+}

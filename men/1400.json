@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Stake Out 1",
+  "models": [
+    {
+      "name": "Leo Forte",
+      "person_id": 154
+    },
+    {
+      "name": "Sebastian Young",
+      "person_id": 165
+    }
+  ],
+  "scene_id": 1400,
+  "title": "Stake Out 1"
+}

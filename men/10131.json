@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Central Park Cruising Part 2",
+  "models": [
+    {
+      "name": "Andrew Fitch",
+      "person_id": 961
+    },
+    {
+      "name": "JD Phoenix",
+      "person_id": 305
+    }
+  ],
+  "scene_id": 10131,
+  "title": "Central Park Cruising Part 2"
+}

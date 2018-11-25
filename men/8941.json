@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "The New Exclusive : Bennett Anthony",
+  "models": [
+    {
+      "name": "Bennett Anthony",
+      "person_id": 921
+    },
+    {
+      "name": "Johnny Rapid",
+      "person_id": 120
+    }
+  ],
+  "scene_id": 8941,
+  "title": "The New Exclusive : Bennett Anthony"
+}

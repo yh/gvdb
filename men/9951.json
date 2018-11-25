@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Daddy's Workplace Part 1",
+  "models": [
+    {
+      "name": "Brad Kalvo",
+      "person_id": 169
+    },
+    {
+      "name": "Tom Faulk",
+      "person_id": 393
+    }
+  ],
+  "scene_id": 9951,
+  "title": "Daddy's Workplace Part 1"
+}

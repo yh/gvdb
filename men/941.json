@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Hit and Run",
+  "models": [
+    {
+      "name": "Spencer Reed",
+      "person_id": 5
+    },
+    {
+      "name": "Steven Daigle",
+      "person_id": 16
+    }
+  ],
+  "scene_id": 941,
+  "title": "Hit and Run"
+}

@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Cliff Jensen and Ashton McKay are out tossing a ball when Beaux Banks spots them and wants to toss more than a ball with Ashton. When Cliff steps away for a minute, Beaux swoops in to offer Ashton a private massage. Ashton happily agrees and Beaux gives him more than he bargained for. Not one to be left out, Cliff makes sure he gets a turn as well.",
+  "models": [
+    {
+      "name": "Ashton McKay",
+      "person_id": 2921
+    },
+    {
+      "name": "Beaux Banks",
+      "person_id": 8571
+    },
+    {
+      "name": "Cliff Jensen",
+      "person_id": 46
+    }
+  ],
+  "scene_id": 46471,
+  "title": "Couples Massage Part 2"
+}

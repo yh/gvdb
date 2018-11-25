@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Hide And Seek Part 2",
+  "models": [
+    {
+      "name": "Will Braun",
+      "person_id": 1571
+    },
+    {
+      "name": "William Seed",
+      "person_id": 8541
+    },
+    {
+      "name": "Zack Hunter",
+      "person_id": 3401
+    }
+  ],
+  "scene_id": 41171,
+  "title": "Hide And Seek Part 2"
+}

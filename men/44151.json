@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Diego Sans is off on a boy's trip and runs into Dante Colle who makes sure his first day is hot and steamy.",
+  "models": [
+    {
+      "name": "Dante Colle",
+      "person_id": 3591
+    },
+    {
+      "name": "Diego Sans",
+      "person_id": 1861
+    }
+  ],
+  "scene_id": 44151,
+  "title": "Boys Trip Part 1"
+}

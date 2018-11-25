@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "Supernatural",
+  "models": [
+    {
+      "name": "Daniel Johnson",
+      "person_id": 423
+    },
+    {
+      "name": "Paul Walker",
+      "person_id": 325
+    }
+  ],
+  "scene_id": 3218,
+  "title": "Supernatural"
+}

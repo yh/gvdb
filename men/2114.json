@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Swimming Lessons",
+  "models": [
+    {
+      "name": "Kirk Cummings",
+      "person_id": 66
+    },
+    {
+      "name": "Sebastian Young",
+      "person_id": 165
+    }
+  ],
+  "scene_id": 2114,
+  "title": "Swimming Lessons"
+}

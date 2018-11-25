@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Teddy Torres thanks River Wilson with his open hole for helping clean-up after the dinner party.",
+  "models": [
+    {
+      "name": "River Wilson",
+      "person_id": 3191
+    },
+    {
+      "name": "Teddy Torres",
+      "person_id": 3061
+    }
+  ],
+  "scene_id": 40511,
+  "title": "The Dinner Party Part 3"
+}

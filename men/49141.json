@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Phoenix Fellington and Beaux Banks bring you the third installment of masterclass.",
+  "models": [
+    {
+      "name": "Beaux Banks",
+      "person_id": 8571
+    },
+    {
+      "name": "Phoenix Fellington",
+      "person_id": 3681
+    }
+  ],
+  "scene_id": 49141,
+  "title": "Masterclass Part 3"
+}

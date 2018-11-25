@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "This private yoga lesson quickly steams up from 1 to 100. Best lesson ever?",
+  "models": [
+    {
+      "name": "Eddy Ceetee",
+      "person_id": 3351
+    },
+    {
+      "name": "Jackson Reed",
+      "person_id": 4071
+    }
+  ],
+  "scene_id": 51091,
+  "title": "Space Invaders Part 3"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Time Shared",
+  "models": [
+    {
+      "name": "Sebastian Young",
+      "person_id": 165
+    },
+    {
+      "name": "Tony Newport",
+      "person_id": 207
+    }
+  ],
+  "scene_id": 1240,
+  "title": "Time Shared"
+}

@@ -2,6 +2,10 @@
   "description": "Here are some more audition clips. There's a little blooper at the end of Malcolm's clip but I think it's fun to watch anyway.\nMalcolm, 25, 6'0\", 175\nMareo, 34, 5'5\", 200\nSanjay, 28, 5'10\", 190",
   "models": [
     {
+      "name": "Malcolm",
+      "person_id": 117
+    },
+    {
       "name": "Mareo",
       "person_id": 23
     }

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Taking it for the Team",
+  "models": [
+    {
+      "name": "Jeyden Studley",
+      "person_id": 29
+    },
+    {
+      "name": "Trevor Knight",
+      "person_id": 50
+    }
+  ],
+  "scene_id": 932,
+  "title": "Taking it for the Team"
+}

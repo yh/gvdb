@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Team USA",
+  "models": [
+    {
+      "name": "Asher Hawk",
+      "person_id": 461
+    },
+    {
+      "name": "Jaxton Wheeler",
+      "person_id": 448
+    }
+  ],
+  "scene_id": 3563,
+  "title": "Team USA"
+}

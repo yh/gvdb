@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Vadim Black is practicing his magic tricks for a show when his roommate Derek Bolt interrupts. Vadim asks him to be his test audience and Derek gets just what he wished for in the grand finale.",
+  "models": [
+    {
+      "name": "Derek  Bolt",
+      "person_id": 2781
+    },
+    {
+      "name": "Vadim Black",
+      "person_id": 1791
+    }
+  ],
+  "scene_id": 46531,
+  "title": "Magic Dick"
+}

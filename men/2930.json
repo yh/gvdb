@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "Strip Club",
+  "models": [
+    {
+      "name": "Colby Jansen",
+      "person_id": 227
+    },
+    {
+      "name": "Connor Maguire",
+      "person_id": 369
+    },
+    {
+      "name": "Mike De Marko",
+      "person_id": 318
+    }
+  ],
+  "scene_id": 2930,
+  "title": "Strip Club"
+}

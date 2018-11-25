@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "Secret Diary Of An Escort",
+  "models": [
+    {
+      "name": "Gabriel Clark",
+      "person_id": 428
+    },
+    {
+      "name": "Woody Fox",
+      "person_id": 432
+    }
+  ],
+  "scene_id": 3236,
+  "title": "Secret Diary Of An Escort"
+}

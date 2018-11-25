@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "After Hours Pick-Up",
+  "models": [
+    {
+      "name": "Adam Killian",
+      "person_id": 79
+    },
+    {
+      "name": "Edin Sol",
+      "person_id": 261
+    }
+  ],
+  "scene_id": 1340,
+  "title": "After Hours Pick-Up"
+}

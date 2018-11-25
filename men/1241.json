@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Fuck You For It",
+  "models": [
+    {
+      "name": "Cole Brooks",
+      "person_id": 200
+    },
+    {
+      "name": "Sebastian Young",
+      "person_id": 165
+    }
+  ],
+  "scene_id": 1241,
+  "title": "Fuck You For It"
+}

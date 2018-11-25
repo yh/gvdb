@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Connor and Dominic reenact the retelling of one straight man's story of his first time getting it on with another man.",
+  "models": [
+    {
+      "name": "Connor Halstead",
+      "person_id": 1511
+    },
+    {
+      "name": "Dominic Pacifico",
+      "person_id": 68
+    }
+  ],
+  "scene_id": 52131,
+  "title": "Confessions Of A Straight Man Part 1"
+}

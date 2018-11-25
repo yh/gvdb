@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Shoplifters Beware",
+  "models": [
+    {
+      "name": "Jackson Lawless",
+      "person_id": 107
+    },
+    {
+      "name": "Phenix Saint",
+      "person_id": 40
+    }
+  ],
+  "scene_id": 1006,
+  "title": "Shoplifters Beware"
+}

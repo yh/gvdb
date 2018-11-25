@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Sunny Colucci falls into a deep sleep and meets the Dream Fucker Francois Sagat.",
+  "models": [
+    {
+      "name": "Francois Sagat",
+      "person_id": 3421
+    },
+    {
+      "name": "Sunny Colucci",
+      "person_id": 2641
+    }
+  ],
+  "scene_id": 41831,
+  "title": "Dream Fucker Part 2"
+}

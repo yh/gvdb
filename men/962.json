@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Bad Neighbor",
+  "models": [
+    {
+      "name": "Jason Crew",
+      "person_id": 71
+    },
+    {
+      "name": "Tristan Matthews",
+      "person_id": 72
+    }
+  ],
+  "scene_id": 962,
+  "title": "Bad Neighbor"
+}

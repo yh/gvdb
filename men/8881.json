@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Predator Part 1",
+  "models": [
+    {
+      "name": "Jarec Wentworth",
+      "person_id": 721
+    },
+    {
+      "name": "Johnny Hazzard",
+      "person_id": 911
+    }
+  ],
+  "scene_id": 8881,
+  "title": "Predator Part 1"
+}

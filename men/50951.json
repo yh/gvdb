@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Gabriel wishes to be young again so he can be with Francois. The elixir turns back time for one but speeds it up for another. Will they end up together?",
+  "models": [
+    {
+      "name": "Francois Sagat",
+      "person_id": 3421
+    },
+    {
+      "name": "Gabriel Cross",
+      "person_id": 1341
+    }
+  ],
+  "scene_id": 50951,
+  "title": "Elixir Part 3"
+}

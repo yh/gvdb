@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Headshots",
+  "models": [
+    {
+      "name": "Logan Scott",
+      "person_id": 15
+    },
+    {
+      "name": "Mike Martin",
+      "person_id": 88
+    }
+  ],
+  "scene_id": 992,
+  "title": "Headshots"
+}

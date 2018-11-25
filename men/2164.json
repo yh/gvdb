@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "The Third Wheel",
+  "models": [
+    {
+      "name": "Jimmy Johnson",
+      "person_id": 256
+    },
+    {
+      "name": "Rocco Reed",
+      "person_id": 264
+    }
+  ],
+  "scene_id": 2164,
+  "title": "The Third Wheel"
+}

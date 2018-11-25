@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "Beau Reed services one of his workers while on the job.",
+  "models": [
+    {
+      "name": "Beau Reed",
+      "person_id": 3261
+    },
+    {
+      "name": "Ethan Chase",
+      "person_id": 3491
+    }
+  ],
+  "scene_id": 42191,
+  "title": "SuPERVisor Part 2"
+}

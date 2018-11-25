@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Last Call Part 3",
+  "models": [
+    {
+      "name": "Luke Adams",
+      "person_id": 481
+    },
+    {
+      "name": "Paul Wagner",
+      "person_id": 701
+    }
+  ],
+  "scene_id": 6681,
+  "title": "Last Call Part 3"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Festival Pass",
+  "models": [
+    {
+      "name": "James Hamilton",
+      "person_id": 276
+    },
+    {
+      "name": "Sebastian Young",
+      "person_id": 165
+    }
+  ],
+  "scene_id": 2100,
+  "title": "Festival Pass"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Loan Officer",
+  "models": [
+    {
+      "name": "Chase Austin",
+      "person_id": 258
+    },
+    {
+      "name": "Robert Van Damme",
+      "person_id": 171
+    }
+  ],
+  "scene_id": 1334,
+  "title": "Loan Officer"
+}

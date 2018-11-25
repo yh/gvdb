@@ -2,7 +2,7 @@
   "collections": [
     "Drill My Hole"
   ],
-  "description": "Sparring and Groping",
+  "description": "Sparring and Grappling",
   "models": [
     {
       "name": "Chris Tyler",
@@ -14,5 +14,5 @@
     }
   ],
   "scene_id": 1134,
-  "title": "Sparring and Groping"
+  "title": "Sparring and Grappling"
 }

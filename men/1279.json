@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Wood Worker",
+  "models": [
+    {
+      "name": "Adam Killian",
+      "person_id": 79
+    },
+    {
+      "name": "Kyle King",
+      "person_id": 217
+    }
+  ],
+  "scene_id": 1279,
+  "title": "Wood Worker"
+}

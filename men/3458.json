@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Insomnia",
+  "models": [
+    {
+      "name": "Aaron Bruiser",
+      "person_id": 453
+    },
+    {
+      "name": "Topher Di Maggio",
+      "person_id": 111
+    }
+  ],
+  "scene_id": 3458,
+  "title": "Insomnia"
+}

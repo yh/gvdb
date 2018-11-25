@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Men For Sale Part 1",
+  "models": [
+    {
+      "name": "Jarec Wentworth",
+      "person_id": 721
+    },
+    {
+      "name": "Jimmy Fanz",
+      "person_id": 228
+    }
+  ],
+  "scene_id": 6961,
+  "title": "Men For Sale Part 1"
+}

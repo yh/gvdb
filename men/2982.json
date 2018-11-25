@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "Hot Waiter",
+  "models": [
+    {
+      "name": "Chris Bines",
+      "person_id": 399
+    },
+    {
+      "name": "Liam Magnuson",
+      "person_id": 320
+    }
+  ],
+  "scene_id": 2982,
+  "title": "Hot Waiter"
+}

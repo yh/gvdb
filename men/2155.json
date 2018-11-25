@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "Employee Of The Month",
+  "models": [
+    {
+      "name": "Jimmy Johnson",
+      "person_id": 256
+    },
+    {
+      "name": "Lance Luciano",
+      "person_id": 351
+    }
+  ],
+  "scene_id": 2155,
+  "title": "Employee Of The Month"
+}

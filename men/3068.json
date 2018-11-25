@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "Late Night Break",
+  "models": [
+    {
+      "name": "Christopher Daniels",
+      "person_id": 112
+    },
+    {
+      "name": "Landon Conrad",
+      "person_id": 282
+    }
+  ],
+  "scene_id": 3068,
+  "title": "Late Night Break"
+}

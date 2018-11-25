@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "The Straight To Gay Show 2",
+  "models": [
+    {
+      "name": "Donny Wright",
+      "person_id": 314
+    },
+    {
+      "name": "Duncan Black",
+      "person_id": 322
+    }
+  ],
+  "scene_id": 1979,
+  "title": "The Straight To Gay Show 2"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Ethan thinks it\u2019s a good idea to welcome new neighbor Dustin with a meat basket. Dustin can see quickly, that Ethan\u2019s meat is exactly what he wants.",
+  "models": [
+    {
+      "name": "Dustin Holloway",
+      "person_id": 2361
+    },
+    {
+      "name": "Ethan Chase",
+      "person_id": 3491
+    }
+  ],
+  "scene_id": 47031,
+  "title": "Welcome To The Building"
+}

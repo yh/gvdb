@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "The Apprentice Fuck-Up",
+  "models": [
+    {
+      "name": "Ari Sylvio",
+      "person_id": 11
+    },
+    {
+      "name": "Diesel Washington",
+      "person_id": 174
+    }
+  ],
+  "scene_id": 1174,
+  "title": "The Apprentice Fuck-Up"
+}

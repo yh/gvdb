@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Marco Gagnon and Teddy Torres hit it off once off the hunt in \u2018The Huntsman Part 3\u2019.",
+  "models": [
+    {
+      "name": "Marco Gagnon",
+      "person_id": 3051
+    },
+    {
+      "name": "Teddy Torres",
+      "person_id": 3061
+    }
+  ],
+  "scene_id": 37471,
+  "title": "The Huntsman Part 3"
+}

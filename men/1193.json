@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Boxing Lessons",
+  "models": [
+    {
+      "name": "Liam Rosso",
+      "person_id": 180
+    },
+    {
+      "name": "Luca Rosso",
+      "person_id": 179
+    },
+    {
+      "name": "Ricky Sinz",
+      "person_id": 75
+    }
+  ],
+  "scene_id": 1193,
+  "title": "Boxing Lessons"
+}

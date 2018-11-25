@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "The Magic Box",
+  "models": [
+    {
+      "name": "Antonio Aguilera",
+      "person_id": 430
+    },
+    {
+      "name": "Goran",
+      "person_id": 183
+    }
+  ],
+  "scene_id": 3243,
+  "title": "The Magic Box"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Myles can\u2019t keep his hands off his daughter\u2019s prom date, Xavier Ryan.",
+  "models": [
+    {
+      "name": "Myles Landon",
+      "person_id": 3431
+    },
+    {
+      "name": "Xavier Ryan",
+      "person_id": 3381
+    }
+  ],
+  "scene_id": 41111,
+  "title": "Prom Thief"
+}

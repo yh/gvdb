@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Awkward Run-In",
+  "models": [
+    {
+      "name": "Rocco Reed",
+      "person_id": 264
+    },
+    {
+      "name": "Tony Paradise",
+      "person_id": 123
+    }
+  ],
+  "scene_id": 2157,
+  "title": "Awkward Run-In"
+}

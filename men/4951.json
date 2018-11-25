@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "Scrum Part 5",
+  "models": [
+    {
+      "name": "Colby Jansen",
+      "person_id": 227
+    },
+    {
+      "name": "Dan Broughton",
+      "person_id": 447
+    }
+  ],
+  "scene_id": 4951,
+  "title": "Scrum Part 5"
+}

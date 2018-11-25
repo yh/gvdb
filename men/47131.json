@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Damien hires Nicolas to clean up his space, but with a couple of special requirements. It starts with just taking off a few pieces of clothes\u2026 the rest is all Nicolas\u2019 choice.",
+  "models": [
+    {
+      "name": "Damien Crosse",
+      "person_id": 233
+    },
+    {
+      "name": "Nicolas Brooks",
+      "person_id": 3651
+    }
+  ],
+  "scene_id": 47131,
+  "title": "Skilled Tricks Part 2"
+}

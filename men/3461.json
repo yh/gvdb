@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "The Rear Window",
+  "models": [
+    {
+      "name": "Jake Wilder",
+      "person_id": 360
+    },
+    {
+      "name": "Tom Faulk",
+      "person_id": 393
+    }
+  ],
+  "scene_id": 3461,
+  "title": "The Rear Window"
+}

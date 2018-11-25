@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Matthew Parker gets a taste of Teddy in before the main dish is served.",
+  "models": [
+    {
+      "name": "Matthew Parker",
+      "person_id": 3181
+    },
+    {
+      "name": "Teddy Torres",
+      "person_id": 3061
+    }
+  ],
+  "scene_id": 40391,
+  "title": "The Dinner Party Part 2"
+}

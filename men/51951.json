@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "William and Pierce get into some dangerous gambling and are on the verge of losing when William signals him to run. They grab the money and set off into the desert to hideaway.",
+  "models": [
+    {
+      "name": "Pierce Paris",
+      "person_id": 4221
+    },
+    {
+      "name": "William Seed",
+      "person_id": 8541
+    }
+  ],
+  "scene_id": 51951,
+  "title": "Desert Hideaway Part 1"
+}

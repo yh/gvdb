@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Tales Of The John Part 1",
+  "models": [
+    {
+      "name": "Andrew Stark",
+      "person_id": 288
+    },
+    {
+      "name": "Rocco Reed",
+      "person_id": 264
+    }
+  ],
+  "scene_id": 1503,
+  "title": "Tales Of The John Part 1"
+}

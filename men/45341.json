@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Genie makes sure Massimo uses his last wish wisely; on him. Manuel shows Massimo just how it\u2019s done.",
+  "models": [
+    {
+      "name": "Manuel Skye",
+      "person_id": 3081
+    },
+    {
+      "name": "Massimo Piano",
+      "person_id": 2191
+    }
+  ],
+  "scene_id": 45341,
+  "title": "The Genie Part 3"
+}

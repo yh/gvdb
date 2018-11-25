@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Gods Of Men"
+  ],
+  "description": "The specialist is in to show Andy just how he gets the job done.",
+  "models": [
+    {
+      "name": "Andy Star",
+      "person_id": 3211
+    },
+    {
+      "name": "Jean Franko",
+      "person_id": 252
+    }
+  ],
+  "scene_id": 50251,
+  "title": "The Specialist"
+}

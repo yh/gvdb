@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Rafael finds a stranded Will on the side of the road and offers to take him home so he can call a mechanic and warm up. Rafael knows just what to do and quickly gets both their temperature's rising.",
+  "models": [
+    {
+      "name": "Rafael Alencar",
+      "person_id": 47
+    },
+    {
+      "name": "Will Braun",
+      "person_id": 1571
+    }
+  ],
+  "scene_id": 48921,
+  "title": "Pursuing The Bait"
+}

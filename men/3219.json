@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "Supernatural 2",
+  "models": [
+    {
+      "name": "Andro Maas",
+      "person_id": 427
+    },
+    {
+      "name": "Jonny Kingdom",
+      "person_id": 424
+    }
+  ],
+  "scene_id": 3219,
+  "title": "Supernatural 2"
+}

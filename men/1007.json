@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "New Guy On The Job",
+  "models": [
+    {
+      "name": "Bryce Star",
+      "person_id": 86
+    },
+    {
+      "name": "Mike Martin",
+      "person_id": 88
+    }
+  ],
+  "scene_id": 1007,
+  "title": "New Guy On The Job"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Dirty Chiropractor",
+  "models": [
+    {
+      "name": "John Magnum",
+      "person_id": 19
+    },
+    {
+      "name": "Phenix Saint",
+      "person_id": 40
+    }
+  ],
+  "scene_id": 2124,
+  "title": "Dirty Chiropractor"
+}

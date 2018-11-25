@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Sergeant's Orders",
+  "models": [
+    {
+      "name": "Damien Crosse",
+      "person_id": 233
+    },
+    {
+      "name": "Scott Carter",
+      "person_id": 236
+    }
+  ],
+  "scene_id": 1277,
+  "title": "Sergeant's Orders"
+}

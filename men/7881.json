@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Master",
+  "models": [
+    {
+      "name": "Jarec Wentworth",
+      "person_id": 721
+    },
+    {
+      "name": "Sebastian Young",
+      "person_id": 165
+    }
+  ],
+  "scene_id": 7881,
+  "title": "Master"
+}

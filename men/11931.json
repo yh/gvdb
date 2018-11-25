@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "Everybody has secrets, sins, and stories we don\u2019t want anyone to know, things you wouldn\u00b4t even tell your best friend\u2026 Paddy O\u2019Brian impersonates a priest and takes confession from some of the city\u2019s most sexually depraved. His first congregant is Tony Milan, who confesses to who he assumes to be his priest that he is in fact gay. Paddy invites Tony to meet him outside the church where he is able to show Tony that these feelings may be sinful, but should not be resisted.",
+  "models": [
+    {
+      "name": "Paddy O'Brian",
+      "person_id": 242
+    },
+    {
+      "name": "Tony Milan",
+      "person_id": 1271
+    }
+  ],
+  "scene_id": 11931,
+  "title": "Forbidden Part 2"
+}

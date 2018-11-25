@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Gods Of Men"
+  ],
+  "description": "Affairs Part 2",
+  "models": [
+    {
+      "name": "Christopher Daniels",
+      "person_id": 112
+    },
+    {
+      "name": "Paul Walker",
+      "person_id": 325
+    }
+  ],
+  "scene_id": 8951,
+  "title": "Affairs Part 2"
+}

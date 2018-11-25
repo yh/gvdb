@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Working Hard",
+  "models": [
+    {
+      "name": "Cliff Jensen",
+      "person_id": 46
+    },
+    {
+      "name": "Marc Dylan",
+      "person_id": 121
+    }
+  ],
+  "scene_id": 1078,
+  "title": "Working Hard"
+}

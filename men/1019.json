@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Truth Or Dare",
+  "models": [
+    {
+      "name": "Ethan Cawke",
+      "person_id": 115
+    },
+    {
+      "name": "Julian Smiles",
+      "person_id": 108
+    }
+  ],
+  "scene_id": 1019,
+  "title": "Truth Or Dare"
+}

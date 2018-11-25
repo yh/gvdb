@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Griffin Barrows joins Noah Jones for a special vacation that ensures both men are super relaxed.",
+  "models": [
+    {
+      "name": "Griffin Barrows",
+      "person_id": 2581
+    },
+    {
+      "name": "Noah Jones",
+      "person_id": 1731
+    }
+  ],
+  "scene_id": 44651,
+  "title": "Retreat Yo'Self Part 1"
+}

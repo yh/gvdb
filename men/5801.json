@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "Disconnected Part 2",
+  "models": [
+    {
+      "name": "Dan Broughton",
+      "person_id": 447
+    },
+    {
+      "name": "McKensie Cross",
+      "person_id": 460
+    }
+  ],
+  "scene_id": 5801,
+  "title": "Disconnected Part 2"
+}
