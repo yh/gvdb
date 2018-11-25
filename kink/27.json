@@ -1,0 +1,16 @@
+{
+  "collections": [
+    "Hogtied"
+  ],
+  "description": "Peanut gets it like only Hogtied knows how!",
+  "models": [
+    {
+      "name": "Peanut",
+      "person_id": 38
+    }
+  ],
+  "release_date": "1999-06-22",
+  "scene_id": 27,
+  "tags": [],
+  "title": "Peanut"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "The Boss's Son",
+  "models": [
+    {
+      "name": "Diesel O Green",
+      "person_id": 328
+    },
+    {
+      "name": "Jay Roberts",
+      "person_id": 304
+    }
+  ],
+  "scene_id": 1478,
+  "title": "The Boss's Son"
+}

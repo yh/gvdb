@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Setting Up The Roommate",
+  "models": [
+    {
+      "name": "Marcus Ruhl",
+      "person_id": 283
+    },
+    {
+      "name": "Sebastian Young",
+      "person_id": 165
+    }
+  ],
+  "scene_id": 2110,
+  "title": "Setting Up The Roommate"
+}

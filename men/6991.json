@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Gods Of Men"
+  ],
+  "description": "Rise And Grind",
+  "models": [
+    {
+      "name": "Dale Cooper",
+      "person_id": 211
+    },
+    {
+      "name": "Jimmy Durano",
+      "person_id": 711
+    }
+  ],
+  "scene_id": 6991,
+  "title": "Rise And Grind"
+}

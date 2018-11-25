@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Cutting The Deal",
+  "models": [
+    {
+      "name": "Atticus Benson",
+      "person_id": 312
+    },
+    {
+      "name": "Sebastian Young",
+      "person_id": 165
+    }
+  ],
+  "scene_id": 2004,
+  "title": "Cutting The Deal"
+}

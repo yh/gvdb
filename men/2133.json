@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Backstabber",
+  "models": [
+    {
+      "name": "Alex Marte",
+      "person_id": 349
+    },
+    {
+      "name": "Damien Crosse",
+      "person_id": 233
+    }
+  ],
+  "scene_id": 2133,
+  "title": "Backstabber"
+}

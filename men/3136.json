@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "New Cubicle Mate",
+  "models": [
+    {
+      "name": "Colby Jansen",
+      "person_id": 227
+    },
+    {
+      "name": "JD Phoenix",
+      "person_id": 305
+    }
+  ],
+  "scene_id": 3136,
+  "title": "New Cubicle Mate"
+}

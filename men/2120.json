@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Urban Legend",
+  "models": [
+    {
+      "name": "Duncan Black",
+      "person_id": 322
+    },
+    {
+      "name": "Marcus Ruhl",
+      "person_id": 283
+    }
+  ],
+  "scene_id": 2120,
+  "title": "Urban Legend"
+}

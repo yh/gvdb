@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "The New Guy",
+  "models": [
+    {
+      "name": "Brad Benton",
+      "person_id": 77
+    },
+    {
+      "name": "Christian Wilde",
+      "person_id": 97
+    }
+  ],
+  "scene_id": 1001,
+  "title": "The New Guy"
+}

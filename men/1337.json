@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Industrial Espionage",
+  "models": [
+    {
+      "name": "Mitch Vaughn",
+      "person_id": 127
+    },
+    {
+      "name": "Shay Michaels",
+      "person_id": 259
+    }
+  ],
+  "scene_id": 1337,
+  "title": "Industrial Espionage"
+}

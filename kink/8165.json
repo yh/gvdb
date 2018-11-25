@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "The Upper Floor"
+  ],
+  "description": "When Torn refuses to sing she is punished for willful disobedience. At the end of this week she faces possible promotion.",
+  "models": [
+    {
+      "name": "Cherry Torn",
+      "person_id": 11105
+    },
+    {
+      "name": "Sarah Shevon",
+      "person_id": 19605
+    }
+  ],
+  "release_date": "2010-02-18",
+  "scene_id": 8165,
+  "tags": [],
+  "title": "Service Sessions: Torn's Punishment"
+}

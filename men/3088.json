@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Gods Of Men"
+  ],
+  "description": "A Lovers Tryst",
+  "models": [
+    {
+      "name": "Mathew Mason",
+      "person_id": 433
+    },
+    {
+      "name": "Tony Rivera",
+      "person_id": 401
+    }
+  ],
+  "scene_id": 3088,
+  "title": "A Lovers Tryst"
+}

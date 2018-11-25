@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Room Service",
+  "models": [
+    {
+      "name": "Johnny Rapid",
+      "person_id": 120
+    },
+    {
+      "name": "Ricky Sinz",
+      "person_id": 75
+    }
+  ],
+  "scene_id": 1147,
+  "title": "Room Service"
+}

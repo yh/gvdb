@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Breaking And Entering",
+  "models": [
+    {
+      "name": "Leon Knight",
+      "person_id": 146
+    },
+    {
+      "name": "Phat Daddy",
+      "person_id": 162
+    }
+  ],
+  "scene_id": 1145,
+  "title": "Breaking And Entering"
+}

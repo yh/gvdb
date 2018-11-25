@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Diego Sans tops Chris Harder in \u2018Only in Secret\u2019.",
+  "models": [
+    {
+      "name": "Chris Harder",
+      "person_id": 1701
+    },
+    {
+      "name": "Diego Sans",
+      "person_id": 1861
+    }
+  ],
+  "scene_id": 33711,
+  "title": "Only In Secret"
+}

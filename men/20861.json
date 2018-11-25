@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Gods Of Men"
+  ],
+  "description": "Four Letter Word",
+  "models": [
+    {
+      "name": "Addison Graham",
+      "person_id": 2111
+    },
+    {
+      "name": "Alex Mecum",
+      "person_id": 2081
+    }
+  ],
+  "scene_id": 20861,
+  "title": "Four Letter Word"
+}

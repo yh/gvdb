@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "Do As I Say",
+  "models": [
+    {
+      "name": "Damien Crosse",
+      "person_id": 233
+    },
+    {
+      "name": "Paddy O'Brian",
+      "person_id": 242
+    },
+    {
+      "name": "Theo Ford",
+      "person_id": 1101
+    }
+  ],
+  "scene_id": 10761,
+  "title": "Do As I Say"
+}

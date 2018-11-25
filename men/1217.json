@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Sloppy Seaman",
+  "models": [
+    {
+      "name": "Adam Killian",
+      "person_id": 79
+    },
+    {
+      "name": "Marc Dylan",
+      "person_id": 121
+    }
+  ],
+  "scene_id": 1217,
+  "title": "Sloppy Seaman"
+}

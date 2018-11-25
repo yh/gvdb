@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "Smoke Break",
+  "models": [
+    {
+      "name": "Conner Habib",
+      "person_id": 129
+    },
+    {
+      "name": "Steve Vex",
+      "person_id": 113
+    }
+  ],
+  "scene_id": 1068,
+  "title": "Smoke Break"
+}

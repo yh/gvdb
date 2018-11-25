@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Photo Booth Fun",
+  "models": [
+    {
+      "name": "Cliff Jensen",
+      "person_id": 46
+    },
+    {
+      "name": "Kirk Cummings",
+      "person_id": 66
+    }
+  ],
+  "scene_id": 1150,
+  "title": "Photo Booth Fun"
+}

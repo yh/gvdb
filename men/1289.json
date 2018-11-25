@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Unruly Employee",
+  "models": [
+    {
+      "name": "Phenix Saint",
+      "person_id": 40
+    },
+    {
+      "name": "Tory Mason",
+      "person_id": 149
+    }
+  ],
+  "scene_id": 1289,
+  "title": "Unruly Employee"
+}

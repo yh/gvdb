@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "100 Percent Straight",
+  "models": [
+    {
+      "name": "Colby Jansen",
+      "person_id": 227
+    },
+    {
+      "name": "Lance Luciano",
+      "person_id": 351
+    }
+  ],
+  "scene_id": 2128,
+  "title": "100 Percent Straight"
+}

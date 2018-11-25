@@ -1,0 +1,23 @@
+{
+  "collections": [
+    "Men in Pain"
+  ],
+  "description": "Returning with a tribute only gets his best efforts ground into the dirt of the Armory's lowest basement floor.\nKade learns a hard lesson in fortitude, service and pain at the hands of this truly cruel slave trainer.",
+  "models": [
+    {
+      "name": "Kade",
+      "person_id": 12580
+    },
+    {
+      "name": "Maitresse Madeline Marlowe ",
+      "person_id": 17872
+    }
+  ],
+  "release_date": "2011-12-26",
+  "scene_id": 6530,
+  "tags": [
+    "pain",
+    "slave"
+  ],
+  "title": "The Training of Kade, Day Two"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Super Gay Hero"
+  ],
+  "description": "Howl Part 1",
+  "models": [
+    {
+      "name": "Colby Keller",
+      "person_id": 143
+    },
+    {
+      "name": "Paddy O'Brian",
+      "person_id": 242
+    }
+  ],
+  "scene_id": 9881,
+  "title": "Howl Part 1"
+}

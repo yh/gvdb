@@ -1,0 +1,24 @@
+{
+  "collections": [
+    "The Upper Floor"
+  ],
+  "description": "First weekend of December, The Upper Floor celebrates the coming Holidays, keeping warm with a fine selection of slaves and some winter themed entertainment.",
+  "models": [
+    {
+      "name": "Kait Snow",
+      "person_id": 25825
+    },
+    {
+      "name": "Jessie Cox",
+      "person_id": 18739
+    },
+    {
+      "name": "AnnaBelle Lee",
+      "person_id": 8692
+    }
+  ],
+  "release_date": "2011-01-24",
+  "scene_id": 11580,
+  "tags": [],
+  "title": "Let it Snow, Let it Snow, Let it Snow"
+}

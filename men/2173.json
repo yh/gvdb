@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "In The Dog House",
+  "models": [
+    {
+      "name": "Harley Everett",
+      "person_id": 290
+    },
+    {
+      "name": "Jay Roberts",
+      "person_id": 304
+    }
+  ],
+  "scene_id": 2173,
+  "title": "In The Dog House"
+}

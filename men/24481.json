@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "The guys are playing ball when Adam Bryant says he has to go home to his wife. Turns out Adam is leaving to tap some sweet ass but it\u2019s sure not his wife\u2019s.",
+  "models": [
+    {
+      "name": "Adam Bryant",
+      "person_id": 1291
+    },
+    {
+      "name": "Scotty Zee",
+      "person_id": 2251
+    }
+  ],
+  "scene_id": 24481,
+  "title": "Slam Dunk Part 1"
+}

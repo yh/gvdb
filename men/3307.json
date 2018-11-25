@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Top To Bottom"
+  ],
+  "description": "Top To Bottom: Charlie Harding",
+  "models": [
+    {
+      "name": "Charlie Harding",
+      "person_id": 313
+    },
+    {
+      "name": "Colby Jansen",
+      "person_id": 227
+    }
+  ],
+  "scene_id": 3307,
+  "title": "Top To Bottom: Charlie Harding"
+}

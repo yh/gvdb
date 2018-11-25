@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "GSI : Gay Scene Investigation 2",
+  "models": [
+    {
+      "name": "Paul Walker",
+      "person_id": 325
+    },
+    {
+      "name": "Will Helm",
+      "person_id": 382
+    }
+  ],
+  "scene_id": 2177,
+  "title": "GSI : Gay Scene Investigation 2"
+}

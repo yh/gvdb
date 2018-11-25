@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "The Butcher",
+  "models": [
+    {
+      "name": "Adrian Toledo",
+      "person_id": 181
+    },
+    {
+      "name": "Goran",
+      "person_id": 183
+    },
+    {
+      "name": "Manuel Lopez",
+      "person_id": 182
+    }
+  ],
+  "scene_id": 1168,
+  "title": "The Butcher"
+}

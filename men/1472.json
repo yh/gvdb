@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Men In Budapest 5",
+  "models": [
+    {
+      "name": "Gordon Baley",
+      "person_id": 338
+    },
+    {
+      "name": "Marcus Ruhl",
+      "person_id": 283
+    }
+  ],
+  "scene_id": 1472,
+  "title": "Men In Budapest 5"
+}

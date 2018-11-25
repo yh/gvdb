@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Climbing That Pole",
+  "models": [
+    {
+      "name": "Arpad Miklos",
+      "person_id": 195
+    },
+    {
+      "name": "Kirk Cummings",
+      "person_id": 66
+    }
+  ],
+  "scene_id": 1196,
+  "title": "Climbing That Pole"
+}

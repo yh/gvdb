@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "After Hours Screening",
+  "models": [
+    {
+      "name": "Dylan Roberts",
+      "person_id": 44
+    },
+    {
+      "name": "Jessie Colter",
+      "person_id": 80
+    }
+  ],
+  "scene_id": 1025,
+  "title": "After Hours Screening"
+}

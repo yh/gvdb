@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Community Service",
+  "models": [
+    {
+      "name": "David Dirdam",
+      "person_id": 235
+    },
+    {
+      "name": "Francesco D'Macho",
+      "person_id": 296
+    }
+  ],
+  "scene_id": 1450,
+  "title": "Community Service"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Wood",
+  "models": [
+    {
+      "name": "Colby Jansen",
+      "person_id": 227
+    },
+    {
+      "name": "Marcus Ruhl",
+      "person_id": 283
+    }
+  ],
+  "scene_id": 1364,
+  "title": "Wood"
+}

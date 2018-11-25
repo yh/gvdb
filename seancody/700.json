@@ -1,0 +1,19 @@
+{
+  "description": "Behind-the-scenes footage from \"Joey & Dakota\"!",
+  "models": [
+    {
+      "name": "Dakota",
+      "person_id": 451
+    },
+    {
+      "name": "Joey",
+      "person_id": 452
+    }
+  ],
+  "release_date": "2008-11-07",
+  "scene_id": 700,
+  "tags": [
+    "Behind the Scenes"
+  ],
+  "title": "Joey & Dakota: Behind the Scenes"
+}

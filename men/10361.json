@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Men Collector Part 3",
+  "models": [
+    {
+      "name": "Christian Wilde",
+      "person_id": 97
+    },
+    {
+      "name": "Landon Conrad",
+      "person_id": 282
+    }
+  ],
+  "scene_id": 10361,
+  "title": "Men Collector Part 3"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Scrum Part 2",
+  "models": [
+    {
+      "name": "Aaron Bruiser",
+      "person_id": 453
+    },
+    {
+      "name": "Colby Jansen",
+      "person_id": 227
+    }
+  ],
+  "scene_id": 3468,
+  "title": "Scrum Part 2"
+}

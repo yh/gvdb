@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Physical Therapy",
+  "models": [
+    {
+      "name": "Jimmy Johnson",
+      "person_id": 256
+    },
+    {
+      "name": "Marcus Ruhl",
+      "person_id": 283
+    }
+  ],
+  "scene_id": 2144,
+  "title": "Physical Therapy"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Fight For My Hole",
+  "models": [
+    {
+      "name": "Jessie Colter",
+      "person_id": 80
+    },
+    {
+      "name": "Spencer Reed",
+      "person_id": 5
+    }
+  ],
+  "scene_id": 1055,
+  "title": "Fight For My Hole"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "Mates Part 1",
+  "models": [
+    {
+      "name": "Dean Monroe",
+      "person_id": 26
+    },
+    {
+      "name": "Paul Walker",
+      "person_id": 325
+    }
+  ],
+  "scene_id": 1531,
+  "title": "Mates Part 1"
+}

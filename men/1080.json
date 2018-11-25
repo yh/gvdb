@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "The Clumsy Mover",
+  "models": [
+    {
+      "name": "Jacob Durham",
+      "person_id": 76
+    },
+    {
+      "name": "Trevor Knight",
+      "person_id": 50
+    }
+  ],
+  "scene_id": 1080,
+  "title": "The Clumsy Mover"
+}

@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "The Fuck Machine",
+  "models": [
+    {
+      "name": "Liam Rosso",
+      "person_id": 180
+    },
+    {
+      "name": "Luca Rosso",
+      "person_id": 179
+    },
+    {
+      "name": "Rafael Alencar",
+      "person_id": 47
+    }
+  ],
+  "scene_id": 1314,
+  "title": "The Fuck Machine"
+}

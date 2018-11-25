@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "The Training Of O"
+  ],
+  "description": "Slave candidate #31 applies for service to the Upper Floor.",
+  "models": [
+    {
+      "name": "Maestro",
+      "person_id": 11928
+    },
+    {
+      "name": "Nerine Mechanique",
+      "person_id": 19851
+    }
+  ],
+  "release_date": "2009-05-22",
+  "scene_id": 6533,
+  "tags": [
+    "slave"
+  ],
+  "title": "Candidate #31"
+}

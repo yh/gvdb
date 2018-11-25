@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Hot As Hell's Kitchen",
+  "models": [
+    {
+      "name": "Christian Wilde",
+      "person_id": 97
+    },
+    {
+      "name": "Cody Avalon",
+      "person_id": 1141
+    }
+  ],
+  "scene_id": 10951,
+  "title": "Hot As Hell's Kitchen"
+}

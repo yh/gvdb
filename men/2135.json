@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Amnesia",
+  "models": [
+    {
+      "name": "Bobby Clark",
+      "person_id": 226
+    },
+    {
+      "name": "Donny Wright",
+      "person_id": 314
+    }
+  ],
+  "scene_id": 2135,
+  "title": "Amnesia"
+}

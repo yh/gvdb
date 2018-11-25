@@ -1,0 +1,16 @@
+{
+  "collections": [
+    "Hogtied"
+  ],
+  "description": "Marty ties viva once more.",
+  "models": [
+    {
+      "name": "Viva",
+      "person_id": 56
+    }
+  ],
+  "release_date": "2002-04-24",
+  "scene_id": 340,
+  "tags": [],
+  "title": "Viva"
+}

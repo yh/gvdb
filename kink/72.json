@@ -1,0 +1,16 @@
+{
+  "collections": [
+    "Hogtied"
+  ],
+  "description": "Marty suspends the lovely Shikira.",
+  "models": [
+    {
+      "name": "Shikira",
+      "person_id": 45
+    }
+  ],
+  "release_date": "2000-12-06",
+  "scene_id": 72,
+  "tags": [],
+  "title": "Shikira"
+}

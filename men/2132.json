@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "Pay Up",
+  "models": [
+    {
+      "name": "Damien Crosse",
+      "person_id": 233
+    },
+    {
+      "name": "Jay Roberts",
+      "person_id": 304
+    }
+  ],
+  "scene_id": 2132,
+  "title": "Pay Up"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Messed Up Service",
+  "models": [
+    {
+      "name": "Jacob Durham",
+      "person_id": 76
+    },
+    {
+      "name": "Tyler Saint",
+      "person_id": 65
+    }
+  ],
+  "scene_id": 1061,
+  "title": "Messed Up Service"
+}

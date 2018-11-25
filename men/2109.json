@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "You've Been Served",
+  "models": [
+    {
+      "name": "Marcus Ruhl",
+      "person_id": 283
+    },
+    {
+      "name": "Tommy Defendi",
+      "person_id": 199
+    }
+  ],
+  "scene_id": 2109,
+  "title": "You've Been Served"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Snitch Roommate",
+  "models": [
+    {
+      "name": "Tommy Defendi",
+      "person_id": 199
+    },
+    {
+      "name": "Troy Daniels",
+      "person_id": 348
+    }
+  ],
+  "scene_id": 2009,
+  "title": "Snitch Roommate"
+}

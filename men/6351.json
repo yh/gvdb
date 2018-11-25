@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Last One Standing",
+  "models": [
+    {
+      "name": "James Dickson",
+      "person_id": 691
+    },
+    {
+      "name": "Johnny Rapid",
+      "person_id": 120
+    }
+  ],
+  "scene_id": 6351,
+  "title": "Last One Standing"
+}

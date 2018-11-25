@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Hard Hats",
+  "models": [
+    {
+      "name": "Damien Crosse",
+      "person_id": 233
+    },
+    {
+      "name": "Foster Riviera",
+      "person_id": 234
+    }
+  ],
+  "scene_id": 1275,
+  "title": "Hard Hats"
+}

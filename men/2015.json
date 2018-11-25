@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "Secret Liaison",
+  "models": [
+    {
+      "name": "Landon Conrad",
+      "person_id": 282
+    },
+    {
+      "name": "Liam Magnuson",
+      "person_id": 320
+    }
+  ],
+  "scene_id": 2015,
+  "title": "Secret Liaison"
+}

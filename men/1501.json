@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "The Appraisal",
+  "models": [
+    {
+      "name": "Bruno Knight",
+      "person_id": 316
+    },
+    {
+      "name": "Marco Sessions",
+      "person_id": 291
+    }
+  ],
+  "scene_id": 1501,
+  "title": "The Appraisal"
+}

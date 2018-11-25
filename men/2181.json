@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "The Conference Table",
+  "models": [
+    {
+      "name": "Andrew Stark",
+      "person_id": 288
+    },
+    {
+      "name": "Kurt Von Ryder",
+      "person_id": 388
+    }
+  ],
+  "scene_id": 2181,
+  "title": "The Conference Table"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Buzz",
+  "models": [
+    {
+      "name": "Devin Adams",
+      "person_id": 92
+    },
+    {
+      "name": "Luca Rosso",
+      "person_id": 179
+    }
+  ],
+  "scene_id": 2071,
+  "title": "Buzz"
+}

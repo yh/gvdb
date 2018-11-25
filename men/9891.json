@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "Super Gay Hero"
+  ],
+  "description": "Howl Part 2",
+  "models": [
+    {
+      "name": "Gabriel Clark",
+      "person_id": 428
+    },
+    {
+      "name": "Jessy Ares",
+      "person_id": 265
+    },
+    {
+      "name": "Paddy O'Brian",
+      "person_id": 242
+    }
+  ],
+  "scene_id": 9891,
+  "title": "Howl Part 2"
+}

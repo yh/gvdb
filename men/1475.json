@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "The Drill Sergeant 2",
+  "models": [
+    {
+      "name": "Leo Domenico",
+      "person_id": 330
+    },
+    {
+      "name": "Paul Walker",
+      "person_id": 325
+    }
+  ],
+  "scene_id": 1475,
+  "title": "The Drill Sergeant 2"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Paying The Trainer",
+  "models": [
+    {
+      "name": "Spencer Reed",
+      "person_id": 5
+    },
+    {
+      "name": "Tommy Defendi",
+      "person_id": 199
+    }
+  ],
+  "scene_id": 2005,
+  "title": "Paying The Trainer"
+}

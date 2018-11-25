@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "The New Exclusive",
+  "models": [
+    {
+      "name": "Colby Jansen",
+      "person_id": 227
+    },
+    {
+      "name": "Duncan Black",
+      "person_id": 322
+    }
+  ],
+  "scene_id": 1529,
+  "title": "The New Exclusive"
+}

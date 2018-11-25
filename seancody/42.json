@@ -1,0 +1,15 @@
+{
+  "description": "Will is a hottie who was passing though town on his way to visit his parents.",
+  "models": [
+    {
+      "name": "Will",
+      "person_id": 206
+    }
+  ],
+  "release_date": "2001-10-06",
+  "scene_id": 42,
+  "tags": [
+    "Solo"
+  ],
+  "title": "Will"
+}

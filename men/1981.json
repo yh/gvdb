@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Butt Dial",
+  "models": [
+    {
+      "name": "Colby Jansen",
+      "person_id": 227
+    },
+    {
+      "name": "Rod Daily",
+      "person_id": 363
+    }
+  ],
+  "scene_id": 1981,
+  "title": "Butt Dial"
+}

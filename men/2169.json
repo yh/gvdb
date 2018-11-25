@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "The Set-Up",
+  "models": [
+    {
+      "name": "Duncan Black",
+      "person_id": 322
+    },
+    {
+      "name": "Zeb Atlas",
+      "person_id": 281
+    }
+  ],
+  "scene_id": 2169,
+  "title": "The Set-Up"
+}

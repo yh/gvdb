@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "The Upper Floor"
+  ],
+  "description": "The Directors gather to make a toast and break bread in celebration of the commencement of the North Wing Remodel. House Master Mr. Acworth pledges that the Upper Floor will be ready to feed the the castle by Solstice weekend!",
+  "models": [
+    {
+      "name": "Cherry Torn",
+      "person_id": 11105
+    },
+    {
+      "name": "Bella Rossi",
+      "person_id": 18418
+    }
+  ],
+  "release_date": "2010-05-07",
+  "scene_id": 8906,
+  "tags": [],
+  "title": "Director's Dinner: A Toast to Feeding the Castle "
+}

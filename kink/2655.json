@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Fucking Machines"
+  ],
+  "description": "Guest director, David, invites Jenya back to have another go with the machines. After warming up with the Rocker she finishes with a great appreciation for the Tresspasser.",
+  "models": [
+    {
+      "name": "Jenya",
+      "person_id": 6227
+    },
+    {
+      "name": "David",
+      "person_id": 7435
+    }
+  ],
+  "release_date": "2005-08-31",
+  "scene_id": 2655,
+  "tags": [],
+  "title": "Jenya and David"
+}

@@ -1,0 +1,16 @@
+{
+  "collections": [
+    "Hogtied"
+  ],
+  "description": "One of our favorites, Ivy, gets the steel and rope treatment",
+  "models": [
+    {
+      "name": "Ivy",
+      "person_id": 27
+    }
+  ],
+  "release_date": "2001-12-15",
+  "scene_id": 287,
+  "tags": [],
+  "title": "Ivy"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Train Me",
+  "models": [
+    {
+      "name": "Corey Martin",
+      "person_id": 192
+    },
+    {
+      "name": "Matthew Rush",
+      "person_id": 191
+    }
+  ],
+  "scene_id": 1186,
+  "title": "Train Me"
+}

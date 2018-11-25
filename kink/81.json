@@ -1,0 +1,16 @@
+{
+  "collections": [
+    "Fucking Machines"
+  ],
+  "description": "Victoria gets introduced to Invader and gets invaded!",
+  "models": [
+    {
+      "name": "Victoria",
+      "person_id": 92
+    }
+  ],
+  "release_date": "2000-09-15",
+  "scene_id": 81,
+  "tags": [],
+  "title": "Victoria"
+}

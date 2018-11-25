@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "The Training Of O"
+  ],
+  "description": "Day Three",
+  "models": [
+    {
+      "name": "Bella Rossi",
+      "person_id": 18418
+    },
+    {
+      "name": "Maestro",
+      "person_id": 11928
+    }
+  ],
+  "release_date": "2009-08-28",
+  "scene_id": 6756,
+  "tags": [],
+  "title": "The Training of Bella Rossi, Day Three"
+}

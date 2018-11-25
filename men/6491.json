@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "Cockpit Part 2",
+  "models": [
+    {
+      "name": "Lionel Lilac",
+      "person_id": 641
+    },
+    {
+      "name": "Mario Torrez",
+      "person_id": 631
+    }
+  ],
+  "scene_id": 6491,
+  "title": "Cockpit Part 2"
+}

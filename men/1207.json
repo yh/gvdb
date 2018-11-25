@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Gloriously Shopping",
+  "models": [
+    {
+      "name": "Christopher Daniels",
+      "person_id": 112
+    },
+    {
+      "name": "John Magnum",
+      "person_id": 19
+    }
+  ],
+  "scene_id": 1207,
+  "title": "Gloriously Shopping"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Bad Puppy",
+  "models": [
+    {
+      "name": "Jason Crew",
+      "person_id": 71
+    },
+    {
+      "name": "Seth Knight",
+      "person_id": 70
+    }
+  ],
+  "scene_id": 961,
+  "title": "Bad Puppy"
+}

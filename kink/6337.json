@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "The Training Of O"
+  ],
+  "description": "Day One",
+  "models": [
+    {
+      "name": "Amber Keen",
+      "person_id": 18730
+    },
+    {
+      "name": "Maestro",
+      "person_id": 11928
+    }
+  ],
+  "release_date": "2009-02-27",
+  "scene_id": 6337,
+  "tags": [],
+  "title": "The Training of Amber Keen Day One"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Coerced",
+  "models": [
+    {
+      "name": "Dominic Pacifico",
+      "person_id": 68
+    },
+    {
+      "name": "JT Stryker",
+      "person_id": 69
+    }
+  ],
+  "scene_id": 960,
+  "title": "Coerced"
+}

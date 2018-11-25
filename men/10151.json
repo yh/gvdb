@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Daddy's Workplace Part 3",
+  "models": [
+    {
+      "name": "Johnny Forza",
+      "person_id": 452
+    },
+    {
+      "name": "Matthew Ryder",
+      "person_id": 1001
+    }
+  ],
+  "scene_id": 10151,
+  "title": "Daddy's Workplace Part 3"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Chef's Delight",
+  "models": [
+    {
+      "name": "Adam Killian",
+      "person_id": 79
+    },
+    {
+      "name": "Trent Diesel",
+      "person_id": 31
+    }
+  ],
+  "scene_id": 974,
+  "title": "Chef's Delight"
+}

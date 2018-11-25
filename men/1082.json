@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "Paying The Debt",
+  "models": [
+    {
+      "name": "John Magnum",
+      "person_id": 19
+    },
+    {
+      "name": "Topher Di Maggio",
+      "person_id": 111
+    }
+  ],
+  "scene_id": 1082,
+  "title": "Paying The Debt"
+}

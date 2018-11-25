@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "The Law Of Men Part 1",
+  "models": [
+    {
+      "name": "Colby Parker",
+      "person_id": 941
+    },
+    {
+      "name": "Mickey Taylor",
+      "person_id": 931
+    }
+  ],
+  "scene_id": 8991,
+  "title": "The Law Of Men Part 1"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "Office Makeover",
+  "models": [
+    {
+      "name": "Damien Stone",
+      "person_id": 177
+    },
+    {
+      "name": "Dean Monroe",
+      "person_id": 26
+    }
+  ],
+  "scene_id": 1304,
+  "title": "Office Makeover"
+}

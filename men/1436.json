@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Calling In Sick",
+  "models": [
+    {
+      "name": "Landon Conrad",
+      "person_id": 282
+    },
+    {
+      "name": "Topher Di Maggio",
+      "person_id": 111
+    }
+  ],
+  "scene_id": 1436,
+  "title": "Calling In Sick"
+}

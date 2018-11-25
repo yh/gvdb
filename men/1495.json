@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "Office Pranks",
+  "models": [
+    {
+      "name": "Damien Crosse",
+      "person_id": 233
+    },
+    {
+      "name": "Jay Roberts",
+      "person_id": 304
+    }
+  ],
+  "scene_id": 1495,
+  "title": "Office Pranks"
+}

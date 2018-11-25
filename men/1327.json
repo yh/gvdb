@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Disagreements",
+  "models": [
+    {
+      "name": "Jessie Colter",
+      "person_id": 80
+    },
+    {
+      "name": "Ryan Evans",
+      "person_id": 208
+    }
+  ],
+  "scene_id": 1327,
+  "title": "Disagreements"
+}

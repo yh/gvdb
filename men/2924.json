@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "The Best Employee",
+  "models": [
+    {
+      "name": "Damien Crosse",
+      "person_id": 233
+    },
+    {
+      "name": "Frederic Duris",
+      "person_id": 398
+    }
+  ],
+  "scene_id": 2924,
+  "title": "The Best Employee"
+}

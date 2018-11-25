@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Car Wash",
+  "models": [
+    {
+      "name": "Jason Goodman",
+      "person_id": 225
+    },
+    {
+      "name": "Johnny Rapid",
+      "person_id": 120
+    }
+  ],
+  "scene_id": 1299,
+  "title": "Car Wash"
+}

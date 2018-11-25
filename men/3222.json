@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "The Analyst",
+  "models": [
+    {
+      "name": "Paddy O'Brian",
+      "person_id": 242
+    },
+    {
+      "name": "Theo Reid",
+      "person_id": 409
+    }
+  ],
+  "scene_id": 3222,
+  "title": "The Analyst"
+}

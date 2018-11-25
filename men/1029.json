@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "The Waterboy",
+  "models": [
+    {
+      "name": "Alexander Garrett",
+      "person_id": 117
+    },
+    {
+      "name": "Cal Parker",
+      "person_id": 118
+    }
+  ],
+  "scene_id": 1029,
+  "title": "The Waterboy"
+}

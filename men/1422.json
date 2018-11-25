@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "Happy Hour Hump",
+  "models": [
+    {
+      "name": "Christopher Daniels",
+      "person_id": 112
+    },
+    {
+      "name": "Tommy Defendi",
+      "person_id": 199
+    }
+  ],
+  "scene_id": 1422,
+  "title": "Happy Hour Hump"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Shower Bait",
+  "models": [
+    {
+      "name": "Brandon Lewis",
+      "person_id": 1
+    },
+    {
+      "name": "Hunter Ford",
+      "person_id": 2
+    }
+  ],
+  "scene_id": 903,
+  "title": "Shower Bait"
+}

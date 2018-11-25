@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Neighbors Part 4",
+  "models": [
+    {
+      "name": "Dirk Caber",
+      "person_id": 370
+    },
+    {
+      "name": "Dylan Drive",
+      "person_id": 771
+    }
+  ],
+  "scene_id": 7411,
+  "title": "Neighbors Part 4"
+}

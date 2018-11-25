@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "100 Dollar Bet",
+  "models": [
+    {
+      "name": "Jimmy Johnson",
+      "person_id": 256
+    },
+    {
+      "name": "Riley Banks",
+      "person_id": 346
+    }
+  ],
+  "scene_id": 2127,
+  "title": "100 Dollar Bet"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Slip At The Car Wash",
+  "models": [
+    {
+      "name": "Jessie Colter",
+      "person_id": 80
+    },
+    {
+      "name": "Trenton Ducati",
+      "person_id": 193
+    }
+  ],
+  "scene_id": 1218,
+  "title": "Slip At The Car Wash"
+}

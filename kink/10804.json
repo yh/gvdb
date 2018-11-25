@@ -1,0 +1,28 @@
+{
+  "collections": [
+    "The Upper Floor"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Gia DiMarco",
+      "person_id": 21436
+    },
+    {
+      "name": "Juliette March",
+      "person_id": 22072
+    },
+    {
+      "name": "Zak Tyler",
+      "person_id": 21236
+    },
+    {
+      "name": "Krysta Kaos",
+      "person_id": 25624
+    }
+  ],
+  "release_date": "2011-01-13",
+  "scene_id": 10804,
+  "tags": [],
+  "title": "Thanksgiving Feast"
+}

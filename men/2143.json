@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "On The Rebound",
+  "models": [
+    {
+      "name": "Marcus Ruhl",
+      "person_id": 283
+    },
+    {
+      "name": "Tommy Deluca",
+      "person_id": 356
+    }
+  ],
+  "scene_id": 2143,
+  "title": "On The Rebound"
+}

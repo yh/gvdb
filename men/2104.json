@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Fire Drill",
+  "models": [
+    {
+      "name": "Andrew Blue",
+      "person_id": 307
+    },
+    {
+      "name": "Sebastian Young",
+      "person_id": 165
+    }
+  ],
+  "scene_id": 2104,
+  "title": "Fire Drill"
+}

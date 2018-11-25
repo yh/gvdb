@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "The Training Of O"
+  ],
+  "description": "Day Four",
+  "models": [
+    {
+      "name": "Satine Phoenix",
+      "person_id": 11425
+    },
+    {
+      "name": "Maestro",
+      "person_id": 11928
+    }
+  ],
+  "release_date": "2009-04-24",
+  "scene_id": 5943,
+  "tags": [],
+  "title": "The Training of Satine Phoenix, Day Four"
+}

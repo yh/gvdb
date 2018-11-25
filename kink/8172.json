@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "The Upper Floor"
+  ],
+  "description": "Torn is worked out in a grueling session on the Upper Floor",
+  "models": [
+    {
+      "name": "Cherry Torn",
+      "person_id": 11105
+    },
+    {
+      "name": "Sarah Shevon",
+      "person_id": 19605
+    }
+  ],
+  "release_date": "2010-02-25",
+  "scene_id": 8172,
+  "tags": [],
+  "title": "Service Sessions: Slave Workout"
+}

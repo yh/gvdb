@@ -1,0 +1,16 @@
+{
+  "description": "Max is Roger's brother. As you can see, muscular builds run in the family.",
+  "models": [
+    {
+      "name": "Max",
+      "person_id": 114
+    }
+  ],
+  "release_date": "2001-09-07",
+  "scene_id": 23,
+  "tags": [
+    "Jock",
+    "Solo"
+  ],
+  "title": "Max"
+}

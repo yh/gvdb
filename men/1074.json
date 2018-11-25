@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Spring Break",
+  "models": [
+    {
+      "name": "Devin Adams",
+      "person_id": 92
+    },
+    {
+      "name": "Tony Paradise",
+      "person_id": 123
+    }
+  ],
+  "scene_id": 1074,
+  "title": "Spring Break"
+}

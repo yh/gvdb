@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "Fucking Machines"
+  ],
+  "description": "Visiting the physician for what she thinks will be a routine examination, Kellyfire gets more than what she bargained for when the doctor turns out to be Hamilton Steele.",
+  "models": [
+    {
+      "name": "Kellyfire",
+      "person_id": 497
+    },
+    {
+      "name": "Hamilton",
+      "person_id": 498
+    }
+  ],
+  "release_date": "2002-11-27",
+  "scene_id": 757,
+  "tags": [
+    "doctor"
+  ],
+  "title": "Kellyfire and Hamilton"
+}

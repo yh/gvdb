@@ -1,0 +1,19 @@
+{
+  "description": "Behind-the-scenes footage from \"Kurt & Paul\"!",
+  "models": [
+    {
+      "name": "Kurt",
+      "person_id": 501
+    },
+    {
+      "name": "Paul",
+      "person_id": 489
+    }
+  ],
+  "release_date": "2009-02-12",
+  "scene_id": 754,
+  "tags": [
+    "Behind the Scenes"
+  ],
+  "title": "Kurt & Paul: Behind the Scenes"
+}

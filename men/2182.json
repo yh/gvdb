@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "The Secretary",
+  "models": [
+    {
+      "name": "Andy Taylor",
+      "person_id": 387
+    },
+    {
+      "name": "Colby Jansen",
+      "person_id": 227
+    }
+  ],
+  "scene_id": 2182,
+  "title": "The Secretary"
+}

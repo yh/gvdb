@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Blow Dry",
+  "models": [
+    {
+      "name": "Jimmy Johnson",
+      "person_id": 256
+    },
+    {
+      "name": "Ryan Rockford",
+      "person_id": 266
+    }
+  ],
+  "scene_id": 2142,
+  "title": "Blow Dry"
+}

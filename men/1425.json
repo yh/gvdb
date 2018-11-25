@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "Stiff As A Board",
+  "models": [
+    {
+      "name": "Colby Jansen",
+      "person_id": 227
+    },
+    {
+      "name": "Spencer Fox",
+      "person_id": 134
+    }
+  ],
+  "scene_id": 1425,
+  "title": "Stiff As A Board"
+}

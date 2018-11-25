@@ -1,0 +1,16 @@
+{
+  "collections": [
+    "Hogtied"
+  ],
+  "description": "Marty ties and suspends the lovely Andi.",
+  "models": [
+    {
+      "name": "Andi",
+      "person_id": 105
+    }
+  ],
+  "release_date": "2001-05-09",
+  "scene_id": 196,
+  "tags": [],
+  "title": "Andi"
+}

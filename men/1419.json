@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Turn The Music Down",
+  "models": [
+    {
+      "name": "Kirk Cummings",
+      "person_id": 66
+    },
+    {
+      "name": "Zeb Atlas",
+      "person_id": 281
+    }
+  ],
+  "scene_id": 1419,
+  "title": "Turn The Music Down"
+}

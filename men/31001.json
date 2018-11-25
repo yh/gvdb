@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Griffin continues the hunt for down low politicians and ends up getting Dirk Caber into his bed next.",
+  "models": [
+    {
+      "name": "Dirk Caber",
+      "person_id": 370
+    },
+    {
+      "name": "Griffin Barrows",
+      "person_id": 2581
+    }
+  ],
+  "scene_id": 31001,
+  "title": "Taking Down The Conservatives Part 2"
+}

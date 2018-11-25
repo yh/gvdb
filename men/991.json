@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Lower My Tuition",
+  "models": [
+    {
+      "name": "Ari Sylvio",
+      "person_id": 11
+    },
+    {
+      "name": "Cliff Jensen",
+      "person_id": 46
+    }
+  ],
+  "scene_id": 991,
+  "title": "Lower My Tuition"
+}

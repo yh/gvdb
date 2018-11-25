@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Take Off Your Clothes",
+  "models": [
+    {
+      "name": "Connor Kline",
+      "person_id": 391
+    },
+    {
+      "name": "Topher Di Maggio",
+      "person_id": 111
+    }
+  ],
+  "scene_id": 3512,
+  "title": "Take Off Your Clothes"
+}

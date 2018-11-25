@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Gods Of Men"
+  ],
+  "description": "Suite 33 Part 2",
+  "models": [
+    {
+      "name": "Andrea Suarez",
+      "person_id": 551
+    },
+    {
+      "name": "Paddy O'Brian",
+      "person_id": 242
+    }
+  ],
+  "scene_id": 4941,
+  "title": "Suite 33 Part 2"
+}

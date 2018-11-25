@@ -1,0 +1,16 @@
+{
+  "collections": [
+    "Butt Machine Boys"
+  ],
+  "description": "Rick, the inventor of some of our machines, gives us a lesson on how to ride his \"monsters\".",
+  "models": [
+    {
+      "name": "Rick",
+      "person_id": 253
+    }
+  ],
+  "release_date": "2002-04-05",
+  "scene_id": 430,
+  "tags": [],
+  "title": "Rick"
+}

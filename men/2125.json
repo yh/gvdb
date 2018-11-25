@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "Foreign Exchange",
+  "models": [
+    {
+      "name": "Jay Roberts",
+      "person_id": 304
+    },
+    {
+      "name": "Mike Colucci",
+      "person_id": 319
+    }
+  ],
+  "scene_id": 2125,
+  "title": "Foreign Exchange"
+}

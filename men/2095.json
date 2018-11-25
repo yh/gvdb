@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "The Prostate Exam",
+  "models": [
+    {
+      "name": "Evan Mercy",
+      "person_id": 254
+    },
+    {
+      "name": "Jessie Colter",
+      "person_id": 80
+    }
+  ],
+  "scene_id": 2095,
+  "title": "The Prostate Exam"
+}

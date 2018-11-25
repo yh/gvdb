@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Texts",
+  "models": [
+    {
+      "name": "Cooper Reed",
+      "person_id": 355
+    },
+    {
+      "name": "Duncan Black",
+      "person_id": 322
+    }
+  ],
+  "scene_id": 2159,
+  "title": "Texts"
+}

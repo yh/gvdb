@@ -1,0 +1,24 @@
+{
+  "collections": [
+    "The Training Of O"
+  ],
+  "description": "Day Four",
+  "models": [
+    {
+      "name": "Dylan Ryan",
+      "person_id": 10069
+    },
+    {
+      "name": "Maestro",
+      "person_id": 11928
+    },
+    {
+      "name": "Madison Young",
+      "person_id": 2674
+    }
+  ],
+  "release_date": "2009-03-20",
+  "scene_id": 5726,
+  "tags": [],
+  "title": "The Training of Dylan, Day Four"
+}

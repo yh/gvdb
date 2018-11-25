@@ -1,0 +1,36 @@
+{
+  "collections": [
+    "The Training Of O"
+  ],
+  "description": "I've decided to bring in some fresh faces and find out of the four which one is worthy of a full training session. They all have potential, but I'm looking for that one thing that will make the right trainee stand out.\nWe have vanity, meow, brat, and o as our new trainees, who are all fighting for top rank in this Audition. They are evaluated, questioned, and humiliated, then tested on basic protocol. This is the first day of a long week for the newbies.",
+  "models": [
+    {
+      "name": "Akira Raine",
+      "person_id": 31645
+    },
+    {
+      "name": "Sofia Lauryn",
+      "person_id": 32617
+    },
+    {
+      "name": "Maestro",
+      "person_id": 11928
+    },
+    {
+      "name": "Rozen Debowe",
+      "person_id": 13273
+    },
+    {
+      "name": "Odile",
+      "person_id": 33692
+    },
+    {
+      "name": "Maestro Stefanos",
+      "person_id": 17148
+    }
+  ],
+  "release_date": "2011-08-12",
+  "scene_id": 14655,
+  "tags": [],
+  "title": "4 Girl Auditions"
+}

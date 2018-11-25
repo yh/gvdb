@@ -1,0 +1,15 @@
+{
+  "description": "Joel is straight and has a girlfriend.",
+  "models": [
+    {
+      "name": "Joel",
+      "person_id": 212
+    }
+  ],
+  "release_date": "2002-08-02",
+  "scene_id": 105,
+  "tags": [
+    "Solo"
+  ],
+  "title": "Joel"
+}

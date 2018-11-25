@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Furniture Store Robbery",
+  "models": [
+    {
+      "name": "Gavin Waters",
+      "person_id": 42
+    },
+    {
+      "name": "Ricky Sinz",
+      "person_id": 75
+    },
+    {
+      "name": "Sebastian Keys",
+      "person_id": 159
+    }
+  ],
+  "scene_id": 1171,
+  "title": "Furniture Store Robbery"
+}

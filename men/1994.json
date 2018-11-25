@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "Lock, Stock and Cock Part 2",
+  "models": [
+    {
+      "name": "Paddy O'Brian",
+      "person_id": 242
+    },
+    {
+      "name": "Sergi Serrano",
+      "person_id": 371
+    }
+  ],
+  "scene_id": 1994,
+  "title": "Lock, Stock and Cock Part 2"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Gods Of Men"
+  ],
+  "description": "Surrender",
+  "models": [
+    {
+      "name": "Paul Walker",
+      "person_id": 325
+    },
+    {
+      "name": "Robin Sanchez",
+      "person_id": 445
+    }
+  ],
+  "scene_id": 3363,
+  "title": "Surrender"
+}

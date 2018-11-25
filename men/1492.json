@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "The Houseboy",
+  "models": [
+    {
+      "name": "Duncan Black",
+      "person_id": 322
+    },
+    {
+      "name": "Ryan Rockford",
+      "person_id": 266
+    }
+  ],
+  "scene_id": 1492,
+  "title": "The Houseboy"
+}

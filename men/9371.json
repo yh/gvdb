@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Gods Of Men"
+  ],
+  "description": "Role Play",
+  "models": [
+    {
+      "name": "Allen King",
+      "person_id": 661
+    },
+    {
+      "name": "Axel Brooks",
+      "person_id": 458
+    }
+  ],
+  "scene_id": 9371,
+  "title": "Role Play"
+}

@@ -1,0 +1,19 @@
+{
+  "description": "Behind-the-scenes footage from \"Jamie & Kurt\"!",
+  "models": [
+    {
+      "name": "Jamie",
+      "person_id": 587
+    },
+    {
+      "name": "Kurt",
+      "person_id": 501
+    }
+  ],
+  "release_date": "2010-01-31",
+  "scene_id": 965,
+  "tags": [
+    "Behind the Scenes"
+  ],
+  "title": "Jamie & Kurt: Behind the Scenes"
+}

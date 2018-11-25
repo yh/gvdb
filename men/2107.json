@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Sharing A Smoke",
+  "models": [
+    {
+      "name": "Colby Jansen",
+      "person_id": 227
+    },
+    {
+      "name": "Trey Turner",
+      "person_id": 144
+    }
+  ],
+  "scene_id": 2107,
+  "title": "Sharing A Smoke"
+}

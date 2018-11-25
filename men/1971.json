@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "The New Jockstrap",
+  "models": [
+    {
+      "name": "James Ryder",
+      "person_id": 151
+    },
+    {
+      "name": "Trenton Ducati",
+      "person_id": 193
+    }
+  ],
+  "scene_id": 1971,
+  "title": "The New Jockstrap"
+}

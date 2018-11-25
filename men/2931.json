@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "Office Party Regrets",
+  "models": [
+    {
+      "name": "Liam Magnuson",
+      "person_id": 320
+    },
+    {
+      "name": "Rocco Reed",
+      "person_id": 264
+    }
+  ],
+  "scene_id": 2931,
+  "title": "Office Party Regrets"
+}

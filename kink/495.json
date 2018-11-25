@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Hogtied"
+  ],
+  "description": "Rose lives locally and called out of the blue. She became the guinea pig for some shackles I had been working on made out of strip metal and pipes.",
+  "models": [
+    {
+      "name": "rose",
+      "person_id": 282
+    }
+  ],
+  "release_date": "2002-05-24",
+  "scene_id": 495,
+  "tags": [
+    "shackle"
+  ],
+  "title": "rose"
+}

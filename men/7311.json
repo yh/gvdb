@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Neighbors Part 1",
+  "models": [
+    {
+      "name": "Billy Santoro",
+      "person_id": 402
+    },
+    {
+      "name": "Dirk Caber",
+      "person_id": 370
+    }
+  ],
+  "scene_id": 7311,
+  "title": "Neighbors Part 1"
+}

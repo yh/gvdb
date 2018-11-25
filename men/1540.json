@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "Fucking The Band Part 2",
+  "models": [
+    {
+      "name": "Darius Ferdynand",
+      "person_id": 359
+    },
+    {
+      "name": "Paul Walker",
+      "person_id": 325
+    }
+  ],
+  "scene_id": 1540,
+  "title": "Fucking The Band Part 2"
+}

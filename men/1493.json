@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "The Gossip",
+  "models": [
+    {
+      "name": "Dale Cooper",
+      "person_id": 211
+    },
+    {
+      "name": "Rocco Reed",
+      "person_id": 264
+    }
+  ],
+  "scene_id": 1493,
+  "title": "The Gossip"
+}

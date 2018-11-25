@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Bathhouse",
+  "models": [
+    {
+      "name": "Damien Crosse",
+      "person_id": 233
+    },
+    {
+      "name": "Mike Colucci",
+      "person_id": 319
+    }
+  ],
+  "scene_id": 1423,
+  "title": "Bathhouse"
+}

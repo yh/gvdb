@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Working For That Tip",
+  "models": [
+    {
+      "name": "Kirk Cummings",
+      "person_id": 66
+    },
+    {
+      "name": "Valentin Petrov",
+      "person_id": 94
+    }
+  ],
+  "scene_id": 2059,
+  "title": "Working For That Tip"
+}

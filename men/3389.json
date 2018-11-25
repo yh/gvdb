@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Scrum Part 1",
+  "models": [
+    {
+      "name": "Colby Jansen",
+      "person_id": 227
+    },
+    {
+      "name": "Connor Kline",
+      "person_id": 391
+    }
+  ],
+  "scene_id": 3389,
+  "title": "Scrum Part 1"
+}

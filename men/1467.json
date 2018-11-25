@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Men In Budapest 1",
+  "models": [
+    {
+      "name": "Andrew Stark",
+      "person_id": 288
+    },
+    {
+      "name": "Jeffrey Branson",
+      "person_id": 329
+    }
+  ],
+  "scene_id": 1467,
+  "title": "Men In Budapest 1"
+}

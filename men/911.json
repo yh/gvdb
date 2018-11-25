@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "The Closet Converter",
+  "models": [
+    {
+      "name": "Braxton Bond",
+      "person_id": 18
+    },
+    {
+      "name": "John Magnum",
+      "person_id": 19
+    }
+  ],
+  "scene_id": 911,
+  "title": "The Closet Converter"
+}

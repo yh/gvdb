@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Blind Date",
+  "models": [
+    {
+      "name": "Damian Taylor",
+      "person_id": 350
+    },
+    {
+      "name": "Liam Magnuson",
+      "person_id": 320
+    }
+  ],
+  "scene_id": 1511,
+  "title": "Blind Date"
+}

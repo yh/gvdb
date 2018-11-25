@@ -1,0 +1,16 @@
+{
+  "collections": [
+    "The Upper Floor"
+  ],
+  "description": "The Master of the House is expecting company and it is Torn's responsibility to prepare the guest room to pass inspection.",
+  "models": [
+    {
+      "name": "Cherry Torn",
+      "person_id": 11105
+    }
+  ],
+  "release_date": "2010-04-07",
+  "scene_id": 8411,
+  "tags": [],
+  "title": "Service Session: Preparing the Guest Room"
+}

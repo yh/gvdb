@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "The Faker",
+  "models": [
+    {
+      "name": "Rocco Reed",
+      "person_id": 264
+    },
+    {
+      "name": "Topher Di Maggio",
+      "person_id": 111
+    }
+  ],
+  "scene_id": 1437,
+  "title": "The Faker"
+}

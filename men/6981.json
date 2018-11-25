@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Men For Sale Part 3",
+  "models": [
+    {
+      "name": "Dirk Caber",
+      "person_id": 370
+    },
+    {
+      "name": "Jarec Wentworth",
+      "person_id": 721
+    },
+    {
+      "name": "Tom Faulk",
+      "person_id": 393
+    }
+  ],
+  "scene_id": 6981,
+  "title": "Men For Sale Part 3"
+}

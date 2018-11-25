@@ -1,0 +1,16 @@
+{
+  "collections": [
+    "Hogtied"
+  ],
+  "description": "Marty ties and suspends Seven, who is a scene player.",
+  "models": [
+    {
+      "name": "Seven",
+      "person_id": 121
+    }
+  ],
+  "release_date": "2001-03-01",
+  "scene_id": 128,
+  "tags": [],
+  "title": "Seven"
+}

@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Tales Of The John Part 2",
+  "models": [
+    {
+      "name": "Andrew Stark",
+      "person_id": 288
+    },
+    {
+      "name": "Donny Wright",
+      "person_id": 314
+    },
+    {
+      "name": "Trevor Knight",
+      "person_id": 50
+    }
+  ],
+  "scene_id": 1515,
+  "title": "Tales Of The John Part 2"
+}

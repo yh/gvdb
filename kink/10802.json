@@ -1,0 +1,36 @@
+{
+  "collections": [
+    "The Upper Floor"
+  ],
+  "description": "Annual Hallow Party At The Armory!",
+  "models": [
+    {
+      "name": "Wolf Hudson",
+      "person_id": 14471
+    },
+    {
+      "name": "Emma Haize",
+      "person_id": 29618
+    },
+    {
+      "name": "Kait Snow",
+      "person_id": 25825
+    },
+    {
+      "name": "Iona Grace",
+      "person_id": 25204
+    },
+    {
+      "name": "Dana Vixen",
+      "person_id": 25104
+    },
+    {
+      "name": "Maestro",
+      "person_id": 11928
+    }
+  ],
+  "release_date": "2010-12-23",
+  "scene_id": 10802,
+  "tags": [],
+  "title": "Halloween Party At The Armory!"
+}

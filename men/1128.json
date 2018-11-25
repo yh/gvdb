@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "The Contest",
+  "models": [
+    {
+      "name": "Cliff Jensen",
+      "person_id": 46
+    },
+    {
+      "name": "Tyler Sweet",
+      "person_id": 110
+    }
+  ],
+  "scene_id": 1128,
+  "title": "The Contest"
+}

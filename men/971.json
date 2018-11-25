@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Camping Ground Bait",
+  "models": [
+    {
+      "name": "Hunter Ford",
+      "person_id": 2
+    },
+    {
+      "name": "Jessie Colter",
+      "person_id": 80
+    }
+  ],
+  "scene_id": 971,
+  "title": "Camping Ground Bait"
+}

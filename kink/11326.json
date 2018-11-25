@@ -1,0 +1,24 @@
+{
+  "collections": [
+    "The Upper Floor"
+  ],
+  "description": "Stefanos' Brunch!",
+  "models": [
+    {
+      "name": "Nerine Mechanique",
+      "person_id": 19851
+    },
+    {
+      "name": "Iona Grace",
+      "person_id": 25204
+    },
+    {
+      "name": "Cherry Torn",
+      "person_id": 11105
+    }
+  ],
+  "release_date": "2011-01-05",
+  "scene_id": 11326,
+  "tags": [],
+  "title": "Stefanos' Brunch!"
+}

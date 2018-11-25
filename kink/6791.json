@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "The Training Of O"
+  ],
+  "description": "Shevon's last day of training before going up in front of the boss. Do you think she is ready?",
+  "models": [
+    {
+      "name": "Maestro",
+      "person_id": 11928
+    },
+    {
+      "name": "Sarah Shevon",
+      "person_id": 19605
+    }
+  ],
+  "release_date": "2009-09-11",
+  "scene_id": 6791,
+  "tags": [],
+  "title": "The Training of Sarah Shevon, Day Three"
+}

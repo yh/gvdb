@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Men in Pain"
+  ],
+  "description": "Penny and Bill + Kimberlee and Lobo",
+  "models": [
+    {
+      "name": "Penny Flame",
+      "person_id": 6345
+    },
+    {
+      "name": "Wild Bill",
+      "person_id": 225
+    }
+  ],
+  "release_date": "2012-05-28",
+  "scene_id": 4285,
+  "tags": [],
+  "title": "Penny And Bill + Kimberlee and Lobo"
+}

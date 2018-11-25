@@ -1,0 +1,16 @@
+{
+  "description": "Wayne is an outdoors type of guy!\n\"I want to hike the Appalachian Trail,\" he said. \"Maybe just two weeks at a time. It would take about six months.\"\n\"Wow, that's pretty ambitious!\"\n\"I like being outdoors,\" he said. \"I don't link being cramped up inside all the time.\"\n\"How were your high school days?\"\n\"I was home schooled, so pretty tame. I met all my friends now from my college days.\"\nWayne is 22 and is having fun with one adventure after another.\n\"What do you want to do next?\"\n\"Hopefully doing more just completely random stuff.\"\n\"You mean like this?\"\n\"This definitely qualifies as completely random!\"",
+  "models": [
+    {
+      "name": "Wayne",
+      "person_id": 642
+    }
+  ],
+  "release_date": "2010-03-14",
+  "scene_id": 991,
+  "tags": [
+    "Jock",
+    "Solo"
+  ],
+  "title": "Wayne"
+}

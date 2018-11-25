@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "The Training Of O"
+  ],
+  "description": "Day one",
+  "models": [
+    {
+      "name": "Dia Zerva",
+      "person_id": 16038
+    },
+    {
+      "name": "Maestro",
+      "person_id": 11928
+    }
+  ],
+  "release_date": "2009-10-09",
+  "scene_id": 7185,
+  "tags": [],
+  "title": "The Training of Dia Zerva, Day One"
+}

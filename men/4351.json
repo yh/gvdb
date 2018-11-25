@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "Cruising Episode 5",
+  "models": [
+    {
+      "name": "Dan Broughton",
+      "person_id": 447
+    },
+    {
+      "name": "Gabriel Clark",
+      "person_id": 428
+    }
+  ],
+  "scene_id": 4351,
+  "title": "Cruising Episode 5"
+}

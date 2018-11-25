@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Hogtied"
+  ],
+  "description": "Marty ties, waxes and stretches the lickable Octavia.",
+  "models": [
+    {
+      "name": "Octavia",
+      "person_id": 132
+    }
+  ],
+  "release_date": "2001-07-12",
+  "scene_id": 194,
+  "tags": [
+    "wax"
+  ],
+  "title": "Octavia"
+}

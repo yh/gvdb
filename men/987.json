@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "Personal Assistant",
+  "models": [
+    {
+      "name": "Adam Russo",
+      "person_id": 83
+    },
+    {
+      "name": "Alexsander Freitas",
+      "person_id": 98
+    }
+  ],
+  "scene_id": 987,
+  "title": "Personal Assistant"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "The Wrong House",
+  "models": [
+    {
+      "name": "Daryl Prince Lords",
+      "person_id": 274
+    },
+    {
+      "name": "Johnny Rapid",
+      "person_id": 120
+    }
+  ],
+  "scene_id": 1401,
+  "title": "The Wrong House"
+}

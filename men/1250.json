@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Robbery Goes Good",
+  "models": [
+    {
+      "name": "Chris Tyler",
+      "person_id": 156
+    },
+    {
+      "name": "Luca Rosso",
+      "person_id": 179
+    }
+  ],
+  "scene_id": 1250,
+  "title": "Robbery Goes Good"
+}

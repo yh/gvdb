@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "The Meter Reader",
+  "models": [
+    {
+      "name": "Spencer Reed",
+      "person_id": 5
+    },
+    {
+      "name": "Tory Mason",
+      "person_id": 149
+    }
+  ],
+  "scene_id": 1259,
+  "title": "The Meter Reader"
+}

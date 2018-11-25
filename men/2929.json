@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "The Sales Call",
+  "models": [
+    {
+      "name": "Andrew Stark",
+      "person_id": 288
+    },
+    {
+      "name": "Chris Bines",
+      "person_id": 399
+    },
+    {
+      "name": "Rocco Reed",
+      "person_id": 264
+    }
+  ],
+  "scene_id": 2929,
+  "title": "The Sales Call"
+}

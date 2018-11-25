@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "The Ringing Secretary",
+  "models": [
+    {
+      "name": "Jessie Colter",
+      "person_id": 80
+    },
+    {
+      "name": "Trevor Knight",
+      "person_id": 50
+    }
+  ],
+  "scene_id": 1050,
+  "title": "The Ringing Secretary"
+}

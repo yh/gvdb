@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "The Interview",
+  "models": [
+    {
+      "name": "Adam Killian",
+      "person_id": 79
+    },
+    {
+      "name": "Christopher Daniels",
+      "person_id": 112
+    },
+    {
+      "name": "Jessie Colter",
+      "person_id": 80
+    }
+  ],
+  "scene_id": 1377,
+  "title": "The Interview"
+}

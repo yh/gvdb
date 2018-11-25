@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Coming To Life",
+  "models": [
+    {
+      "name": "Jimmy Johnson",
+      "person_id": 256
+    },
+    {
+      "name": "Mike De Marko",
+      "person_id": 318
+    },
+    {
+      "name": "Ricky Larkin",
+      "person_id": 93
+    }
+  ],
+  "scene_id": 2979,
+  "title": "Coming To Life"
+}

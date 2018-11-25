@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Jason's First Scene",
+  "models": [
+    {
+      "name": "Jason Goodman",
+      "person_id": 225
+    },
+    {
+      "name": "Sebastian Keys",
+      "person_id": 159
+    }
+  ],
+  "scene_id": 1267,
+  "title": "Jason's First Scene"
+}

@@ -1,0 +1,16 @@
+{
+  "collections": [
+    "Hogtied"
+  ],
+  "description": "Yoga Inka is back for more fun.",
+  "models": [
+    {
+      "name": "Inka",
+      "person_id": 29
+    }
+  ],
+  "release_date": "2000-03-20",
+  "scene_id": 96,
+  "tags": [],
+  "title": "Inka"
+}

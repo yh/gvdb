@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "Secret Agent Part 1",
+  "models": [
+    {
+      "name": "Paddy O'Brian",
+      "person_id": 242
+    },
+    {
+      "name": "Tomas Brand",
+      "person_id": 364
+    }
+  ],
+  "scene_id": 1986,
+  "title": "Secret Agent Part 1"
+}

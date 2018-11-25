@@ -1,0 +1,24 @@
+{
+  "collections": [
+    "The Training Of O"
+  ],
+  "description": "Day Three",
+  "models": [
+    {
+      "name": "Dylan Ryan",
+      "person_id": 10069
+    },
+    {
+      "name": "Maestro",
+      "person_id": 11928
+    },
+    {
+      "name": "Aiden Starr",
+      "person_id": 11489
+    }
+  ],
+  "release_date": "2009-02-13",
+  "scene_id": 5725,
+  "tags": [],
+  "title": "The Training of Dylan, Day Three"
+}

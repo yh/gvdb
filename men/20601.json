@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "The Hunt Part 2",
+  "models": [
+    {
+      "name": "Adam Bryant",
+      "person_id": 1291
+    },
+    {
+      "name": "Paul Canon",
+      "person_id": 1761
+    }
+  ],
+  "scene_id": 20601,
+  "title": "The Hunt Part 2"
+}

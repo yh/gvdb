@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "A Big Package",
+  "models": [
+    {
+      "name": "Ari Sylvio",
+      "person_id": 11
+    },
+    {
+      "name": "Lex Sabre",
+      "person_id": 12
+    }
+  ],
+  "scene_id": 908,
+  "title": "A Big Package"
+}

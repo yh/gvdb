@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Directions",
+  "models": [
+    {
+      "name": "Diego Vena",
+      "person_id": 91
+    },
+    {
+      "name": "Luca Rosso",
+      "person_id": 179
+    }
+  ],
+  "scene_id": 2061,
+  "title": "Directions"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "Barber Shop Part 2",
+  "models": [
+    {
+      "name": "Damien Boss",
+      "person_id": 422
+    },
+    {
+      "name": "Daniel Johnson",
+      "person_id": 423
+    }
+  ],
+  "scene_id": 3205,
+  "title": "Barber Shop Part 2"
+}

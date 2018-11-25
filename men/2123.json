@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Following",
+  "models": [
+    {
+      "name": "Ethan Slade",
+      "person_id": 321
+    },
+    {
+      "name": "Ryan Rockford",
+      "person_id": 266
+    }
+  ],
+  "scene_id": 2123,
+  "title": "Following"
+}

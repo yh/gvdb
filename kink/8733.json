@@ -1,0 +1,24 @@
+{
+  "collections": [
+    "The Upper Floor"
+  ],
+  "description": "Directors Dinner: A toast to feeding the castle, and Seda's induction",
+  "models": [
+    {
+      "name": "Cherry Torn",
+      "person_id": 11105
+    },
+    {
+      "name": "Hollie Stevens",
+      "person_id": 1572
+    },
+    {
+      "name": "Seda",
+      "person_id": 21745
+    }
+  ],
+  "release_date": "2010-04-15",
+  "scene_id": 8733,
+  "tags": [],
+  "title": "House Supper"
+}

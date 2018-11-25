@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "Paparazzi",
+  "models": [
+    {
+      "name": "Harley Everett",
+      "person_id": 290
+    },
+    {
+      "name": "Issac Jones",
+      "person_id": 243
+    },
+    {
+      "name": "Marco Sessions",
+      "person_id": 291
+    }
+  ],
+  "scene_id": 1389,
+  "title": "Paparazzi"
+}

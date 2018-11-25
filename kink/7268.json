@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Naked Kombat"
+  ],
+  "description": "Two NK powerhouse are going at it head to head. Patrick Rouge and Spencer Reed are extremely competitive. Both are on a winning streak and neither wants to lose. Spencer is bigger and taller but Patrick has a fighting background. Whatever is not settled here today... they will take to the Live Web Streaming Match on Friday, November 13th. See you there!",
+  "models": [
+    {
+      "name": "Patrick Rouge",
+      "person_id": 18939
+    },
+    {
+      "name": "Spencer Reed",
+      "person_id": 19086
+    }
+  ],
+  "release_date": "2009-10-28",
+  "scene_id": 7268,
+  "tags": [],
+  "title": "Spencer Reed vs Patrick Rouge"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "Open Position",
+  "models": [
+    {
+      "name": "Joey Rico",
+      "person_id": 471
+    },
+    {
+      "name": "Topher Di Maggio",
+      "person_id": 111
+    }
+  ],
+  "scene_id": 4181,
+  "title": "Open Position"
+}

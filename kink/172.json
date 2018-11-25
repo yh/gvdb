@@ -1,0 +1,16 @@
+{
+  "collections": [
+    "Fucking Machines"
+  ],
+  "description": "Introducing Devin Demore and new machines! Meet 'The Crane', and 'The trespasser' made by a member of this site from a food blender!",
+  "models": [
+    {
+      "name": "Devin DeMoore",
+      "person_id": 135
+    }
+  ],
+  "release_date": "2001-04-27",
+  "scene_id": 172,
+  "tags": [],
+  "title": "Devin DeMoore"
+}

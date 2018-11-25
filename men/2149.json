@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Gay's Anatomy 3",
+  "models": [
+    {
+      "name": "Liam Magnuson",
+      "person_id": 320
+    },
+    {
+      "name": "Tommy Defendi",
+      "person_id": 199
+    },
+    {
+      "name": "Trevor Knight",
+      "person_id": 50
+    }
+  ],
+  "scene_id": 2149,
+  "title": "Gay's Anatomy 3"
+}

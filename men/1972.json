@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "The Plumbing Job",
+  "models": [
+    {
+      "name": "Leo Forte",
+      "person_id": 154
+    },
+    {
+      "name": "Ryan Rockford",
+      "person_id": 266
+    }
+  ],
+  "scene_id": 1972,
+  "title": "The Plumbing Job"
+}

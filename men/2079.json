@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Getting The Part",
+  "models": [
+    {
+      "name": "Robert Axel",
+      "person_id": 89
+    },
+    {
+      "name": "Ryan Evans",
+      "person_id": 208
+    }
+  ],
+  "scene_id": 2079,
+  "title": "Getting The Part"
+}

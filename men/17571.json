@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Pride LA",
+  "models": [
+    {
+      "name": "Nicoli Cole",
+      "person_id": 1051
+    },
+    {
+      "name": "Will Braun",
+      "person_id": 1571
+    }
+  ],
+  "scene_id": 17571,
+  "title": "Pride LA"
+}

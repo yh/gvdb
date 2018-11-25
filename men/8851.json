@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Fantasy Part 3",
+  "models": [
+    {
+      "name": "Jimmy Fanz",
+      "person_id": 228
+    },
+    {
+      "name": "Tommy Defendi",
+      "person_id": 199
+    }
+  ],
+  "scene_id": 8851,
+  "title": "Fantasy Part 3"
+}

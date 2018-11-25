@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "I Spy",
+  "models": [
+    {
+      "name": "Christian Wilde",
+      "person_id": 97
+    },
+    {
+      "name": "Trey Turner",
+      "person_id": 144
+    }
+  ],
+  "scene_id": 1090,
+  "title": "I Spy"
+}

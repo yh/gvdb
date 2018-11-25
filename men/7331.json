@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Neighbors Part 3",
+  "models": [
+    {
+      "name": "Billy Santoro",
+      "person_id": 402
+    },
+    {
+      "name": "Trevor Spade",
+      "person_id": 571
+    }
+  ],
+  "scene_id": 7331,
+  "title": "Neighbors Part 3"
+}

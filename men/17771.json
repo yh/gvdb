@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Pride NYC",
+  "models": [
+    {
+      "name": "Duncan Black",
+      "person_id": 322
+    },
+    {
+      "name": "Luke Adams",
+      "person_id": 481
+    }
+  ],
+  "scene_id": 17771,
+  "title": "Pride NYC"
+}

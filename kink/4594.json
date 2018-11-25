@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "TS Seduction"
+  ],
+  "description": "Jessica calls a plumber to fix her broken pipes. But what the plumber doesn't know is that Jessica has a pipe of her own.",
+  "models": [
+    {
+      "name": "Jessica Host",
+      "person_id": 14503
+    },
+    {
+      "name": "Eddy",
+      "person_id": 14584
+    }
+  ],
+  "release_date": "2007-10-16",
+  "scene_id": 4594,
+  "tags": [],
+  "title": "Eddy and Jessica Host"
+}

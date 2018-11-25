@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "How To Kiss",
+  "models": [
+    {
+      "name": "Boston Miles",
+      "person_id": 155
+    },
+    {
+      "name": "Robert Van Damme",
+      "person_id": 171
+    }
+  ],
+  "scene_id": 1239,
+  "title": "How To Kiss"
+}

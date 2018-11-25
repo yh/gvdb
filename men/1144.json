@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Show Me Yours",
+  "models": [
+    {
+      "name": "Gavin Waters",
+      "person_id": 42
+    },
+    {
+      "name": "Sebastian Young",
+      "person_id": 165
+    }
+  ],
+  "scene_id": 1144,
+  "title": "Show Me Yours"
+}

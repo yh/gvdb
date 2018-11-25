@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Fucking Machines"
+  ],
+  "description": "Actions speak louder than words, Girlie's version of 'season's greetings'. Merry Christmas to you all from Fuckingmachines.",
+  "models": [
+    {
+      "name": "Girlie",
+      "person_id": 609
+    },
+    {
+      "name": "RAM",
+      "person_id": 754
+    }
+  ],
+  "release_date": "2002-12-25",
+  "scene_id": 822,
+  "tags": [],
+  "title": "Girlie and RAM"
+}

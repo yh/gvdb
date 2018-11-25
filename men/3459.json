@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Top To Bottom"
+  ],
+  "description": "Dirty Magazines",
+  "models": [
+    {
+      "name": "Colby Jansen",
+      "person_id": 227
+    },
+    {
+      "name": "Jack Radley",
+      "person_id": 450
+    }
+  ],
+  "scene_id": 3459,
+  "title": "Dirty Magazines"
+}

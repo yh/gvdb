@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "A Big Deal",
+  "models": [
+    {
+      "name": "Tomas Brand",
+      "person_id": 364
+    },
+    {
+      "name": "Tony Rivera",
+      "person_id": 401
+    }
+  ],
+  "scene_id": 2999,
+  "title": "A Big Deal"
+}

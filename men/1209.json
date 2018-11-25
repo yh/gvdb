@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Weekly Appointment",
+  "models": [
+    {
+      "name": "Marc Dylan",
+      "person_id": 121
+    },
+    {
+      "name": "Phenix Saint",
+      "person_id": 40
+    }
+  ],
+  "scene_id": 1209,
+  "title": "Weekly Appointment"
+}

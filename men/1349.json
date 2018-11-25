@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Deep Tissue",
+  "models": [
+    {
+      "name": "Jimmy Johnson",
+      "person_id": 256
+    },
+    {
+      "name": "Logan Vaughn",
+      "person_id": 267
+    }
+  ],
+  "scene_id": 1349,
+  "title": "Deep Tissue"
+}

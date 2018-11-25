@@ -1,0 +1,16 @@
+{
+  "description": "Rick is back and this time he's making a big, soapy mess.\nWhat a set of nuts on this guy!",
+  "models": [
+    {
+      "name": "Rick",
+      "person_id": 226
+    }
+  ],
+  "release_date": "2002-05-23",
+  "scene_id": 89,
+  "tags": [
+    "Jock",
+    "Solo"
+  ],
+  "title": "Rick 2"
+}

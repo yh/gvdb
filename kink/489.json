@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Men in Pain"
+  ],
+  "description": "Wild Bill didn't really know what to expect from Janay and wasn't willing to cooperate. He was one hurt dude by the end of the scene.",
+  "models": [
+    {
+      "name": "Wild Bill",
+      "person_id": 225
+    },
+    {
+      "name": "Janay",
+      "person_id": 59
+    }
+  ],
+  "release_date": "2003-05-22",
+  "scene_id": 489,
+  "tags": [],
+  "title": "Wild Bill and Janay"
+}

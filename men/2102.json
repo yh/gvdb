@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Are You Following Me?",
+  "models": [
+    {
+      "name": "Charlie Roberts",
+      "person_id": 293
+    },
+    {
+      "name": "Marcus Ruhl",
+      "person_id": 283
+    }
+  ],
+  "scene_id": 2102,
+  "title": "Are You Following Me?"
+}

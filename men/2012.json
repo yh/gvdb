@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Lessons From My Step Dad",
+  "models": [
+    {
+      "name": "Charlie Harding",
+      "person_id": 313
+    },
+    {
+      "name": "Duncan Black",
+      "person_id": 322
+    },
+    {
+      "name": "Johnny Rapid",
+      "person_id": 120
+    }
+  ],
+  "scene_id": 2012,
+  "title": "Lessons From My Step Dad"
+}

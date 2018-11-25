@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Caught Snooping",
+  "models": [
+    {
+      "name": "Drew Cutler",
+      "person_id": 10
+    },
+    {
+      "name": "Travis Irons",
+      "person_id": 170
+    }
+  ],
+  "scene_id": 2045,
+  "title": "Caught Snooping"
+}

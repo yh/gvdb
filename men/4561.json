@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "The Next Bottom Part 3",
+  "models": [
+    {
+      "name": "Sam Northman",
+      "person_id": 449
+    },
+    {
+      "name": "Sebastian Young",
+      "person_id": 165
+    }
+  ],
+  "scene_id": 4561,
+  "title": "The Next Bottom Part 3"
+}

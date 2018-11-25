@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Online Buddy",
+  "models": [
+    {
+      "name": "Johnny Forza",
+      "person_id": 452
+    },
+    {
+      "name": "Tom Faulk",
+      "person_id": 393
+    }
+  ],
+  "scene_id": 3588,
+  "title": "Online Buddy"
+}

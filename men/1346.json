@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Cold Shower",
+  "models": [
+    {
+      "name": "Johnny Rapid",
+      "person_id": 120
+    },
+    {
+      "name": "Ryan Rockford",
+      "person_id": 266
+    }
+  ],
+  "scene_id": 1346,
+  "title": "Cold Shower"
+}

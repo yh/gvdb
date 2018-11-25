@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "Legally Fucked",
+  "models": [
+    {
+      "name": "Alexsander Freitas",
+      "person_id": 98
+    },
+    {
+      "name": "Jessie Colter",
+      "person_id": 80
+    }
+  ],
+  "scene_id": 1054,
+  "title": "Legally Fucked"
+}

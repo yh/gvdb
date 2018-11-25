@@ -1,0 +1,23 @@
+{
+  "description": "Behind-the-scenes footage from \"Double Stuffed\"!",
+  "models": [
+    {
+      "name": "Cooper",
+      "person_id": 402
+    },
+    {
+      "name": "Nicolas",
+      "person_id": 367
+    },
+    {
+      "name": "Reid",
+      "person_id": 404
+    }
+  ],
+  "release_date": "2008-04-10",
+  "scene_id": 605,
+  "tags": [
+    "Behind the Scenes"
+  ],
+  "title": "Double Stuffed: Behind the Scenes"
+}

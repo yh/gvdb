@@ -1,0 +1,30 @@
+{
+  "collections": [
+    "Bound Gods"
+  ],
+  "description": "The House has too many slaves. With the bad economy, Spencer Reed and Van Darkholme feel it's best to downsize their herd. Either slave boy Jason Miller or Chad Rock has to go. Spencer and Van have to make a tough decision... which boy worth keeping and which boy need to get on the bus and go back home.",
+  "models": [
+    {
+      "name": "Chad Rock",
+      "person_id": 14593
+    },
+    {
+      "name": "Spencer Reed",
+      "person_id": 19086
+    },
+    {
+      "name": "Jason Miller",
+      "person_id": 17619
+    },
+    {
+      "name": "Van Darkholme",
+      "person_id": 15862
+    }
+  ],
+  "release_date": "2009-12-24",
+  "scene_id": 7209,
+  "tags": [
+    "slave"
+  ],
+  "title": "Downsizing"
+}

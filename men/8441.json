@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Fantasy Part 2",
+  "models": [
+    {
+      "name": "Connor Maguire",
+      "person_id": 369
+    },
+    {
+      "name": "Tommy Defendi",
+      "person_id": 199
+    }
+  ],
+  "scene_id": 8441,
+  "title": "Fantasy Part 2"
+}

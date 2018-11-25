@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Romeo And Mercutio",
+  "models": [
+    {
+      "name": "Landon Conrad",
+      "person_id": 282
+    },
+    {
+      "name": "Phenix Saint",
+      "person_id": 40
+    }
+  ],
+  "scene_id": 1429,
+  "title": "Romeo And Mercutio"
+}

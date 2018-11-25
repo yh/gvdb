@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Retribution Part 3",
+  "models": [
+    {
+      "name": "Jack King",
+      "person_id": 324
+    },
+    {
+      "name": "Travis James",
+      "person_id": 441
+    }
+  ],
+  "scene_id": 9211,
+  "title": "Retribution Part 3"
+}

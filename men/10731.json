@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Towel Dry",
+  "models": [
+    {
+      "name": "Connor Maguire",
+      "person_id": 369
+    },
+    {
+      "name": "Dirk Wakefield",
+      "person_id": 1041
+    }
+  ],
+  "scene_id": 10731,
+  "title": "Towel Dry"
+}

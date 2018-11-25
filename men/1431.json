@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "Power Outage",
+  "models": [
+    {
+      "name": "Goran",
+      "person_id": 183
+    },
+    {
+      "name": "Jay Roberts",
+      "person_id": 304
+    }
+  ],
+  "scene_id": 1431,
+  "title": "Power Outage"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "Job Interview",
+  "models": [
+    {
+      "name": "Dato Foland",
+      "person_id": 421
+    },
+    {
+      "name": "Goran",
+      "person_id": 183
+    }
+  ],
+  "scene_id": 3049,
+  "title": "Job Interview"
+}

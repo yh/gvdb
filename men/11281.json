@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Bad Boy Boot Camp",
+  "models": [
+    {
+      "name": "Joey Moriarty",
+      "person_id": 621
+    },
+    {
+      "name": "Johnny Rapid",
+      "person_id": 120
+    }
+  ],
+  "scene_id": 11281,
+  "title": "Bad Boy Boot Camp"
+}

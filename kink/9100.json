@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "The Upper Floor"
+  ],
+  "description": "Artist Nancy Peach unveils an enormous painting in celebration of the Upper Floor.",
+  "models": [
+    {
+      "name": "Cherry Torn",
+      "person_id": 11105
+    },
+    {
+      "name": "Bella Rossi",
+      "person_id": 18418
+    }
+  ],
+  "release_date": "2010-06-08",
+  "scene_id": 9100,
+  "tags": [
+    "pain"
+  ],
+  "title": "Art Unveiled"
+}

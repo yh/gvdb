@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Nerd Revenge",
+  "models": [
+    {
+      "name": "Emanuel Brazzo",
+      "person_id": 153
+    },
+    {
+      "name": "Trevor Knight",
+      "person_id": 50
+    }
+  ],
+  "scene_id": 1126,
+  "title": "Nerd Revenge"
+}

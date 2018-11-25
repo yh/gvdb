@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Give Me A Rubber",
+  "models": [
+    {
+      "name": "Robert Van Damme",
+      "person_id": 171
+    },
+    {
+      "name": "Tyr Alexander",
+      "person_id": 56
+    }
+  ],
+  "scene_id": 1283,
+  "title": "Give Me A Rubber"
+}

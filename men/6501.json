@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "The Bid",
+  "models": [
+    {
+      "name": "Justin Blake",
+      "person_id": 491
+    },
+    {
+      "name": "Woody Fox",
+      "person_id": 432
+    }
+  ],
+  "scene_id": 6501,
+  "title": "The Bid"
+}

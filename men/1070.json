@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "Newbies",
+  "models": [
+    {
+      "name": "Ryan C",
+      "person_id": 133
+    },
+    {
+      "name": "Spencer Fox",
+      "person_id": 134
+    }
+  ],
+  "scene_id": 1070,
+  "title": "Newbies"
+}

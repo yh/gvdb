@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Inseamly",
+  "models": [
+    {
+      "name": "Diego Vena",
+      "person_id": 91
+    },
+    {
+      "name": "Jason Goodman",
+      "person_id": 225
+    }
+  ],
+  "scene_id": 1300,
+  "title": "Inseamly"
+}

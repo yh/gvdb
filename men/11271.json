@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Intrusive Instructor",
+  "models": [
+    {
+      "name": "Johnny Rapid",
+      "person_id": 120
+    },
+    {
+      "name": "Luke Adams",
+      "person_id": 481
+    }
+  ],
+  "scene_id": 11271,
+  "title": "Intrusive Instructor"
+}

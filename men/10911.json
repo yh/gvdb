@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Upload Part 1",
+  "models": [
+    {
+      "name": "Derek Atlas",
+      "person_id": 1151
+    },
+    {
+      "name": "Ricky Decker",
+      "person_id": 601
+    }
+  ],
+  "scene_id": 10911,
+  "title": "Upload Part 1"
+}

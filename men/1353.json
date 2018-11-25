@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "Bitchy Receptionist",
+  "models": [
+    {
+      "name": "Jessie Colter",
+      "person_id": 80
+    },
+    {
+      "name": "Jessy Ares",
+      "person_id": 265
+    },
+    {
+      "name": "Ryan Raz",
+      "person_id": 273
+    }
+  ],
+  "scene_id": 1353,
+  "title": "Bitchy Receptionist"
+}

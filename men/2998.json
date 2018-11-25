@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "Barbershop",
+  "models": [
+    {
+      "name": "Paul Walker",
+      "person_id": 325
+    },
+    {
+      "name": "Theo Reid",
+      "person_id": 409
+    }
+  ],
+  "scene_id": 2998,
+  "title": "Barbershop"
+}

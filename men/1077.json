@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "Stress Release",
+  "models": [
+    {
+      "name": "Jordano Santoro",
+      "person_id": 138
+    },
+    {
+      "name": "Luke Hass",
+      "person_id": 139
+    }
+  ],
+  "scene_id": 1077,
+  "title": "Stress Release"
+}

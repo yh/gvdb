@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "Bashed And Furious",
+  "models": [
+    {
+      "name": "Issac Jones",
+      "person_id": 243
+    },
+    {
+      "name": "Paddy O'Brian",
+      "person_id": 242
+    }
+  ],
+  "scene_id": 1308,
+  "title": "Bashed And Furious"
+}

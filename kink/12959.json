@@ -1,0 +1,28 @@
+{
+  "collections": [
+    "The Upper Floor"
+  ],
+  "description": "The house slaves are told to treat Candy Manson with the highest degree of hospitality.",
+  "models": [
+    {
+      "name": "Iona Grace",
+      "person_id": 25204
+    },
+    {
+      "name": "Lilla Katt",
+      "person_id": 18701
+    },
+    {
+      "name": "Sparky Sin Claire",
+      "person_id": 29494
+    },
+    {
+      "name": "Candy Manson",
+      "person_id": 11827
+    }
+  ],
+  "release_date": "2011-06-01",
+  "scene_id": 12959,
+  "tags": [],
+  "title": "Service Day: Candy"
+}

@@ -1,0 +1,16 @@
+{
+  "description": "Tim is 19 years old and works full-time as a landscaper.\nHe says he's mostly \"straight,\" but qualifies that with: \"Everybody's had their crazy nights here and there, right?\"\nWhen asked to elaborate, he said, \"You know, buddies, hanging around doing what we got to do and uh, you know, sometimes stuff happens.\"\nHe did not further define \"stuff,\" but I'm pretty sure I know what that means!\n\"I'm a big believer in that,\" he said. \"Got to experiment it before you cut it down!\"",
+  "models": [
+    {
+      "name": "Tim",
+      "person_id": 522
+    }
+  ],
+  "release_date": "2009-03-04",
+  "scene_id": 762,
+  "tags": [
+    "Jock",
+    "Solo"
+  ],
+  "title": "Tim"
+}

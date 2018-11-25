@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Houseboy Part 2",
+  "models": [
+    {
+      "name": "Billy Santoro",
+      "person_id": 402
+    },
+    {
+      "name": "Dirk Caber",
+      "person_id": 370
+    },
+    {
+      "name": "Johnny Rapid",
+      "person_id": 120
+    }
+  ],
+  "scene_id": 7431,
+  "title": "Houseboy Part 2"
+}

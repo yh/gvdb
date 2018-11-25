@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Boy Ranch Part 1",
+  "models": [
+    {
+      "name": "Billy Santoro",
+      "person_id": 402
+    },
+    {
+      "name": "Felix Warner",
+      "person_id": 405
+    }
+  ],
+  "scene_id": 2993,
+  "title": "Boy Ranch Part 1"
+}

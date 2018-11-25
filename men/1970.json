@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Lousy Waiter",
+  "models": [
+    {
+      "name": "Edin Sol",
+      "person_id": 261
+    },
+    {
+      "name": "Robert Van Damme",
+      "person_id": 171
+    }
+  ],
+  "scene_id": 1970,
+  "title": "Lousy Waiter"
+}

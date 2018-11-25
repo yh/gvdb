@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Impatient Patient",
+  "models": [
+    {
+      "name": "Jacob Durham",
+      "person_id": 76
+    },
+    {
+      "name": "Sebastian Young",
+      "person_id": 165
+    }
+  ],
+  "scene_id": 1203,
+  "title": "Impatient Patient"
+}

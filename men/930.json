@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Shower Shocker",
+  "models": [
+    {
+      "name": "Rafael Alencar",
+      "person_id": 47
+    },
+    {
+      "name": "Tony Hunter",
+      "person_id": 49
+    }
+  ],
+  "scene_id": 930,
+  "title": "Shower Shocker"
+}

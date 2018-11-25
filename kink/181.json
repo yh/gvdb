@@ -1,0 +1,16 @@
+{
+  "collections": [
+    "Hogtied"
+  ],
+  "description": "Marty ties the lovely Cowgirl.",
+  "models": [
+    {
+      "name": "Cowgirl",
+      "person_id": 110
+    }
+  ],
+  "release_date": "2001-06-15",
+  "scene_id": 181,
+  "tags": [],
+  "title": "Cowgirl"
+}

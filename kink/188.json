@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Hogtied"
+  ],
+  "description": "It was great to find that there was another Cowgirl set lying around the office. This one was shot months ago. We almost forgot we had it. Appologies to those members expecting to see material shot in our new space. I have posted some pictures of the new dungeon space being built on the forums. It should not be long before we are able to shoot there.",
+  "models": [
+    {
+      "name": "Cowgirl",
+      "person_id": 110
+    }
+  ],
+  "release_date": "2002-02-16",
+  "scene_id": 188,
+  "tags": [
+    "dungeon"
+  ],
+  "title": "Cowgirl"
+}

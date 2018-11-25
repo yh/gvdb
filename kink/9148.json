@@ -1,0 +1,24 @@
+{
+  "collections": [
+    "The Upper Floor"
+  ],
+  "description": "Wolf Hudson visits the Upper Floor to sample the House slaves' skills.",
+  "models": [
+    {
+      "name": "Cherry Torn",
+      "person_id": 11105
+    },
+    {
+      "name": "Bella Rossi",
+      "person_id": 18418
+    },
+    {
+      "name": "Wolf Hudson",
+      "person_id": 14471
+    }
+  ],
+  "release_date": "2010-06-10",
+  "scene_id": 9148,
+  "tags": [],
+  "title": "Service Session: Wolf in the House"
+}

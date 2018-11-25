@@ -1,0 +1,24 @@
+{
+  "collections": [
+    "The Training Of O"
+  ],
+  "description": "Day One",
+  "models": [
+    {
+      "name": "Sarah Shevon",
+      "person_id": 19605
+    },
+    {
+      "name": "Maestro",
+      "person_id": 11928
+    },
+    {
+      "name": "Sabrina Fox",
+      "person_id": 14055
+    }
+  ],
+  "release_date": "2009-07-17",
+  "scene_id": 6763,
+  "tags": [],
+  "title": "The Training of Sarah Shevon, Day One"
+}

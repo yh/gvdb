@@ -1,0 +1,16 @@
+{
+  "collections": [
+    "Fucking Machines"
+  ],
+  "description": "Dragon Lily tries out a new kind of hangout, one where dishes are best served wet.",
+  "models": [
+    {
+      "name": "DragonLily",
+      "person_id": 3433
+    }
+  ],
+  "release_date": "2003-12-31",
+  "scene_id": 1561,
+  "tags": [],
+  "title": "DragonLily"
+}

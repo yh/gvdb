@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "Naked Kombat"
+  ],
+  "description": "Dean Tucker is back with the record of 4-1. He's fighting Paul Wagner, a newcomer built like a football player. As always, Dean goes balls to the wall and he doesn't care who he fights. Paul Wagner is new to NK but he has his size as an advantage. These studs will battle it out for the fucking feast in the 4th round.",
+  "models": [
+    {
+      "name": "Dean Tucker",
+      "person_id": 18800
+    },
+    {
+      "name": "Paul Wagner",
+      "person_id": 21443
+    }
+  ],
+  "release_date": "2012-04-03",
+  "scene_id": 7816,
+  "tags": [
+    "the wall"
+  ],
+  "title": "Dean Tucker vs Paul Wagner"
+}

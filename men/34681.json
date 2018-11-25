@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Charlie Pattinson and Lucky Daniels hook-up in \u2018My Boyfriend\u2019s Ex 2\u2019.",
+  "models": [
+    {
+      "name": "Charlie Pattinson",
+      "person_id": 2471
+    },
+    {
+      "name": "Lucky Daniels",
+      "person_id": 2341
+    }
+  ],
+  "scene_id": 34681,
+  "title": "My Boyfriend's Ex Part 2"
+}

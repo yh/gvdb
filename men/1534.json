@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "Entry Level",
+  "models": [
+    {
+      "name": "Lance Luciano",
+      "person_id": 351
+    },
+    {
+      "name": "Rocco Reed",
+      "person_id": 264
+    }
+  ],
+  "scene_id": 1534,
+  "title": "Entry Level"
+}

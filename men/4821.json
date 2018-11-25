@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Captive Part 2",
+  "models": [
+    {
+      "name": "Aaron Bruiser",
+      "person_id": 453
+    },
+    {
+      "name": "Jake Henrikson",
+      "person_id": 561
+    }
+  ],
+  "scene_id": 4821,
+  "title": "Captive Part 2"
+}

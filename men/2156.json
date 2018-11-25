@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "Who's The Boss In Here",
+  "models": [
+    {
+      "name": "Dirk Caber",
+      "person_id": 370
+    },
+    {
+      "name": "Liam Magnuson",
+      "person_id": 320
+    }
+  ],
+  "scene_id": 2156,
+  "title": "Who's The Boss In Here"
+}

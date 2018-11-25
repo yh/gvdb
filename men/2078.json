@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "The Condor",
+  "models": [
+    {
+      "name": "John Jockson",
+      "person_id": 250
+    },
+    {
+      "name": "Troy Collins",
+      "person_id": 194
+    }
+  ],
+  "scene_id": 2078,
+  "title": "The Condor"
+}

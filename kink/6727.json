@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "The Training Of O"
+  ],
+  "description": "Day Four",
+  "models": [
+    {
+      "name": "Trina Michaels",
+      "person_id": 16367
+    },
+    {
+      "name": "Maestro",
+      "person_id": 11928
+    }
+  ],
+  "release_date": "2009-10-16",
+  "scene_id": 6727,
+  "tags": [],
+  "title": "The Training of Trina Michaels, Day Four"
+}

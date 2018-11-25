@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Bad Breaker",
+  "models": [
+    {
+      "name": "Danny Palick",
+      "person_id": 269
+    },
+    {
+      "name": "Marcus Ruhl",
+      "person_id": 283
+    }
+  ],
+  "scene_id": 2112,
+  "title": "Bad Breaker"
+}

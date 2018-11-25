@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Bet Your Ass",
+  "models": [
+    {
+      "name": "Phenix Saint",
+      "person_id": 40
+    },
+    {
+      "name": "Trenton Ducati",
+      "person_id": 193
+    }
+  ],
+  "scene_id": 1270,
+  "title": "Bet Your Ass"
+}

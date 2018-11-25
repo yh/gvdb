@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "The Movie Star",
+  "models": [
+    {
+      "name": "Tommy Defendi",
+      "person_id": 199
+    },
+    {
+      "name": "Tony Newport",
+      "person_id": 207
+    }
+  ],
+  "scene_id": 1356,
+  "title": "The Movie Star"
+}

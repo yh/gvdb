@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Aftermath",
+  "models": [
+    {
+      "name": "Parker London",
+      "person_id": 43
+    },
+    {
+      "name": "Spencer Reed",
+      "person_id": 5
+    }
+  ],
+  "scene_id": 948,
+  "title": "Aftermath"
+}

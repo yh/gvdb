@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "News reporter Griffin Barrows is investigating members of the conservatives who have voted against gay marriage on the suspicion that they may be hiding something. He scores an interview with Eddie Walker who can't keep his eyes from wandering. Griffin picks up on the signals and seduces our politician right into his bed.",
+  "models": [
+    {
+      "name": "Eddie Walker",
+      "person_id": 2461
+    },
+    {
+      "name": "Griffin Barrows",
+      "person_id": 2581
+    }
+  ],
+  "scene_id": 30861,
+  "title": "Taking Down The Conservatives Part 1"
+}

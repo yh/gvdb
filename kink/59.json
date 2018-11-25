@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Hogtied"
+  ],
+  "description": "Ruby gets hot in some more wild suspensions.",
+  "models": [
+    {
+      "name": "Ruby",
+      "person_id": 60
+    }
+  ],
+  "release_date": "2000-08-09",
+  "scene_id": 59,
+  "tags": [
+    "suspension"
+  ],
+  "title": "Ruby"
+}

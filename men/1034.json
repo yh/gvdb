@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Basic Training",
+  "models": [
+    {
+      "name": "Trevor Knight",
+      "person_id": 50
+    },
+    {
+      "name": "Tyler Sweet",
+      "person_id": 110
+    }
+  ],
+  "scene_id": 1034,
+  "title": "Basic Training"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Grapplers",
+  "models": [
+    {
+      "name": "Drake Wild",
+      "person_id": 130
+    },
+    {
+      "name": "Steve Stiffer",
+      "person_id": 231
+    }
+  ],
+  "scene_id": 1316,
+  "title": "Grapplers"
+}

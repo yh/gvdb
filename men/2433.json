@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Top To Bottom"
+  ],
+  "description": "Mates Part 4",
+  "models": [
+    {
+      "name": "Paddy O'Brian",
+      "person_id": 242
+    },
+    {
+      "name": "Paul Walker",
+      "person_id": 325
+    }
+  ],
+  "scene_id": 2433,
+  "title": "Mates Part 4"
+}

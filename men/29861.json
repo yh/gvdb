@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Like father like son, like son like father-- Dennis West gets with Jordan Easton, the boy he gifted to his son as a rebound.",
+  "models": [
+    {
+      "name": "Dennis West",
+      "person_id": 1921
+    },
+    {
+      "name": "Jordan Easton",
+      "person_id": 2441
+    }
+  ],
+  "scene_id": 29861,
+  "title": "Just Like Dad Part 3"
+}

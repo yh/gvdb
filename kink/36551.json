@@ -1,0 +1,24 @@
+{
+  "collections": [
+    "Naked Kombat"
+  ],
+  "description": "Abel Archer\"Armbar\"Ht: 6'2\"Wt: 185lbsSeason W/L Record (0-1)Brock Avery\"The Big Show\"Ht: 5'9\"Wt: 180lbsSeason W/L Record (1-0) Fighting in the blue trunks, after a devastating loss against Jessie \"Cut-Throat\" Colter we welcome back Abel \"Armbar\" Archer. And who shall stand in his way of redemption? In the red trunks we have Brock \"The Big Show\" Avery. Big Show may not have succeeded in the Summer Smackdown Tournament this year, but in the regular season, he has yet to tarnish his record with a loss and he doesn't plan on changing that today. Armbar has the reach advantage but will his long limbs be enough to ensure victory? Or will Big Show earn another victory to his undefeated record and brutally fuck Armbar into submission?",
+  "models": [
+    {
+      "name": "Abel Archer",
+      "person_id": 54503
+    },
+    {
+      "name": "Brock Avery",
+      "person_id": 53215
+    }
+  ],
+  "release_date": "2014-11-26",
+  "scene_id": 36551,
+  "tags": [
+    "submission",
+    "tournament",
+    "Cut"
+  ],
+  "title": "Abel \"Armbar\" Archer VS Brock \"The Big Show\" Avery"
+}

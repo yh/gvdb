@@ -1,0 +1,16 @@
+{
+  "description": "Brandon got all dressed up for our interview. I guess he wanted to make a good impression!",
+  "models": [
+    {
+      "name": "Brandon",
+      "person_id": 40
+    }
+  ],
+  "release_date": "2001-09-07",
+  "scene_id": 14,
+  "tags": [
+    "Black",
+    "Solo"
+  ],
+  "title": "Brandon"
+}

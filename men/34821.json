@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Roman Todd finally gets back with his ex-boyfriend Charlie Pattinson in \u2018My Boyfriend\u2019s Ex 3\u2019.",
+  "models": [
+    {
+      "name": "Charlie Pattinson",
+      "person_id": 2471
+    },
+    {
+      "name": "Roman Todd",
+      "person_id": 1751
+    }
+  ],
+  "scene_id": 34821,
+  "title": "My Boyfriend's Ex Part 3"
+}

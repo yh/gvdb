@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Goodbye",
+  "models": [
+    {
+      "name": "Dani Demon",
+      "person_id": 425
+    },
+    {
+      "name": "Leo Domenico",
+      "person_id": 330
+    }
+  ],
+  "scene_id": 3168,
+  "title": "Goodbye"
+}

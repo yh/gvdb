@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Habit Trail",
+  "models": [
+    {
+      "name": "Bryce Star",
+      "person_id": 86
+    },
+    {
+      "name": "Jimmy Johnson",
+      "person_id": 256
+    }
+  ],
+  "scene_id": 1466,
+  "title": "Habit Trail"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Repo Man",
+  "models": [
+    {
+      "name": "Liam Rosso",
+      "person_id": 180
+    },
+    {
+      "name": "Tony Paradise",
+      "person_id": 123
+    }
+  ],
+  "scene_id": 1298,
+  "title": "Repo Man"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "The Law Of Men Part 2",
+  "models": [
+    {
+      "name": "Bruno Bernal",
+      "person_id": 951
+    },
+    {
+      "name": "Paul Walker",
+      "person_id": 325
+    }
+  ],
+  "scene_id": 9171,
+  "title": "The Law Of Men Part 2"
+}

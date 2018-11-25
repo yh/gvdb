@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "The Training Of O"
+  ],
+  "description": "Day Two",
+  "models": [
+    {
+      "name": "Maestro",
+      "person_id": 11928
+    },
+    {
+      "name": "Sarah Shevon",
+      "person_id": 19605
+    }
+  ],
+  "release_date": "2009-08-21",
+  "scene_id": 6769,
+  "tags": [],
+  "title": "The Training of Sarah Shevon, Day Two"
+}

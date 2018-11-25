@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Shooting At The Photo Shoot",
+  "models": [
+    {
+      "name": "Christian Wilde",
+      "person_id": 97
+    },
+    {
+      "name": "Daniel Freeman",
+      "person_id": 128
+    }
+  ],
+  "scene_id": 1049,
+  "title": "Shooting At The Photo Shoot"
+}

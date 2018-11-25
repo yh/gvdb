@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "Nervous Intern",
+  "models": [
+    {
+      "name": "Connor Maguire",
+      "person_id": 369
+    },
+    {
+      "name": "Tom Faulk",
+      "person_id": 393
+    }
+  ],
+  "scene_id": 3376,
+  "title": "Nervous Intern"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Prison Shower",
+  "models": [
+    {
+      "name": "Johnny Rapid",
+      "person_id": 120
+    },
+    {
+      "name": "Rafael Alencar",
+      "person_id": 47
+    }
+  ],
+  "scene_id": 1100,
+  "title": "Prison Shower"
+}

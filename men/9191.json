@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Predator Part 3",
+  "models": [
+    {
+      "name": "Billy Santoro",
+      "person_id": 402
+    },
+    {
+      "name": "Jarec Wentworth",
+      "person_id": 721
+    }
+  ],
+  "scene_id": 9191,
+  "title": "Predator Part 3"
+}

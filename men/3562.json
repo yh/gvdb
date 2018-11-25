@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Team USA Part 2",
+  "models": [
+    {
+      "name": "Jake Wilder",
+      "person_id": 360
+    },
+    {
+      "name": "Tom Faulk",
+      "person_id": 393
+    },
+    {
+      "name": "Travis James",
+      "person_id": 441
+    }
+  ],
+  "scene_id": 3562,
+  "title": "Team USA Part 2"
+}

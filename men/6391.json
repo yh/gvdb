@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "P.O.W. Part 1",
+  "models": [
+    {
+      "name": "Allen King",
+      "person_id": 661
+    },
+    {
+      "name": "Paddy O'Brian",
+      "person_id": 242
+    }
+  ],
+  "scene_id": 6391,
+  "title": "P.O.W. Part 1"
+}

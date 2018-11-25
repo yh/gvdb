@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Daddy's Club Part 4",
+  "models": [
+    {
+      "name": "Charlie Harding",
+      "person_id": 313
+    },
+    {
+      "name": "Justin Dean",
+      "person_id": 438
+    }
+  ],
+  "scene_id": 3397,
+  "title": "Daddy's Club Part 4"
+}

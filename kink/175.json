@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Hogtied"
+  ],
+  "description": "Marty ties Devin and Sadie.",
+  "models": [
+    {
+      "name": "Devin DeMoore",
+      "person_id": 135
+    },
+    {
+      "name": "Sadie Belle",
+      "person_id": 134
+    }
+  ],
+  "release_date": "2001-06-06",
+  "scene_id": 175,
+  "tags": [],
+  "title": "Devin DeMoore and Sadie Belle"
+}

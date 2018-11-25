@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Striptease",
+  "models": [
+    {
+      "name": "Donato Reyes",
+      "person_id": 317
+    },
+    {
+      "name": "Goran",
+      "person_id": 183
+    }
+  ],
+  "scene_id": 1481,
+  "title": "Striptease"
+}

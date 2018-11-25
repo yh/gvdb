@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Cam Play",
+  "models": [
+    {
+      "name": "Christian Wilde",
+      "person_id": 97
+    },
+    {
+      "name": "Connor Kline",
+      "person_id": 391
+    }
+  ],
+  "scene_id": 3369,
+  "title": "Cam Play"
+}

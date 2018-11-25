@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "The Hot Mover",
+  "models": [
+    {
+      "name": "Kyle Quinn",
+      "person_id": 119
+    },
+    {
+      "name": "Robert Van Damme",
+      "person_id": 171
+    }
+  ],
+  "scene_id": 1191,
+  "title": "The Hot Mover"
+}

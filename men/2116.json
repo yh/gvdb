@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Where Are The Chicks",
+  "models": [
+    {
+      "name": "Caleb Colton",
+      "person_id": 309
+    },
+    {
+      "name": "Jimmy Johnson",
+      "person_id": 256
+    }
+  ],
+  "scene_id": 2116,
+  "title": "Where Are The Chicks"
+}

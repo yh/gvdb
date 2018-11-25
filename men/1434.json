@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Unwanted Ex",
+  "models": [
+    {
+      "name": "Jessie Colter",
+      "person_id": 80
+    },
+    {
+      "name": "Landon Conrad",
+      "person_id": 282
+    }
+  ],
+  "scene_id": 1434,
+  "title": "Unwanted Ex"
+}

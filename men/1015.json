@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Just How He Likes It",
+  "models": [
+    {
+      "name": "Mike Rivers",
+      "person_id": 114
+    },
+    {
+      "name": "Ricky Larkin",
+      "person_id": 93
+    }
+  ],
+  "scene_id": 1015,
+  "title": "Just How He Likes It"
+}

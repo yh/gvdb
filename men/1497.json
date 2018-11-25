@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "Breaking Em In",
+  "models": [
+    {
+      "name": "Harley Everett",
+      "person_id": 290
+    },
+    {
+      "name": "Rogan Richards",
+      "person_id": 315
+    },
+    {
+      "name": "Ryan Stokes",
+      "person_id": 327
+    }
+  ],
+  "scene_id": 1497,
+  "title": "Breaking Em In"
+}

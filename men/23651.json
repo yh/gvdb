@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Diego Sans gets all he wants for Christmas in Scotty Zee.",
+  "models": [
+    {
+      "name": "Diego Sans",
+      "person_id": 1861
+    },
+    {
+      "name": "Scotty Zee",
+      "person_id": 2251
+    }
+  ],
+  "scene_id": 23651,
+  "title": "All I Want For Christmas"
+}

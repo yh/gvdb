@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Games Gone Wild",
+  "models": [
+    {
+      "name": "Johnny Rapid",
+      "person_id": 120
+    },
+    {
+      "name": "Liam Rosso",
+      "person_id": 180
+    },
+    {
+      "name": "Luca Rosso",
+      "person_id": 179
+    }
+  ],
+  "scene_id": 1166,
+  "title": "Games Gone Wild"
+}

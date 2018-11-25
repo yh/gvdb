@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "The Snapshot",
+  "models": [
+    {
+      "name": "Andrew Stark",
+      "person_id": 288
+    },
+    {
+      "name": "Zeb Atlas",
+      "person_id": 281
+    }
+  ],
+  "scene_id": 1370,
+  "title": "The Snapshot"
+}

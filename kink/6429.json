@@ -1,0 +1,44 @@
+{
+  "collections": [
+    "Naked Kombat"
+  ],
+  "description": "These are some of the matches that were canceled due to injuries or the fighters gave up because NK is too rough. In the Kyle Sparks vs Rocco Giovanni match, Kyle was about to pass out in the first round. In the Jimmie Slater vs Jason White match, Jimmie hurt his shoulder in the second round and could not continue. In the Spencer Reed vs Sean Preston match, Spencer put Sean through the wringer and Sean gave up during the first round. In the Mitch Colby vs Dak Ramsey match, Dak ran out of steam after 6 minutes. He spent 3 months working on cardio and came back to fight Mitch again.",
+  "models": [
+    {
+      "name": "Sean Preston",
+      "person_id": 19470
+    },
+    {
+      "name": "Spencer Reed",
+      "person_id": 19086
+    },
+    {
+      "name": "Dak Ramsey",
+      "person_id": 18805
+    },
+    {
+      "name": "Mitch Colby",
+      "person_id": 19262
+    },
+    {
+      "name": "Kyle Sparks",
+      "person_id": 20812
+    },
+    {
+      "name": "Rocco Giovanni",
+      "person_id": 19797
+    },
+    {
+      "name": "Jason White",
+      "person_id": 20014
+    },
+    {
+      "name": "Jimmie Slater",
+      "person_id": 18792
+    }
+  ],
+  "release_date": "2010-11-12",
+  "scene_id": 6429,
+  "tags": [],
+  "title": "Unfinished Matches - Bonus Update"
+}

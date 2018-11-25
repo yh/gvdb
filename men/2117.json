@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Boat Safety",
+  "models": [
+    {
+      "name": "Caleb Colton",
+      "person_id": 309
+    },
+    {
+      "name": "Jack King",
+      "person_id": 324
+    }
+  ],
+  "scene_id": 2117,
+  "title": "Boat Safety"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Friday Night Escape",
+  "models": [
+    {
+      "name": "Kirk Cummings",
+      "person_id": 66
+    },
+    {
+      "name": "Trevor Knight",
+      "person_id": 50
+    }
+  ],
+  "scene_id": 1256,
+  "title": "Friday Night Escape"
+}

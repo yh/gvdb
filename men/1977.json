@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Bromance",
+  "models": [
+    {
+      "name": "Brandon Lewis",
+      "person_id": 1
+    },
+    {
+      "name": "Jack King",
+      "person_id": 324
+    },
+    {
+      "name": "Liam Magnuson",
+      "person_id": 320
+    }
+  ],
+  "scene_id": 1977,
+  "title": "Bromance"
+}

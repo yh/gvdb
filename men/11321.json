@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Gods Of Men"
+  ],
+  "description": "The White Room",
+  "models": [
+    {
+      "name": "Andrew Fitch",
+      "person_id": 961
+    },
+    {
+      "name": "Saxon West",
+      "person_id": 651
+    }
+  ],
+  "scene_id": 11321,
+  "title": "The White Room"
+}

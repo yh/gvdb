@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Payback's a Bitch",
+  "models": [
+    {
+      "name": "Braxton Bond",
+      "person_id": 18
+    },
+    {
+      "name": "Rafael Alencar",
+      "person_id": 47
+    }
+  ],
+  "scene_id": 931,
+  "title": "Payback's a Bitch"
+}

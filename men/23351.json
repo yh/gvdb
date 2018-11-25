@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Gods Of Men"
+  ],
+  "description": "Landon Mycles and Luke Adams had a fun night on the Men.com cruise but they have an even better morning.",
+  "models": [
+    {
+      "name": "Landon Mycles",
+      "person_id": 2071
+    },
+    {
+      "name": "Luke Adams",
+      "person_id": 481
+    }
+  ],
+  "scene_id": 23351,
+  "title": "Men At Sea Part 2"
+}

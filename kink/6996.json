@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Naked Kombat"
+  ],
+  "description": "This week Rusty Stevens takes on newcomer David Chase. Rusty is back and he's out of control. He's been practicing and he has a few new moves under his belt. David is a big guy and he wants to try out NK. He seems like a nice guy but nice guys finish last here on NK. Will cocky Rusty annihilate David or this is the biggest upset in the history of NK?",
+  "models": [
+    {
+      "name": "David Chase",
+      "person_id": 20106
+    },
+    {
+      "name": "Rusty Stevens",
+      "person_id": 19600
+    }
+  ],
+  "release_date": "2009-09-23",
+  "scene_id": 6996,
+  "tags": [],
+  "title": "Rusty Stevens vs David Chase"
+}

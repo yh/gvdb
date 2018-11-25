@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "The Detective",
+  "models": [
+    {
+      "name": "Damien Crosse",
+      "person_id": 233
+    },
+    {
+      "name": "Jean Franko",
+      "person_id": 252
+    }
+  ],
+  "scene_id": 2034,
+  "title": "The Detective"
+}

@@ -1,0 +1,16 @@
+{
+  "description": "Duke is a soft-spoken straight guy who describes himself as a \"boob man\". He was a jock in high school and loves sports. He currently works in a restaurant and is saving money to return to college.",
+  "models": [
+    {
+      "name": "Duke",
+      "person_id": 346
+    }
+  ],
+  "release_date": "2007-04-03",
+  "scene_id": 467,
+  "tags": [
+    "Jock",
+    "Solo"
+  ],
+  "title": "Duke"
+}

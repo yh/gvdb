@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Super Soaker",
+  "models": [
+    {
+      "name": "Jack King",
+      "person_id": 324
+    },
+    {
+      "name": "Kirk Cummings",
+      "person_id": 66
+    }
+  ],
+  "scene_id": 2115,
+  "title": "Super Soaker"
+}

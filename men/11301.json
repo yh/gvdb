@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "Escaping England",
+  "models": [
+    {
+      "name": "Aitor Bravo",
+      "person_id": 1131
+    },
+    {
+      "name": "Paddy O'Brian",
+      "person_id": 242
+    }
+  ],
+  "scene_id": 11301,
+  "title": "Escaping England"
+}

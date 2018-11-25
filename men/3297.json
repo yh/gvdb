@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Living Masterpiece",
+  "models": [
+    {
+      "name": "Bryce Evans",
+      "person_id": 419
+    },
+    {
+      "name": "Mike De Marko",
+      "person_id": 318
+    }
+  ],
+  "scene_id": 3297,
+  "title": "Living Masterpiece"
+}

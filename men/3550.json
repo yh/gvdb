@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Sucker Punch",
+  "models": [
+    {
+      "name": "Cliff Jensen",
+      "person_id": 46
+    },
+    {
+      "name": "Ethan Cruz",
+      "person_id": 457
+    }
+  ],
+  "scene_id": 3550,
+  "title": "Sucker Punch"
+}

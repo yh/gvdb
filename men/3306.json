@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "Secret Diary Of An Escort 3",
+  "models": [
+    {
+      "name": "Max Dodds",
+      "person_id": 436
+    },
+    {
+      "name": "Paul Walker",
+      "person_id": 325
+    }
+  ],
+  "scene_id": 3306,
+  "title": "Secret Diary Of An Escort 3"
+}

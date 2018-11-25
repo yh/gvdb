@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Johnny In A Box 2",
+  "models": [
+    {
+      "name": "Cooper Reed",
+      "person_id": 355
+    },
+    {
+      "name": "Johnny Rapid",
+      "person_id": 120
+    },
+    {
+      "name": "Tyler Sweet",
+      "person_id": 110
+    }
+  ],
+  "scene_id": 1984,
+  "title": "Johnny In A Box 2"
+}

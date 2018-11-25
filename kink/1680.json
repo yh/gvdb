@@ -1,0 +1,16 @@
+{
+  "collections": [
+    "Hogtied"
+  ],
+  "description": "This BONUS weekend update is part 4 of a tutorial series that we have done for the membership. This forth addition is a rope tutorial while using a chair as a tool. Enjoy the EXTRA update!",
+  "models": [
+    {
+      "name": "Venus",
+      "person_id": 2302
+    }
+  ],
+  "release_date": "2004-07-08",
+  "scene_id": 1680,
+  "tags": [],
+  "title": "Venus"
+}

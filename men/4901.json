@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "Scrum Part 4",
+  "models": [
+    {
+      "name": "Colby Jansen",
+      "person_id": 227
+    },
+    {
+      "name": "Woody Fox",
+      "person_id": 432
+    }
+  ],
+  "scene_id": 4901,
+  "title": "Scrum Part 4"
+}

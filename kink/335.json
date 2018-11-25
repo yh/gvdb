@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Hogtied"
+  ],
+  "description": "Marty ties the lovely Chanta Rose from England. She gets a nice suspension and a eagle tie where she has to balance with her elbows tied.",
+  "models": [
+    {
+      "name": "Chanta-Rose",
+      "person_id": 124
+    }
+  ],
+  "release_date": "2001-10-05",
+  "scene_id": 335,
+  "tags": [
+    "suspension"
+  ],
+  "title": "Chanta-Rose"
+}

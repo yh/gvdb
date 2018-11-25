@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Hometown Return",
+  "models": [
+    {
+      "name": "Johnny Rapid",
+      "person_id": 120
+    },
+    {
+      "name": "Maximillion Kong",
+      "person_id": 377
+    }
+  ],
+  "scene_id": 2170,
+  "title": "Hometown Return"
+}

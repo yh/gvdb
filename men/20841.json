@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "Meeting Point",
+  "models": [
+    {
+      "name": "Connor Maguire",
+      "person_id": 369
+    },
+    {
+      "name": "Gabriel Cross",
+      "person_id": 1341
+    }
+  ],
+  "scene_id": 20841,
+  "title": "Meeting Point"
+}

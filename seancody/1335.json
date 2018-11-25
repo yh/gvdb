@@ -1,0 +1,19 @@
+{
+  "description": "Behind-the-scenes footage from \"Jamie & Brodie\"!",
+  "models": [
+    {
+      "name": "Brodie",
+      "person_id": 699
+    },
+    {
+      "name": "Jamie",
+      "person_id": 587
+    }
+  ],
+  "release_date": "2011-12-01",
+  "scene_id": 1335,
+  "tags": [
+    "Behind the Scenes"
+  ],
+  "title": "Jamie & Brodie: Behind the Scenes"
+}

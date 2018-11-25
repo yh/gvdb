@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Holding Cell",
+  "models": [
+    {
+      "name": "Jack King",
+      "person_id": 324
+    },
+    {
+      "name": "Jimmy Johnson",
+      "person_id": 256
+    },
+    {
+      "name": "Johnny Rapid",
+      "person_id": 120
+    }
+  ],
+  "scene_id": 1408,
+  "title": "Holding Cell"
+}

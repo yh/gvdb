@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "The Divorcee",
+  "models": [
+    {
+      "name": "Brett Carter",
+      "person_id": 308
+    },
+    {
+      "name": "Landon Conrad",
+      "person_id": 282
+    }
+  ],
+  "scene_id": 2137,
+  "title": "The Divorcee"
+}

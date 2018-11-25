@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "After Hours Workout",
+  "models": [
+    {
+      "name": "Chris Bines",
+      "person_id": 399
+    },
+    {
+      "name": "Mike De Marko",
+      "person_id": 318
+    }
+  ],
+  "scene_id": 2981,
+  "title": "After Hours Workout"
+}

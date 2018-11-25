@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "Cut",
+  "models": [
+    {
+      "name": "Francesco D'Macho",
+      "person_id": 296
+    },
+    {
+      "name": "Lucio Saints",
+      "person_id": 251
+    }
+  ],
+  "scene_id": 1369,
+  "title": "Cut"
+}

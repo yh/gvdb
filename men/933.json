@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Towel Snatcher",
+  "models": [
+    {
+      "name": "Philip Aubrey",
+      "person_id": 6
+    },
+    {
+      "name": "Trevor Knight",
+      "person_id": 50
+    }
+  ],
+  "scene_id": 933,
+  "title": "Towel Snatcher"
+}

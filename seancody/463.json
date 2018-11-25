@@ -1,0 +1,16 @@
+{
+  "description": "Reggie is the strong silent type. He comes across as being kind of cocky, but I think it's just that he's a man of few words.\nAlso, he's straight and proud of it!",
+  "models": [
+    {
+      "name": "Reggie",
+      "person_id": 344
+    }
+  ],
+  "release_date": "2007-03-20",
+  "scene_id": 463,
+  "tags": [
+    "Jock",
+    "Solo"
+  ],
+  "title": "Reggie"
+}

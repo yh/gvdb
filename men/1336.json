@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Rumor Has It",
+  "models": [
+    {
+      "name": "Spencer Fox",
+      "person_id": 134
+    },
+    {
+      "name": "Tony Newport",
+      "person_id": 207
+    }
+  ],
+  "scene_id": 1336,
+  "title": "Rumor Has It"
+}

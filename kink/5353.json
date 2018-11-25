@@ -1,0 +1,24 @@
+{
+  "collections": [
+    "The Training Of O"
+  ],
+  "description": "Day Three",
+  "models": [
+    {
+      "name": "Alexa Von Tess",
+      "person_id": 12340
+    },
+    {
+      "name": "Lobo",
+      "person_id": 16229
+    },
+    {
+      "name": "Aiden Starr",
+      "person_id": 11489
+    }
+  ],
+  "release_date": "2008-11-21",
+  "scene_id": 5353,
+  "tags": [],
+  "title": "The Training of Alexa Von Tess, Day Three"
+}

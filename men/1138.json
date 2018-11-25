@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Uninvited",
+  "models": [
+    {
+      "name": "Boston Miles",
+      "person_id": 155
+    },
+    {
+      "name": "Kyle Quinn",
+      "person_id": 119
+    }
+  ],
+  "scene_id": 1138,
+  "title": "Uninvited"
+}

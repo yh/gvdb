@@ -1,0 +1,16 @@
+{
+  "description": "Dean was the star of his high school track team. He just started college on an athletic scholarship.\n\"Pretty damn fast.\"\nThat's how he described himself, and he confirmed it by running around the beach. It's hard to walk in sand, let alone run in it!\nHe says he's straight but doesn't have a girlfriend.",
+  "models": [
+    {
+      "name": "Dean",
+      "person_id": 510
+    }
+  ],
+  "release_date": "2009-01-31",
+  "scene_id": 747,
+  "tags": [
+    "Jock",
+    "Solo"
+  ],
+  "title": "Dean"
+}

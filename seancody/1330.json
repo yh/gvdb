@@ -1,0 +1,19 @@
+{
+  "description": "Behind-the-scenes footage from \"Paul & Derek\"!",
+  "models": [
+    {
+      "name": "Derek",
+      "person_id": 791
+    },
+    {
+      "name": "Paul",
+      "person_id": 795
+    }
+  ],
+  "release_date": "2011-11-23",
+  "scene_id": 1330,
+  "tags": [
+    "Behind the Scenes"
+  ],
+  "title": "Paul & Derek: Behind the Scenes"
+}

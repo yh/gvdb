@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Working Off A Debt",
+  "models": [
+    {
+      "name": "Drew Cutler",
+      "person_id": 10
+    },
+    {
+      "name": "Trent Atkins",
+      "person_id": 184
+    }
+  ],
+  "scene_id": 1177,
+  "title": "Working Off A Debt"
+}

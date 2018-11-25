@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Gentlemen Prefer Blondes",
+  "models": [
+    {
+      "name": "Girth Brooks",
+      "person_id": 90
+    },
+    {
+      "name": "Philip Aubrey",
+      "person_id": 6
+    }
+  ],
+  "scene_id": 977,
+  "title": "Gentlemen Prefer Blondes"
+}

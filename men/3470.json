@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "Going Down Part 2",
+  "models": [
+    {
+      "name": "Diego Lauzen",
+      "person_id": 455
+    },
+    {
+      "name": "Wagner Vittoria",
+      "person_id": 454
+    }
+  ],
+  "scene_id": 3470,
+  "title": "Going Down Part 2"
+}

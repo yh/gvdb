@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Service My Room",
+  "models": [
+    {
+      "name": "Johnny Rapid",
+      "person_id": 120
+    },
+    {
+      "name": "Trevor Tripp",
+      "person_id": 368
+    }
+  ],
+  "scene_id": 2152,
+  "title": "Service My Room"
+}

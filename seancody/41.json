@@ -1,0 +1,15 @@
+{
+  "description": "Troy is Corey's best friend. He came with Corey for Corey's first meeting and decided to do a video himself.",
+  "models": [
+    {
+      "name": "Troy",
+      "person_id": 155
+    }
+  ],
+  "release_date": "2001-10-05",
+  "scene_id": 41,
+  "tags": [
+    "Solo"
+  ],
+  "title": "Troy"
+}

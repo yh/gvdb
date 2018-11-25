@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Men In Budapest 3",
+  "models": [
+    {
+      "name": "Marcus Ruhl",
+      "person_id": 283
+    },
+    {
+      "name": "Michael Troy",
+      "person_id": 341
+    }
+  ],
+  "scene_id": 1474,
+  "title": "Men In Budapest 3"
+}

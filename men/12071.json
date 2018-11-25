@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "The Prospect saves Paddy O\u2019Brian's life twice but is then taken captive by The Jackals. Do they save The Prospect or do they sort their deal with the Irish? Paddy wants to focus on the Irish but Johnny Hazzard is convinced they need to stick together and accuses Paddy of breaking up the group and making bad decisions. Johnny tells Bennett Anthony that he is counting on his vote to go get the Prospect back. Johnny seduces Bennett and the two have passionate sex, making Bennett agree to support him. Then the team vote against Paddy and they go to get The Prospect back.",
+  "models": [
+    {
+      "name": "Bennett Anthony",
+      "person_id": 921
+    },
+    {
+      "name": "Johnny Hazzard",
+      "person_id": 911
+    }
+  ],
+  "scene_id": 12071,
+  "title": "Men Of Anarchy Part 2"
+}

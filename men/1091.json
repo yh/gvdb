@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "The Boardroom",
+  "models": [
+    {
+      "name": "Colby Keller",
+      "person_id": 143
+    },
+    {
+      "name": "Shane Frost",
+      "person_id": 59
+    }
+  ],
+  "scene_id": 1091,
+  "title": "The Boardroom"
+}

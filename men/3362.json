@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "Men In Crack",
+  "models": [
+    {
+      "name": "Marco Rubi",
+      "person_id": 431
+    },
+    {
+      "name": "Paddy O'Brian",
+      "person_id": 242
+    }
+  ],
+  "scene_id": 3362,
+  "title": "Men In Crack"
+}

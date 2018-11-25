@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "The Rumor",
+  "models": [
+    {
+      "name": "Christian Wilde",
+      "person_id": 97
+    },
+    {
+      "name": "Tory Mason",
+      "person_id": 149
+    }
+  ],
+  "scene_id": 1129,
+  "title": "The Rumor"
+}

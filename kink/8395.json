@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "The Upper Floor"
+  ],
+  "description": "House Slave Bella Rossi is introduced to the Upper Floor protocols and procedures in her first day of official service.",
+  "models": [
+    {
+      "name": "Cherry Torn",
+      "person_id": 11105
+    },
+    {
+      "name": "Bella Rossi",
+      "person_id": 18418
+    }
+  ],
+  "release_date": "2010-03-31",
+  "scene_id": 8395,
+  "tags": [],
+  "title": "Service Session: Rossi's First Day"
+}

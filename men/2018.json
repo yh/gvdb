@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "H.O.R.S.E.",
+  "models": [
+    {
+      "name": "Angel Rock",
+      "person_id": 375
+    },
+    {
+      "name": "Duncan Black",
+      "person_id": 322
+    },
+    {
+      "name": "Jimmy Johnson",
+      "person_id": 256
+    }
+  ],
+  "scene_id": 2018,
+  "title": "H.O.R.S.E."
+}

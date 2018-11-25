@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Son Swap Part 2",
+  "models": [
+    {
+      "name": "Dirk Caber",
+      "person_id": 370
+    },
+    {
+      "name": "Luke Adams",
+      "person_id": 481
+    }
+  ],
+  "scene_id": 8111,
+  "title": "Son Swap Part 2"
+}

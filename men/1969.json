@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "The Arm Wrestling",
+  "models": [
+    {
+      "name": "Drake Wild",
+      "person_id": 130
+    },
+    {
+      "name": "Jessie Colter",
+      "person_id": 80
+    }
+  ],
+  "scene_id": 1969,
+  "title": "The Arm Wrestling"
+}

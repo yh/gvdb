@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Gay To Str8",
+  "models": [
+    {
+      "name": "Adam Killian",
+      "person_id": 79
+    },
+    {
+      "name": "John Magnum",
+      "person_id": 19
+    }
+  ],
+  "scene_id": 1033,
+  "title": "Gay To Str8"
+}

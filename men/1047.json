@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "Quickie",
+  "models": [
+    {
+      "name": "David Chase",
+      "person_id": 116
+    },
+    {
+      "name": "Mitch Vaughn",
+      "person_id": 127
+    }
+  ],
+  "scene_id": 1047,
+  "title": "Quickie"
+}

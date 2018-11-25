@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Deployment 2",
+  "models": [
+    {
+      "name": "Tom Faulk",
+      "person_id": 393
+    },
+    {
+      "name": "Travis James",
+      "person_id": 441
+    }
+  ],
+  "scene_id": 3371,
+  "title": "Deployment 2"
+}

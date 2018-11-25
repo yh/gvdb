@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Thief Employee",
+  "models": [
+    {
+      "name": "Jake Steel",
+      "person_id": 13
+    },
+    {
+      "name": "Rocco Reed",
+      "person_id": 264
+    }
+  ],
+  "scene_id": 2008,
+  "title": "Thief Employee"
+}

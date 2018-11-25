@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "The Stable",
+  "models": [
+    {
+      "name": "Damien Crosse",
+      "person_id": 233
+    },
+    {
+      "name": "David Dirdam",
+      "person_id": 235
+    }
+  ],
+  "scene_id": 1276,
+  "title": "The Stable"
+}

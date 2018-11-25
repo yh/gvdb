@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "Privileged Information",
+  "models": [
+    {
+      "name": "Aymeric Deville",
+      "person_id": 418
+    },
+    {
+      "name": "Craig Farell",
+      "person_id": 417
+    }
+  ],
+  "scene_id": 3070,
+  "title": "Privileged Information"
+}

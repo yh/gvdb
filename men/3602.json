@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Top To Bottom"
+  ],
+  "description": "First Time Bottom",
+  "models": [
+    {
+      "name": "Christian Wilde",
+      "person_id": 97
+    },
+    {
+      "name": "Joey Carter",
+      "person_id": 465
+    }
+  ],
+  "scene_id": 3602,
+  "title": "First Time Bottom"
+}

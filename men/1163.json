@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Follow Me",
+  "models": [
+    {
+      "name": "Diesel Washington",
+      "person_id": 174
+    },
+    {
+      "name": "Valentin Petrov",
+      "person_id": 94
+    }
+  ],
+  "scene_id": 1163,
+  "title": "Follow Me"
+}

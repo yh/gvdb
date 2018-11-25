@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Neighbors Part 2",
+  "models": [
+    {
+      "name": "Dylan Drive",
+      "person_id": 771
+    },
+    {
+      "name": "Trevor Spade",
+      "person_id": 571
+    }
+  ],
+  "scene_id": 7321,
+  "title": "Neighbors Part 2"
+}

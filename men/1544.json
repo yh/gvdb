@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Super Gay Hero"
+  ],
+  "description": "The Arrow",
+  "models": [
+    {
+      "name": "Liam Magnuson",
+      "person_id": 320
+    },
+    {
+      "name": "Spencer Fox",
+      "person_id": 134
+    }
+  ],
+  "scene_id": 1544,
+  "title": "The Arrow"
+}

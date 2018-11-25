@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "Old Frat Brothers",
+  "models": [
+    {
+      "name": "Parker London",
+      "person_id": 43
+    },
+    {
+      "name": "Trenton Ducati",
+      "person_id": 193
+    }
+  ],
+  "scene_id": 1305,
+  "title": "Old Frat Brothers"
+}

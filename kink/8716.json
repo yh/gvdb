@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "The Upper Floor"
+  ],
+  "description": "Torn teaches Rossi to lay the table",
+  "models": [
+    {
+      "name": "Cherry Torn",
+      "person_id": 11105
+    },
+    {
+      "name": "Bella Rossi",
+      "person_id": 18418
+    }
+  ],
+  "release_date": "2010-04-12",
+  "scene_id": 8716,
+  "tags": [
+    "domestic"
+  ],
+  "title": "Service Session: Domestic Training"
+}

@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Spot Me",
+  "models": [
+    {
+      "name": "Liam Rosso",
+      "person_id": 180
+    },
+    {
+      "name": "Luca Rosso",
+      "person_id": 179
+    },
+    {
+      "name": "Sebastian Young",
+      "person_id": 165
+    }
+  ],
+  "scene_id": 2070,
+  "title": "Spot Me"
+}

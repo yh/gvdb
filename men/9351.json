@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Top To Bottom"
+  ],
+  "description": "Top To Bottom : Jimmy Johnson",
+  "models": [
+    {
+      "name": "Colby Jansen",
+      "person_id": 227
+    },
+    {
+      "name": "Jimmy Johnson",
+      "person_id": 256
+    }
+  ],
+  "scene_id": 9351,
+  "title": "Top To Bottom : Jimmy Johnson"
+}

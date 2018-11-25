@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Neighborly Love",
+  "models": [
+    {
+      "name": "Brant Dickson",
+      "person_id": 61
+    },
+    {
+      "name": "Cliff Jensen",
+      "person_id": 46
+    }
+  ],
+  "scene_id": 949,
+  "title": "Neighborly Love"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Gods Of Men"
+  ],
+  "description": "Suite 33 Part 1",
+  "models": [
+    {
+      "name": "Donato Reyes",
+      "person_id": 317
+    },
+    {
+      "name": "Topher Di Maggio",
+      "person_id": 111
+    }
+  ],
+  "scene_id": 4931,
+  "title": "Suite 33 Part 1"
+}

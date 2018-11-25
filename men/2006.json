@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Backfire",
+  "models": [
+    {
+      "name": "Colby Jansen",
+      "person_id": 227
+    },
+    {
+      "name": "Mike De Marko",
+      "person_id": 318
+    }
+  ],
+  "scene_id": 2006,
+  "title": "Backfire"
+}

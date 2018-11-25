@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Tour Of Duty Part 2",
+  "models": [
+    {
+      "name": "Jaxton Wheeler",
+      "person_id": 448
+    },
+    {
+      "name": "Tom Faulk",
+      "person_id": 393
+    },
+    {
+      "name": "Topher Di Maggio",
+      "person_id": 111
+    }
+  ],
+  "scene_id": 8021,
+  "title": "Tour Of Duty Part 2"
+}

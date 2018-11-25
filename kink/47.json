@@ -1,0 +1,16 @@
+{
+  "collections": [
+    "Hogtied"
+  ],
+  "description": "More of the wonderful Rhannion.",
+  "models": [
+    {
+      "name": "Rhannion",
+      "person_id": 51
+    }
+  ],
+  "release_date": "2000-03-06",
+  "scene_id": 47,
+  "tags": [],
+  "title": "Rhannion"
+}

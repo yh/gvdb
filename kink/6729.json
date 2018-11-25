@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "The Training Of O"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Calico",
+      "person_id": 11592
+    },
+    {
+      "name": "Maestro",
+      "person_id": 11928
+    }
+  ],
+  "release_date": "2009-10-02",
+  "scene_id": 6729,
+  "tags": [],
+  "title": "The Training of Calico, Day Two"
+}

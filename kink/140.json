@@ -1,0 +1,16 @@
+{
+  "collections": [
+    "Hogtied"
+  ],
+  "description": "Marty ties and suspends the beautiful Viva.",
+  "models": [
+    {
+      "name": "Viva",
+      "person_id": 56
+    }
+  ],
+  "release_date": "2001-04-25",
+  "scene_id": 140,
+  "tags": [],
+  "title": "Viva"
+}

@@ -1,0 +1,24 @@
+{
+  "collections": [
+    "The Training Of O"
+  ],
+  "description": "Day Two",
+  "models": [
+    {
+      "name": "Amber Keen",
+      "person_id": 18730
+    },
+    {
+      "name": "Maestro",
+      "person_id": 11928
+    },
+    {
+      "name": "Miss Jade Indica",
+      "person_id": 16744
+    }
+  ],
+  "release_date": "2009-04-10",
+  "scene_id": 6338,
+  "tags": [],
+  "title": "The Training of Amber Keen, Day Two"
+}

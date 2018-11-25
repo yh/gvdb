@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Gods Of Men"
+  ],
+  "description": "Wanting",
+  "models": [
+    {
+      "name": "Logan Rogue",
+      "person_id": 365
+    },
+    {
+      "name": "Tomas Brand",
+      "person_id": 364
+    }
+  ],
+  "scene_id": 2183,
+  "title": "Wanting"
+}

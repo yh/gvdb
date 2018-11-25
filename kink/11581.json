@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "The Upper Floor"
+  ],
+  "description": "The Steward of the House, Stefanos, hosts a pre-Holiday brunch on the Upper Floor. Join us for the event along with the rest of the Upper Floor brunch regulars.",
+  "models": [
+    {
+      "name": "Maestro Stefanos",
+      "person_id": 17148
+    },
+    {
+      "name": "Nerine Mechanique",
+      "person_id": 19851
+    }
+  ],
+  "release_date": "2011-01-31",
+  "scene_id": 11581,
+  "tags": [],
+  "title": "Stefanos' Brunch"
+}

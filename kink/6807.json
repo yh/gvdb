@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Naked Kombat"
+  ],
+  "description": "Patrick Rouge returns to add another notch to his Naked Kombat belt. Patrick prepares by slimming down and increases his flexibility for this fight. As luck has it, he shows up with a sort of stomach flu and he's not 100%. Patrick refuses to back down and soldiers on til the end. Trey Turner is big and muscular. He did his homework by looking up Patrick's previous bouts. Even after seeing Patrick dominate he thinks it's going to be an easy day on the mat. But much like all NK first timers, he's in for a rough lesson.",
+  "models": [
+    {
+      "name": "Patrick Rouge",
+      "person_id": 18939
+    },
+    {
+      "name": "Trey Turner",
+      "person_id": 20020
+    }
+  ],
+  "release_date": "2009-08-26",
+  "scene_id": 6807,
+  "tags": [],
+  "title": "Patrick Rouge vs Trey Turner"
+}

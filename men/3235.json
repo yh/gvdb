@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "Fooling Around",
+  "models": [
+    {
+      "name": "Mark Coxx",
+      "person_id": 429
+    },
+    {
+      "name": "Paddy O'Brian",
+      "person_id": 242
+    }
+  ],
+  "scene_id": 3235,
+  "title": "Fooling Around"
+}

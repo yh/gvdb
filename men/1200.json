@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "The Angry Artist",
+  "models": [
+    {
+      "name": "Cole Harvey",
+      "person_id": 161
+    },
+    {
+      "name": "Trenton Ducati",
+      "person_id": 193
+    }
+  ],
+  "scene_id": 1200,
+  "title": "The Angry Artist"
+}

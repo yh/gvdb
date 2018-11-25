@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Dennis West is surprised to learn what he did last night\u2026. Rather WHO he did last night: Lucky Daniels.",
+  "models": [
+    {
+      "name": "Dennis West",
+      "person_id": 1921
+    },
+    {
+      "name": "Lucky Daniels",
+      "person_id": 2341
+    }
+  ],
+  "scene_id": 34781,
+  "title": "Did I Just Do That?"
+}

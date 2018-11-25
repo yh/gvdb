@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Gods Of Men"
+  ],
+  "description": "Tender",
+  "models": [
+    {
+      "name": "Jace Tyler",
+      "person_id": 444
+    },
+    {
+      "name": "Valentino Medici",
+      "person_id": 440
+    }
+  ],
+  "scene_id": 3364,
+  "title": "Tender"
+}

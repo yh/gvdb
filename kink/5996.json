@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Men in Pain"
+  ],
+  "description": "Maitresse Madeline and the boy",
+  "models": [
+    {
+      "name": "Maitresse Madeline Marlowe ",
+      "person_id": 17872
+    },
+    {
+      "name": "Wolf Hudson",
+      "person_id": 14471
+    }
+  ],
+  "release_date": "2010-08-30",
+  "scene_id": 5996,
+  "tags": [],
+  "title": "Maitresse Madeline and the boy"
+}

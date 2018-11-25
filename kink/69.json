@@ -1,0 +1,16 @@
+{
+  "collections": [
+    "Fucking Machines"
+  ],
+  "description": "Ruby rides the Invader while standing up.",
+  "models": [
+    {
+      "name": "Ruby",
+      "person_id": 60
+    }
+  ],
+  "release_date": "2000-10-06",
+  "scene_id": 69,
+  "tags": [],
+  "title": "Ruby"
+}

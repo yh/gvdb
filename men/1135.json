@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "The Other Guy",
+  "models": [
+    {
+      "name": "Micah Andrews",
+      "person_id": 124
+    },
+    {
+      "name": "Trevor Knight",
+      "person_id": 50
+    },
+    {
+      "name": "Tyler Sweet",
+      "person_id": 110
+    }
+  ],
+  "scene_id": 1135,
+  "title": "The Other Guy"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Men In Budapest 4",
+  "models": [
+    {
+      "name": "Andrew Stark",
+      "person_id": 288
+    },
+    {
+      "name": "Claudio Antonelli",
+      "person_id": 332
+    }
+  ],
+  "scene_id": 1470,
+  "title": "Men In Budapest 4"
+}

@@ -1,0 +1,26 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "The Slammer",
+  "models": [
+    {
+      "name": "Christian Wilde",
+      "person_id": 97
+    },
+    {
+      "name": "Cliff Jensen",
+      "person_id": 46
+    },
+    {
+      "name": "Gavin Waters",
+      "person_id": 42
+    },
+    {
+      "name": "Philip Aubrey",
+      "person_id": 6
+    }
+  ],
+  "scene_id": 985,
+  "title": "The Slammer"
+}

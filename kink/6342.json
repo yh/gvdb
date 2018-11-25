@@ -1,0 +1,24 @@
+{
+  "collections": [
+    "The Training Of O"
+  ],
+  "description": "Day Seven",
+  "models": [
+    {
+      "name": "Cherry Torn",
+      "person_id": 11105
+    },
+    {
+      "name": "Wolf Hudson",
+      "person_id": 14471
+    },
+    {
+      "name": "Maestro",
+      "person_id": 11928
+    }
+  ],
+  "release_date": "2009-05-29",
+  "scene_id": 6342,
+  "tags": [],
+  "title": "The Training of Cherry Torn, Day Seven"
+}

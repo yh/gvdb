@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Screen Competition",
+  "models": [
+    {
+      "name": "Josh Bensan",
+      "person_id": 176
+    },
+    {
+      "name": "Randall O'Reilly",
+      "person_id": 219
+    }
+  ],
+  "scene_id": 2062,
+  "title": "Screen Competition"
+}

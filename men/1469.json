@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Men In Budapest 2",
+  "models": [
+    {
+      "name": "Andrew Stark",
+      "person_id": 288
+    },
+    {
+      "name": "Marco Hell",
+      "person_id": 335
+    }
+  ],
+  "scene_id": 1469,
+  "title": "Men In Budapest 2"
+}

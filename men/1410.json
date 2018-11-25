@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "The Disciplinary",
+  "models": [
+    {
+      "name": "Jay Roberts",
+      "person_id": 304
+    },
+    {
+      "name": "Taylor Scott",
+      "person_id": 326
+    }
+  ],
+  "scene_id": 1410,
+  "title": "The Disciplinary"
+}

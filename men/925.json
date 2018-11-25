@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "The All Inclusive Deal",
+  "models": [
+    {
+      "name": "Jeremy Bilding",
+      "person_id": 33
+    },
+    {
+      "name": "Parker London",
+      "person_id": 43
+    }
+  ],
+  "scene_id": 925,
+  "title": "The All Inclusive Deal"
+}

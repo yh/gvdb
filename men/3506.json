@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "Cruising Episode 4",
+  "models": [
+    {
+      "name": "Gabriel Clark",
+      "person_id": 428
+    },
+    {
+      "name": "Leo Domenico",
+      "person_id": 330
+    }
+  ],
+  "scene_id": 3506,
+  "title": "Cruising Episode 4"
+}

@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "The Upper Floor"
+  ],
+  "description": "Maestro Stefanos visits the Upper Floor to talk about hosting a brunch party. He introduces his slave, decisions are made and a fun time is had by all.",
+  "models": [
+    {
+      "name": "Cherry Torn",
+      "person_id": 11105
+    },
+    {
+      "name": "Sarah Shevon",
+      "person_id": 19605
+    }
+  ],
+  "release_date": "2010-02-05",
+  "scene_id": 8097,
+  "tags": [],
+  "title": "Maestro Stefanos' visit"
+}

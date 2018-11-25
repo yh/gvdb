@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Something Better",
+  "models": [
+    {
+      "name": "Spencer Fox",
+      "person_id": 134
+    },
+    {
+      "name": "Valentin Petrov",
+      "person_id": 94
+    }
+  ],
+  "scene_id": 2057,
+  "title": "Something Better"
+}

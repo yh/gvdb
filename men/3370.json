@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Deployment 1",
+  "models": [
+    {
+      "name": "Connor Kline",
+      "person_id": 391
+    },
+    {
+      "name": "Travis James",
+      "person_id": 441
+    }
+  ],
+  "scene_id": 3370,
+  "title": "Deployment 1"
+}

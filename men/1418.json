@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "After The Masquerade",
+  "models": [
+    {
+      "name": "Andrew Stark",
+      "person_id": 288
+    },
+    {
+      "name": "Sebastian Young",
+      "person_id": 165
+    },
+    {
+      "name": "Trey Turner",
+      "person_id": 144
+    }
+  ],
+  "scene_id": 1418,
+  "title": "After The Masquerade"
+}

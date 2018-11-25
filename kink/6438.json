@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "Naked Kombat"
+  ],
+  "description": "The tenacious John Stone is up against good ol' boy Spencer Reed. Spencer is a shy, quiet guy -- until show time. He brings his [REDACTED] wrestling and college brawling experience to the mat, and is all smiles while dominating John Stone. John brings a good amount of tenacity to the ring, but no matter what he tries it doesn't seem to be enough to get out from under Spencer's chiseled body. Will John find his way to the top with the added challenge of the final round - a massive slick of oil? Or will he continue to suffer while making Spencer's day?",
+  "models": [
+    {
+      "name": "John Stone",
+      "person_id": 19036
+    },
+    {
+      "name": "Spencer Reed",
+      "person_id": 19086
+    }
+  ],
+  "release_date": "2009-03-04",
+  "scene_id": 6438,
+  "tags": [
+    "wrestling"
+  ],
+  "title": "John Stone vs Spencer Reed"
+}

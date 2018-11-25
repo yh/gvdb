@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Top To Bottom"
+  ],
+  "description": "The Bodyguard",
+  "models": [
+    {
+      "name": "Jason Goodman",
+      "person_id": 225
+    },
+    {
+      "name": "Rafael Alencar",
+      "person_id": 47
+    }
+  ],
+  "scene_id": 1396,
+  "title": "The Bodyguard"
+}

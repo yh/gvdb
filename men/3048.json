@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Taking Measurements",
+  "models": [
+    {
+      "name": "Jessy Dean",
+      "person_id": 408
+    },
+    {
+      "name": "Rafael Alencar",
+      "person_id": 47
+    },
+    {
+      "name": "Vance Crawford",
+      "person_id": 358
+    }
+  ],
+  "scene_id": 3048,
+  "title": "Taking Measurements"
+}

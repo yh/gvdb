@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "The Ringer",
+  "models": [
+    {
+      "name": "Riley Price",
+      "person_id": 52
+    },
+    {
+      "name": "Ryan Evans",
+      "person_id": 208
+    }
+  ],
+  "scene_id": 1281,
+  "title": "The Ringer"
+}

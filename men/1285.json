@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Teach Me Poker",
+  "models": [
+    {
+      "name": "Kris Jameson",
+      "person_id": 237
+    },
+    {
+      "name": "Tyr Alexander",
+      "person_id": 56
+    }
+  ],
+  "scene_id": 1285,
+  "title": "Teach Me Poker"
+}

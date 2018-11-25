@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Turning Tables",
+  "models": [
+    {
+      "name": "Krys Perez",
+      "person_id": 28
+    },
+    {
+      "name": "Phenix Saint",
+      "person_id": 40
+    },
+    {
+      "name": "Philip Aubrey",
+      "person_id": 6
+    }
+  ],
+  "scene_id": 935,
+  "title": "Turning Tables"
+}

@@ -1,0 +1,15 @@
+{
+  "description": "Ken is a guy I met up with at a hotel one afternoon. He's a tech support representative for an office supply company.\nGreat smile and a lot of fun!",
+  "models": [
+    {
+      "name": "Ken",
+      "person_id": 111
+    }
+  ],
+  "release_date": "2001-09-07",
+  "scene_id": 5,
+  "tags": [
+    "Solo"
+  ],
+  "title": "Ken"
+}

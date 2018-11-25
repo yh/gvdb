@@ -1,0 +1,16 @@
+{
+  "collections": [
+    "Hogtied"
+  ],
+  "description": "Marty goes to work on CJ.",
+  "models": [
+    {
+      "name": "C.J.",
+      "person_id": 62
+    }
+  ],
+  "release_date": "2001-01-31",
+  "scene_id": 142,
+  "tags": [],
+  "title": "C.J."
+}

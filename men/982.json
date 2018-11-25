@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "The Doctor's Office",
+  "models": [
+    {
+      "name": "Jessie Colter",
+      "person_id": 80
+    },
+    {
+      "name": "Valentin Petrov",
+      "person_id": 94
+    }
+  ],
+  "scene_id": 982,
+  "title": "The Doctor's Office"
+}

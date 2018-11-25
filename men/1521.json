@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "The Straight To Gay Show 1",
+  "models": [
+    {
+      "name": "Brandon Lewis",
+      "person_id": 1
+    },
+    {
+      "name": "Christian Wilde",
+      "person_id": 97
+    }
+  ],
+  "scene_id": 1521,
+  "title": "The Straight To Gay Show 1"
+}

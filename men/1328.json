@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "The Rematch",
+  "models": [
+    {
+      "name": "Chris Tyler",
+      "person_id": 156
+    },
+    {
+      "name": "Ryan Evans",
+      "person_id": 208
+    }
+  ],
+  "scene_id": 1328,
+  "title": "The Rematch"
+}

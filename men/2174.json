@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "The Personal Trainer",
+  "models": [
+    {
+      "name": "Duncan Black",
+      "person_id": 322
+    },
+    {
+      "name": "Lawson Kane",
+      "person_id": 376
+    }
+  ],
+  "scene_id": 2174,
+  "title": "The Personal Trainer"
+}

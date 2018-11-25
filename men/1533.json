@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "Mates Part 3",
+  "models": [
+    {
+      "name": "Darius Ferdynand",
+      "person_id": 359
+    },
+    {
+      "name": "Paddy O'Brian",
+      "person_id": 242
+    },
+    {
+      "name": "Paul Walker",
+      "person_id": 325
+    }
+  ],
+  "scene_id": 1533,
+  "title": "Mates Part 3"
+}

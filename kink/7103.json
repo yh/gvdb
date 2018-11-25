@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Naked Kombat"
+  ],
+  "description": "With the record of 0-1 on NK, DJ is ready for another chance. He learned a lot from his last match and now he is more focused on scoring points. Martin Lorenzo is a hot New Yorker with a bad attitude. He's new on NK but he acts like he owns the place. It's the battle of two hot ripped studs.\nThis match was shot before the new scoring format.",
+  "models": [
+    {
+      "name": "DJ",
+      "person_id": 20225
+    },
+    {
+      "name": "Martin Lorenzo",
+      "person_id": 20569
+    }
+  ],
+  "release_date": "2009-10-21",
+  "scene_id": 7103,
+  "tags": [],
+  "title": "DJ vs Martin Lorenzo "
+}

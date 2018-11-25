@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "Cruising Episode 3",
+  "models": [
+    {
+      "name": "Gabriel Clark",
+      "person_id": 428
+    },
+    {
+      "name": "Marco Rubi",
+      "person_id": 431
+    }
+  ],
+  "scene_id": 3505,
+  "title": "Cruising Episode 3"
+}

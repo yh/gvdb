@@ -1,0 +1,16 @@
+{
+  "collections": [
+    "Fucking Machines"
+  ],
+  "description": "Trixie's friend Pink came to pay a visit to our machines, I dare say she left a very satisfied customer.",
+  "models": [
+    {
+      "name": "Pink",
+      "person_id": 245
+    }
+  ],
+  "release_date": "2002-03-15",
+  "scene_id": 419,
+  "tags": [],
+  "title": "Pink"
+}

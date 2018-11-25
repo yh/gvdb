@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "Smack Me Up",
+  "models": [
+    {
+      "name": "Mickey Taylor",
+      "person_id": 931
+    },
+    {
+      "name": "Paul Walker",
+      "person_id": 325
+    }
+  ],
+  "scene_id": 9931,
+  "title": "Smack Me Up"
+}

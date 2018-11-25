@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "The Political Convention",
+  "models": [
+    {
+      "name": "John Magnum",
+      "person_id": 19
+    },
+    {
+      "name": "Rocco Reed",
+      "person_id": 264
+    }
+  ],
+  "scene_id": 1498,
+  "title": "The Political Convention"
+}

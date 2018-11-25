@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Hogtied"
+  ],
+  "description": "Torque describes himself as 'a bit of a bastard'. He certainly has a sadistic side to him. In this set he dominates Dusty.",
+  "models": [
+    {
+      "name": "Torque",
+      "person_id": 1327
+    },
+    {
+      "name": "Dusty",
+      "person_id": 194
+    }
+  ],
+  "release_date": "2003-03-12",
+  "scene_id": 906,
+  "tags": [],
+  "title": "Dusty and Torque"
+}

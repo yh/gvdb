@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Dirty Laundry",
+  "models": [
+    {
+      "name": "Tony Hunter",
+      "person_id": 49
+    },
+    {
+      "name": "Tony Paradise",
+      "person_id": 123
+    }
+  ],
+  "scene_id": 1103,
+  "title": "Dirty Laundry"
+}

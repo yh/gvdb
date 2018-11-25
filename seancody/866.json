@@ -1,0 +1,19 @@
+{
+  "description": "Behind-the-scenes footage from \"Hawaii - Kurt & Doug\"!",
+  "models": [
+    {
+      "name": "Doug",
+      "person_id": 547
+    },
+    {
+      "name": "Kurt",
+      "person_id": 501
+    }
+  ],
+  "release_date": "2009-08-30",
+  "scene_id": 866,
+  "tags": [
+    "Behind the Scenes"
+  ],
+  "title": "Hawaii - Kurt & Doug: Behind the Scenes"
+}

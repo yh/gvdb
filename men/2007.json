@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Pool Shark",
+  "models": [
+    {
+      "name": "Brandon Lewis",
+      "person_id": 1
+    },
+    {
+      "name": "Johnny Rapid",
+      "person_id": 120
+    }
+  ],
+  "scene_id": 2007,
+  "title": "Pool Shark"
+}

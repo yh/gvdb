@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "Back Seat Romeos",
+  "models": [
+    {
+      "name": "Johnny Rapid",
+      "person_id": 120
+    },
+    {
+      "name": "Morgan Shades",
+      "person_id": 167
+    }
+  ],
+  "scene_id": 1269,
+  "title": "Back Seat Romeos"
+}

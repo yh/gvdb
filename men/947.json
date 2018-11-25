@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Str8 to Gay"
+  ],
+  "description": "You Can Run But You Can't Hide",
+  "models": [
+    {
+      "name": "Shane Frost",
+      "person_id": 59
+    },
+    {
+      "name": "Tyler Andrews",
+      "person_id": 60
+    }
+  ],
+  "scene_id": 947,
+  "title": "You Can Run But You Can't Hide"
+}

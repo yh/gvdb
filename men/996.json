@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "Double Lives",
+  "models": [
+    {
+      "name": "Kirk Cummings",
+      "person_id": 66
+    },
+    {
+      "name": "Mike Martin",
+      "person_id": 88
+    }
+  ],
+  "scene_id": 996,
+  "title": "Double Lives"
+}

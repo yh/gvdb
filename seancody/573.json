@@ -1,0 +1,15 @@
+{
+  "description": "\"I grew up on a farm.\"\n\"Really?\" I asked. \"What kind?\"\n\"Dairy, mostly.\"\nA lot of our guys come from the midwest. Sonny is 21 years old and moved away from home to attend college.\n\"My parents' place is out in the middle of nowhere. There's nothing around.\"\n\"Are you glad to be gone?\" I asked.\n\"Yeah, I'm meeting a lot more people where I live now.\"\nAnd by \"people\" I'm sure he means \"girls.\"",
+  "models": [
+    {
+      "name": "Sonny",
+      "person_id": 401
+    }
+  ],
+  "release_date": "2008-01-28",
+  "scene_id": 573,
+  "tags": [
+    "Solo"
+  ],
+  "title": "Sonny"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "Crazy Attraction",
+  "models": [
+    {
+      "name": "Billy Santoro",
+      "person_id": 402
+    },
+    {
+      "name": "Landon Conrad",
+      "person_id": 282
+    }
+  ],
+  "scene_id": 3462,
+  "title": "Crazy Attraction"
+}

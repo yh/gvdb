@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Authorization",
+  "models": [
+    {
+      "name": "Blaze",
+      "person_id": 38
+    },
+    {
+      "name": "Sebastian Young",
+      "person_id": 165
+    }
+  ],
+  "scene_id": 2103,
+  "title": "Authorization"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "The Poolboy",
+  "models": [
+    {
+      "name": "Billy Byron",
+      "person_id": 74
+    },
+    {
+      "name": "Trevor Knight",
+      "person_id": 50
+    }
+  ],
+  "scene_id": 964,
+  "title": "The Poolboy"
+}

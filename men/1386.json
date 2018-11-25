@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "Out Of Town Trick",
+  "models": [
+    {
+      "name": "Marcus Ruhl",
+      "person_id": 283
+    },
+    {
+      "name": "Trenton Ducati",
+      "person_id": 193
+    }
+  ],
+  "scene_id": 1386,
+  "title": "Out Of Town Trick"
+}

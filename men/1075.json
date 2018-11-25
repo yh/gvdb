@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Striker",
+  "models": [
+    {
+      "name": "Adam Killian",
+      "person_id": 79
+    },
+    {
+      "name": "Matt Cole",
+      "person_id": 109
+    }
+  ],
+  "scene_id": 1075,
+  "title": "Striker"
+}

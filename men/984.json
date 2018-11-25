@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "Alternative Payment",
+  "models": [
+    {
+      "name": "Derrick Vinyard",
+      "person_id": 96
+    },
+    {
+      "name": "Parker London",
+      "person_id": 43
+    }
+  ],
+  "scene_id": 984,
+  "title": "Alternative Payment"
+}

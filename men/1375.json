@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "Bashed And Furious 2",
+  "models": [
+    {
+      "name": "Marco Sessions",
+      "person_id": 291
+    },
+    {
+      "name": "Paddy O'Brian",
+      "person_id": 242
+    }
+  ],
+  "scene_id": 1375,
+  "title": "Bashed And Furious 2"
+}

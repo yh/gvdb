@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "Bike Thief",
+  "models": [
+    {
+      "name": "Ayden Marx",
+      "person_id": 197
+    },
+    {
+      "name": "Luca Rosso",
+      "person_id": 179
+    }
+  ],
+  "scene_id": 1268,
+  "title": "Bike Thief"
+}

@@ -1,0 +1,16 @@
+{
+  "collections": [
+    "Hogtied"
+  ],
+  "description": "This BONUS weekend update is part 1 of a tutorial series that we have done for the membership. This first addition is a rope tutorial on the Japanese arm tie. If you're interested in improving your rope skills check it out.",
+  "models": [
+    {
+      "name": "Venus",
+      "person_id": 2302
+    }
+  ],
+  "release_date": "2004-02-20",
+  "scene_id": 1533,
+  "tags": [],
+  "title": "Venus"
+}

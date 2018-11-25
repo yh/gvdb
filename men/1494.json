@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Men of UK"
+  ],
+  "description": "The Cable Guy",
+  "models": [
+    {
+      "name": "Harley Everett",
+      "person_id": 290
+    },
+    {
+      "name": "Scott Hunter",
+      "person_id": 331
+    }
+  ],
+  "scene_id": 1494,
+  "title": "The Cable Guy"
+}

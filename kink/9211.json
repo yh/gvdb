@@ -1,0 +1,30 @@
+{
+  "collections": [
+    "The Upper Floor"
+  ],
+  "description": "Tour the Armory basement with Stefanos, then leather strait jackets and cigars in the afternoon",
+  "models": [
+    {
+      "name": "Cherry Torn",
+      "person_id": 11105
+    },
+    {
+      "name": "Bella Rossi",
+      "person_id": 18418
+    },
+    {
+      "name": "Maestro Stefanos",
+      "person_id": 17148
+    },
+    {
+      "name": "Nerine Mechanique",
+      "person_id": 19851
+    }
+  ],
+  "release_date": "2010-06-22",
+  "scene_id": 9211,
+  "tags": [
+    "leather"
+  ],
+  "title": "Service Session: Tour the Armory Part 2"
+}

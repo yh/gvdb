@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "The Gay Office"
+  ],
+  "description": "Snooping Around",
+  "models": [
+    {
+      "name": "Bo Dean",
+      "person_id": 82
+    },
+    {
+      "name": "Lex Sabre",
+      "person_id": 12
+    }
+  ],
+  "scene_id": 1005,
+  "title": "Snooping Around"
+}

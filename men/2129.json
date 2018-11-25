@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Drill My Hole"
+  ],
+  "description": "1Hr Service",
+  "models": [
+    {
+      "name": "Donny Wright",
+      "person_id": 314
+    },
+    {
+      "name": "Mike De Marko",
+      "person_id": 318
+    }
+  ],
+  "scene_id": 2129,
+  "title": "1Hr Service"
+}
