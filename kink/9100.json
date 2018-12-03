@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "Artist Nancy Peach unveils an enormous painting in celebration of the Upper Floor.",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Cherry Torn",

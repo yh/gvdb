@@ -3,6 +3,12 @@
     "Hogtied"
   ],
   "description": "Tina is tied and suspended in various painful ways.",
+  "directors": [
+    {
+      "name": "Peter",
+      "person_id": 49
+    }
+  ],
   "models": [
     {
       "name": "Tina",

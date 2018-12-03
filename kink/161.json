@@ -3,6 +3,12 @@
     "Hogtied"
   ],
   "description": "Marty ties the wonderfully sexy Jewell.",
+  "directors": [
+    {
+      "name": "Marty",
+      "person_id": 50
+    }
+  ],
   "models": [
     {
       "name": "Jewell Marceau",

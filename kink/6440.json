@@ -3,6 +3,12 @@
     "Naked Kombat"
   ],
   "description": "Nice guy Dean Tucker battles the sarcastic and careless James Hamilton. Dean Tucker is a sweetheart -- but don't let that fool you when he steps on to the mat. He packs a surprising arsenal of moves from his days as a college kick boxer, and there's nothing nice about the way he unleashes them. James brings his street-fighting mentality to the Naked Kombat ring, but it only goes to show that you need more than an attitude to stay on top here. Yes - he's the bad-ass in the Naked Kombat opening titles. A close match throughout, you won't want to miss the final mud round in which each combatant is covered from head-to-toe, and is made to abandon their strengths in favor of anything that will keep them from being the bottom.",
+  "directors": [
+    {
+      "name": "Van Darkholme",
+      "person_id": 54
+    }
+  ],
   "models": [
     {
       "name": "Dean Tucker",

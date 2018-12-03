@@ -3,6 +3,12 @@
     "Hogtied"
   ],
   "description": "Clair is back by popular request. Again, she is wonderful to play with.",
+  "directors": [
+    {
+      "name": "Peter",
+      "person_id": 49
+    }
+  ],
   "models": [
     {
       "name": "Claire Adams",

@@ -3,6 +3,12 @@
     "Hogtied"
   ],
   "description": "More of the wonderful Rhannion.",
+  "directors": [
+    {
+      "name": "Peter",
+      "person_id": 49
+    }
+  ],
   "models": [
     {
       "name": "Rhannion",

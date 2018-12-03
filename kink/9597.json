@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "Member request is fullfilled when Torn is slapped silly then disciplined for being out of uniform.",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Cherry Torn",

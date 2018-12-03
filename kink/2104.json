@@ -3,6 +3,12 @@
     "Ultimate Surrender"
   ],
   "description": "Rage meets Ice. Rage who was brutally violent against her last opponent comes into this match confident. Both wrestlers undefeated!\nIce defeats and crushes Rage. To this day she is the only wrestler ever to give up on the mat. The Ultimate Surrender, in round two.",
+  "directors": [
+    {
+      "name": "Matt Williams",
+      "person_id": 51
+    }
+  ],
   "models": [
     {
       "name": "Janay",

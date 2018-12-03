@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "Part Two of our over the top crazy ass sex orgy on the Upper Floor.",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Mickey Mod",

@@ -3,6 +3,12 @@
     "Hogtied"
   ],
   "description": "Carly is great to tie. These positions were copied from Bishops cartoons.",
+  "directors": [
+    {
+      "name": "Peter",
+      "person_id": 49
+    }
+  ],
   "models": [
     {
       "name": "Carly",

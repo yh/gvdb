@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "Maestro Stefanos visits the Upper Floor to talk about hosting a brunch party. He introduces his slave, decisions are made and a fun time is had by all.",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Cherry Torn",

@@ -3,6 +3,12 @@
     "Hogtied"
   ],
   "description": "Ivy gets some inviting suspensions.",
+  "directors": [
+    {
+      "name": "Peter",
+      "person_id": 49
+    }
+  ],
   "models": [
     {
       "name": "Ivy",

@@ -3,6 +3,12 @@
     "Men in Pain"
   ],
   "description": "Kanada is another person who responded to our ad on the internet. Kym Wilde gives him an experience that he will never forget.",
+  "directors": [
+    {
+      "name": "Marty",
+      "person_id": 50
+    }
+  ],
   "models": [
     {
       "name": "Kanada",

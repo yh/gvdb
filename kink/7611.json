@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "Torn learns the routines of the Upper Floor, starting with the morning workouts, preparing herself for service, and serving the men in the lounge.",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Cherry Torn",

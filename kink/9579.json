@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "The house slaves are given a lesson in polishing shoes.",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Cherry Torn",

@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "The first Slave Initiation into service on the Upper Floor.",
+  "directors": [
+    {
+      "name": "Peter",
+      "person_id": 49
+    }
+  ],
   "models": [
     {
       "name": "Maestro",

@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "The House Steward, Stefanos, hosts a community brunch of local BDSM Players.",
+  "directors": [
+    {
+      "name": "The Pope",
+      "person_id": 60
+    }
+  ],
   "models": [
     {
       "name": "Maestro Stefanos",

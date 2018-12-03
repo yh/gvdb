@@ -3,6 +3,12 @@
     "Naked Kombat"
   ],
   "description": "The maniac Brenn Wyson is back this week. He's fighting a hot newcomer Brandon Lewis on the Ultimate Surrender mat. Brandon is a big tough football player from the South and he's ready to upset Brenn's 2-0 record. Will Brenn destroy 3 fighters in a row and make them all his bitches?",
+  "directors": [
+    {
+      "name": "Van Darkholme",
+      "person_id": 54
+    }
+  ],
   "models": [
     {
       "name": "Brandon Lewis ",

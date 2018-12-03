@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "Highlights from the site launch party and all the debauchery that comes with an Upper Floor event. Enjoy.",
+  "directors": [
+    {
+      "name": "Peter",
+      "person_id": 49
+    }
+  ],
   "models": [
     {
       "name": "Jack Hammer",

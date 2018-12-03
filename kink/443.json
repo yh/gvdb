@@ -3,6 +3,12 @@
     "Hogtied"
   ],
   "description": "This is another playfull log cabin shoot. This time with sexy Rhiannon.",
+  "directors": [
+    {
+      "name": "Peter",
+      "person_id": 49
+    }
+  ],
   "models": [
     {
       "name": "Rhiannon Bray",

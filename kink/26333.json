@@ -3,6 +3,12 @@
     "KinkLive"
   ],
   "description": "this is the end. the end my only friend",
+  "directors": [
+    {
+      "name": "Maitresse Madeline Marlowe",
+      "person_id": 57
+    }
+  ],
   "models": [
     {
       "name": "Bella Rossi",

@@ -3,6 +3,12 @@
     "Fucking Machines"
   ],
   "description": "Victoria gets introduced to Invader and gets invaded!",
+  "directors": [
+    {
+      "name": "Peter",
+      "person_id": 49
+    }
+  ],
   "models": [
     {
       "name": "Victoria",

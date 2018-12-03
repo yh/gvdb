@@ -3,6 +3,12 @@
     "KinkLive"
   ],
   "description": "An edited update from one of Winter Sky's Live Cam shows.",
+  "directors": [
+    {
+      "name": "Maitresse Madeline Marlowe",
+      "person_id": 57
+    }
+  ],
   "models": [
     {
       "name": "Winter Sky",

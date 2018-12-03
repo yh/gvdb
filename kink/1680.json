@@ -3,6 +3,12 @@
     "Hogtied"
   ],
   "description": "This BONUS weekend update is part 4 of a tutorial series that we have done for the membership. This forth addition is a rope tutorial while using a chair as a tool. Enjoy the EXTRA update!",
+  "directors": [
+    {
+      "name": "Matt Williams",
+      "person_id": 51
+    }
+  ],
   "models": [
     {
       "name": "Venus",

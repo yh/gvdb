@@ -3,6 +3,12 @@
     "Ultimate Surrender"
   ],
   "description": "The Brawler has certainly paid her dues. She has\nwrestled The Nightmare, The Goddess\nand Vendetta. Now that she's had the mat time with\nexperienced wrestlers, she can show off to us what she\nhas learned.\nThe Deceptacon so names herself because she states\nthat\npeople underestimate her\nall the time. She is VERY strong and likes to rough\nit up. However on Ultimatesurrender,\nexperience has the track record for victories over\nstrength and determination.",
+  "directors": [
+    {
+      "name": "Matt Williams",
+      "person_id": 51
+    }
+  ],
   "models": [
     {
       "name": "Harmony",

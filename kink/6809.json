@@ -3,6 +3,12 @@
     "Naked Kombat"
   ],
   "description": "Luke Riley has one victory to his credit so far and looks to defend his record against the muscular Samuel Colt this week. Since Luke won his last bout in the Water Match, he's been in the gym everyday working on his cardio. But will it be enough to stay on top with Samuel's Hulk-like body, eight years of military background and hand-to-hand combat experience?\nSamuel was so horned up to wrestle for Naked Kombat that Mustang agreed to lend us their newest exclusive model.",
+  "directors": [
+    {
+      "name": "Van Darkholme",
+      "person_id": 54
+    }
+  ],
   "models": [
     {
       "name": "Luke Riley",

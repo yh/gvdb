@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "The Pope and the Butler pay a surprise visit to the slave girls and teach them a thing or two about making bunks and sloppy housework",
+  "directors": [
+    {
+      "name": "The Pope",
+      "person_id": 60
+    }
+  ],
   "models": [
     {
       "name": "Kait Snow",

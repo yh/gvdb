@@ -3,6 +3,12 @@
     "Hogtied"
   ],
   "description": "Talia is back! This time she is tied by Marty.",
+  "directors": [
+    {
+      "name": "Marty",
+      "person_id": 50
+    }
+  ],
   "models": [
     {
       "name": "Talia Monet",

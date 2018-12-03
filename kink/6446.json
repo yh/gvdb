@@ -3,6 +3,12 @@
     "Naked Kombat"
   ],
   "description": "Naked Kombat presents its first ever shoot in front of a live audience! The fighters for these lucky guests are no strangers to the sport. Patrick Rouge and Tyler Saint have both dealt their fair share of domination on the mat. Patrick has one win and one loss to his credit but has proved himself as not only a formidable opponent but one hell of a bottom as well. Tyler is without a victory so far but only because of a mess of cheap shots dealt to his opponent Nick Moretti in a match otherwise filled with Tyler on top. This hard slamming match has public humiliation at stake and these fighters go balls out to avoid being on the wrong end of it.",
+  "directors": [
+    {
+      "name": "Van Darkholme",
+      "person_id": 54
+    }
+  ],
   "models": [
     {
       "name": "Patrick Rouge",

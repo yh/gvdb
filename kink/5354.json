@@ -3,6 +3,12 @@
     "The Training Of O"
   ],
   "description": "Graduation Day",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Alexa Von Tess",

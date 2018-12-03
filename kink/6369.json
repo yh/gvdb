@@ -3,6 +3,12 @@
     "Men in Pain"
   ],
   "description": "By gorgeous Nika Noire",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Nika Noire",

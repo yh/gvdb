@@ -3,6 +3,12 @@
     "Men in Pain"
   ],
   "description": "Isis is back and ready for a new chew toy.",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Curt Wooster",

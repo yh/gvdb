@@ -3,6 +3,12 @@
     "Naked Kombat"
   ],
   "description": "It's almost been too easy for Rusty Stevens to hold his undefeated record on Naked Kombat, but today, Tommy Defendi has his sights set on giving Rusty his first loss. The last time we saw Tommy he was initiated with a defeat from a skilled fighter. Having learned the ropes the hard way he began training for his next bout immediately. Rusty is cocky as ever and still hasn't changed his training regimen to meet the rigors of NK but so far he hasn't needed to. He's still a ripped muscle god, and this week, his muscles are all shiny and hard covered in oil. Can Tommy take down the pretty boy, or will Rusty remain in \"top\" form.",
+  "directors": [
+    {
+      "name": "Van Darkholme",
+      "person_id": 54
+    }
+  ],
   "models": [
     {
       "name": "Rusty Stevens",

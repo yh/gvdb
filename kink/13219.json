@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "House slaves sin and grace put on a lovely floor display for some surprise guests on The Upper Floor.",
+  "directors": [
+    {
+      "name": "The Pope",
+      "person_id": 60
+    }
+  ],
   "models": [
     {
       "name": "Iona Grace",

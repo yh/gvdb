@@ -3,6 +3,12 @@
     "Men in Pain"
   ],
   "description": "The Bigger They Come",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Alrik Angel",

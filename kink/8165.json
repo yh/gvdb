@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "When Torn refuses to sing she is punished for willful disobedience. At the end of this week she faces possible promotion.",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Cherry Torn",

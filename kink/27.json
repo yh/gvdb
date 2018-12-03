@@ -3,6 +3,12 @@
     "Hogtied"
   ],
   "description": "Peanut gets it like only Hogtied knows how!",
+  "directors": [
+    {
+      "name": "Peter",
+      "person_id": 49
+    }
+  ],
   "models": [
     {
       "name": "Peanut",

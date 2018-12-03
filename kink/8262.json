@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "House slave Shevon is to be reviewed, but it's Torn that takes the correction.",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Cherry Torn",

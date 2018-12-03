@@ -3,6 +3,12 @@
     "Hogtied"
   ],
   "description": "New Shoot: Beautiful Ivy is strapped to the rack.",
+  "directors": [
+    {
+      "name": "Peter",
+      "person_id": 49
+    }
+  ],
   "models": [
     {
       "name": "Ivy",

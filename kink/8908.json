@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "Master of the House Mr. Acworth grabs up some fresh meat from the talent department and tries to convince lead trainer Mr. Mogul to train her as a slave!",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Cherry Torn",

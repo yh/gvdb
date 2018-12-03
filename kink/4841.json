@@ -3,6 +3,12 @@
     "Ultimate Surrender"
   ],
   "description": "In the last Summer Vengeance tournament both wrestlers were eliminated in the first round. Sarah Jane Ceylon aka \"Blondie\" came into the Tournament ranked 12th, Alexa Von Tess aka \"The Badger\" ranked 14th.\nThis is a brand new season, it will be interesting to see who makes the final 16 for Summer Vengeance II when June comes around. The fighting for those spots start here and now.",
+  "directors": [
+    {
+      "name": "Matt Williams",
+      "person_id": 51
+    }
+  ],
   "models": [
     {
       "name": "Alexa Von Tess",

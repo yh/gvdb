@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "The house slaves are told to treat Candy Manson with the highest degree of hospitality.",
+  "directors": [
+    {
+      "name": "The Pope",
+      "person_id": 60
+    }
+  ],
   "models": [
     {
       "name": "Iona Grace",

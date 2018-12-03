@@ -3,6 +3,12 @@
     "Hogtied"
   ],
   "description": "Marty suspends the lovely Shikira.",
+  "directors": [
+    {
+      "name": "Marty",
+      "person_id": 50
+    }
+  ],
   "models": [
     {
       "name": "Shikira",

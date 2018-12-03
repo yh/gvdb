@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "As slave consort, grace must learn how to administer a punishment. The Pope takes the afternoon to teach her, using robot as a target.",
+  "directors": [
+    {
+      "name": "The Pope",
+      "person_id": 60
+    }
+  ],
   "models": [
     {
       "name": "Iona Grace",

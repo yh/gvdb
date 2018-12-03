@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "Torn teaches Rossi to lay the table",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Cherry Torn",

@@ -3,6 +3,12 @@
     "Naked Kombat"
   ],
   "description": "Corn bred Dustin Michaels is back for another match. This time against newcomer Ty Tucker. Ty is athletic and has football background. Both are extremely competitive and neither wants to be dominated in the Sex Round.",
+  "directors": [
+    {
+      "name": "Van Darkholme",
+      "person_id": 54
+    }
+  ],
   "models": [
     {
       "name": "Dustin Michaels",

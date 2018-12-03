@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "BDSM players from the local community come together to celebrate the Steward's birthday with a decadent and debaucherous brunch.",
+  "directors": [
+    {
+      "name": "The Pope",
+      "person_id": 60
+    }
+  ],
   "models": [
     {
       "name": "Maestro Stefanos",

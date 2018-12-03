@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "The House Steward hosts a brunch for the BDSM Community.",
+  "directors": [
+    {
+      "name": "The Pope",
+      "person_id": 60
+    }
+  ],
   "models": [
     {
       "name": "Nerine Mechanique",

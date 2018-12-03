@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "The Slaves flolick while the Master is away",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Cherry Torn",

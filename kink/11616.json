@@ -3,6 +3,12 @@
     "The Training Of O"
   ],
   "description": "The day begins with our new candidates arriving at the Armory. Upon arrival they are shackled together and made to march around the drill court and then to the basement of the Armory where their training will start. They are tested on many different levels of endurance and pain tolerance, until two get dismissed at the end of the day.",
+  "directors": [
+    {
+      "name": "The Pope",
+      "person_id": 60
+    }
+  ],
   "models": [
     {
       "name": "Iona Grace",

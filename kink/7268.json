@@ -3,6 +3,12 @@
     "Naked Kombat"
   ],
   "description": "Two NK powerhouse are going at it head to head. Patrick Rouge and Spencer Reed are extremely competitive. Both are on a winning streak and neither wants to lose. Spencer is bigger and taller but Patrick has a fighting background. Whatever is not settled here today... they will take to the Live Web Streaming Match on Friday, November 13th. See you there!",
+  "directors": [
+    {
+      "name": "Van Darkholme",
+      "person_id": 54
+    }
+  ],
   "models": [
     {
       "name": "Patrick Rouge",

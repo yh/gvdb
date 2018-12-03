@@ -3,6 +3,12 @@
     "Naked Kombat"
   ],
   "description": "Dean Tucker and Drake Jaden are battling it out in front of a live audience. Dean Tucker is looking to add another victory to his 1-1 record. He brings his reliable head and arm technique and his Naked Kombat experience to dominate Drake Jaden. Drake doesn't know the sting of defeat yet and is ready to do anything to avoid tacking his first loss in front of a mob of 50 people. With the crowd roaring, the adrenaline pumping, and the threat of public humiliation at stake these fighters really let it all out.",
+  "directors": [
+    {
+      "name": "Van Darkholme",
+      "person_id": 54
+    }
+  ],
   "models": [
     {
       "name": "Dean Tucker",

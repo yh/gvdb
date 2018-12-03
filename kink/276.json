@@ -3,6 +3,12 @@
     "Hogtied"
   ],
   "description": "Molly is back for more fun with pipes, ropes and a new head restraint.",
+  "directors": [
+    {
+      "name": "Peter",
+      "person_id": 49
+    }
+  ],
   "models": [
     {
       "name": "Molly Matthews",

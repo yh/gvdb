@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "House Slave Bella Rossi is introduced to the Upper Floor protocols and procedures in her first day of official service.",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Cherry Torn",

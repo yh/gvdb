@@ -3,6 +3,12 @@
     "Naked Kombat"
   ],
   "description": "With a current record of 1-1, Dustin Michaels is looking for a victory against newcomer Jason Miller. Dustin is a tough fighter who has managed to best his opponents with his raw strength. Dropping 15 pounds for this match, Dustin no longer has his weight advantage . Jason Miller is new but he has studied Naked Kombat and trained hard for this bout by building his endurance. Will Jason hold out long enough to take advantage of Dustin's weight loss, or will Dustin be stronger and faster?",
+  "directors": [
+    {
+      "name": "Van Darkholme",
+      "person_id": 54
+    }
+  ],
   "models": [
     {
       "name": "Dustin Michaels",

@@ -3,6 +3,12 @@
     "Men in Pain"
   ],
   "description": "Mike found us through an ad on the Internet and decided to take a hard beating from Kym Wilde.",
+  "directors": [
+    {
+      "name": "Marty",
+      "person_id": 50
+    }
+  ],
   "models": [
     {
       "name": "Mike",

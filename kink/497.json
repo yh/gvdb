@@ -3,6 +3,12 @@
     "Men in Pain"
   ],
   "description": "Kym Wilde uses Jamie Gillis as a workout toy.",
+  "directors": [
+    {
+      "name": "Marty",
+      "person_id": 50
+    }
+  ],
   "models": [
     {
       "name": "Jamie Gillis",

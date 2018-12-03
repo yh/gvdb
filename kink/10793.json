@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "",
+  "directors": [
+    {
+      "name": "The Pope",
+      "person_id": 60
+    }
+  ],
   "models": [
     {
       "name": "Chloe Camilla",

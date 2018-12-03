@@ -3,6 +3,12 @@
     "Hogtied"
   ],
   "description": "Ivy gets chained in our dungeon - more images you wont get anywhere else.",
+  "directors": [
+    {
+      "name": "Peter",
+      "person_id": 49
+    }
+  ],
   "models": [
     {
       "name": "Ivy",

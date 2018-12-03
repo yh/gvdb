@@ -3,6 +3,12 @@
     "Ultimate Surrender"
   ],
   "description": "Both opponents have never won a match. Both opponents are in the Featherweight category. Both opponents are hungry for a win. The Samurai wanted it more, however the Kitty never gave up. Congratulation to the Samurai for her first US win!",
+  "directors": [
+    {
+      "name": "Matt Williams",
+      "person_id": 51
+    }
+  ],
   "models": [
     {
       "name": "Yellow Kitty",

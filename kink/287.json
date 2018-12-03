@@ -3,6 +3,12 @@
     "Hogtied"
   ],
   "description": "One of our favorites, Ivy, gets the steel and rope treatment",
+  "directors": [
+    {
+      "name": "Peter",
+      "person_id": 49
+    }
+  ],
   "models": [
     {
       "name": "Ivy",

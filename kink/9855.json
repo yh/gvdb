@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "A Recap of Events on The Upper Floor from 12/09 to 8/10",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Maestro",

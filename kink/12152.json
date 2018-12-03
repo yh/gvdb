@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "The Pope, the Governess, and the Steward put the house slaves to the test to see who is fit to perform the job of slave consort.",
+  "directors": [
+    {
+      "name": "The Pope",
+      "person_id": 60
+    }
+  ],
   "models": [
     {
       "name": "Kait Snow",

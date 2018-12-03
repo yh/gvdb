@@ -3,6 +3,12 @@
     "Fucking Machines"
   ],
   "description": "Ruby rides the Invader while standing up.",
+  "directors": [
+    {
+      "name": "Peter",
+      "person_id": 49
+    }
+  ],
   "models": [
     {
       "name": "Ruby",

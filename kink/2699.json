@@ -3,6 +3,12 @@
     "Fucking Machines"
   ],
   "description": "Finesse plays the poor peasant girl who stumbles across some mysterious machines in a basment room.",
+  "directors": [
+    {
+      "name": "Peter",
+      "person_id": 49
+    }
+  ],
   "models": [
     {
       "name": "Finesse Navaro",

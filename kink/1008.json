@@ -3,6 +3,12 @@
     "Hogtied"
   ],
   "description": "Tracey is back. This time she gets the full dungeon treatment.",
+  "directors": [
+    {
+      "name": "Peter",
+      "person_id": 49
+    }
+  ],
   "models": [
     {
       "name": "Tracey Hilton",

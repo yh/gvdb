@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "Maestro Stefanos is amused with a tour of the Armory basement, followed by predicament games with the House slaves in the lounge.",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Cherry Torn",

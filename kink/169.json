@@ -3,6 +3,12 @@
     "Fucking Machines"
   ],
   "description": "Emerald is back for some more top speed machine usage. She was able to take such speed that we may have been contributing to the California power shortage.",
+  "directors": [
+    {
+      "name": "Peter",
+      "person_id": 49
+    }
+  ],
   "models": [
     {
       "name": "Emerald",

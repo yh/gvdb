@@ -3,6 +3,12 @@
     "Naked Kombat"
   ],
   "description": "After loosing to Race Cooper and with a record of 1-1, Dak Ramsey is desperate for a victory. He's been working his cardio to prepare for the match. His opponent for this week is a huge challenge. Mitch Colby is big solid man who stands at 6'1\" tall. Mitch also has tons of wrestling experience. Dak is smaller but he's extremely tough. It's the battle of the tough men!\nThis match was shot before the new scoring format.",
+  "directors": [
+    {
+      "name": "Van Darkholme",
+      "person_id": 54
+    }
+  ],
   "models": [
     {
       "name": "Mitch Colby",

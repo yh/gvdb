@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "It is a lovely afternoon for debauchery on the Upper Floor. Come join us in the lap of luxury and help discipline the House slaves.",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Dylan Ryan",

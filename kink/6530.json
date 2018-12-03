@@ -3,6 +3,12 @@
     "Men in Pain"
   ],
   "description": "Returning with a tribute only gets his best efforts ground into the dirt of the Armory's lowest basement floor.\nKade learns a hard lesson in fortitude, service and pain at the hands of this truly cruel slave trainer.",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Kade",

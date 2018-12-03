@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "A lavish brunch followed by a play party featuring local BDSM players.",
+  "directors": [
+    {
+      "name": "The Pope",
+      "person_id": 60
+    }
+  ],
   "models": [
     {
       "name": "Maestro Stefanos",

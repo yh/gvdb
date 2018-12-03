@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "Asphyxia Noir pays a visit to the Upper Floor.",
+  "directors": [
+    {
+      "name": "The Pope",
+      "person_id": 60
+    }
+  ],
   "models": [
     {
       "name": "Krysta Kaos",

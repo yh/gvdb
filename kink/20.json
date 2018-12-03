@@ -3,6 +3,12 @@
     "Hogtied"
   ],
   "description": "Foxy gets the full hogtied treatment like so many before her.",
+  "directors": [
+    {
+      "name": "Peter",
+      "person_id": 49
+    }
+  ],
   "models": [
     {
       "name": "849",

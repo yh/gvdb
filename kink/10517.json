@@ -3,6 +3,12 @@
     "KinkLive"
   ],
   "description": "An Iona Grace LiveCam show.",
+  "directors": [
+    {
+      "name": "Maitresse Madeline Marlowe",
+      "person_id": 57
+    }
+  ],
   "models": [
     {
       "name": "Iona Grace",

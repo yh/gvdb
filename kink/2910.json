@@ -3,6 +3,12 @@
     "Ultimate Surrender"
   ],
   "description": "The Ninja (ranked #1) is undefeated with a lifetime record of\n(12-0). The Pirate's (ranked #2) only loss was to an unknown and\nhas been considered a fluke to this day.\nOpponents of the Ninja have only averaged 4.1 style\npoints per match vs. her,\nthe lowest of all active wrestlers! However the\nPirate in her free time has\ntrained and is in great condition. She is stronger and heavier and has skills. A very dangerous combination.",
+  "directors": [
+    {
+      "name": "Matt Williams",
+      "person_id": 51
+    }
+  ],
   "models": [
     {
       "name": "Crimson Ninja",

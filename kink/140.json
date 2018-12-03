@@ -3,6 +3,12 @@
     "Hogtied"
   ],
   "description": "Marty ties and suspends the beautiful Viva.",
+  "directors": [
+    {
+      "name": "Marty",
+      "person_id": 50
+    }
+  ],
   "models": [
     {
       "name": "Viva",

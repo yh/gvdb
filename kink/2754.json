@@ -3,6 +3,12 @@
     "Ultimate Surrender"
   ],
   "description": "The Amazon vs. The Gymnast. Having loss her first match to the Pirate(2nd Season), Xana was eager to prove herself again. Wenona comes into US as fit and buff as any wrestler so far. However, being in great shape and muscle-bound is no match for experience on the mat. The Gymnast fights every second, but in the end the Amazon was too much for her. The Gymnast will be back.",
+  "directors": [
+    {
+      "name": "Matt Williams",
+      "person_id": 51
+    }
+  ],
   "models": [
     {
       "name": "Wenona",

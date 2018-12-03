@@ -3,6 +3,12 @@
     "Fucking Machines"
   ],
   "description": "Introducing Devin Demore and new machines! Meet 'The Crane', and 'The trespasser' made by a member of this site from a food blender!",
+  "directors": [
+    {
+      "name": "Peter",
+      "person_id": 49
+    }
+  ],
   "models": [
     {
       "name": "Devin DeMoore",

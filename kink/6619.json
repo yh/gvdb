@@ -3,6 +3,12 @@
     "The Training Of O"
   ],
   "description": "Candidate #35",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Maestro",

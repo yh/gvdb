@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "The first official cocktail in the newly completed Upper Floor lounge! On hand are three petitioning Slaves to be tested by the members and guests. Only one slave, Rossy, is initiated to the Slave Class of Service.",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Cherry Torn",
@@ -58,7 +64,7 @@
     "slave",
     "spanking",
     "straight",
-    "wax"
+    "Wax Play"
   ],
   "title": "The First Cocktail Party"
 }

@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "Join the The Upper Floor as a traditional king cake is served, with one slice containing a bean. The owner of this slice is king for the night and may do as he wishes with the newly revealed TTOO slaves.",
+  "directors": [
+    {
+      "name": "The Pope",
+      "person_id": 60
+    }
+  ],
   "models": [
     {
       "name": "Kait Snow",

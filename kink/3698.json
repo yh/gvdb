@@ -3,6 +3,12 @@
     "Ultimate Surrender"
   ],
   "description": "The Scorpion lost her first match to Syd and lost big. She set a record for losing at US and she is not happy about it. She fought like a demon the entire match, and is looking to get revenge on the next person who gets in the ring with her.\nThe Grappler got her first win... against Kat. Has the Grappler improved? She looked good against Kat, but come on its Kat. This will be a test to see if the Grappler is for real, as she is getting a fired up Scorpion.",
+  "directors": [
+    {
+      "name": "Matt Williams",
+      "person_id": 51
+    }
+  ],
   "models": [
     {
       "name": "Annie Cruz",

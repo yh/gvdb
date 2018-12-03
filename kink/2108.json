@@ -3,6 +3,12 @@
     "Ultimate Surrender"
   ],
   "description": "This is the closest match we have shot to date. Jade at 0-4 and The Doll at 0-1. Control goes back and forth. Seconds before the match ends times runs out, points are not awarded and a wrestler loses by 1pt.",
+  "directors": [
+    {
+      "name": "Matt Williams",
+      "person_id": 51
+    }
+  ],
   "models": [
     {
       "name": "Avy Lee Roth",

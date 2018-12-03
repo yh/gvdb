@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "The Steward of the House, Stefanos, hosts a pre-Holiday brunch on the Upper Floor. Join us for the event along with the rest of the Upper Floor brunch regulars.",
+  "directors": [
+    {
+      "name": "The Pope",
+      "person_id": 60
+    }
+  ],
   "models": [
     {
       "name": "Maestro Stefanos",

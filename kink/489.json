@@ -3,6 +3,12 @@
     "Men in Pain"
   ],
   "description": "Wild Bill didn't really know what to expect from Janay and wasn't willing to cooperate. He was one hurt dude by the end of the scene.",
+  "directors": [
+    {
+      "name": "Marty",
+      "person_id": 50
+    }
+  ],
   "models": [
     {
       "name": "Wild Bill",

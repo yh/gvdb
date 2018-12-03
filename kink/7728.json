@@ -3,6 +3,12 @@
     "KinkLive"
   ],
   "description": "what sandwich does Bjork get at a jewish deli?",
+  "directors": [
+    {
+      "name": "Maitresse Madeline Marlowe",
+      "person_id": 57
+    }
+  ],
   "models": [
     {
       "name": "Charlotte Vale",

@@ -3,6 +3,12 @@
     "Hogtied"
   ],
   "description": "Marty ties the lovely Chanta Rose from England. She gets a nice suspension and a eagle tie where she has to balance with her elbows tied.",
+  "directors": [
+    {
+      "name": "Marty",
+      "person_id": 50
+    }
+  ],
   "models": [
     {
       "name": "Chanta-Rose",

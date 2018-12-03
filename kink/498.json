@@ -3,6 +3,12 @@
     "Men in Pain"
   ],
   "description": "Jamie Gillis takes more abuse from Kym Wilde.",
+  "directors": [
+    {
+      "name": "Marty",
+      "person_id": 50
+    }
+  ],
   "models": [
     {
       "name": "Jamie Gillis",

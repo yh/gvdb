@@ -3,6 +3,12 @@
     "Men in Pain"
   ],
   "description": "Kade forgets his library card and takes a hard lesson in decorum.",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Kade",

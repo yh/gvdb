@@ -3,6 +3,12 @@
     "Hogtied"
   ],
   "description": "Kendra gets taken down to our workshop. We hope members will appreciate the new uses we have found for a drill and a sawzall!",
+  "directors": [
+    {
+      "name": "Peter",
+      "person_id": 49
+    }
+  ],
   "models": [
     {
       "name": "Kendra James",

@@ -3,6 +3,12 @@
     "Naked Kombat"
   ],
   "description": "Dean Tucker is back with the record of 4-1. He's fighting Paul Wagner, a newcomer built like a football player. As always, Dean goes balls to the wall and he doesn't care who he fights. Paul Wagner is new to NK but he has his size as an advantage. These studs will battle it out for the fucking feast in the 4th round.",
+  "directors": [
+    {
+      "name": "Van Darkholme",
+      "person_id": 54
+    }
+  ],
   "models": [
     {
       "name": "Dean Tucker",

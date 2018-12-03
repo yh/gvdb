@@ -3,6 +3,12 @@
     "The Training Of O"
   ],
   "description": "Day Three",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Satine Phoenix",

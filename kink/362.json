@@ -3,6 +3,12 @@
     "Whipped Ass"
   ],
   "description": "",
+  "directors": [
+    {
+      "name": "Marty",
+      "person_id": 50
+    }
+  ],
   "models": [
     {
       "name": "Janay",

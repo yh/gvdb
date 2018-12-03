@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "Though she claims she isn't that tough, we all know better. Rain DeGrey is a major player, but not without her weak spots. The Governess and The Pope expose and use those weak spots to bring her to her limits and ride her there. Hard.",
+  "directors": [
+    {
+      "name": "The Pope",
+      "person_id": 60
+    }
+  ],
   "models": [
     {
       "name": "Rain DeGrey",

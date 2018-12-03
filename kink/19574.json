@@ -3,6 +3,12 @@
     "Ultimate Surrender"
   ],
   "description": "Welcome to Tag Team Tuesdays. Totally non-scripted, all in front of a live audience, all broadcast live to members. Today's update is RD 3 of 4. This was January's live match, now edited for your enjoyment!What happened in this Round cannot be described by words! You will have to watch & you still might not believe.",
+  "directors": [
+    {
+      "name": "Matt Williams",
+      "person_id": 51
+    }
+  ],
   "models": [
     {
       "name": "Ariel X",

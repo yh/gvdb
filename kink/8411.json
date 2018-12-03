@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "The Master of the House is expecting company and it is Torn's responsibility to prepare the guest room to pass inspection.",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Cherry Torn",

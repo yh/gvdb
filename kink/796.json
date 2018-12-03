@@ -3,6 +3,12 @@
     "Hogtied"
   ],
   "description": "We knew Kat was going to be in the area shooting for other sites so we tracked her down and took her from the street. She was dragged into the office, cuffed, bundled into a waiting truck and then taken out on a boat into the bay where nobody could hear her cries.",
+  "directors": [
+    {
+      "name": "Peter",
+      "person_id": 49
+    }
+  ],
   "models": [
     {
       "name": "Kat",

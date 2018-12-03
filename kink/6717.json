@@ -3,6 +3,12 @@
     "Naked Kombat"
   ],
   "description": "Pretty boy Braxton Bond takes on beefy Cole Ryan. Braxton brings his cocky no nonsense attitude to the mat with street cred to boot. Cole brings some wrestling and kickboxing experience to back up his weight advantage. Check out these Naked Warriors pulling all the punches to become top at the end of the day.",
+  "directors": [
+    {
+      "name": "Van Darkholme",
+      "person_id": 54
+    }
+  ],
   "models": [
     {
       "name": "Braxton Bond",

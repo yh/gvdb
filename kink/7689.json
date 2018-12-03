@@ -3,6 +3,12 @@
     "Naked Kombat"
   ],
   "description": "This is Patrick Rouge's first match after his injury from the Live Tag Team match. He's eager to have another opponent beneath him. Patrick will be facing off against NK rookie Phenix Saint, easily one of the hottest additions to our stable of fighters. Phenix has some martial arts and wrestling experience to combat Patrick's training as an MP. They are going at it all out for sexual domination in the 4th round.",
+  "directors": [
+    {
+      "name": "Van Darkholme",
+      "person_id": 54
+    }
+  ],
   "models": [
     {
       "name": "Phenix Saint",

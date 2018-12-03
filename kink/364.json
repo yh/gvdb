@@ -3,6 +3,12 @@
     "Hogtied"
   ],
   "description": "Leila is a beautiful girl who I met in a strip bar.",
+  "directors": [
+    {
+      "name": "Peter",
+      "person_id": 49
+    }
+  ],
   "models": [
     {
       "name": "Leila",

@@ -3,6 +3,12 @@
     "Ultimate Surrender"
   ],
   "description": "The Dragon comes into this match as the only Season 2 undefeated wrestler, ranked number one. Here is Season 2's conclusion; this is the match that determines the welterweight champion as well as the overall champion. A picture is worth a thousand words, they say, so here you go.",
+  "directors": [
+    {
+      "name": "Matt Williams",
+      "person_id": 51
+    }
+  ],
   "models": [
     {
       "name": "DragonLily",

@@ -3,6 +3,12 @@
     "Hogtied"
   ],
   "description": "Its a stake-out baby, and I ain't talkin' about no fast food joint.",
+  "directors": [
+    {
+      "name": "Peter",
+      "person_id": 49
+    }
+  ],
   "models": [
     {
       "name": "Paige Richards",

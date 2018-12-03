@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "The Steward of The House hosts a community Brunch.",
+  "directors": [
+    {
+      "name": "The Pope",
+      "person_id": 60
+    }
+  ],
   "models": [
     {
       "name": "Maestro Stefanos",

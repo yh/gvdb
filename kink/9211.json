@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "Tour the Armory basement with Stefanos, then leather strait jackets and cigars in the afternoon",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Cherry Torn",

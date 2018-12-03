@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "Under table service or over table, Sir?",
+  "directors": [
+    {
+      "name": "Peter",
+      "person_id": 49
+    }
+  ],
   "models": [
     {
       "name": "Maestro",

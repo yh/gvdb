@@ -3,6 +3,12 @@
     "KinkLive"
   ],
   "description": "Enjoy this edited update from one of Sasha Yung's Live Cam shoots.",
+  "directors": [
+    {
+      "name": "Peter",
+      "person_id": 49
+    }
+  ],
   "models": [
     {
       "name": "Sasha Yung",

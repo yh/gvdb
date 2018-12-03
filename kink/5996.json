@@ -3,6 +3,12 @@
     "Men in Pain"
   ],
   "description": "Maitresse Madeline and the boy",
+  "directors": [
+    {
+      "name": "Claire Adams",
+      "person_id": 46
+    }
+  ],
   "models": [
     {
       "name": "Maitresse Madeline Marlowe ",

@@ -3,6 +3,12 @@
     "The Training Of O"
   ],
   "description": "Day One",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Savannah West",

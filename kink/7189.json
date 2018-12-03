@@ -3,6 +3,12 @@
     "The Training Of O"
   ],
   "description": "I am excited about the bamboo and balance beam scene in this update. I think this is one of the strongest scenes of the year, thanks to Dia and to the Crew.\nJames",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Dia Zerva",

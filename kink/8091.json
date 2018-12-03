@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "Torn's 90 day trial is at an end. Members and distinguished guests will determine Torn's fate going forward. Will she be kept on, and under what conditions?",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Cherry Torn",

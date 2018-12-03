@@ -3,6 +3,12 @@
     "Naked Kombat"
   ],
   "description": "Mitch \"The Machine\" Vaughn has proven himself victorious throughout the tournament thus far. Now, as he moves into the semi final rounds, he must face the former Summer Smackdown Champion Leo \"TheForce\" Forte. After being crowned champion, TheForce isn't going to give up the gold belt without one hell of a fight and is willing to fight anyone who challenges. With the weight advantage on his side, Machine hopes to use his superior strength to dominate his opponent on the mat and steal that belt right from underneath him. The stakes are high and their asses are on the line, will TheForce manage to retain his title? Or will The Machine overcome and move one step closer to winning the championship?",
+  "directors": [
+    {
+      "name": "Sebastian Keys",
+      "person_id": 59
+    }
+  ],
   "models": [
     {
       "name": "Mitch Vaughn",

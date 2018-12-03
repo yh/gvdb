@@ -3,6 +3,12 @@
     "Ultimate Surrender"
   ],
   "description": "We have many rules here at Ultimate surrender. The most important ones:\nDo not take the wrestling personally, no real anger. We require sportsmanship on the mat at all\ntimes. Shannon Kelly wins this match as a result of a disqualification.",
+  "directors": [
+    {
+      "name": "Matt Williams",
+      "person_id": 51
+    }
+  ],
   "models": [
     {
       "name": "Shannon Kelly",

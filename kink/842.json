@@ -3,6 +3,12 @@
     "Whipped Ass"
   ],
   "description": "Katija will do whatever Chanta wants in order to keep her job as a Nurse.",
+  "directors": [
+    {
+      "name": "Marty",
+      "person_id": 50
+    }
+  ],
   "models": [
     {
       "name": "Katja",

@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "The Upper Floor needs an office is House slave Torn is charged with preparing the space.",
+  "directors": [
+    {
+      "name": "Peter",
+      "person_id": 49
+    }
+  ],
   "models": [
     {
       "name": "Cherry Torn",

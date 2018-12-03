@@ -3,6 +3,12 @@
     "Hogtied"
   ],
   "description": "Tierra gets a several flying hogties, some pipe work and the goat milkers.",
+  "directors": [
+    {
+      "name": "Peter",
+      "person_id": 49
+    }
+  ],
   "models": [
     {
       "name": "Tierra",

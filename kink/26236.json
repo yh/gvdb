@@ -3,6 +3,12 @@
     "Ultimate Surrender"
   ],
   "description": "With Princess Donna jumping onto a losing team in Round 2 and getting a beat down from Izamar Gutierrez this is the green teams last chance to redeem themselves and win the match! Both teams are fighting hard to maintain their dignity, and come out victorious. Watch and see what happens in this ONCE IN A LIFETIME Tag Team Match-Up, with the sites new director, and long retired wrestler, Princess Donna Dolore!",
+  "directors": [
+    {
+      "name": "Princess Donna Dolore",
+      "person_id": 47
+    }
+  ],
   "models": [
     {
       "name": "DragonLily",

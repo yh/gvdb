@@ -3,6 +3,12 @@
     "Hogtied"
   ],
   "description": "Ruby gets hot in some more wild suspensions.",
+  "directors": [
+    {
+      "name": "Peter",
+      "person_id": 49
+    }
+  ],
   "models": [
     {
       "name": "Ruby",

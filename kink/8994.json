@@ -3,6 +3,12 @@
     "The Training Of O"
   ],
   "description": "Slave trainee Tia Ling is prepared in the basement and taken to the Upper Floor to face the Master of the House and his invited guests in an afternoon of evaluation and testing.",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Tia Ling",

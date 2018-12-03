@@ -3,6 +3,12 @@
     "Hogtied"
   ],
   "description": "Lili take some punishing ties on our jungle gym equiptment.",
+  "directors": [
+    {
+      "name": "Peter",
+      "person_id": 49
+    }
+  ],
   "models": [
     {
       "name": "Lily",

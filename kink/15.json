@@ -3,6 +3,12 @@
     "Hogtied"
   ],
   "description": "Rhannion is back for more. Check out her Site.",
+  "directors": [
+    {
+      "name": "Peter",
+      "person_id": 49
+    }
+  ],
   "models": [
     {
       "name": "Rhannion",

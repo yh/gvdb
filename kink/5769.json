@@ -3,6 +3,12 @@
     "Men in Pain"
   ],
   "description": "Bobbi Starr and Rico",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Bobbi Starr",

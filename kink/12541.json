@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "The Governess decides to bring an extra dose of feminine malice to the Upper Floor. She invites many beautiful and cruel women to be served tea by the house slaves.",
+  "directors": [
+    {
+      "name": "The Pope",
+      "person_id": 60
+    }
+  ],
   "models": [
     {
       "name": "Iona Grace",

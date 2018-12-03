@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "Torn is worked out in a grueling session on the Upper Floor",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Cherry Torn",

@@ -3,6 +3,12 @@
     "Men in Pain"
   ],
   "description": "Women have all the power. Just ask these two guys.",
+  "directors": [
+    {
+      "name": "Claire Adams",
+      "person_id": 46
+    }
+  ],
   "models": [
     {
       "name": "Claire Adams",

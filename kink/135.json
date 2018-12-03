@@ -3,6 +3,12 @@
     "Hogtied"
   ],
   "description": "Marty is back to tie Ruby.",
+  "directors": [
+    {
+      "name": "Marty",
+      "person_id": 50
+    }
+  ],
   "models": [
     {
       "name": "Ruby",

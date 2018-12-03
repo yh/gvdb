@@ -3,6 +3,12 @@
     "The Training Of O"
   ],
   "description": "Slave trainers put Tia Ling to the test in the basement of the Armory.",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Tia Ling",

@@ -3,6 +3,12 @@
     "Hogtied"
   ],
   "description": "Marty ties Clarity. She gets shackled, then tied tightly in a number of poses.",
+  "directors": [
+    {
+      "name": "Marty",
+      "person_id": 50
+    }
+  ],
   "models": [
     {
       "name": "Clarity",

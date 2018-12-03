@@ -3,6 +3,12 @@
     "The Training Of O"
   ],
   "description": "Slave candidate #31 applies for service to the Upper Floor.",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Maestro",

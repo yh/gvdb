@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "When the lounge is left a mess from the Sunday Brunch, House slave Torn is used to mop up the floor and restore a high level of service and order to the Upper Floor.",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Cherry Torn",

@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "Torn and Shevon get a hard lesson in household maintenance.",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Cherry Torn",

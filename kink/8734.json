@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "Brunch with a kinky twist. Master of the House invites Stefanos to host his wild Sunday Brunch on the Upper Floor.",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Cherry Torn",

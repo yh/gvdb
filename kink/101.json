@@ -3,6 +3,12 @@
     "Fucking Machines"
   ],
   "description": "Julep gets fucked. Theres just no other word to describe it.",
+  "directors": [
+    {
+      "name": "Peter",
+      "person_id": 49
+    }
+  ],
   "models": [
     {
       "name": "Julep",

@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "House slave Cherry Torn learns a new respect for the House.",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Cherry Torn",

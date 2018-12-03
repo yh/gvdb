@@ -3,6 +3,12 @@
     "Naked Kombat"
   ],
   "description": "Undefeated powerhouse Rusty Stevens is out to protect his record against the trim 6'4\" newcomer Ben Deep. As usual, Rusty wasn't worried about training for the match, he just made sure he \"looks good.\" Ben is hungry to challenge this cocky pretty boy and with his martial arts background he thinks he can make Rusty wish he had trained for this. In the game of domination, can stamina overpower strength? But then again, this is Rusty after all.",
+  "directors": [
+    {
+      "name": "Van Darkholme",
+      "person_id": 54
+    }
+  ],
   "models": [
     {
       "name": "Ben Deep",

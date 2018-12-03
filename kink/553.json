@@ -3,6 +3,12 @@
     "Men in Pain"
   ],
   "description": "Kym Wilde will dom Wild Bill.",
+  "directors": [
+    {
+      "name": "Marty",
+      "person_id": 50
+    }
+  ],
   "models": [
     {
       "name": "Wild Bill",

@@ -3,6 +3,12 @@
     "Hogtied"
   ],
   "description": "Rose lives locally and called out of the blue. She became the guinea pig for some shackles I had been working on made out of strip metal and pipes.",
+  "directors": [
+    {
+      "name": "Peter",
+      "person_id": 49
+    }
+  ],
   "models": [
     {
       "name": "rose",

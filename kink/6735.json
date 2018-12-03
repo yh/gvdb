@@ -3,6 +3,12 @@
     "Men in Pain"
   ],
   "description": "The Chair",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Simone Kross",

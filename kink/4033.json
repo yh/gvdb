@@ -3,6 +3,12 @@
     "Sex And Submission"
   ],
   "description": "Soolin Kelter bravely volunteers herself for a vanishing act at a magic show. Steven St. Croix is the magician who sends her to an alternate dimension where she is confronted by her deepest and darkest fantasies.",
+  "directors": [
+    {
+      "name": "Marty",
+      "person_id": 50
+    }
+  ],
   "models": [
     {
       "name": "Steven St. Croix",

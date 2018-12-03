@@ -3,6 +3,12 @@
     "Men in Pain"
   ],
   "description": "Penny and Bill + Kimberlee and Lobo",
+  "directors": [
+    {
+      "name": "James Mogul",
+      "person_id": 53
+    }
+  ],
   "models": [
     {
       "name": "Penny Flame",

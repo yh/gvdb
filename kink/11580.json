@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "First weekend of December, The Upper Floor celebrates the coming Holidays, keeping warm with a fine selection of slaves and some winter themed entertainment.",
+  "directors": [
+    {
+      "name": "The Pope",
+      "person_id": 60
+    }
+  ],
   "models": [
     {
       "name": "Kait Snow",

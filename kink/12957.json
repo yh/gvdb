@@ -3,6 +3,12 @@
     "The Upper Floor"
   ],
   "description": "The house slaves are grilled on their ability to make well informed decisions on the fly.",
+  "directors": [
+    {
+      "name": "The Pope",
+      "person_id": 60
+    }
+  ],
   "models": [
     {
       "name": "Iona Grace",

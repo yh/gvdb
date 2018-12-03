@@ -3,6 +3,12 @@
     "Hogtied"
   ],
   "description": "Marty ties the unquestionably sexy Goldie. This is an interim update. Dungeon update as usual this Friday.",
+  "directors": [
+    {
+      "name": "Marty",
+      "person_id": 50
+    }
+  ],
   "models": [
     {
       "name": "Goldie",

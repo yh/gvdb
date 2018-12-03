@@ -3,6 +3,12 @@
     "Hogtied"
   ],
   "description": "Kendra is usually the photographer for hogtied. This time she got to experience what she normally photographs.",
+  "directors": [
+    {
+      "name": "Peter",
+      "person_id": 49
+    }
+  ],
   "models": [
     {
       "name": "Kendra James",

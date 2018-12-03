@@ -3,6 +3,12 @@
     "Ultimate Surrender"
   ],
   "description": "We have some of our best wrestlers on the mats tonight. The Wranglers are behind in points for the season and really need to catch up. Isamar is up for the challenge. She single handily takes on the queens with a little help from Mona Wales.",
+  "directors": [
+    {
+      "name": "Ariel X",
+      "person_id": 52
+    }
+  ],
   "models": [
     {
       "name": "Daisy Ducati",
