@@ -1,0 +1,28 @@
+{
+  "collections": [
+    "Boyz Party"
+  ],
+  "description": "Triumvirate: Hungry For Love",
+  "models": [
+    {
+      "name": "Lukas Wink",
+      "person_id": 29489
+    },
+    {
+      "name": "Adam Cartier",
+      "person_id": 29543
+    },
+    {
+      "name": "Buddy Flash",
+      "person_id": 29548
+    },
+    {
+      "name": "Jan Voda",
+      "person_id": 29552
+    }
+  ],
+  "release_date": "2003-04-30",
+  "scene_id": 57282,
+  "tags": [],
+  "title": "Triumvirate: Hungry For Love, Scene #05"
+}

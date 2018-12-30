@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Boyz Party"
+  ],
+  "description": "Triumvirate: Cupids",
+  "models": [
+    {
+      "name": "George Steel",
+      "person_id": 29527
+    },
+    {
+      "name": "Ray Renfro",
+      "person_id": 29585
+    }
+  ],
+  "release_date": "2003-07-09",
+  "scene_id": 57309,
+  "tags": [],
+  "title": "Triumvirate: Cupids, Scene #01"
+}

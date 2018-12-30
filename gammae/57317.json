@@ -1,0 +1,24 @@
+{
+  "collections": [
+    "Boyz Party"
+  ],
+  "description": "Triumvirate: Soccer Camp",
+  "models": [
+    {
+      "name": "Steeve Sanders",
+      "person_id": 29460
+    },
+    {
+      "name": "Dujan Sin",
+      "person_id": 29620
+    },
+    {
+      "name": "Martin Green",
+      "person_id": 29677
+    }
+  ],
+  "release_date": "2003-10-29",
+  "scene_id": 57317,
+  "tags": [],
+  "title": "Triumvirate: Soccer Camp, Scene #02"
+}

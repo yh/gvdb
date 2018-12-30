@@ -1,0 +1,24 @@
+{
+  "collections": [
+    "Falcon Studios"
+  ],
+  "description": "Randal Maxxon gives Max Holden and Ray Butler all they can take...and more.",
+  "models": [
+    {
+      "name": "Max Holden",
+      "person_id": 10930
+    },
+    {
+      "name": "Randal Maxxon",
+      "person_id": 11913
+    },
+    {
+      "name": "Ray Butler",
+      "person_id": 12209
+    }
+  ],
+  "release_date": "2008-02-01",
+  "scene_id": 22296,
+  "tags": [],
+  "title": "Hot Ticket, Scene #02"
+}

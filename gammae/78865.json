@@ -1,0 +1,19 @@
+{
+  "collections": [
+    "Raging Stallion"
+  ],
+  "description": "Johnny V discusses love and life behind the scenes in this exclusive interview with director Nick Foxx.",
+  "models": [
+    {
+      "name": "Johnny V",
+      "person_id": 34806
+    }
+  ],
+  "release_date": "2015-09-18",
+  "scene_id": 78865,
+  "tags": [
+    "Bodybuilder",
+    "western"
+  ],
+  "title": "Total Exposure 1 Interview"
+}

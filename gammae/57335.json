@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Boyz Party"
+  ],
+  "description": "Triumvirate: Soccer Camp 2",
+  "models": [
+    {
+      "name": "Steeve Sanders",
+      "person_id": 29460
+    },
+    {
+      "name": "Ray Renfro",
+      "person_id": 29585
+    }
+  ],
+  "release_date": "2004-01-14",
+  "scene_id": 57335,
+  "tags": [],
+  "title": "Triumvirate: Soccer Camp 2, Scene #07"
+}

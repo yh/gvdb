@@ -1,0 +1,39 @@
+{
+  "collections": [
+    "Active Duty"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Miss Jordan",
+      "person_id": 35425
+    },
+    {
+      "name": "Chaz",
+      "person_id": 35019
+    },
+    {
+      "name": "Donnie",
+      "person_id": 35261
+    },
+    {
+      "name": "Cole",
+      "person_id": 35020
+    },
+    {
+      "name": "Dean",
+      "person_id": 35074
+    },
+    {
+      "name": "Jagger",
+      "person_id": 35093
+    }
+  ],
+  "release_date": "2005-11-30",
+  "scene_id": 69984,
+  "tags": [
+    "Bisexual",
+    "Gay"
+  ],
+  "title": "Chaz, Cole, Dean, Donnie, Jagger & Miss Jordan"
+}

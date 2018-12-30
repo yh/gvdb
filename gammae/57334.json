@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Boyz Party"
+  ],
+  "description": "Triumvirate: Soccer Camp 2",
+  "models": [
+    {
+      "name": "Ray Renfro",
+      "person_id": 29585
+    },
+    {
+      "name": "Tommie DeLuca",
+      "person_id": 29731
+    }
+  ],
+  "release_date": "2004-01-14",
+  "scene_id": 57334,
+  "tags": [],
+  "title": "Triumvirate: Soccer Camp 2, Scene #06"
+}

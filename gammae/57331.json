@@ -1,0 +1,36 @@
+{
+  "collections": [
+    "Boyz Party"
+  ],
+  "description": "Triumvirate: Soccer Camp 2",
+  "models": [
+    {
+      "name": "Leev Lale",
+      "person_id": 29584
+    },
+    {
+      "name": "Tommie DeLuca",
+      "person_id": 29731
+    },
+    {
+      "name": "Ray Renfro",
+      "person_id": 29585
+    },
+    {
+      "name": "Sebastian Dunken",
+      "person_id": 29733
+    },
+    {
+      "name": "Samuel Dolce",
+      "person_id": 29593
+    },
+    {
+      "name": "Rudy Hass",
+      "person_id": 29724
+    }
+  ],
+  "release_date": "2004-01-14",
+  "scene_id": 57331,
+  "tags": [],
+  "title": "Triumvirate: Soccer Camp 2, Scene #03"
+}

@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Boyz Party"
+  ],
+  "description": "Triumvirate: Before They Were Stars 3",
+  "models": [
+    {
+      "name": "John Pepper",
+      "person_id": 29834
+    },
+    {
+      "name": "Alex Ray",
+      "person_id": 29856
+    }
+  ],
+  "release_date": "2005-01-05",
+  "scene_id": 57337,
+  "tags": [],
+  "title": "Triumvirate: Before They Were Stars 3, Scene #02"
+}

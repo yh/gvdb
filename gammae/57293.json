@@ -1,0 +1,24 @@
+{
+  "collections": [
+    "Boyz Party"
+  ],
+  "description": "Triumvirate: Can't Hide That Feeling Part 1",
+  "models": [
+    {
+      "name": "Bruce Money",
+      "person_id": 29529
+    },
+    {
+      "name": "Dujan Sin",
+      "person_id": 29620
+    },
+    {
+      "name": "Vilnis Powers",
+      "person_id": 29622
+    }
+  ],
+  "release_date": "2003-08-06",
+  "scene_id": 57293,
+  "tags": [],
+  "title": "Triumvirate: Can't Hide That Feeling Part 1, Scene #05"
+}

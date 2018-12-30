@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Falcon Studios"
+  ],
+  "description": "Hiker Jon King takes a break from trailblazing to inspect and enjoy Alex Carrington's impressive piece of wood as the studs indulge themselves in the great outdoors.",
+  "models": [
+    {
+      "name": "Alex Carrington",
+      "person_id": 11850
+    },
+    {
+      "name": "Jon King",
+      "person_id": 11957
+    }
+  ],
+  "release_date": "2006-07-01",
+  "scene_id": 21305,
+  "tags": [],
+  "title": "Wild Country, Scene #01"
+}

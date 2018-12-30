@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "High Performance Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Rikk York",
+      "person_id": 32679
+    },
+    {
+      "name": "Christopher Daniels",
+      "person_id": 32932
+    }
+  ],
+  "release_date": "2013-12-24",
+  "scene_id": 62248,
+  "tags": [],
+  "title": "Christopher Daniels And Rikk York - Interview"
+}

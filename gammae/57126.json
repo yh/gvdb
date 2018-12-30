@@ -1,0 +1,24 @@
+{
+  "collections": [
+    "Boyz Party"
+  ],
+  "description": "DJK Productions: The River Through Time",
+  "models": [
+    {
+      "name": "Alexander Steel",
+      "person_id": 29648
+    },
+    {
+      "name": "Skip Baxter",
+      "person_id": 29786
+    },
+    {
+      "name": "Gerry O'Connel",
+      "person_id": 29812
+    }
+  ],
+  "release_date": "2004-09-29",
+  "scene_id": 57126,
+  "tags": [],
+  "title": "DJK Productions: The River Through Time, Scene #04"
+}

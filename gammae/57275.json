@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Boyz Party"
+  ],
+  "description": "Triumvirate: Before They Were Stars 1",
+  "models": [
+    {
+      "name": "George Steel",
+      "person_id": 29527
+    },
+    {
+      "name": "Jan Voda",
+      "person_id": 29552
+    }
+  ],
+  "release_date": "2004-01-28",
+  "scene_id": 57275,
+  "tags": [],
+  "title": "Triumvirate: Before They Were Stars 1, Scene #02"
+}

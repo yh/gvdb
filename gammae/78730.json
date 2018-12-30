@@ -1,0 +1,19 @@
+{
+  "collections": [
+    "Raging Stallion"
+  ],
+  "description": "Unscripted interview of A-Team exclusive Dorian Ferro by director Nick Foxx.",
+  "models": [
+    {
+      "name": "Dorian Ferro",
+      "person_id": 37399
+    }
+  ],
+  "release_date": "2015-09-10",
+  "scene_id": 78730,
+  "tags": [
+    "latinos",
+    "western"
+  ],
+  "title": "Total Exposure 1 Interview"
+}

@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Boyz Party"
+  ],
+  "description": "Triumvirate: Postcards From Riga",
+  "models": [
+    {
+      "name": "Ludvig Lyons",
+      "person_id": 29713
+    },
+    {
+      "name": "Raivo Lexus",
+      "person_id": 29714
+    }
+  ],
+  "release_date": "2003-12-31",
+  "scene_id": 57323,
+  "tags": [],
+  "title": "Triumvirate: Postcards From Riga, Scene #01"
+}

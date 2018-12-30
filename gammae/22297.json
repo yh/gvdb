@@ -1,0 +1,24 @@
+{
+  "collections": [
+    "Falcon Studios"
+  ],
+  "description": "Bo Summers and Ian Sharp make the best of hard physical training in the locker room.",
+  "models": [
+    {
+      "name": "Rob Cryston",
+      "person_id": 11891
+    },
+    {
+      "name": "Bo Summers",
+      "person_id": 11927
+    },
+    {
+      "name": "Ian Sharp",
+      "person_id": 12072
+    }
+  ],
+  "release_date": "2008-02-01",
+  "scene_id": 22297,
+  "tags": [],
+  "title": "Hot Ticket, Scene #03"
+}

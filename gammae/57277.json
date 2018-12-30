@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Boyz Party"
+  ],
+  "description": "Triumvirate: Before They Were Stars 1",
+  "models": [
+    {
+      "name": "Hudson Grant",
+      "person_id": 29464
+    },
+    {
+      "name": "Denis Aysner",
+      "person_id": 29549
+    }
+  ],
+  "release_date": "2004-01-28",
+  "scene_id": 57277,
+  "tags": [],
+  "title": "Triumvirate: Before They Were Stars 1, Scene #04"
+}

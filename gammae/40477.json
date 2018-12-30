@@ -1,0 +1,42 @@
+{
+  "collections": [
+    "Raging Stallion"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Johan Reves",
+      "person_id": 20911
+    },
+    {
+      "name": "Marius Reves",
+      "person_id": 21097
+    },
+    {
+      "name": "Colby Tavers",
+      "person_id": 21093
+    },
+    {
+      "name": "Franck",
+      "person_id": 21100
+    },
+    {
+      "name": "Peter Tomanek",
+      "person_id": 21095
+    },
+    {
+      "name": "Carlo",
+      "person_id": 21101
+    },
+    {
+      "name": "Serge Istavan",
+      "person_id": 21096
+    }
+  ],
+  "release_date": "1998-02-16",
+  "scene_id": 40477,
+  "tags": [
+    "prisons"
+  ],
+  "title": "Prison, Scene #06"
+}

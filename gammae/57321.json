@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Boyz Party"
+  ],
+  "description": "Triumvirate: Soccer Camp",
+  "models": [
+    {
+      "name": "Samuel Crecry",
+      "person_id": 29538
+    },
+    {
+      "name": "Miky Sem",
+      "person_id": 29678
+    }
+  ],
+  "release_date": "2003-10-29",
+  "scene_id": 57321,
+  "tags": [],
+  "title": "Triumvirate: Soccer Camp, Scene #06"
+}

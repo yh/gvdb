@@ -1,0 +1,30 @@
+{
+  "collections": [
+    "Active Duty"
+  ],
+  "description": "Chaz, Cole, Shane & Thomas head to the garage gym for some some fun.",
+  "models": [
+    {
+      "name": "Chaz",
+      "person_id": 35019
+    },
+    {
+      "name": "Cole",
+      "person_id": 35020
+    },
+    {
+      "name": "Shane",
+      "person_id": 35144
+    },
+    {
+      "name": "Thomas",
+      "person_id": 35154
+    }
+  ],
+  "release_date": "2006-05-08",
+  "scene_id": 70006,
+  "tags": [
+    "Gay"
+  ],
+  "title": "Chaz, Cole, Shane & Thomas"
+}

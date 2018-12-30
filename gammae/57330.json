@@ -1,0 +1,28 @@
+{
+  "collections": [
+    "Boyz Party"
+  ],
+  "description": "Triumvirate: Soccer Camp 2",
+  "models": [
+    {
+      "name": "Jude Lowe",
+      "person_id": 29591
+    },
+    {
+      "name": "Dujan Sin",
+      "person_id": 29620
+    },
+    {
+      "name": "Miky Sem",
+      "person_id": 29678
+    },
+    {
+      "name": "Peter Sangaut",
+      "person_id": 29684
+    }
+  ],
+  "release_date": "2004-01-14",
+  "scene_id": 57330,
+  "tags": [],
+  "title": "Triumvirate: Soccer Camp 2, Scene #02"
+}

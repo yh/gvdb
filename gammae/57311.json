@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Boyz Party"
+  ],
+  "description": "Triumvirate: Cupids",
+  "models": [
+    {
+      "name": "Alex Semy",
+      "person_id": 29533
+    },
+    {
+      "name": "Leev Lale",
+      "person_id": 29584
+    }
+  ],
+  "release_date": "2003-07-09",
+  "scene_id": 57311,
+  "tags": [],
+  "title": "Triumvirate: Cupids, Scene #03"
+}

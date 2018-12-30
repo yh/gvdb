@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Falcon Studios"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Steve Sunny",
+      "person_id": 13345
+    },
+    {
+      "name": "Fabien Rossi",
+      "person_id": 13460
+    }
+  ],
+  "release_date": "2010-07-09",
+  "scene_id": 23167,
+  "tags": [],
+  "title": "Battle Fuckers, Scene #04"
+}

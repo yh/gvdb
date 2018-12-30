@@ -1,0 +1,44 @@
+{
+  "collections": [
+    "Boyz Party"
+  ],
+  "description": "DJK Productions: The River Through Time",
+  "models": [
+    {
+      "name": "Samuel Dolce",
+      "person_id": 29593
+    },
+    {
+      "name": "Skip Baxter",
+      "person_id": 29786
+    },
+    {
+      "name": "Ruda",
+      "person_id": 29641
+    },
+    {
+      "name": "Gerry O'Connel",
+      "person_id": 29812
+    },
+    {
+      "name": "Alexander Steel",
+      "person_id": 29648
+    },
+    {
+      "name": "George Plozen",
+      "person_id": 29818
+    },
+    {
+      "name": "Miky Sem",
+      "person_id": 29678
+    },
+    {
+      "name": "Kenny White",
+      "person_id": 29896
+    }
+  ],
+  "release_date": "2004-09-29",
+  "scene_id": 57127,
+  "tags": [],
+  "title": "DJK Productions: The River Through Time, Scene #05"
+}

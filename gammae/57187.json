@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Boyz Party"
+  ],
+  "description": "Just Teens: Deliveries",
+  "models": [
+    {
+      "name": "Bogi Falat",
+      "person_id": 29761
+    },
+    {
+      "name": "Taylor Hill",
+      "person_id": 29819
+    }
+  ],
+  "release_date": "2004-06-23",
+  "scene_id": 57187,
+  "tags": [],
+  "title": "Just Teens: Deliveries, Scene #03"
+}

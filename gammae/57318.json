@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Boyz Party"
+  ],
+  "description": "Triumvirate: Soccer Camp",
+  "models": [
+    {
+      "name": "Ray Renfro",
+      "person_id": 29585
+    },
+    {
+      "name": "Bryan Armano",
+      "person_id": 29676
+    }
+  ],
+  "release_date": "2003-10-29",
+  "scene_id": 57318,
+  "tags": [],
+  "title": "Triumvirate: Soccer Camp, Scene #03"
+}

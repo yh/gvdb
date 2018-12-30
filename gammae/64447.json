@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "High Performance Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Vic Rocco",
+      "person_id": 33907
+    },
+    {
+      "name": "Jon Galt",
+      "person_id": 34090
+    }
+  ],
+  "release_date": "2014-05-02",
+  "scene_id": 64447,
+  "tags": [],
+  "title": "Jon Galt And Vic Rocco - Interview"
+}

@@ -1,0 +1,24 @@
+{
+  "collections": [
+    "Boyz Party"
+  ],
+  "description": "Triumvirate: Soccer Camp 2",
+  "models": [
+    {
+      "name": "Steeve Sanders",
+      "person_id": 29460
+    },
+    {
+      "name": "Bryan Armano",
+      "person_id": 29676
+    },
+    {
+      "name": "Dinar Right",
+      "person_id": 29699
+    }
+  ],
+  "release_date": "2004-01-14",
+  "scene_id": 57333,
+  "tags": [],
+  "title": "Triumvirate: Soccer Camp 2, Scene #05"
+}

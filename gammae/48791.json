@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "High Performance Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Fabio Stallone",
+      "person_id": 28073
+    },
+    {
+      "name": "Angelo Marconi",
+      "person_id": 28075
+    }
+  ],
+  "release_date": "2013-01-08",
+  "scene_id": 48791,
+  "tags": [],
+  "title": "Angelo Marconi & Fabio Stallone Backstage"
+}

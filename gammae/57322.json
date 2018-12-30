@@ -1,0 +1,28 @@
+{
+  "collections": [
+    "Boyz Party"
+  ],
+  "description": "Triumvirate: Soccer Camp",
+  "models": [
+    {
+      "name": "Leev Lale",
+      "person_id": 29584
+    },
+    {
+      "name": "Dujan Sin",
+      "person_id": 29620
+    },
+    {
+      "name": "Martin Green",
+      "person_id": 29677
+    },
+    {
+      "name": "Peter Sangaut",
+      "person_id": 29684
+    }
+  ],
+  "release_date": "2003-10-29",
+  "scene_id": 57322,
+  "tags": [],
+  "title": "Triumvirate: Soccer Camp, Scene #07"
+}

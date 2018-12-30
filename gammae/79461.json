@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Raging Stallion"
+  ],
+  "description": "Steve Cruz interviews A-Team captain, award winning actor Ryan Rose. An interview not to be missed!",
+  "models": [
+    {
+      "name": "Ryan Rose",
+      "person_id": 33242
+    }
+  ],
+  "release_date": "2015-10-30",
+  "scene_id": 79461,
+  "tags": [
+    "Jocks / Athletic"
+  ],
+  "title": "Total Exposure 2 Interview"
+}

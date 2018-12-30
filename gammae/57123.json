@@ -1,0 +1,32 @@
+{
+  "collections": [
+    "Boyz Party"
+  ],
+  "description": "DJK Productions: The River Through Time",
+  "models": [
+    {
+      "name": "Samuel Dolce",
+      "person_id": 29593
+    },
+    {
+      "name": "Gerry O'Connel",
+      "person_id": 29812
+    },
+    {
+      "name": "Ruda",
+      "person_id": 29641
+    },
+    {
+      "name": "Alexander Steel",
+      "person_id": 29648
+    },
+    {
+      "name": "Skip Baxter",
+      "person_id": 29786
+    }
+  ],
+  "release_date": "2004-09-29",
+  "scene_id": 57123,
+  "tags": [],
+  "title": "DJK Productions: The River Through Time, Scene #01"
+}

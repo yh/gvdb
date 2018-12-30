@@ -1,0 +1,24 @@
+{
+  "collections": [
+    "Boyz Party"
+  ],
+  "description": "Just Teens: Deliveries",
+  "models": [
+    {
+      "name": "Gerry O'Connel",
+      "person_id": 29812
+    },
+    {
+      "name": "John Pepper",
+      "person_id": 29834
+    },
+    {
+      "name": "Alex Gerc",
+      "person_id": 29835
+    }
+  ],
+  "release_date": "2004-06-23",
+  "scene_id": 57185,
+  "tags": [],
+  "title": "Just Teens: Deliveries, Scene #01"
+}

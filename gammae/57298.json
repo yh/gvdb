@@ -1,0 +1,28 @@
+{
+  "collections": [
+    "Boyz Party"
+  ],
+  "description": "Triumvirate: Can't Hide That Feeling Part 2",
+  "models": [
+    {
+      "name": "Ray Renfro",
+      "person_id": 29585
+    },
+    {
+      "name": "Vilnis Powers",
+      "person_id": 29622
+    },
+    {
+      "name": "Dinar Right",
+      "person_id": 29699
+    },
+    {
+      "name": "Jeff Left",
+      "person_id": 29700
+    }
+  ],
+  "release_date": "2003-11-26",
+  "scene_id": 57298,
+  "tags": [],
+  "title": "Triumvirate: Can't Hide That Feeling Part 2, Scene #04"
+}

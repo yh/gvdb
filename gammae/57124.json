@@ -1,0 +1,24 @@
+{
+  "collections": [
+    "Boyz Party"
+  ],
+  "description": "DJK Productions: The River Through Time",
+  "models": [
+    {
+      "name": "Miky Sem",
+      "person_id": 29678
+    },
+    {
+      "name": "George Plozen",
+      "person_id": 29818
+    },
+    {
+      "name": "Kenny White",
+      "person_id": 29896
+    }
+  ],
+  "release_date": "2004-09-29",
+  "scene_id": 57124,
+  "tags": [],
+  "title": "DJK Productions: The River Through Time, Scene #02"
+}

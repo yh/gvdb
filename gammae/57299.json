@@ -1,0 +1,52 @@
+{
+  "collections": [
+    "Boyz Party"
+  ],
+  "description": "Triumvirate: Can't Hide That Feeling Part 2",
+  "models": [
+    {
+      "name": "Bruce Money",
+      "person_id": 29529
+    },
+    {
+      "name": "Bad Surek",
+      "person_id": 29612
+    },
+    {
+      "name": "Andrew Connel",
+      "person_id": 29693
+    },
+    {
+      "name": "Leev Lale",
+      "person_id": 29584
+    },
+    {
+      "name": "Jon March",
+      "person_id": 29614
+    },
+    {
+      "name": "Bobby Brown",
+      "person_id": 29697
+    },
+    {
+      "name": "Ray Renfro",
+      "person_id": 29585
+    },
+    {
+      "name": "Chet Meyers",
+      "person_id": 29619
+    },
+    {
+      "name": "Jude Lowe",
+      "person_id": 29591
+    },
+    {
+      "name": "Janny Rashow",
+      "person_id": 29688
+    }
+  ],
+  "release_date": "2003-11-26",
+  "scene_id": 57299,
+  "tags": [],
+  "title": "Triumvirate: Can't Hide That Feeling Part 2, Scene #05"
+}

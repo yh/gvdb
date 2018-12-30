@@ -1,0 +1,24 @@
+{
+  "collections": [
+    "Boyz Party"
+  ],
+  "description": "Just Teens: Deliveries",
+  "models": [
+    {
+      "name": "Robert Driveman",
+      "person_id": 29605
+    },
+    {
+      "name": "Paul Robbins",
+      "person_id": 29785
+    },
+    {
+      "name": "Lubos",
+      "person_id": 29806
+    }
+  ],
+  "release_date": "2004-06-23",
+  "scene_id": 57188,
+  "tags": [],
+  "title": "Just Teens: Deliveries, Scene #04"
+}

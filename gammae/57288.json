@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Boyz Party"
+  ],
+  "description": "Triumvirate: Before They Were Stars 2",
+  "models": [
+    {
+      "name": "Jarda",
+      "person_id": 29743
+    },
+    {
+      "name": "Jirka",
+      "person_id": 29789
+    }
+  ],
+  "release_date": "2004-03-31",
+  "scene_id": 57288,
+  "tags": [],
+  "title": "Triumvirate: Before They Were Stars 2, Scene #04"
+}

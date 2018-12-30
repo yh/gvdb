@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Boyz Party"
+  ],
+  "description": "Triumvirate: Cupids",
+  "models": [
+    {
+      "name": "Jude Lowe",
+      "person_id": 29591
+    },
+    {
+      "name": "Marcellini Anebi",
+      "person_id": 29592
+    }
+  ],
+  "release_date": "2003-07-09",
+  "scene_id": 57312,
+  "tags": [],
+  "title": "Triumvirate: Cupids, Scene #04"
+}

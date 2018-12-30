@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Boyz Party"
+  ],
+  "description": "Triumvirate: Up Up And Away",
+  "models": [
+    {
+      "name": "Hudson Grant",
+      "person_id": 29464
+    },
+    {
+      "name": "Daniel Avedon",
+      "person_id": 29497
+    }
+  ],
+  "release_date": "2009-04-21",
+  "scene_id": 57270,
+  "tags": [],
+  "title": "Triumvirate: Up Up And Away, Scene #04"
+}

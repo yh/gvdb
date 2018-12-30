@@ -1,0 +1,28 @@
+{
+  "collections": [
+    "Boyz Party"
+  ],
+  "description": "Triumvirate: Up Up And Away",
+  "models": [
+    {
+      "name": "Mark Reeves",
+      "person_id": 29469
+    },
+    {
+      "name": "Erik Finnegan",
+      "person_id": 29488
+    },
+    {
+      "name": "Daniel Avedon",
+      "person_id": 29497
+    },
+    {
+      "name": "Robert Kee",
+      "person_id": 29502
+    }
+  ],
+  "release_date": "2009-04-21",
+  "scene_id": 57273,
+  "tags": [],
+  "title": "Triumvirate: Up Up And Away, Scene #07"
+}

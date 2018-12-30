@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Boyz Party"
+  ],
+  "description": "Just Teens: Deliveries",
+  "models": [
+    {
+      "name": "Kamil Billy",
+      "person_id": 29847
+    },
+    {
+      "name": "Vendy Gino",
+      "person_id": 29848
+    }
+  ],
+  "release_date": "2004-06-23",
+  "scene_id": 57189,
+  "tags": [],
+  "title": "Just Teens: Deliveries, Scene #05"
+}

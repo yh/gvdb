@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Boyz Party"
+  ],
+  "description": "Triumvirate: Cupids",
+  "models": [
+    {
+      "name": "Steeve Sanders",
+      "person_id": 29460
+    },
+    {
+      "name": "Bruno Image",
+      "person_id": 29541
+    }
+  ],
+  "release_date": "2003-07-09",
+  "scene_id": 57310,
+  "tags": [],
+  "title": "Triumvirate: Cupids, Scene #02"
+}

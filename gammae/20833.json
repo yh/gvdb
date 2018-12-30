@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Falcon Studios"
+  ],
+  "description": "Alexander Strauss and Milos Janek almost set the barnyard on fire.  It is the last day for Milos and he wants the biggest bull on the farm.  Milos gets the ride of his life, back down legs up on a bale of hay.",
+  "models": [
+    {
+      "name": "Alexander Straus",
+      "person_id": 11372
+    },
+    {
+      "name": "Milos Janek",
+      "person_id": 11516
+    }
+  ],
+  "release_date": "2010-07-05",
+  "scene_id": 20833,
+  "tags": [],
+  "title": "The Plowboys, Scene #05"
+}

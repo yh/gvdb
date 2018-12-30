@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Boyz Party"
+  ],
+  "description": "Triumvirate: Cupids",
+  "models": [
+    {
+      "name": "Samuel Dolce",
+      "person_id": 29593
+    },
+    {
+      "name": "Sonny Silver",
+      "person_id": 29594
+    }
+  ],
+  "release_date": "2003-07-09",
+  "scene_id": 57313,
+  "tags": [],
+  "title": "Triumvirate: Cupids, Scene #05"
+}
