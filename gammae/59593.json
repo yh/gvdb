@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Men Over 30"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "David Chase",
+      "person_id": 27963
+    },
+    {
+      "name": "Enzo Rod",
+      "person_id": 31674
+    }
+  ],
+  "release_date": "2013-09-03",
+  "scene_id": 59593,
+  "tags": [],
+  "title": "David Chase & Enzo Rod Interview"
+}

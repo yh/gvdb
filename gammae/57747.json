@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Men Over 30"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Joe Parker",
+      "person_id": 28044
+    },
+    {
+      "name": "Jeremy Stevens",
+      "person_id": 31078
+    }
+  ],
+  "release_date": "2013-05-30",
+  "scene_id": 57747,
+  "tags": [],
+  "title": "Jeremy Stevens & Joe Parker Interview"
+}

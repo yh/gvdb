@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Men Over 30"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Adam Herst",
+      "person_id": 28072
+    },
+    {
+      "name": "Casey Williams",
+      "person_id": 32205
+    }
+  ],
+  "release_date": "2013-11-26",
+  "scene_id": 61230,
+  "tags": [],
+  "title": "Casey Williams & Adam Herst - Interview"
+}

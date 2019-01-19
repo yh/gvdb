@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Pride Studios"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Max Dunhill",
+      "person_id": 37246
+    },
+    {
+      "name": "Derek Reed",
+      "person_id": 37247
+    }
+  ],
+  "release_date": "2015-06-24",
+  "scene_id": 77053,
+  "tags": [],
+  "title": "Max Dunhill & Zeke Weidman - Interview"
+}

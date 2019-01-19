@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Men Over 30"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Trey Turner",
+      "person_id": 27927
+    },
+    {
+      "name": "Armando De Armas",
+      "person_id": 37456
+    }
+  ],
+  "release_date": "2016-01-29",
+  "scene_id": 80756,
+  "tags": [],
+  "title": "Armando De Armas & Trey Turner - Interview"
+}

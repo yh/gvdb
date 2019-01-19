@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "High Performance Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Chad Glenn",
+      "person_id": 21118
+    },
+    {
+      "name": "Joe Parker",
+      "person_id": 28044
+    }
+  ],
+  "release_date": "2012-09-18",
+  "scene_id": 40366,
+  "tags": [],
+  "title": "Joe Parker and Chad Glenn Interview"
+}

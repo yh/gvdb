@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Men Over 30"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Rich Kelly",
+      "person_id": 31592
+    },
+    {
+      "name": "Lucas Allen",
+      "person_id": 31917
+    }
+  ],
+  "release_date": "2013-11-12",
+  "scene_id": 61133,
+  "tags": [],
+  "title": "Rich Kelly & Lucas Allen - Interview"
+}

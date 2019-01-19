@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "High Performance Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Joe Parker",
+      "person_id": 28044
+    },
+    {
+      "name": "Johnny Parker",
+      "person_id": 28086
+    }
+  ],
+  "release_date": "2013-02-26",
+  "scene_id": 49869,
+  "tags": [],
+  "title": "Joe Parker And Johnny Parker, Scene #02"
+}

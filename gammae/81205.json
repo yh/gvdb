@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Men Over 30"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Bryan Cole",
+      "person_id": 35465
+    },
+    {
+      "name": "Dolf Dietrich",
+      "person_id": 38159
+    }
+  ],
+  "release_date": "2016-02-05",
+  "scene_id": 81205,
+  "tags": [],
+  "title": "Bryan Cole & Dolf Dietrich - Interview"
+}

@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Men Over 30"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Max Sargent",
+      "person_id": 35576
+    },
+    {
+      "name": "Justin Beal",
+      "person_id": 35577
+    }
+  ],
+  "release_date": "2015-01-16",
+  "scene_id": 71462,
+  "tags": [],
+  "title": "Justin Beal & Max Sargent - Interview"
+}

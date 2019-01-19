@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Men Over 30"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Matt Stevens",
+      "person_id": 31203
+    },
+    {
+      "name": "Max Sargent",
+      "person_id": 35576
+    }
+  ],
+  "release_date": "2015-12-18",
+  "scene_id": 80508,
+  "tags": [],
+  "title": "Matt Stevens & Max Sargent - Interview"
+}

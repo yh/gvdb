@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Men Over 30"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Rikk York",
+      "person_id": 32679
+    },
+    {
+      "name": "Scott Harbor",
+      "person_id": 32680
+    }
+  ],
+  "release_date": "2014-01-14",
+  "scene_id": 62506,
+  "tags": [],
+  "title": "Rikk York & Scott Harbor - Interview"
+}

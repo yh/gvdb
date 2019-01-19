@@ -1,0 +1,24 @@
+{
+  "collections": [
+    "Men Over 30"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Matt Stevens",
+      "person_id": 31203
+    },
+    {
+      "name": "Peter Fields",
+      "person_id": 37564
+    },
+    {
+      "name": "Scott Riley",
+      "person_id": 38015
+    }
+  ],
+  "release_date": "2016-01-15",
+  "scene_id": 80853,
+  "tags": [],
+  "title": "Matt Stevens, Peter Fields & Scott Riley - Interview"
+}

@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Men Over 30"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Seth Santoro",
+      "person_id": 36090
+    },
+    {
+      "name": "Alessandro Del Toro",
+      "person_id": 36221
+    }
+  ],
+  "release_date": "2015-11-06",
+  "scene_id": 79156,
+  "tags": [],
+  "title": "Alessandro Del Toro & Seth Santoro - Interview"
+}

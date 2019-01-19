@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Men Over 30"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Billy Santoro",
+      "person_id": 32561
+    },
+    {
+      "name": "Brad Kalvo",
+      "person_id": 32562
+    }
+  ],
+  "release_date": "2013-12-17",
+  "scene_id": 62035,
+  "tags": [],
+  "title": "Billy Santoro & Brad Kalvo - Interview"
+}

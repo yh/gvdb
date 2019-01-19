@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Men Over 30"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Isaac Hardy",
+      "person_id": 31341
+    },
+    {
+      "name": "Bryce Evans",
+      "person_id": 32776
+    }
+  ],
+  "release_date": "2014-01-28",
+  "scene_id": 62589,
+  "tags": [],
+  "title": "Bryce Evans & Isaac Hardy - Interview"
+}

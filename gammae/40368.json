@@ -1,0 +1,24 @@
+{
+  "collections": [
+    "High Performance Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Dean Monroe",
+      "person_id": 28040
+    },
+    {
+      "name": "Joe Parker",
+      "person_id": 28044
+    },
+    {
+      "name": "CJ Parker",
+      "person_id": 31291
+    }
+  ],
+  "release_date": "2012-08-28",
+  "scene_id": 40368,
+  "tags": [],
+  "title": "CJ Parker, Dean Monroe, Joe Parker Interview"
+}

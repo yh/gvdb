@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Men Over 30"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Alessio Romero",
+      "person_id": 28032
+    },
+    {
+      "name": "Rikk York",
+      "person_id": 32679
+    }
+  ],
+  "release_date": "2015-08-28",
+  "scene_id": 76507,
+  "tags": [],
+  "title": "Alessio Romero & Rikk York - Interview"
+}

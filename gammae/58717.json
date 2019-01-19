@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Men Over 30"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Jace Chambers",
+      "person_id": 28094
+    },
+    {
+      "name": "Max Hardin",
+      "person_id": 31375
+    }
+  ],
+  "release_date": "2013-07-23",
+  "scene_id": 58717,
+  "tags": [],
+  "title": "Jace Chambers & Max Hardin Interview"
+}

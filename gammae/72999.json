@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Men Over 30"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Alessio Romero",
+      "person_id": 28032
+    },
+    {
+      "name": "Benjamin Bronx",
+      "person_id": 34885
+    }
+  ],
+  "release_date": "2015-03-27",
+  "scene_id": 72999,
+  "tags": [],
+  "title": "Benjamin Bronx & Alessio Romero - Interview"
+}

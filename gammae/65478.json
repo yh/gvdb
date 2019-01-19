@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Men Over 30"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Steven Ponce",
+      "person_id": 27969
+    },
+    {
+      "name": "Alessio Romero",
+      "person_id": 28032
+    }
+  ],
+  "release_date": "2014-06-17",
+  "scene_id": 65478,
+  "tags": [],
+  "title": "Alessio Romero & Steven Ponce - Interview"
+}

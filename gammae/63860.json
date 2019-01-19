@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Men Over 30"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "James Hamilton",
+      "person_id": 27947
+    },
+    {
+      "name": "Scott Harbor",
+      "person_id": 32680
+    }
+  ],
+  "release_date": "2014-03-18",
+  "scene_id": 63860,
+  "tags": [],
+  "title": "Scott Harbor & James Hamilton - Interview"
+}

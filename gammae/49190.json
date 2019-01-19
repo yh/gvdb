@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "High Performance Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Joe Parker",
+      "person_id": 28044
+    },
+    {
+      "name": "Alex Adams",
+      "person_id": 28090
+    }
+  ],
+  "release_date": "2013-02-05",
+  "scene_id": 49190,
+  "tags": [],
+  "title": "Alex Adams & Joe Parker Backstage"
+}

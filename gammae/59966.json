@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Men Over 30"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Mitch Vaughn",
+      "person_id": 28068
+    },
+    {
+      "name": "Bobby Hart",
+      "person_id": 31830
+    }
+  ],
+  "release_date": "2013-09-17",
+  "scene_id": 59966,
+  "tags": [],
+  "title": "Bobby Hart & Mitch Vaughn Interview"
+}

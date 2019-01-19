@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Men Over 30"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Alexander Garrett",
+      "person_id": 27914
+    },
+    {
+      "name": "Gabriel Ferrari",
+      "person_id": 31492
+    }
+  ],
+  "release_date": "2013-08-06",
+  "scene_id": 59240,
+  "tags": [],
+  "title": "Alexander Garrett & Gabriel Ferrari Interview"
+}

@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Men Over 30"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Geo Reigns",
+      "person_id": 31237
+    },
+    {
+      "name": "RJ Alexander",
+      "person_id": 31548
+    }
+  ],
+  "release_date": "2013-08-13",
+  "scene_id": 59324,
+  "tags": [],
+  "title": "RJ Alexander & Geo Reigns Interview"
+}

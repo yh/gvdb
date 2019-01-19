@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Men Over 30"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Sean Duran",
+      "person_id": 28079
+    },
+    {
+      "name": "Johnny Hazzard",
+      "person_id": 34096
+    }
+  ],
+  "release_date": "2015-03-20",
+  "scene_id": 72846,
+  "tags": [],
+  "title": "Johnny Hazzard & Sean Duran - Interview"
+}

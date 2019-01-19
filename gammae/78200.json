@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Men Over 30"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Jake Jennings",
+      "person_id": 31734
+    },
+    {
+      "name": "Josh Peters",
+      "person_id": 37366
+    }
+  ],
+  "release_date": "2015-09-18",
+  "scene_id": 78200,
+  "tags": [],
+  "title": "Jake Jennings & Josh Peters - Interview"
+}

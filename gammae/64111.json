@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Men Over 30"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "David Chase",
+      "person_id": 27963
+    },
+    {
+      "name": "Alex Adams",
+      "person_id": 28090
+    }
+  ],
+  "release_date": "2014-04-22",
+  "scene_id": 64111,
+  "tags": [],
+  "title": "Alex Adams & David Chase - Interview"
+}

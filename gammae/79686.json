@@ -1,0 +1,24 @@
+{
+  "collections": [
+    "Men Over 30"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Max Sargent",
+      "person_id": 35576
+    },
+    {
+      "name": "Billy Warren",
+      "person_id": 35760
+    },
+    {
+      "name": "Brayden Allen",
+      "person_id": 37828
+    }
+  ],
+  "release_date": "2015-11-20",
+  "scene_id": 79686,
+  "tags": [],
+  "title": "Brayden Allen, Max Sargent & Billy Warren - Interview"
+}

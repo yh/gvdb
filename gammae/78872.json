@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Men Over 30"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Armando De Armas",
+      "person_id": 37456
+    },
+    {
+      "name": "Alex Torres",
+      "person_id": 37584
+    }
+  ],
+  "release_date": "2015-12-11",
+  "scene_id": 78872,
+  "tags": [],
+  "title": "Armando De Armas & Alex Torres - Backstage"
+}

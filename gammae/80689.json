@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Men Over 30"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Dolf Dietrich",
+      "person_id": 38159
+    },
+    {
+      "name": "Daniel Duress",
+      "person_id": 38160
+    }
+  ],
+  "release_date": "2016-01-08",
+  "scene_id": 80689,
+  "tags": [],
+  "title": "Dolf Dietrich & Daniel Duress - Interview"
+}

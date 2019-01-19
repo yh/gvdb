@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Men Over 30"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Bryce Evans",
+      "person_id": 32776
+    },
+    {
+      "name": "Toby Springs",
+      "person_id": 32948
+    }
+  ],
+  "release_date": "2015-06-19",
+  "scene_id": 74123,
+  "tags": [],
+  "title": "Bryce Evans & Toby Springs - Interview"
+}

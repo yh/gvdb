@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Men Over 30"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Jake Jennings",
+      "person_id": 31734
+    },
+    {
+      "name": "Tony Orion",
+      "person_id": 33450
+    }
+  ],
+  "release_date": "2014-04-29",
+  "scene_id": 64481,
+  "tags": [],
+  "title": "Jake Jennings & Tony Orion - Interview"
+}

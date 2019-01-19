@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Men Over 30"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "CJ Parker",
+      "person_id": 31291
+    },
+    {
+      "name": "Jake Zackery",
+      "person_id": 32647
+    }
+  ],
+  "release_date": "2014-01-07",
+  "scene_id": 62436,
+  "tags": [],
+  "title": "CJ Parker & Jake Zackry - Interview"
+}

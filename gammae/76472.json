@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Men Over 30"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Cameron Kincade",
+      "person_id": 28035
+    },
+    {
+      "name": "Rikk York",
+      "person_id": 32679
+    }
+  ],
+  "release_date": "2015-08-07",
+  "scene_id": 76472,
+  "tags": [],
+  "title": "Cameron Kincade & Rikk York - Interview"
+}

@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Men Over 30"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Rikk York",
+      "person_id": 32679
+    },
+    {
+      "name": "Johnny Hazzard",
+      "person_id": 34096
+    }
+  ],
+  "release_date": "2015-03-06",
+  "scene_id": 72730,
+  "tags": [],
+  "title": "Johnny Hazzard & Rikk York - Interview"
+}

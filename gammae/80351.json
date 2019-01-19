@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Men Over 30"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Mike Gaite",
+      "person_id": 34373
+    },
+    {
+      "name": "Peter Fields",
+      "person_id": 37564
+    }
+  ],
+  "release_date": "2015-12-04",
+  "scene_id": 80351,
+  "tags": [],
+  "title": "Mike Gaite & Peter Fields - Interview"
+}

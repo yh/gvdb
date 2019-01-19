@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Men Over 30"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Joe Parker",
+      "person_id": 28044
+    },
+    {
+      "name": "Lucas Allen",
+      "person_id": 31917
+    }
+  ],
+  "release_date": "2013-10-01",
+  "scene_id": 60198,
+  "tags": [],
+  "title": "Joe Parker & Lucas Allen Interview"
+}

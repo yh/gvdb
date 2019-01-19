@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Men Over 30"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Mike Dozer",
+      "person_id": 32509
+    },
+    {
+      "name": "JR Bronson",
+      "person_id": 32510
+    }
+  ],
+  "release_date": "2013-12-10",
+  "scene_id": 61559,
+  "tags": [],
+  "title": "Mike Dozer & JR Bronson - Interview"
+}
