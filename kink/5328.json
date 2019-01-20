@@ -3,7 +3,12 @@
     "Device Bondage"
   ],
   "description": "...Perfectly pure and good: I found\nA thing to do, and all her hair\nIn one long chestnut string I wound\nTwo times her little throat around,\nAnd strangled her. No pain felt she;\nI am quite sure she felt no pain...-With apologies to RB.",
-  "directors": [],
+  "directors": [
+    {
+      "name": "Cyd Black",
+      "person_id": 12661
+    }
+  ],
   "models": [
     {
       "name": "Circe Borges",
@@ -13,17 +18,17 @@
   "release_date": "2008-05-14",
   "scene_id": 5328,
   "tags": [
-    "bdsm",
-    "bondage",
+    "BDSM",
+    "Bondage",
     "Corporal Punishment",
-    "domination",
+    "Domination",
     "Fingering",
     "Handler",
-    "humiliation",
-    "metal bondage",
-    "pain",
-    "straight",
-    "submission"
+    "Humiliation",
+    "Metal Bondage",
+    "Pain",
+    "Straight",
+    "Submission"
   ],
   "title": "An Extract from Browning's Video Blog"
 }

@@ -3,7 +3,12 @@
     "Kink University"
   ],
   "description": "One of the most enriching and beautiful aspects of D/s is the emphasis on scene and master/slave protocol. Maestro Stefanos, as seen on The Upper Floor and his 24/7 partner and slave Shay and their lifestyle partner Nikki Darling show you the authentic practices from their real life experience. Learn about submissive headspace, verbal and physical protocols, private and public rules of the road, as well as memorized positions, rituals, deportment, and more. Plus, gain an insight into the sub-side aspects of Protocol and how the submissive or slave can build Dominance & submission (D/s) from the bottom.",
-  "directors": [],
+  "directors": [
+    {
+      "name": "Danarama",
+      "person_id": 24393
+    }
+  ],
   "models": [
     {
       "name": "Maestro Stefanos",
@@ -21,11 +26,13 @@
   "release_date": "2015-03-19",
   "scene_id": 37320,
   "tags": [
+    "bottom",
     "master",
-    "public",
-    "slave",
-    "straight",
-    "submission"
+    "Public",
+    "Slave",
+    "Straight",
+    "Sub",
+    "Submission"
   ],
   "title": "Protocol and Position Training "
 }

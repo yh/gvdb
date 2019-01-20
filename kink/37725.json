@@ -3,7 +3,12 @@
     "Kink University"
   ],
   "description": "Ever wanted to convert a space in your apartment or house as a dungeon space where your fantasies can come true? Learn decoration, design, and construction tips on how to transform your kinky place. See examples of others' home dungeons and hear suggestions on how to solve basic considerations such as noise dampening, suspension points, and hiding obvious dungeon elements such as hard points from vanilla visitors when not in use.\nGuest host Corrupt Morals was formerly the shop foreman and metal worker for Kink.com's art department. Beginning in 2006 and through Kink's move into the Armory, Corrupt Morals was one of the principal builders of some of the now famous sets at Armory Studios. He now lives in Sonoma County and fabricates custom toys and equipment and builds custom dungeons and play spaces.",
-  "directors": [],
+  "directors": [
+    {
+      "name": "Danarama",
+      "person_id": 24393
+    }
+  ],
   "models": [
     {
       "name": "Corrupt Morals",
@@ -14,11 +19,11 @@
   "scene_id": 37725,
   "tags": [
     "dungeon",
-    "kinky",
-    "pain",
-    "straight",
-    "suspension",
-    "trans"
+    "Kinky",
+    "Pain",
+    "Straight",
+    "Suspension",
+    "TS"
   ],
   "title": "Dungeon Design: Creating Your Own \"Red Room of Pain\""
 }

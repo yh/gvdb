@@ -3,7 +3,12 @@
     "Butt Machine Boys"
   ],
   "description": "This proctological intern, David, decides that he needs to test out the machines before he can use them on his patients. As you'll see, he'll have a hard time trying to part with them.",
-  "directors": [],
+  "directors": [
+    {
+      "name": "Biff Cocblocer",
+      "person_id": 7031
+    }
+  ],
   "models": [
     {
       "name": "David Blakeney",
@@ -13,8 +18,8 @@
   "release_date": "2002-12-13",
   "scene_id": 700,
   "tags": [
-    "anal",
-    "gay",
+    "Anal",
+    "Gay",
     "Machine Dildo"
   ],
   "title": "David Blakeney"

@@ -3,7 +3,12 @@
     "Kink University"
   ],
   "description": "Futomomo (or \"fat leg\") shibari is the technique of binding the lower leg to the thigh. Kanso and True Blue (of Bondage Erotique) show how you can quickly and smoothly tie this important foundation of Japanese rope bondage, as well as a beautiful and functional leg lacing technique for tying the legs together. Learn about proper rope handling and safety, as well as some of the rich tradition behind the ties.\nPhotos for this tutorial include step-by-step images.",
-  "directors": [],
+  "directors": [
+    {
+      "name": "Danarama",
+      "person_id": 24393
+    }
+  ],
   "models": [
     {
       "name": "Kanso",
@@ -17,9 +22,9 @@
   "release_date": "2014-09-25",
   "scene_id": 35753,
   "tags": [
-    "bondage",
-    "rope bondage",
-    "straight"
+    "Bondage",
+    "Rope Bondage",
+    "Straight"
   ],
   "title": "Shibari 201 - Futomomo Leg Binding and Leg Lacing"
 }

@@ -3,7 +3,12 @@
     "Men in Pain"
   ],
   "description": "We present to you a series of rigging lessons for those interested in learning the art of rope bondage.\nThis is in addition to regular updates.",
-  "directors": [],
+  "directors": [
+    {
+      "name": "Chanta-Rose",
+      "person_id": 124
+    }
+  ],
   "models": [
     {
       "name": "Scott Lee",
@@ -13,23 +18,23 @@
   "release_date": "2005-04-04",
   "scene_id": 2752,
   "tags": [
-    "bdsm",
-    "bondage",
+    "BDSM",
+    "Bondage",
     "CBT",
     "Corporal Punishment",
-    "dominatrix",
-    "Face Sitting",
-    "femdom",
+    "Dominatrix",
+    "Facesitting",
+    "Femdom",
     "Fingering",
-    "humiliation",
+    "Humiliation",
     "Male Sub",
-    "orgasm denial",
-    "pain",
+    "Orgasm Denial",
+    "Pain",
     "Pegging",
     "Pussy Eating",
-    "rope bondage",
-    "slave",
-    "straight"
+    "Rope Bondage",
+    "Slave",
+    "Straight"
   ],
   "title": "Men In Pain Bondage Tutorial"
 }
