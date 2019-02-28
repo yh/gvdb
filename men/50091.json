@@ -5,14 +5,11 @@
   "description": "Jason and Kurtis finally have it out.",
   "models": [
     {
-      "name": "Jason Vario",
-      "person_id": 3691
-    },
-    {
       "name": "Kurtis Wolfe",
       "person_id": 2751
     }
   ],
+  "release_date": "2018-03-20",
   "scene_id": 50091,
   "title": "Open Relationship Part 3"
 }

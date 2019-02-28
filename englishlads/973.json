@@ -1,12 +1,15 @@
 {
+  "collections": [
+    "English Lads"
+  ],
   "description": "",
   "models": [
     {
-      "name": "Craig Webb",
+      "name": "Jamie Neil",
       "person_id": null
     },
     {
-      "name": "Jamie Neil",
+      "name": "Craig Webb",
       "person_id": null
     }
   ],

@@ -5,14 +5,11 @@
   "description": "Ethan Chase and Liam Emerson collide and make the sparks fly.",
   "models": [
     {
-      "name": "Ethan Chase",
-      "person_id": 3491
-    },
-    {
       "name": "Liam Emerson",
       "person_id": 4031
     }
   ],
+  "release_date": "2018-02-27",
   "scene_id": 49381,
   "title": "Collide"
 }

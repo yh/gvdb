@@ -1,12 +1,15 @@
 {
+  "collections": [
+    "English Lads"
+  ],
   "description": "",
   "models": [
     {
-      "name": "Jason Connor",
+      "name": "Justin Harris",
       "person_id": null
     },
     {
-      "name": "Justin Harris",
+      "name": "Jason Connor",
       "person_id": null
     }
   ],

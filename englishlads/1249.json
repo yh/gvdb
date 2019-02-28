@@ -1,12 +1,15 @@
 {
+  "collections": [
+    "English Lads"
+  ],
   "description": "",
   "models": [
     {
-      "name": "Callum Best",
+      "name": "Jason Connor",
       "person_id": null
     },
     {
-      "name": "Jason Connor",
+      "name": "Callum Best",
       "person_id": null
     }
   ],

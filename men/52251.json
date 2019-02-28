@@ -5,10 +5,6 @@
   "description": "The team isn't happy with their coach, William Seed and want to teach him a fun little lesson but William turns it around on them and ends up being the one to teach them a lesson.",
   "models": [
     {
-      "name": "Ethan Chase",
-      "person_id": 3491
-    },
-    {
       "name": "Jordan Fox",
       "person_id": 4251
     },
@@ -25,6 +21,7 @@
       "person_id": 8541
     }
   ],
+  "release_date": "2018-05-19",
   "scene_id": 52251,
   "title": "Snap! Part 2"
 }

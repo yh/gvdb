@@ -1,12 +1,15 @@
 {
+  "collections": [
+    "English Lads"
+  ],
   "description": "",
   "models": [
     {
-      "name": "Andy Lee",
+      "name": "Bailey Morgan",
       "person_id": null
     },
     {
-      "name": "Bailey Morgan",
+      "name": "Andy Lee",
       "person_id": null
     }
   ],

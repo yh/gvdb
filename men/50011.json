@@ -9,10 +9,6 @@
       "person_id": 4041
     },
     {
-      "name": "Ethan Chase",
-      "person_id": 3491
-    },
-    {
       "name": "Kit Cohen",
       "person_id": 3581
     },
@@ -25,6 +21,7 @@
       "person_id": 3401
     }
   ],
+  "release_date": "2018-03-16",
   "scene_id": 50011,
   "title": "Ass Controller Part 7"
 }

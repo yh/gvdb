@@ -1,12 +1,15 @@
 {
+  "collections": [
+    "English Lads"
+  ],
   "description": "",
   "models": [
     {
-      "name": "Kyle Martin",
+      "name": "Anton Dickson",
       "person_id": null
     },
     {
-      "name": "Anton Dickson",
+      "name": "Kyle Martin",
       "person_id": null
     },
     {

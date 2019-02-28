@@ -1,16 +1,19 @@
 {
+  "collections": [
+    "English Lads"
+  ],
   "description": "",
   "models": [
+    {
+      "name": "Liam James",
+      "person_id": null
+    },
     {
       "name": "Hayden Harris",
       "person_id": null
     },
     {
       "name": "Zack Elliot",
-      "person_id": null
-    },
-    {
-      "name": "Liam James",
       "person_id": null
     }
   ],

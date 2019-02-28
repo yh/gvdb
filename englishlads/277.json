@@ -1,12 +1,15 @@
 {
+  "collections": [
+    "English Lads"
+  ],
   "description": "",
   "models": [
     {
-      "name": "Ben Rodgers",
+      "name": "Ryan Scott",
       "person_id": null
     },
     {
-      "name": "Ryan Scott",
+      "name": "Ben Rodgers",
       "person_id": null
     }
   ],

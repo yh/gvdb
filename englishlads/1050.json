@@ -1,12 +1,15 @@
 {
+  "collections": [
+    "English Lads"
+  ],
   "description": "",
   "models": [
     {
-      "name": "Jake Cooper",
+      "name": "Kev Adamson",
       "person_id": null
     },
     {
-      "name": "Kev Adamson",
+      "name": "Jake Cooper",
       "person_id": null
     }
   ],

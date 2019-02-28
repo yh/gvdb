@@ -1,12 +1,15 @@
 {
+  "collections": [
+    "English Lads"
+  ],
   "description": "",
   "models": [
     {
-      "name": "Anthony Clarke",
+      "name": "Jake Cooper",
       "person_id": null
     },
     {
-      "name": "Jake Cooper",
+      "name": "Anthony Clarke",
       "person_id": null
     }
   ],

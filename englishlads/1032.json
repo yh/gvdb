@@ -1,12 +1,15 @@
 {
+  "collections": [
+    "English Lads"
+  ],
   "description": "",
   "models": [
     {
-      "name": "Drew Brody",
+      "name": "Mark Summers",
       "person_id": null
     },
     {
-      "name": "Mark Summers",
+      "name": "Drew Brody",
       "person_id": null
     }
   ],

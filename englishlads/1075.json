@@ -1,12 +1,15 @@
 {
+  "collections": [
+    "English Lads"
+  ],
   "description": "",
   "models": [
     {
-      "name": "Rick Lewis",
+      "name": "Will Jamieson",
       "person_id": null
     },
     {
-      "name": "Will Jamieson",
+      "name": "Rick Lewis",
       "person_id": null
     }
   ],
