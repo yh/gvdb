@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Lucas Entertainment"
+  ],
+  "description": "Its the end of a busy night, and bartender Vin Nolan and bar back Pete Ross are the only ones left to clean things up...",
+  "models": [
+    {
+      "name": "Pete Ross",
+      "person_id": null
+    },
+    {
+      "name": "Vin Nolan",
+      "person_id": null
+    }
+  ],
+  "release_date": "2009-11-24",
+  "scene_id": 373,
+  "series": "Encounters 4: On the Job",
+  "title": "Pete Ross and Vin Nolan"
+}

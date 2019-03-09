@@ -1,0 +1,28 @@
+{
+  "collections": [
+    "Lucas Entertainment"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Fabrizio Mangiatti",
+      "person_id": null
+    },
+    {
+      "name": "Fernando Mangiatti",
+      "person_id": null
+    },
+    {
+      "name": "Michael Lucas",
+      "person_id": null
+    },
+    {
+      "name": "Steve Hunt",
+      "person_id": null
+    }
+  ],
+  "release_date": "2006-06-20",
+  "scene_id": 3302,
+  "series": "The Michael Lucas Collection (Vol. 1)",
+  "title": "Michael Lucas and Steve Hunt with the Mangiatti Guys"
+}

@@ -1,0 +1,28 @@
+{
+  "collections": [
+    "Lucas Entertainment"
+  ],
+  "description": "Cruising Budapest 5 - Mangiatti Guys, Steve Hunt & Michael Lucas",
+  "models": [
+    {
+      "name": "Fabrizio Mangiatti",
+      "person_id": null
+    },
+    {
+      "name": "Fernando Mangiatti",
+      "person_id": null
+    },
+    {
+      "name": "Michael Lucas",
+      "person_id": null
+    },
+    {
+      "name": "Steve Hunt",
+      "person_id": null
+    }
+  ],
+  "release_date": "2009-11-21",
+  "scene_id": 276,
+  "series": "Cruising Budapest V: The Mangiattis",
+  "title": "Mangiatti Men, Steve, and Michael"
+}

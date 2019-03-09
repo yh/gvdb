@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Lucas Entertainment"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Nick Capra",
+      "person_id": null
+    },
+    {
+      "name": "Rusty Stevens",
+      "person_id": null
+    }
+  ],
+  "release_date": "2009-06-29",
+  "scene_id": 3365,
+  "series": "Return to Fire Island: Director's Cut",
+  "title": "Nick Capra and Rusty Stevens on Fire Island"
+}

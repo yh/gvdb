@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Lucas Entertainment"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Brad Star",
+      "person_id": null
+    },
+    {
+      "name": "Ray Star",
+      "person_id": null
+    }
+  ],
+  "release_date": "2009-06-25",
+  "scene_id": 3339,
+  "series": "Michael Lucas' La Dolce Vita: Director's Cut",
+  "title": "Ray Star and Brad Star"
+}

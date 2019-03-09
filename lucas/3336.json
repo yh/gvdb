@@ -1,0 +1,24 @@
+{
+  "collections": [
+    "Lucas Entertainment"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Derrick Hanson",
+      "person_id": null
+    },
+    {
+      "name": "Jason Ridge",
+      "person_id": null
+    },
+    {
+      "name": "Michael Lucas",
+      "person_id": null
+    }
+  ],
+  "release_date": "2009-06-25",
+  "scene_id": 3336,
+  "series": "Michael Lucas' La Dolce Vita: Director's Cut",
+  "title": "Derrick Hanson, Jason Ridge, and Michael Lucas"
+}

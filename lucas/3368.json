@@ -1,0 +1,24 @@
+{
+  "collections": [
+    "Lucas Entertainment"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Jackson Wild",
+      "person_id": null
+    },
+    {
+      "name": "Michael Lucas",
+      "person_id": null
+    },
+    {
+      "name": "Wilfried Knight",
+      "person_id": null
+    }
+  ],
+  "release_date": "2009-06-29",
+  "scene_id": 3368,
+  "series": "Return to Fire Island: Director's Cut",
+  "title": "Jackson, Michael, and Wilfried's Threeway on Fire Island"
+}

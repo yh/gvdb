@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Lucas Entertainment"
+  ],
+  "description": "Cruising Budapest 5 - Rick Bauer & Peter Shadow",
+  "models": [
+    {
+      "name": "Peter Shadow",
+      "person_id": null
+    },
+    {
+      "name": "Rick Bauer",
+      "person_id": null
+    }
+  ],
+  "release_date": "2009-11-21",
+  "scene_id": 273,
+  "series": "Cruising Budapest V: The Mangiattis",
+  "title": "Rick Bauer and Peter Shadow"
+}

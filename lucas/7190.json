@@ -1,0 +1,48 @@
+{
+  "collections": [
+    "Lucas Entertainment"
+  ],
+  "description": "The Lucas Entertainment team has collected some of the best that's been produced this year! Our scenes feature Adam Killian, Vito Gallo, D.O., Paddy O'Brien, Jessy Ares, and many more! If you're a fan of the scenes and movies that have been released this year, don't miss this special rundown!",
+  "models": [
+    {
+      "name": "D.O.",
+      "person_id": null
+    },
+    {
+      "name": "Jessy Ares",
+      "person_id": null
+    },
+    {
+      "name": "Diego Lauzen",
+      "person_id": null
+    },
+    {
+      "name": "Wagner Vittoria",
+      "person_id": null
+    },
+    {
+      "name": "Jake Steel",
+      "person_id": null
+    },
+    {
+      "name": "Peter Stark",
+      "person_id": null
+    },
+    {
+      "name": "Billy Santoro",
+      "person_id": null
+    },
+    {
+      "name": "Seth Treston",
+      "person_id": null
+    },
+    {
+      "name": "Paddy OBrian",
+      "person_id": null
+    }
+  ],
+  "release_date": "2013-12-22",
+  "scene_id": 7190,
+  "series": null,
+  "title": "The Best of Lucas Entertainment in 2013"
+}

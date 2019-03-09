@@ -1,0 +1,36 @@
+{
+  "collections": [
+    "Lucas Entertainment"
+  ],
+  "description": "Pierre Fitch, Brandon Jones, Carsten Andersson, Jessie Colter: they're all here (and more!) to talk behind the scenes of Lucas Entertainment's \"All Star Studs\" -- which was completely filmed in Montreal! Learn about the making of the movie and the models in it right here!",
+  "models": [
+    {
+      "name": "Adam Killian",
+      "person_id": null
+    },
+    {
+      "name": "Brandon Jones",
+      "person_id": null
+    },
+    {
+      "name": "Carsten Andersson",
+      "person_id": null
+    },
+    {
+      "name": "Jessie Colter",
+      "person_id": null
+    },
+    {
+      "name": "Pierre Fitch",
+      "person_id": null
+    },
+    {
+      "name": "Robert Van Damme",
+      "person_id": null
+    }
+  ],
+  "release_date": "2011-09-06",
+  "scene_id": 3659,
+  "series": "All Star Studs",
+  "title": "The \"All Star Studs\" Break in the Streets of Montreal"
+}

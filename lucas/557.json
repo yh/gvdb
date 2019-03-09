@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Lucas Entertainment"
+  ],
+  "description": "In the final scene, Miguel realizes that what he really wants is a future with Mitch. They consummate their relationship in a passionate scene with Mitch winding up on the bottom.",
+  "models": [
+    {
+      "name": "Miguel Antonio",
+      "person_id": null
+    },
+    {
+      "name": "Mitch Ryder",
+      "person_id": null
+    }
+  ],
+  "release_date": "2004-01-01",
+  "scene_id": 557,
+  "series": "Love for Sale",
+  "title": "Miguel Antonio and Mitch Ryder"
+}

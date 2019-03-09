@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Lucas Entertainment"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Michael Lucas",
+      "person_id": null
+    },
+    {
+      "name": "Owen Hawk",
+      "person_id": null
+    }
+  ],
+  "release_date": "2004-01-01",
+  "scene_id": 448,
+  "series": "Dangerous Liaisons",
+  "title": "Michael Lucas and Owen Hawk"
+}

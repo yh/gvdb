@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Lucas Entertainment"
+  ],
+  "description": "Go behind the scenes of \"Encounters 01: In the Heat of the Moment,\" and you might just see a very special guest appearance from the one and only RuPaul!",
+  "models": [
+    {
+      "name": "Wilson Vasquez",
+      "person_id": null
+    },
+    {
+      "name": "Bruce Beckham",
+      "person_id": null
+    }
+  ],
+  "release_date": "2009-07-11",
+  "scene_id": 6568,
+  "series": "Encounters 1: In the Heat of the Moment",
+  "title": "Go Behind the Scenes of Encounters 01"
+}

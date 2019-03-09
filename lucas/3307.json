@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Lucas Entertainment"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Michael Lucas",
+      "person_id": null
+    },
+    {
+      "name": "Nick Capra",
+      "person_id": null
+    }
+  ],
+  "release_date": "2006-06-20",
+  "scene_id": 3307,
+  "series": "The Michael Lucas Collection (Vol. 1)",
+  "title": "Michael Lucas and Nick Capra"
+}

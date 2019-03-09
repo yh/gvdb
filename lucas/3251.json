@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Lucas Entertainment"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Bruce Beckham",
+      "person_id": null
+    },
+    {
+      "name": "Parker Willliams",
+      "person_id": null
+    }
+  ],
+  "release_date": "2006-05-26",
+  "scene_id": 3251,
+  "series": "Fire Island Cruising 7",
+  "title": "Bruce Beckham and Parker Williams"
+}

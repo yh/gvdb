@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Lucas Entertainment"
+  ],
+  "description": "We follow Michaels former assistant Rick Arnold (Pete Ross) home after the show with fellow fashion show patron (and Lucas exclusive) Jonathan Vargas. The two have a butt-poundingly good time.",
+  "models": [
+    {
+      "name": "Jonathan  Vargas",
+      "person_id": null
+    },
+    {
+      "name": "Pete Ross",
+      "person_id": null
+    }
+  ],
+  "release_date": "2007-03-20",
+  "scene_id": 406,
+  "series": "Michael Lucas' La Dolce Vita: Part 1",
+  "title": "Jonathan Vargas and Pete Ross"
+}

@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Lucas Entertainment"
+  ],
+  "description": "Watch scene three of \"The Last Day\" starring Adriano Carrasco and Issac Jones!",
+  "models": [
+    {
+      "name": "Adriano Carrasco",
+      "person_id": null
+    },
+    {
+      "name": "Issac Jones",
+      "person_id": null
+    }
+  ],
+  "release_date": "2012-04-13",
+  "scene_id": 4612,
+  "series": "The Last Day",
+  "title": "Adriano Carrasco Tops Issac Jones"
+}

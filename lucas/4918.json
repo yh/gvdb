@@ -1,0 +1,44 @@
+{
+  "collections": [
+    "Lucas Entertainment"
+  ],
+  "description": "The men of New York all want to be king, and they're willing to do whatever it takes! When the movie stopped filming, the cameras were left rolling to capture all of the wild fun behind the scenes!",
+  "models": [
+    {
+      "name": "Junior Stellano",
+      "person_id": null
+    },
+    {
+      "name": "Michael Lucas",
+      "person_id": null
+    },
+    {
+      "name": "Phillip Aubrey",
+      "person_id": null
+    },
+    {
+      "name": "Rafael Alencar",
+      "person_id": null
+    },
+    {
+      "name": "Rod Daily",
+      "person_id": null
+    },
+    {
+      "name": "Steven Daigle",
+      "person_id": null
+    },
+    {
+      "name": "Wilfried Knight",
+      "person_id": null
+    },
+    {
+      "name": "Zach Alexander",
+      "person_id": null
+    }
+  ],
+  "release_date": "2010-06-15",
+  "scene_id": 4918,
+  "series": "Kings of New York",
+  "title": "The Men of \"Kings of New York\" Go Behind the Scenes"
+}

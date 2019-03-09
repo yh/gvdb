@@ -1,0 +1,20 @@
+{
+  "collections": [
+    "Lucas Entertainment"
+  ],
+  "description": "The cute and sexy Naor Tal learns what it means to star in a Lucas Entertainment production when he's broken in by the company's namesake -- Michael Lucas himself!",
+  "models": [
+    {
+      "name": "Michael Lucas",
+      "person_id": null
+    },
+    {
+      "name": "Naor Tal",
+      "person_id": null
+    }
+  ],
+  "release_date": "2011-01-24",
+  "scene_id": 3234,
+  "series": "Auditions 32: International Auditions",
+  "title": "Michael Lucas Breaks in Naor Tal"
+}
