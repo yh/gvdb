@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Man Royale"
+  ],
+  "models": [
+    {
+      "name": "Jack King",
+      "person_id": null
+    },
+    {
+      "name": "Beau Irons",
+      "person_id": null
+    }
+  ],
+  "release_date": "2014-02-20",
+  "scene_id": 46277,
+  "title": "Dripping with Anticipation"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Man Royale"
+  ],
+  "models": [
+    {
+      "name": "Zak Bishop",
+      "person_id": null
+    },
+    {
+      "name": "Nate Grimes",
+      "person_id": null
+    }
+  ],
+  "release_date": "2017-03-17",
+  "scene_id": 54289,
+  "title": "Happy St. Patty's Day"
+}

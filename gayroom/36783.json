@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Man Royale"
+  ],
+  "models": [
+    {
+      "name": "Drake Wild",
+      "person_id": null
+    },
+    {
+      "name": "Alex Vaara",
+      "person_id": null
+    }
+  ],
+  "release_date": "2012-03-15",
+  "scene_id": 36783,
+  "title": "Pretty Boys"
+}

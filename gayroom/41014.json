@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Man Royale"
+  ],
+  "models": [
+    {
+      "name": "Ethan Slade",
+      "person_id": null
+    },
+    {
+      "name": "Tyler Lee",
+      "person_id": null
+    }
+  ],
+  "release_date": "2012-11-01",
+  "scene_id": 41014,
+  "title": "Trick or Treat Boys"
+}

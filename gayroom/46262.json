@@ -1,0 +1,22 @@
+{
+  "collections": [
+    "Man Royale"
+  ],
+  "models": [
+    {
+      "name": "Mitch Vaughn",
+      "person_id": null
+    },
+    {
+      "name": "Seth Knight",
+      "person_id": null
+    },
+    {
+      "name": "Alexander Gustavo",
+      "person_id": null
+    }
+  ],
+  "release_date": "2014-02-13",
+  "scene_id": 46262,
+  "title": "Master & Apprentice"
+}

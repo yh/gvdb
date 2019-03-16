@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "MassageBait"
+  ],
+  "models": [
+    {
+      "name": "Nate Stetson",
+      "person_id": null
+    },
+    {
+      "name": "Nate Grimes",
+      "person_id": null
+    }
+  ],
+  "release_date": "2017-03-03",
+  "scene_id": 54265,
+  "title": "Nate On Nate"
+}

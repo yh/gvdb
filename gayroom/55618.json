@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "MassageBait"
+  ],
+  "models": [
+    {
+      "name": "Cade Maddox",
+      "person_id": null
+    },
+    {
+      "name": "James Fenlon",
+      "person_id": null
+    }
+  ],
+  "release_date": "2018-12-14",
+  "scene_id": 55618,
+  "title": "Singlet Massage"
+}

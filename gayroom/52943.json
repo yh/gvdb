@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Man Royale"
+  ],
+  "models": [
+    {
+      "name": "Micky Mackenzie",
+      "person_id": null
+    },
+    {
+      "name": "Collin Marshall",
+      "person_id": null
+    }
+  ],
+  "release_date": "2015-05-22",
+  "scene_id": 52943,
+  "title": "Dirty Laundry"
+}

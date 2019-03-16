@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Man Royale"
+  ],
+  "models": [
+    {
+      "name": "Billy Santoro",
+      "person_id": null
+    },
+    {
+      "name": "Colt Rivers",
+      "person_id": null
+    }
+  ],
+  "release_date": "2017-05-05",
+  "scene_id": 54420,
+  "title": "Tea With Billy"
+}

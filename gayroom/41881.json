@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Man Royale"
+  ],
+  "models": [
+    {
+      "name": "Sam Northman",
+      "person_id": null
+    },
+    {
+      "name": "Wesley Masters",
+      "person_id": null
+    }
+  ],
+  "release_date": "2013-11-01",
+  "scene_id": 41881,
+  "title": "Save A Horse, Ride A Cowboy"
+}

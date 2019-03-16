@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Man Royale"
+  ],
+  "models": [
+    {
+      "name": "Chad Hunter",
+      "person_id": null
+    },
+    {
+      "name": "Brandon Moore",
+      "person_id": null
+    }
+  ],
+  "release_date": "2013-10-20",
+  "scene_id": 41828,
+  "title": "Deep Drilling"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "DamnThatsBig"
+  ],
+  "models": [
+    {
+      "name": "Mike Chambers",
+      "person_id": null
+    },
+    {
+      "name": "Calvin Cuffs",
+      "person_id": null
+    }
+  ],
+  "release_date": "2014-12-25",
+  "scene_id": 52492,
+  "title": "Close Shave"
+}

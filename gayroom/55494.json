@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Shower Bait"
+  ],
+  "models": [
+    {
+      "name": "Ollie",
+      "person_id": null
+    },
+    {
+      "name": "Vadim Black",
+      "person_id": null
+    }
+  ],
+  "release_date": "2018-10-12",
+  "scene_id": 55494,
+  "title": "Ball Handler"
+}

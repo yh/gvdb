@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Man Royale"
+  ],
+  "models": [
+    {
+      "name": "Trenton Ducati",
+      "person_id": null
+    },
+    {
+      "name": "Damon Archer",
+      "person_id": null
+    }
+  ],
+  "release_date": "2013-09-03",
+  "scene_id": 41760,
+  "title": "Damon"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "MassageBait"
+  ],
+  "models": [
+    {
+      "name": "Nate Stenson",
+      "person_id": null
+    },
+    {
+      "name": "Peyton Chrimata",
+      "person_id": null
+    }
+  ],
+  "release_date": "2018-06-29",
+  "scene_id": 55209,
+  "title": "Massaged"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Man Royale"
+  ],
+  "models": [
+    {
+      "name": "Bobby Hart",
+      "person_id": null
+    },
+    {
+      "name": "Alex Graham",
+      "person_id": null
+    }
+  ],
+  "release_date": "2012-10-25",
+  "scene_id": 41004,
+  "title": "Special Treatment"
+}

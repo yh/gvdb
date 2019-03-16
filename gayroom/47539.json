@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "GayCreeps"
+  ],
+  "models": [
+    {
+      "name": "Sean Blue",
+      "person_id": null
+    },
+    {
+      "name": "Joey Moriarty",
+      "person_id": null
+    }
+  ],
+  "release_date": "2014-09-17",
+  "scene_id": 47539,
+  "title": "Home From His Trip"
+}

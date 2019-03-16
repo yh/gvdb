@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Man Royale"
+  ],
+  "models": [
+    {
+      "name": "Ethan Slade",
+      "person_id": null
+    },
+    {
+      "name": "James Ryder",
+      "person_id": null
+    }
+  ],
+  "release_date": "2012-09-25",
+  "scene_id": 40395,
+  "title": "An Afternoon Delight"
+}

@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Man Royale"
+  ],
+  "models": [
+    {
+      "name": "Derek Scott",
+      "person_id": null
+    },
+    {
+      "name": "Tanner Shields",
+      "person_id": null
+    }
+  ],
+  "release_date": "2014-10-09",
+  "scene_id": 47600,
+  "title": "Home from Work"
+}

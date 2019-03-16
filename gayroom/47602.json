@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Man Royale"
+  ],
+  "models": [
+    {
+      "name": "Mike Edge",
+      "person_id": null
+    },
+    {
+      "name": "Eli Hunter",
+      "person_id": null
+    }
+  ],
+  "release_date": "2014-10-02",
+  "scene_id": 47602,
+  "title": "Behind Locked Doors"
+}

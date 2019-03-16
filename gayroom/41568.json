@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Man Royale"
+  ],
+  "models": [
+    {
+      "name": "Angel Rock",
+      "person_id": null
+    },
+    {
+      "name": "Jace Chambers",
+      "person_id": null
+    }
+  ],
+  "release_date": "2013-04-23",
+  "scene_id": 41568,
+  "title": "Summer Heat"
+}

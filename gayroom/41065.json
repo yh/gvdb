@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Man Royale"
+  ],
+  "models": [
+    {
+      "name": "Shane Frost",
+      "person_id": null
+    },
+    {
+      "name": "Ethan Slade",
+      "person_id": null
+    }
+  ],
+  "release_date": "2012-11-13",
+  "scene_id": 41065,
+  "title": "All Washed Up"
+}

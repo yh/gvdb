@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Man Royale"
+  ],
+  "models": [
+    {
+      "name": "Joey Cooper",
+      "person_id": null
+    },
+    {
+      "name": "Brett Bradley",
+      "person_id": null
+    }
+  ],
+  "release_date": "2013-05-17",
+  "scene_id": 41599,
+  "title": "Hit It and Run"
+}
