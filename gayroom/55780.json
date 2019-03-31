@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Man Royale"
+  ],
+  "models": [
+    {
+      "name": "Bar Addison",
+      "person_id": null
+    },
+    {
+      "name": "Mike Monroe",
+      "person_id": null
+    }
+  ],
+  "release_date": "2019-03-29",
+  "scene_id": 55780,
+  "title": "Bed Buddies"
+}
