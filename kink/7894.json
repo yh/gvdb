@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nick Moretti",
-      "person_id": 17516
-    },
-    {
       "name": "Dylan Deap",
       "person_id": 21477
+    },
+    {
+      "name": "Nick Moretti",
+      "person_id": 17516
     }
   ],
   "release_date": "2010-02-25",

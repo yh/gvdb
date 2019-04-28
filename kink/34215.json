@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Amanda Tate",
+      "person_id": 51443
+    },
+    {
       "name": "Maestro",
       "person_id": 11928
     },
     {
       "name": "Simone Sonay",
       "person_id": 34687
-    },
-    {
-      "name": "Amanda Tate",
-      "person_id": 51443
     }
   ],
   "release_date": "2013-12-13",

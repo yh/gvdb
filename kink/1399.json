@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Viking",
-      "person_id": 2763
-    },
-    {
       "name": "Sasha Monet",
       "person_id": 2348
+    },
+    {
+      "name": "Viking",
+      "person_id": 2763
     }
   ],
   "release_date": "2003-10-24",

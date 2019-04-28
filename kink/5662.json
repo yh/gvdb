@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mr. Pete",
-      "person_id": 16823
-    },
-    {
       "name": "Bobbi Starr",
       "person_id": 11290
+    },
+    {
+      "name": "Mr. Pete",
+      "person_id": 16823
     }
   ],
   "release_date": "2008-10-17",

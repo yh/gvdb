@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Ryan Conner",
-      "person_id": 58063
-    },
-    {
       "name": "Goldie Glock",
       "person_id": 58292
+    },
+    {
+      "name": "Ryan Conner",
+      "person_id": 58063
     },
     {
       "name": "Tommy Pistol",

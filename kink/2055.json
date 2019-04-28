@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Audrey Leigh",
+      "person_id": 1587
+    },
+    {
       "name": "DragonLily",
       "person_id": 3433
     },
     {
       "name": "Venus",
       "person_id": 2302
-    },
-    {
-      "name": "Audrey Leigh",
-      "person_id": 1587
     }
   ],
   "release_date": "2004-07-22",

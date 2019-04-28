@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Trenton Ducati",
-      "person_id": 42630
+      "name": "Lance Hart",
+      "person_id": 37346
     },
     {
       "name": "Rich",
       "person_id": 60306
     },
     {
-      "name": "Lance Hart",
-      "person_id": 37346
+      "name": "Trenton Ducati",
+      "person_id": 42630
     }
   ],
   "release_date": "2017-07-04",

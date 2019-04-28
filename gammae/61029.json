@@ -5,14 +5,6 @@
   "description": "When the mess in your house is unsightly, and the dirt starts to get grimy, there's only one team worth calling to make things beautiful again: Muscle Maid Service. 'Clean with a side of dirty,' is their motto and they know what they are talking about. With just one quick call, their team of hot guys will show up to spruce up the whole place, and if you are lucky, they just may help you make a new mess. Either way, though, you have to keep an eye on them, because with or without you, they came to play, and won't be leaving until they've rubbed every inch and given it a proper 'hose down'. Muscle Maid Service: you're gonna like what you see!Enjoy!",
   "models": [
     {
-      "name": "Tyler Torro",
-      "person_id": 13869
-    },
-    {
-      "name": "Taylor Wolf",
-      "person_id": 32094
-    },
-    {
       "name": "Christian Cayden",
       "person_id": 31546
     },
@@ -23,6 +15,14 @@
     {
       "name": "Hugh Jazz",
       "person_id": 31938
+    },
+    {
+      "name": "Taylor Wolf",
+      "person_id": 32094
+    },
+    {
+      "name": "Tyler Torro",
+      "person_id": 13869
     }
   ],
   "release_date": "2013-11-14",

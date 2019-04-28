@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Isis Love",
-      "person_id": 6584
-    },
-    {
-      "name": "Tia Ling",
-      "person_id": 17361
-    },
-    {
       "name": "DragonLily",
       "person_id": 3433
     },
     {
       "name": "Holly Heart",
       "person_id": 20472
+    },
+    {
+      "name": "Isis Love",
+      "person_id": 6584
+    },
+    {
+      "name": "Tia Ling",
+      "person_id": 17361
     }
   ],
   "release_date": "2010-07-20",

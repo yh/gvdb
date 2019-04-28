@@ -15,16 +15,12 @@
       "person_id": 31983
     },
     {
-      "name": "Skin Diamond",
-      "person_id": 31494
+      "name": "Iona Grace",
+      "person_id": 25204
     },
     {
       "name": "Krysta Kaos",
       "person_id": 25624
-    },
-    {
-      "name": "Iona Grace",
-      "person_id": 25204
     },
     {
       "name": "Nerine Mechanique",
@@ -33,6 +29,10 @@
     {
       "name": "Pink Suga",
       "person_id": 32652
+    },
+    {
+      "name": "Skin Diamond",
+      "person_id": 31494
     }
   ],
   "release_date": "2011-10-07",

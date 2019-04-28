@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kirsten Price",
-      "person_id": 42134
-    },
-    {
       "name": "Amarna Miller",
       "person_id": 57131
+    },
+    {
+      "name": "Kirsten Price",
+      "person_id": 42134
     }
   ],
   "release_date": "2015-04-03",

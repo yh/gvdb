@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Robert Axel",
-      "person_id": 35027
-    },
-    {
       "name": "Lea Lexis",
       "person_id": 17836
+    },
+    {
+      "name": "Robert Axel",
+      "person_id": 35027
     }
   ],
   "release_date": "2012-11-30",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Vennue Longhorn",
-      "person_id": 25662
-    },
-    {
       "name": "Brenn Wyson",
       "person_id": 19912
+    },
+    {
+      "name": "Vennue Longhorn",
+      "person_id": 25662
     }
   ],
   "release_date": "2010-10-02",

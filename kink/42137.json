@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Penny Pax",
-      "person_id": 38571
-    },
-    {
       "name": "John Strong",
       "person_id": 17050
+    },
+    {
+      "name": "Penny Pax",
+      "person_id": 38571
     }
   ],
   "release_date": "2017-05-05",

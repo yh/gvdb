@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Maya",
-      "person_id": 2670
-    },
-    {
       "name": "Chanta-Rose",
       "person_id": 124
+    },
+    {
+      "name": "Maya",
+      "person_id": 2670
     }
   ],
   "release_date": "2004-08-06",

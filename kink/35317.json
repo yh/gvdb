@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Seven Dixon",
-      "person_id": 53331
-    },
-    {
       "name": "Connor Maguire",
       "person_id": 46426
+    },
+    {
+      "name": "Seven Dixon",
+      "person_id": 53331
     }
   ],
   "release_date": "2014-06-05",

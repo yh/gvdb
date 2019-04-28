@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Leya Falcon",
-      "person_id": 46075
-    },
-    {
       "name": "Ariel X",
       "person_id": 10464
+    },
+    {
+      "name": "Leya Falcon",
+      "person_id": 46075
     }
   ],
   "release_date": "2017-11-03",

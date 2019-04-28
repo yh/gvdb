@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Alex Sanders",
+      "person_id": 6552
+    },
+    {
       "name": "Mark Davis",
       "person_id": 8200
     },
     {
       "name": "Mika Tan",
       "person_id": 236
-    },
-    {
-      "name": "Alex Sanders",
-      "person_id": 6552
     }
   ],
   "release_date": "2006-06-02",

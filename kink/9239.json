@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Steve Holmes",
-      "person_id": 15810
-    },
-    {
       "name": "Aurora Snow",
       "person_id": 18081
+    },
+    {
+      "name": "Steve Holmes",
+      "person_id": 15810
     }
   ],
   "release_date": "2010-06-11",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Vendetta",
-      "person_id": 8300
-    },
-    {
       "name": "Princess Donna Dolore",
       "person_id": 5235
+    },
+    {
+      "name": "Vendetta",
+      "person_id": 8300
     }
   ],
   "release_date": "2005-12-28",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mark Davis",
-      "person_id": 8200
-    },
-    {
       "name": "Carmen Stark",
       "person_id": 19766
+    },
+    {
+      "name": "Mark Davis",
+      "person_id": 8200
     }
   ],
   "release_date": "2009-05-28",

@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Tyler Saint",
-      "person_id": 11799
-    },
-    {
       "name": "Coby Mitchell",
       "person_id": 13026
+    },
+    {
+      "name": "Tyler Saint",
+      "person_id": 11799
     }
   ],
   "release_date": "2009-10-21",

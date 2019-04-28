@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Callie Calypso",
-      "person_id": 54787
-    },
-    {
       "name": "Bruno Dickemz",
       "person_id": 54328
+    },
+    {
+      "name": "Callie Calypso",
+      "person_id": 54787
     }
   ],
   "release_date": "2018-11-01",

@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
+      "name": "Jason Sanchez",
+      "person_id": 21115
+    },
+    {
       "name": "Joseph Lewis",
       "person_id": 20883
     },
     {
       "name": "Zavier Vulcain",
       "person_id": 21108
-    },
-    {
-      "name": "Jason Sanchez",
-      "person_id": 21115
     }
   ],
   "release_date": "1998-06-11",

@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Veruca James",
-      "person_id": 43570
+      "name": "Juliette March",
+      "person_id": 22072
     },
     {
       "name": "Ramon Nomar",
       "person_id": 35412
     },
     {
-      "name": "Juliette March",
-      "person_id": 22072
+      "name": "Veruca James",
+      "person_id": 43570
     }
   ],
   "release_date": "2014-12-26",

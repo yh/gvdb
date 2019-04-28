@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Tommy Defendi",
-      "person_id": 20359
-    },
-    {
-      "name": "Van Darkholme",
-      "person_id": 15862
+      "name": "Christian Wilde",
+      "person_id": 21037
     },
     {
       "name": "DJ",
       "person_id": 20225
     },
     {
-      "name": "Christian Wilde",
-      "person_id": 21037
+      "name": "Tommy Defendi",
+      "person_id": 20359
+    },
+    {
+      "name": "Van Darkholme",
+      "person_id": 15862
     }
   ],
   "release_date": "2010-05-13",

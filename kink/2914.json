@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nicole Scott",
-      "person_id": 5133
-    },
-    {
       "name": "Harmony",
       "person_id": 6341
+    },
+    {
+      "name": "Nicole Scott",
+      "person_id": 5133
     }
   ],
   "release_date": "2005-06-10",

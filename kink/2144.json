@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Trina",
-      "person_id": 41
-    },
-    {
       "name": "Chanta-Rose",
       "person_id": 124
+    },
+    {
+      "name": "Trina",
+      "person_id": 41
     }
   ],
   "release_date": "2004-09-15",

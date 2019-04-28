@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lily Lane",
-      "person_id": 50199
-    },
-    {
       "name": "Charlotte Sartre",
       "person_id": 57874
+    },
+    {
+      "name": "Lily Lane",
+      "person_id": 50199
     },
     {
       "name": "Miss Robin",

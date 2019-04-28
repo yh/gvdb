@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kajira Bound",
-      "person_id": 57259
-    },
-    {
       "name": "Jessy Dubai",
       "person_id": 47035
+    },
+    {
+      "name": "Kajira Bound",
+      "person_id": 57259
     }
   ],
   "release_date": "2016-04-08",

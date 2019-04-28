@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Syren de Mer",
-      "person_id": 43807
-    },
-    {
       "name": "Isabella Nice",
       "person_id": 61113
     },
     {
       "name": "Stirling Cooper",
       "person_id": 61419
+    },
+    {
+      "name": "Syren de Mer",
+      "person_id": 43807
     }
   ],
   "release_date": "2019-01-04",

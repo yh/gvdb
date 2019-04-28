@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Winter Sky",
-      "person_id": 19722
-    },
-    {
       "name": "Mark Davis",
       "person_id": 8200
+    },
+    {
+      "name": "Winter Sky",
+      "person_id": 19722
     }
   ],
   "release_date": "2009-07-24",

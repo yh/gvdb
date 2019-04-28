@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sindee Jennings",
-      "person_id": 18682
-    },
-    {
       "name": "Mark Davis",
       "person_id": 8200
+    },
+    {
+      "name": "Sindee Jennings",
+      "person_id": 18682
     }
   ],
   "release_date": "2009-04-24",

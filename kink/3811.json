@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sandra Romain",
-      "person_id": 10239
-    },
-    {
       "name": "Mikayla",
       "person_id": 12205
+    },
+    {
+      "name": "Sandra Romain",
+      "person_id": 10239
     }
   ],
   "release_date": "2006-07-14",

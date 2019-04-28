@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
+      "name": "Dean Tucker",
+      "person_id": 11672
+    },
+    {
       "name": "Jake Dakota",
       "person_id": 11605
     },
     {
       "name": "Manuel Torres",
       "person_id": 11641
-    },
-    {
-      "name": "Dean Tucker",
-      "person_id": 11672
     }
   ],
   "release_date": "2010-07-02",

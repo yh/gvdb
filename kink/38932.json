@@ -11,6 +11,10 @@
   ],
   "models": [
     {
+      "name": "Gage Sin",
+      "person_id": 53344
+    },
+    {
       "name": "Ingrid Mouth",
       "person_id": 53766
     },
@@ -23,16 +27,12 @@
       "person_id": 39181
     },
     {
-      "name": "Wolf Hudson",
-      "person_id": 14471
-    },
-    {
       "name": "Will Havoc",
       "person_id": 46285
     },
     {
-      "name": "Gage Sin",
-      "person_id": 53344
+      "name": "Wolf Hudson",
+      "person_id": 14471
     }
   ],
   "release_date": "2015-09-30",

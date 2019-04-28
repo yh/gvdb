@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Vendetta",
-      "person_id": 8300
-    },
-    {
       "name": "Ariel X",
       "person_id": 10464
     },
     {
-      "name": "Wenona",
-      "person_id": 4485
-    },
-    {
       "name": "Isis Love",
       "person_id": 6584
+    },
+    {
+      "name": "Vendetta",
+      "person_id": 8300
+    },
+    {
+      "name": "Wenona",
+      "person_id": 4485
     }
   ],
   "release_date": "2010-02-02",

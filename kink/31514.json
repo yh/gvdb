@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Ranie Mae",
-      "person_id": 30471
-    },
-    {
       "name": "John Johnson",
       "person_id": 49204
+    },
+    {
+      "name": "Ranie Mae",
+      "person_id": 30471
     }
   ],
   "release_date": "2013-07-26",

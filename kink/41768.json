@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Moka Mora",
-      "person_id": 59853
-    },
-    {
       "name": "Lea Lexis",
       "person_id": 17836
+    },
+    {
+      "name": "Moka Mora",
+      "person_id": 59853
     }
   ],
   "release_date": "2017-05-05",

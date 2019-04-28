@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Vince Ferelli",
-      "person_id": 13116
-    },
-    {
       "name": "Derrek Diamond",
       "person_id": 13261
+    },
+    {
+      "name": "Vince Ferelli",
+      "person_id": 13116
     }
   ],
   "release_date": "2009-12-30",

@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Xander Corvus",
-      "person_id": 46000
-    },
-    {
-      "name": "Skin Diamond",
-      "person_id": 31494
-    },
-    {
       "name": "Cherry Torn",
       "person_id": 11105
     },
     {
       "name": "Matt Williams",
       "person_id": 7008
+    },
+    {
+      "name": "Skin Diamond",
+      "person_id": 31494
+    },
+    {
+      "name": "Xander Corvus",
+      "person_id": 46000
     }
   ],
   "release_date": "2013-05-03",

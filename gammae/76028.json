@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Luke Milan",
-      "person_id": 28000
-    },
-    {
       "name": "Braxton Smith",
       "person_id": 36222
+    },
+    {
+      "name": "Luke Milan",
+      "person_id": 28000
     }
   ],
   "release_date": "2015-06-11",

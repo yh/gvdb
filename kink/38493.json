@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Alex Greene",
+      "person_id": 49389
+    },
+    {
       "name": "Christian Wilde",
       "person_id": 21037
     },
     {
       "name": "Wolf Hudson",
       "person_id": 14471
-    },
-    {
-      "name": "Alex Greene",
-      "person_id": 49389
     }
   ],
   "release_date": "2015-08-13",

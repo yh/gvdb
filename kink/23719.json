@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Melody Jordan",
-      "person_id": 42188
-    },
-    {
       "name": "Mark Davis",
       "person_id": 8200
+    },
+    {
+      "name": "Melody Jordan",
+      "person_id": 42188
     }
   ],
   "release_date": "2012-08-30",

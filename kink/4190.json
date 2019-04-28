@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sandra Romain",
-      "person_id": 10239
-    },
-    {
       "name": "Caroline Pierce",
       "person_id": 6372
+    },
+    {
+      "name": "Sandra Romain",
+      "person_id": 10239
     }
   ],
   "release_date": "2007-02-16",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Wenona",
-      "person_id": 4485
-    },
-    {
       "name": "Rain DeGrey",
       "person_id": 16817
+    },
+    {
+      "name": "Wenona",
+      "person_id": 4485
     }
   ],
   "release_date": "2010-04-09",

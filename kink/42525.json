@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "The Pope",
-      "person_id": 27779
-    },
-    {
       "name": "Serena Blair",
       "person_id": 31165
+    },
+    {
+      "name": "The Pope",
+      "person_id": 27779
     }
   ],
   "release_date": "2017-10-05",

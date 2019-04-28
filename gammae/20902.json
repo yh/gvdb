@@ -5,20 +5,20 @@
   "description": "In the evening begins the bacchanal as Nikolas Kiss, Mihaly Tombor, George Vidanov, Thomas Williams, and Daniel Kriley feast on good food and wine...a prelude to the more enticing fare of fleshy delights enjoyed as the men ravenously pursue sexual satiation and quench their spirited desire.",
   "models": [
     {
-      "name": "Nikolas Kiss",
-      "person_id": 10834
-    },
-    {
       "name": "Daniel Kriley",
       "person_id": 11475
+    },
+    {
+      "name": "George Vidanov",
+      "person_id": 11041
     },
     {
       "name": "Mihaly Tombor",
       "person_id": 10835
     },
     {
-      "name": "George Vidanov",
-      "person_id": 11041
+      "name": "Nikolas Kiss",
+      "person_id": 10834
     },
     {
       "name": "Thomas Williams",

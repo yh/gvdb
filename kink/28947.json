@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Coral Aorta",
-      "person_id": 38216
-    },
-    {
-      "name": "Odile",
-      "person_id": 33692
-    },
-    {
       "name": "Chastity Lynn",
       "person_id": 38673
     },
     {
+      "name": "Coral Aorta",
+      "person_id": 38216
+    },
+    {
       "name": "Maestro",
       "person_id": 11928
+    },
+    {
+      "name": "Odile",
+      "person_id": 33692
     }
   ],
   "release_date": "2013-04-12",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lorelei Lee",
-      "person_id": 758
-    },
-    {
       "name": "Charlotte Vale",
       "person_id": 16865
+    },
+    {
+      "name": "Lorelei Lee",
+      "person_id": 758
     },
     {
       "name": "Zak Tyler",

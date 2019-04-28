@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Sandra Romain",
-      "person_id": 10239
-    },
-    {
-      "name": "Lea Lexis",
-      "person_id": 17836
+      "name": "Claudia Jamsson",
+      "person_id": 17839
     },
     {
       "name": "Jenna Lovely",
       "person_id": 17838
     },
     {
-      "name": "Claudia Jamsson",
-      "person_id": 17839
+      "name": "Lea Lexis",
+      "person_id": 17836
+    },
+    {
+      "name": "Sandra Romain",
+      "person_id": 10239
     }
   ],
   "release_date": "2013-07-25",

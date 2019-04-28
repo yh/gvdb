@@ -5,12 +5,12 @@
   "description": "Deep in the catacombs of the Underworld, two of the Devil's most powerful soldiers, Erik Rhodes and Matthew Rush, face each other for the first time. These two muscled studs go at each other with explosive force.",
   "models": [
     {
-      "name": "Matthew Rush",
-      "person_id": 11036
-    },
-    {
       "name": "Erik Rhodes",
       "person_id": 11271
+    },
+    {
+      "name": "Matthew Rush",
+      "person_id": 11036
     }
   ],
   "release_date": "2005-06-01",

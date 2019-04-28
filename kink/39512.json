@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Vinnie Stefano",
-      "person_id": 59052
-    },
-    {
       "name": "Doug Acre",
       "person_id": 47153
+    },
+    {
+      "name": "Vinnie Stefano",
+      "person_id": 59052
     }
   ],
   "release_date": "2016-02-11",

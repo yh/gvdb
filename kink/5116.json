@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tom Moore",
-      "person_id": 13997
-    },
-    {
       "name": "Amber Rayne",
       "person_id": 12631
+    },
+    {
+      "name": "Tom Moore",
+      "person_id": 13997
     }
   ],
   "release_date": "2008-04-04",

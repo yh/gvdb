@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sexy Jade",
-      "person_id": 14512
-    },
-    {
       "name": "Sean Revel",
       "person_id": 14745
+    },
+    {
+      "name": "Sexy Jade",
+      "person_id": 14512
     }
   ],
   "release_date": "2007-10-30",

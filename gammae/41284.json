@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Marc Williams",
-      "person_id": 9334
-    },
-    {
       "name": "Kent A",
       "person_id": 21815
+    },
+    {
+      "name": "Marc Williams",
+      "person_id": 9334
     }
   ],
   "release_date": "2012-08-02",

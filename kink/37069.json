@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jessie Colter",
-      "person_id": 34311
-    },
-    {
       "name": "Ivan Gregory",
       "person_id": 55549
+    },
+    {
+      "name": "Jessie Colter",
+      "person_id": 34311
     }
   ],
   "release_date": "2014-12-31",

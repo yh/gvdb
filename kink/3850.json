@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Harmony",
-      "person_id": 6341
-    },
-    {
       "name": "Annie Cruz",
       "person_id": 7776
     },
     {
-      "name": "Isis Love",
-      "person_id": 6584
-    },
-    {
       "name": "Ariana Jollee",
       "person_id": 12526
+    },
+    {
+      "name": "Harmony",
+      "person_id": 6341
+    },
+    {
+      "name": "Isis Love",
+      "person_id": 6584
     }
   ],
   "release_date": "2006-08-10",

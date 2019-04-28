@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Tucker Forrest",
-      "person_id": 27965
-    },
-    {
       "name": "Luke Milan",
       "person_id": 28000
+    },
+    {
+      "name": "Tucker Forrest",
+      "person_id": 27965
     }
   ],
   "release_date": "2015-05-22",

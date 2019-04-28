@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tyler Sweet",
-      "person_id": 50927
-    },
-    {
       "name": "Holden Phillips",
       "person_id": 36020
+    },
+    {
+      "name": "Tyler Sweet",
+      "person_id": 50927
     }
   ],
   "release_date": "2013-09-04",

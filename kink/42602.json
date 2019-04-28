@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Samantha Hayes",
-      "person_id": 58657
-    },
-    {
       "name": "Richie Calhoun",
       "person_id": 39072
+    },
+    {
+      "name": "Samantha Hayes",
+      "person_id": 58657
     }
   ],
   "release_date": "2017-08-14",

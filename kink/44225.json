@@ -6,20 +6,20 @@
   "directors": [],
   "models": [
     {
-      "name": "Rebecca More",
-      "person_id": 61177
-    },
-    {
-      "name": "Scarlet March",
-      "person_id": 61178
-    },
-    {
       "name": "Danny D",
       "person_id": 61183
     },
     {
       "name": "Jay Snakes",
       "person_id": 61169
+    },
+    {
+      "name": "Rebecca More",
+      "person_id": 61177
+    },
+    {
+      "name": "Scarlet March",
+      "person_id": 61178
     }
   ],
   "release_date": "2019-01-18",

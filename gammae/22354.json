@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Mike Nichols",
-      "person_id": 11280
-    },
-    {
       "name": "Adam Wilde",
       "person_id": 11430
+    },
+    {
+      "name": "Mike Nichols",
+      "person_id": 11280
     }
   ],
   "release_date": "2007-10-01",

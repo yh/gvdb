@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Trey Turner",
-      "person_id": 27927
-    },
-    {
       "name": "Daxton Ryder",
       "person_id": 37501
+    },
+    {
+      "name": "Trey Turner",
+      "person_id": 27927
     }
   ],
   "release_date": "2015-11-27",

@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Trevor Knight",
-      "person_id": 11564
-    },
-    {
       "name": "Cavin Knight",
       "person_id": 14045
+    },
+    {
+      "name": "Trevor Knight",
+      "person_id": 11564
     }
   ],
   "release_date": "2010-10-17",

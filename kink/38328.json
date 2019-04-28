@@ -6,20 +6,20 @@
   "directors": [],
   "models": [
     {
-      "name": "Steve Holmes",
-      "person_id": 15810
-    },
-    {
-      "name": "Proxy Paige",
-      "person_id": 24708
+      "name": "Candy Alexa",
+      "person_id": 59416
     },
     {
       "name": "Carolina Abril",
       "person_id": 57854
     },
     {
-      "name": "Candy Alexa",
-      "person_id": 59416
+      "name": "Proxy Paige",
+      "person_id": 24708
+    },
+    {
+      "name": "Steve Holmes",
+      "person_id": 15810
     }
   ],
   "release_date": "2016-05-06",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Orlando",
-      "person_id": 16649
-    },
-    {
       "name": "Katharine Cane",
       "person_id": 35830
+    },
+    {
+      "name": "Orlando",
+      "person_id": 16649
     }
   ],
   "release_date": "2014-11-28",

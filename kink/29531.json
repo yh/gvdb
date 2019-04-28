@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Izamar Gutierrez",
-      "person_id": 30590
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
+    },
+    {
+      "name": "Izamar Gutierrez",
+      "person_id": 30590
     }
   ],
   "release_date": "2013-05-03",

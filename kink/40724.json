@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Bella Rossi",
-      "person_id": 18418
-    },
-    {
       "name": "Adley Rose",
       "person_id": 57261
+    },
+    {
+      "name": "Bella Rossi",
+      "person_id": 18418
     }
   ],
   "release_date": "2016-07-14",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Stacey Cash",
-      "person_id": 8321
-    },
-    {
       "name": "Ariel X",
       "person_id": 10464
+    },
+    {
+      "name": "Stacey Cash",
+      "person_id": 8321
     }
   ],
   "release_date": "2007-04-03",

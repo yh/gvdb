@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Syd Blakovich",
-      "person_id": 7618
-    },
-    {
       "name": "Cheyenne Jewel",
       "person_id": 22734
+    },
+    {
+      "name": "Syd Blakovich",
+      "person_id": 7618
     }
   ],
   "release_date": "2013-10-11",

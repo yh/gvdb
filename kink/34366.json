@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Penny Flame",
-      "person_id": 6345
-    },
-    {
       "name": "Les Moore",
       "person_id": 52202
+    },
+    {
+      "name": "Penny Flame",
+      "person_id": 6345
     }
   ],
   "release_date": "2015-01-26",

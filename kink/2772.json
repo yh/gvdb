@@ -11,16 +11,12 @@
   ],
   "models": [
     {
-      "name": "Isis Love",
-      "person_id": 6584
-    },
-    {
       "name": "Isabella Soprano",
       "person_id": 6243
     },
     {
-      "name": "Sexcetera Crew #4",
-      "person_id": 7777
+      "name": "Isis Love",
+      "person_id": 6584
     },
     {
       "name": "Sexcetera Crew #1",
@@ -29,6 +25,10 @@
     {
       "name": "Sexcetera Crew #2",
       "person_id": 7780
+    },
+    {
+      "name": "Sexcetera Crew #4",
+      "person_id": 7777
     }
   ],
   "release_date": "2005-06-24",

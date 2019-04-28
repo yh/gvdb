@@ -5,10 +5,6 @@
   "description": "",
   "models": [
     {
-      "name": "Simon Cox",
-      "person_id": 26258
-    },
-    {
       "name": "Jackson Price",
       "person_id": 27006
     },
@@ -19,6 +15,10 @@
     {
       "name": "Rob Edwards",
       "person_id": 27009
+    },
+    {
+      "name": "Simon Cox",
+      "person_id": 26258
     }
   ],
   "release_date": "2014-06-12",

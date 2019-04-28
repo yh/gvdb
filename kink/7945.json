@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Ariel X",
-      "person_id": 10464
-    },
-    {
-      "name": "Wenona",
-      "person_id": 4485
-    },
-    {
       "name": "Ami Emerson",
       "person_id": 18094
     },
     {
+      "name": "Ariel X",
+      "person_id": 10464
+    },
+    {
       "name": "Holly Heart",
       "person_id": 20472
+    },
+    {
+      "name": "Wenona",
+      "person_id": 4485
     }
   ],
   "release_date": "2010-01-12",

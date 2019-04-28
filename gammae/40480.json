@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Beni Laczko",
-      "person_id": 20733
-    },
-    {
       "name": "Andras Brandl",
       "person_id": 20742
+    },
+    {
+      "name": "Beni Laczko",
+      "person_id": 20733
     }
   ],
   "release_date": "1998-02-18",

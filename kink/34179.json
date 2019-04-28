@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Molly O'Dell",
-      "person_id": 51960
-    },
-    {
       "name": "Bella Wilde",
       "person_id": 39990
+    },
+    {
+      "name": "Molly O'Dell",
+      "person_id": 51960
     }
   ],
   "release_date": "2013-12-13",

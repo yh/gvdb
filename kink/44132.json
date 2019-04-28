@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Maya Kendrick",
-      "person_id": 60355
-    },
-    {
       "name": "Jenna Creed",
       "person_id": 61318
+    },
+    {
+      "name": "Maya Kendrick",
+      "person_id": 60355
     }
   ],
   "release_date": "2019-02-25",

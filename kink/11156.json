@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Otto Bauer",
-      "person_id": 11451
-    },
-    {
       "name": "Audrey Hollander",
       "person_id": 11450
     },
     {
       "name": "Chloe Camilla",
       "person_id": 22493
+    },
+    {
+      "name": "Otto Bauer",
+      "person_id": 11451
     }
   ],
   "release_date": "2011-01-18",

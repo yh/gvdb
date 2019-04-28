@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Shane Omen",
-      "person_id": 60425
-    },
-    {
       "name": "AJ Addams",
       "person_id": 60426
+    },
+    {
+      "name": "Shane Omen",
+      "person_id": 60425
     }
   ],
   "release_date": "2017-10-05",

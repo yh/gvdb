@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Max Sargent",
-      "person_id": 35576
-    },
-    {
       "name": "Justin Beal",
       "person_id": 35577
+    },
+    {
+      "name": "Max Sargent",
+      "person_id": 35576
     }
   ],
   "release_date": "2015-01-16",

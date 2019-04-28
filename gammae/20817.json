@@ -5,12 +5,12 @@
   "description": "Roman Gregor has missed his train and is now bored with so much time on his hands.  He sees Andrej Sovinski and things start to look up.  Roman and Andrej find an out of the way place at the train station.  Even though it is Andrej's first time with another man he rises to the occassion, but is soon on all fours for Roman.",
   "models": [
     {
-      "name": "Roman Gregor",
-      "person_id": 11411
-    },
-    {
       "name": "Andrej Sovinski",
       "person_id": 12511
+    },
+    {
+      "name": "Roman Gregor",
+      "person_id": 11411
     }
   ],
   "release_date": "2004-02-01",

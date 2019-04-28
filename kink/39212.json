@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Scotty Zee",
-      "person_id": 58735
-    },
-    {
       "name": "Jessie Colter",
       "person_id": 34311
+    },
+    {
+      "name": "Scotty Zee",
+      "person_id": 58735
     }
   ],
   "release_date": "2015-12-10",

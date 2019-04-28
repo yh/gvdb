@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nadia Styles",
-      "person_id": 10823
-    },
-    {
       "name": "Mark Davis",
       "person_id": 8200
+    },
+    {
+      "name": "Nadia Styles",
+      "person_id": 10823
     }
   ],
   "release_date": "2006-10-20",

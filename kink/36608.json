@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "James Darling",
-      "person_id": 23302
-    },
-    {
       "name": "Allen Silver",
       "person_id": 32445
+    },
+    {
+      "name": "James Darling",
+      "person_id": 23302
     }
   ],
   "release_date": "2017-09-04",

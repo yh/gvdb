@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Casey Calvert",
-      "person_id": 36437
-    },
-    {
       "name": "Audrey Holiday",
       "person_id": 57661
+    },
+    {
+      "name": "Casey Calvert",
+      "person_id": 36437
     }
   ],
   "release_date": "2015-09-15",

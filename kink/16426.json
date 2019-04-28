@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Juliette March",
+      "person_id": 22072
+    },
+    {
       "name": "Maestro Stefanos",
       "person_id": 17148
     },
     {
       "name": "Skin Diamond",
       "person_id": 31494
-    },
-    {
-      "name": "Juliette March",
-      "person_id": 22072
     }
   ],
   "release_date": "2011-11-25",

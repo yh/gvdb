@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sarah Shevon",
-      "person_id": 19605
-    },
-    {
       "name": "Izamar Gutierrez",
       "person_id": 30590
+    },
+    {
+      "name": "Sarah Shevon",
+      "person_id": 19605
     }
   ],
   "release_date": "2012-10-12",

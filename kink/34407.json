@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Mark Frenchy",
-      "person_id": 16768
-    },
-    {
       "name": "Harmony",
       "person_id": 6341
+    },
+    {
+      "name": "Mark Frenchy",
+      "person_id": 16768
     }
   ],
   "release_date": "2015-02-04",

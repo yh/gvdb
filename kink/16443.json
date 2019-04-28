@@ -11,10 +11,6 @@
   ],
   "models": [
     {
-      "name": "Skin Diamond",
-      "person_id": 31494
-    },
-    {
       "name": "Dylan Ryan",
       "person_id": 10069
     },
@@ -25,6 +21,10 @@
     {
       "name": "Maestro Stefanos",
       "person_id": 17148
+    },
+    {
+      "name": "Skin Diamond",
+      "person_id": 31494
     }
   ],
   "release_date": "2011-11-30",

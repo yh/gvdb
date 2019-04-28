@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Ramon Nomar",
-      "person_id": 35412
+      "name": "Amy Brooke",
+      "person_id": 24422
     },
     {
       "name": "Cassandra Nix",
       "person_id": 36857
     },
     {
-      "name": "Amy Brooke",
-      "person_id": 24422
+      "name": "Ramon Nomar",
+      "person_id": 35412
     }
   ],
   "release_date": "2012-08-10",

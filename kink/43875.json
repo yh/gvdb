@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Michael Roman",
-      "person_id": 61574
-    },
-    {
       "name": "Cesar Xes",
       "person_id": 60954
+    },
+    {
+      "name": "Michael Roman",
+      "person_id": 61574
     }
   ],
   "release_date": "2018-10-25",

@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Cherry Torn",
-      "person_id": 11105
+      "name": "Bella Rossi",
+      "person_id": 18418
     },
     {
-      "name": "Orlando",
-      "person_id": 16649
+      "name": "Cherry Torn",
+      "person_id": 11105
     },
     {
       "name": "John Jammen",
       "person_id": 22596
     },
     {
-      "name": "Bella Rossi",
-      "person_id": 18418
+      "name": "Orlando",
+      "person_id": 16649
     }
   ],
   "release_date": "2014-01-29",

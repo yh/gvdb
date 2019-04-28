@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Moonshine",
-      "person_id": 3291
-    },
-    {
       "name": "Chanta-Rose",
       "person_id": 124
+    },
+    {
+      "name": "Moonshine",
+      "person_id": 3291
     }
   ],
   "release_date": "2004-01-16",

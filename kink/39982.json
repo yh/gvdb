@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Ruckus",
-      "person_id": 48209
-    },
-    {
       "name": "Jaquelin Braxton",
       "person_id": 49373
+    },
+    {
+      "name": "Ruckus",
+      "person_id": 48209
     }
   ],
   "release_date": "2016-05-11",

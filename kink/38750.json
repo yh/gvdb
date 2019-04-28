@@ -6,20 +6,20 @@
   "directors": [],
   "models": [
     {
-      "name": "Juliette March",
-      "person_id": 22072
-    },
-    {
-      "name": "Mona Wales",
-      "person_id": 51511
-    },
-    {
       "name": "Jason Steel",
       "person_id": 58490
     },
     {
+      "name": "Juliette March",
+      "person_id": 22072
+    },
+    {
       "name": "Layla Price",
       "person_id": 48143
+    },
+    {
+      "name": "Mona Wales",
+      "person_id": 51511
     }
   ],
   "release_date": "2015-12-18",

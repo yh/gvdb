@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sydnee Capri",
-      "person_id": 6399
-    },
-    {
       "name": "DragonLily",
       "person_id": 3433
+    },
+    {
+      "name": "Sydnee Capri",
+      "person_id": 6399
     }
   ],
   "release_date": "2005-02-11",

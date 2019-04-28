@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Jamie Barry",
-      "person_id": 61190
-    },
-    {
       "name": "Demetri XXX",
       "person_id": 6160
+    },
+    {
+      "name": "Jamie Barry",
+      "person_id": 61190
     },
     {
       "name": "Liza Del Sierra",

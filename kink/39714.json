@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mona Wales",
-      "person_id": 51511
-    },
-    {
       "name": "Mimosa",
       "person_id": 57584
+    },
+    {
+      "name": "Mona Wales",
+      "person_id": 51511
     }
   ],
   "release_date": "2016-03-03",

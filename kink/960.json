@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mallory Knots",
-      "person_id": 587
-    },
-    {
       "name": "Kym Wilde",
       "person_id": 99
+    },
+    {
+      "name": "Mallory Knots",
+      "person_id": 587
     }
   ],
   "release_date": "2003-02-14",

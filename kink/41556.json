@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "TS Foxxy",
-      "person_id": 20055
-    },
-    {
       "name": "Ruckus",
       "person_id": 48209
+    },
+    {
+      "name": "TS Foxxy",
+      "person_id": 20055
     }
   ],
   "release_date": "2016-12-20",

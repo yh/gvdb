@@ -11,6 +11,10 @@
   ],
   "models": [
     {
+      "name": "Dee Williams",
+      "person_id": 4197
+    },
+    {
       "name": "Gabriella Paltrova",
       "person_id": 41906
     },
@@ -21,10 +25,6 @@
     {
       "name": "Sydney Cole",
       "person_id": 57458
-    },
-    {
-      "name": "Dee Williams",
-      "person_id": 4197
     }
   ],
   "release_date": "2015-04-24",

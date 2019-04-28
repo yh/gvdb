@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Vince Rockland",
-      "person_id": 11095
-    },
-    {
       "name": "Joey Morgan",
       "person_id": 11956
+    },
+    {
+      "name": "Vince Rockland",
+      "person_id": 11095
     }
   ],
   "release_date": "2005-12-01",

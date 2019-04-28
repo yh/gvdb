@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tommy Pistol",
-      "person_id": 12663
-    },
-    {
       "name": "Cadence Lux",
       "person_id": 51424
+    },
+    {
+      "name": "Tommy Pistol",
+      "person_id": 12663
     }
   ],
   "release_date": "2017-10-24",

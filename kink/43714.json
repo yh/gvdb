@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Mia Hurley",
-      "person_id": 61342
-    },
-    {
       "name": "James Kickstand",
       "person_id": 48660
+    },
+    {
+      "name": "Mia Hurley",
+      "person_id": 61342
     }
   ],
   "release_date": "2018-08-02",

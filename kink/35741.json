@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Skin Diamond",
-      "person_id": 31494
-    },
-    {
       "name": "Krissy Lynn",
       "person_id": 19730
+    },
+    {
+      "name": "Skin Diamond",
+      "person_id": 31494
     }
   ],
   "release_date": "2014-07-24",

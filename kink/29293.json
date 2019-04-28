@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Lorelei Lee",
-      "person_id": 758
-    },
-    {
       "name": "Claire Robbins",
       "person_id": 46978
     },
     {
       "name": "Karlo Karrera",
       "person_id": 35221
+    },
+    {
+      "name": "Lorelei Lee",
+      "person_id": 758
     }
   ],
   "release_date": "2013-03-15",

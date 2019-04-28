@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Toni Benz",
-      "person_id": 11299
-    },
-    {
       "name": "Dana DeArmond",
       "person_id": 4498
+    },
+    {
+      "name": "Toni Benz",
+      "person_id": 11299
     }
   ],
   "release_date": "2006-04-18",

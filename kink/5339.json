@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Charlotte Vale",
-      "person_id": 16865
-    },
-    {
       "name": "Billy",
       "person_id": 13720
+    },
+    {
+      "name": "Charlotte Vale",
+      "person_id": 16865
     }
   ],
   "release_date": "2008-07-25",

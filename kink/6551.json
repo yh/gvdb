@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jessica Bangkok",
-      "person_id": 17981
-    },
-    {
       "name": "Derrick Pierce",
       "person_id": 14403
+    },
+    {
+      "name": "Jessica Bangkok",
+      "person_id": 17981
     }
   ],
   "release_date": "2009-05-22",

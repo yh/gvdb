@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Steve Holmes",
-      "person_id": 15810
-    },
-    {
       "name": "Kitty",
       "person_id": 20381
+    },
+    {
+      "name": "Steve Holmes",
+      "person_id": 15810
     }
   ],
   "release_date": "2015-03-06",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jessie Cox",
-      "person_id": 18739
-    },
-    {
       "name": "Iona Grace",
       "person_id": 25204
+    },
+    {
+      "name": "Jessie Cox",
+      "person_id": 18739
     },
     {
       "name": "Kait Snow",

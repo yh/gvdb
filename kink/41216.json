@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Skin Diamond",
-      "person_id": 31494
-    },
-    {
       "name": "Alina Li",
       "person_id": 52327
+    },
+    {
+      "name": "Skin Diamond",
+      "person_id": 31494
     }
   ],
   "release_date": "2016-09-30",

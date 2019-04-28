@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Marco Banderas",
-      "person_id": 27958
-    },
-    {
       "name": "Alice March",
       "person_id": 59407
     },
     {
       "name": "Audrey Holiday",
       "person_id": 57661
+    },
+    {
+      "name": "Marco Banderas",
+      "person_id": 27958
     }
   ],
   "release_date": "2016-07-08",

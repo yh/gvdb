@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dominic Pacifico",
-      "person_id": 14892
-    },
-    {
       "name": "CJ Madison",
       "person_id": 18107
+    },
+    {
+      "name": "Dominic Pacifico",
+      "person_id": 14892
     }
   ],
   "release_date": "2009-04-02",

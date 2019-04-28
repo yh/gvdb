@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "April Flores",
+      "person_id": 57721
+    },
+    {
       "name": "Mona Wales",
       "person_id": 51511
     },
     {
       "name": "Will Havoc",
       "person_id": 46285
-    },
-    {
-      "name": "April Flores",
-      "person_id": 57721
     }
   ],
   "release_date": "2015-06-05",

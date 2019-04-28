@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
-      "name": "Mario Costa",
-      "person_id": 28031
-    },
-    {
       "name": "Angel Rock",
       "person_id": 31302
     },
     {
       "name": "Angel Rock",
       "person_id": 31517
+    },
+    {
+      "name": "Mario Costa",
+      "person_id": 28031
     }
   ],
   "release_date": "2013-07-10",

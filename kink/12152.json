@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kait Snow",
-      "person_id": 25825
-    },
-    {
       "name": "Jessie Cox",
       "person_id": 18739
+    },
+    {
+      "name": "Kait Snow",
+      "person_id": 25825
     }
   ],
   "release_date": "2011-03-09",

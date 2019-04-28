@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Dylan Ryan",
-      "person_id": 10069
-    },
-    {
-      "name": "Derrick Pierce",
-      "person_id": 14403
+      "name": "Beretta James",
+      "person_id": 33659
     },
     {
       "name": "Chastity Lynn",
       "person_id": 38673
     },
     {
-      "name": "Beretta James",
-      "person_id": 33659
+      "name": "Derrick Pierce",
+      "person_id": 14403
+    },
+    {
+      "name": "Dylan Ryan",
+      "person_id": 10069
     }
   ],
   "release_date": "2012-11-02",

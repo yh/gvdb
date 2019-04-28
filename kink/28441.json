@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tia Ling",
-      "person_id": 17361
-    },
-    {
       "name": "Audrey Hollander",
       "person_id": 11450
+    },
+    {
+      "name": "Tia Ling",
+      "person_id": 17361
     }
   ],
   "release_date": "2013-03-08",

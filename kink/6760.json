@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Erik Everhard",
-      "person_id": 19759
-    },
-    {
       "name": "Dana DeArmond",
       "person_id": 4498
+    },
+    {
+      "name": "Erik Everhard",
+      "person_id": 19759
     }
   ],
   "release_date": "2009-07-10",

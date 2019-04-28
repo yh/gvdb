@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dia Zerva",
-      "person_id": 16038
-    },
-    {
       "name": "Amber Rayne",
       "person_id": 12631
+    },
+    {
+      "name": "Dia Zerva",
+      "person_id": 16038
     }
   ],
   "release_date": "2008-07-08",

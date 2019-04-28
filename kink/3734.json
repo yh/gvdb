@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Crimson Ninja",
-      "person_id": 6346
-    },
-    {
       "name": "Annie Cruz",
       "person_id": 7776
+    },
+    {
+      "name": "Crimson Ninja",
+      "person_id": 6346
     }
   ],
   "release_date": "2006-08-08",

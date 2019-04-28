@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nomad",
-      "person_id": 11898
-    },
-    {
       "name": "Dia Zerva",
       "person_id": 16038
+    },
+    {
+      "name": "Nomad",
+      "person_id": 11898
     },
     {
       "name": "Trent Diesel",

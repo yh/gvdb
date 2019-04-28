@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Harmony",
-      "person_id": 6341
-    },
-    {
       "name": "Chad Rock",
       "person_id": 14593
+    },
+    {
+      "name": "Harmony",
+      "person_id": 6341
     }
   ],
   "release_date": "2015-01-05",

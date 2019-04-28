@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Xana Star",
-      "person_id": 2881
-    },
-    {
       "name": "Hollie Stevens",
       "person_id": 1572
+    },
+    {
+      "name": "Xana Star",
+      "person_id": 2881
     }
   ],
   "release_date": "2005-04-12",

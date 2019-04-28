@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Sean Duran",
-      "person_id": 28079
-    },
-    {
       "name": "Johnny Hazzard",
       "person_id": 34096
+    },
+    {
+      "name": "Sean Duran",
+      "person_id": 28079
     }
   ],
   "release_date": "2015-03-20",

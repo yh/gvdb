@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Claire Adams",
-      "person_id": 378
-    },
-    {
       "name": "Anikka Albrite",
       "person_id": 37246
+    },
+    {
+      "name": "Claire Adams",
+      "person_id": 378
     }
   ],
   "release_date": "2012-08-31",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Trent Diesel",
-      "person_id": 21234
-    },
-    {
       "name": "Phenix Saint",
       "person_id": 21202
+    },
+    {
+      "name": "Trent Diesel",
+      "person_id": 21234
     }
   ],
   "release_date": "2011-06-09",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Katja Kassin",
-      "person_id": 11582
-    },
-    {
       "name": "Casey Calvert",
       "person_id": 36437
+    },
+    {
+      "name": "Katja Kassin",
+      "person_id": 11582
     }
   ],
   "release_date": "2013-04-09",

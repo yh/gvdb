@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Penny Pax",
-      "person_id": 38571
+      "name": "John Strong",
+      "person_id": 17050
     },
     {
       "name": "Mick Blue",
       "person_id": 35591
     },
     {
-      "name": "John Strong",
-      "person_id": 17050
+      "name": "Penny Pax",
+      "person_id": 38571
     }
   ],
   "release_date": "2019-02-22",

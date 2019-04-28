@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Michelle Firestone",
-      "person_id": 55747
-    },
-    {
       "name": "Jessica Taylor",
       "person_id": 55976
+    },
+    {
+      "name": "Michelle Firestone",
+      "person_id": 55747
     }
   ],
   "release_date": "2015-05-15",

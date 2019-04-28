@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Star",
-      "person_id": 2401
-    },
-    {
       "name": "Jenni Lee",
       "person_id": 1358
+    },
+    {
+      "name": "Madison Young",
+      "person_id": 2674
     },
     {
       "name": "Mallory Knots",
@@ -27,8 +27,8 @@
       "person_id": 2348
     },
     {
-      "name": "Madison Young",
-      "person_id": 2674
+      "name": "Star",
+      "person_id": 2401
     }
   ],
   "release_date": "2003-12-17",

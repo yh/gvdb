@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
-      "name": "Matthew Harris",
-      "person_id": 20882
+      "name": "Jacob Peter",
+      "person_id": 20884
     },
     {
       "name": "Joseph Lewis",
       "person_id": 20883
     },
     {
-      "name": "Jacob Peter",
-      "person_id": 20884
+      "name": "Matthew Harris",
+      "person_id": 20882
     }
   ],
   "release_date": "1998-04-15",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "DragonLily",
-      "person_id": 3433
-    },
-    {
       "name": "Annie Cruz",
       "person_id": 7776
+    },
+    {
+      "name": "DragonLily",
+      "person_id": 3433
     },
     {
       "name": "Lorena Sanchez",

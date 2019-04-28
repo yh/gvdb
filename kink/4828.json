@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Madison Young",
-      "person_id": 2674
-    },
-    {
       "name": "Kylie Worthy",
       "person_id": 14190
+    },
+    {
+      "name": "Madison Young",
+      "person_id": 2674
     }
   ],
   "release_date": "2007-10-23",

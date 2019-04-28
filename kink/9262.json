@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Ashley Jane",
-      "person_id": 19727
-    },
-    {
       "name": "Ashley Fires",
       "person_id": 20856
+    },
+    {
+      "name": "Ashley Jane",
+      "person_id": 19727
     }
   ],
   "release_date": "2010-05-25",

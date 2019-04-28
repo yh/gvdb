@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Penny Flame",
-      "person_id": 6345
-    },
-    {
       "name": "Olga Cabaeva",
       "person_id": 18169
+    },
+    {
+      "name": "Penny Flame",
+      "person_id": 6345
     }
   ],
   "release_date": "2008-12-05",

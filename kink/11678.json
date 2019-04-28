@@ -11,8 +11,8 @@
   ],
   "models": [
     {
-      "name": "Nicki Blue",
-      "person_id": 28541
+      "name": "Iona Grace",
+      "person_id": 25204
     },
     {
       "name": "Jack Hammer",
@@ -23,14 +23,6 @@
       "person_id": 8935
     },
     {
-      "name": "Mark Davis",
-      "person_id": 8200
-    },
-    {
-      "name": "Krysta Kaos",
-      "person_id": 25624
-    },
-    {
       "name": "Jessie Cox",
       "person_id": 18739
     },
@@ -39,8 +31,16 @@
       "person_id": 25825
     },
     {
-      "name": "Iona Grace",
-      "person_id": 25204
+      "name": "Krysta Kaos",
+      "person_id": 25624
+    },
+    {
+      "name": "Mark Davis",
+      "person_id": 8200
+    },
+    {
+      "name": "Nicki Blue",
+      "person_id": 28541
     }
   ],
   "release_date": "2011-01-20",

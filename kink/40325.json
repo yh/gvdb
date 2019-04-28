@@ -15,16 +15,12 @@
       "person_id": 43437
     },
     {
-      "name": "Will Havoc",
-      "person_id": 46285
+      "name": "Gage Sin",
+      "person_id": 53344
     },
     {
       "name": "Mickey Mod",
       "person_id": 19623
-    },
-    {
-      "name": "Gage Sin",
-      "person_id": 53344
     },
     {
       "name": "Owen Gray",
@@ -33,6 +29,10 @@
     {
       "name": "Small Hands",
       "person_id": 59499
+    },
+    {
+      "name": "Will Havoc",
+      "person_id": 46285
     }
   ],
   "release_date": "2016-06-15",

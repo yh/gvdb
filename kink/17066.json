@@ -11,16 +11,20 @@
   ],
   "models": [
     {
-      "name": "Juliette March",
-      "person_id": 22072
-    },
-    {
-      "name": "Skin Diamond",
-      "person_id": 31494
+      "name": "Derrick Pierce",
+      "person_id": 14403
     },
     {
       "name": "Dylan Ryan",
       "person_id": 10069
+    },
+    {
+      "name": "Jack Hammer",
+      "person_id": 18499
+    },
+    {
+      "name": "Juliette March",
+      "person_id": 22072
     },
     {
       "name": "Krysta Kaos",
@@ -31,16 +35,12 @@
       "person_id": 18701
     },
     {
-      "name": "Derrick Pierce",
-      "person_id": 14403
-    },
-    {
       "name": "Maestro Stefanos",
       "person_id": 17148
     },
     {
-      "name": "Jack Hammer",
-      "person_id": 18499
+      "name": "Skin Diamond",
+      "person_id": 31494
     }
   ],
   "release_date": "2011-11-11",

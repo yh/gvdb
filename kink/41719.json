@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Annie Cruz",
-      "person_id": 7776
-    },
-    {
       "name": "Abigail Mac",
       "person_id": 48310
+    },
+    {
+      "name": "Annie Cruz",
+      "person_id": 7776
     }
   ],
   "release_date": "2017-01-09",

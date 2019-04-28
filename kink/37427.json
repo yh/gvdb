@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Gabriella Paltrova",
-      "person_id": 41906
-    },
-    {
       "name": "Dee Williams",
       "person_id": 4197
+    },
+    {
+      "name": "Gabriella Paltrova",
+      "person_id": 41906
     }
   ],
   "release_date": "2015-03-03",

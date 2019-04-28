@@ -11,24 +11,24 @@
   ],
   "models": [
     {
-      "name": "Dia Zerva",
-      "person_id": 16038
-    },
-    {
       "name": "Allie Haze",
       "person_id": 21518
+    },
+    {
+      "name": "Dia Zerva",
+      "person_id": 16038
     },
     {
       "name": "Gia DiMarco",
       "person_id": 21436
     },
     {
-      "name": "Wenona",
-      "person_id": 4485
-    },
-    {
       "name": "Isis Love",
       "person_id": 6584
+    },
+    {
+      "name": "Wenona",
+      "person_id": 4485
     }
   ],
   "release_date": "2011-05-31",

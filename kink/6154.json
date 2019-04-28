@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Princess Donna Dolore",
-      "person_id": 5235
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
+    },
+    {
+      "name": "Princess Donna Dolore",
+      "person_id": 5235
     }
   ],
   "release_date": "2009-01-22",

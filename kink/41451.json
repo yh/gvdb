@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Xander Corvus",
-      "person_id": 46000
+      "name": "Anna Tyler",
+      "person_id": 59049
     },
     {
       "name": "Charlotte Cross",
       "person_id": 58806
     },
     {
-      "name": "Anna Tyler",
-      "person_id": 59049
+      "name": "Xander Corvus",
+      "person_id": 46000
     }
   ],
   "release_date": "2017-01-13",

@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Calico",
+      "person_id": 11592
+    },
+    {
       "name": "Mark Davis",
       "person_id": 8200
     },
     {
       "name": "Mr. Pete",
       "person_id": 16823
-    },
-    {
-      "name": "Calico",
-      "person_id": 11592
     }
   ],
   "release_date": "2010-04-09",

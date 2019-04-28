@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Spencer Fox",
-      "person_id": 20713
-    },
-    {
       "name": "Charlie Harding",
       "person_id": 20743
+    },
+    {
+      "name": "Spencer Fox",
+      "person_id": 20713
     }
   ],
   "release_date": "2012-06-20",

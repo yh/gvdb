@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
-      "name": "Stefan Toth",
-      "person_id": 20761
-    },
-    {
       "name": "Akos Gazdag",
       "person_id": 20812
     },
     {
       "name": "Attila F.",
       "person_id": 20816
+    },
+    {
+      "name": "Stefan Toth",
+      "person_id": 20761
     }
   ],
   "release_date": "1998-03-18",

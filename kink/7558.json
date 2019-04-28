@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Winter Sky",
-      "person_id": 19722
-    },
-    {
       "name": "Angelica Saige",
       "person_id": 20813
+    },
+    {
+      "name": "Winter Sky",
+      "person_id": 19722
     }
   ],
   "release_date": "2010-01-29",

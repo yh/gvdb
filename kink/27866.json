@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dylan Ryan",
-      "person_id": 10069
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
+    },
+    {
+      "name": "Dylan Ryan",
+      "person_id": 10069
     },
     {
       "name": "Odile",

@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "James Deen",
-      "person_id": 8935
-    },
-    {
       "name": "Dana DeArmond",
       "person_id": 4498
     },
     {
       "name": "Emma Haize",
       "person_id": 29618
+    },
+    {
+      "name": "James Deen",
+      "person_id": 8935
     }
   ],
   "release_date": "2011-02-22",

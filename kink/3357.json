@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Syd Blakovich",
-      "person_id": 7618
-    },
-    {
       "name": "Crimson Ninja",
       "person_id": 6346
+    },
+    {
+      "name": "Syd Blakovich",
+      "person_id": 7618
     }
   ],
   "release_date": "2006-09-26",

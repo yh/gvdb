@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jonelle Brooks",
-      "person_id": 57713
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
+    },
+    {
+      "name": "Jonelle Brooks",
+      "person_id": 57713
     }
   ],
   "release_date": "2015-08-21",

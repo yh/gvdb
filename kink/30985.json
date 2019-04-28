@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Rowen Jackson",
-      "person_id": 47295
-    },
-    {
       "name": "Andrew Collins",
       "person_id": 48550
+    },
+    {
+      "name": "Rowen Jackson",
+      "person_id": 47295
     }
   ],
   "release_date": "2013-07-17",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Juliette March",
-      "person_id": 22072
-    },
-    {
       "name": "Isis Love",
       "person_id": 6584
+    },
+    {
+      "name": "Juliette March",
+      "person_id": 22072
     }
   ],
   "release_date": "2012-04-19",

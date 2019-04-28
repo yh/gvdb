@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Ryan Patrick",
-      "person_id": 19972
-    },
-    {
       "name": "Element Eclipse",
       "person_id": 20706
+    },
+    {
+      "name": "Ryan Patrick",
+      "person_id": 19972
     }
   ],
   "release_date": "2010-03-18",

@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Zach Farmer",
-      "person_id": 36034
-    },
-    {
       "name": "Jordan Long",
       "person_id": 36035
+    },
+    {
+      "name": "Zach Farmer",
+      "person_id": 36034
     }
   ],
   "release_date": "2015-03-30",

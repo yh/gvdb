@@ -9,16 +9,24 @@
       "person_id": 10812
     },
     {
+      "name": "David Moretti",
+      "person_id": 10820
+    },
+    {
+      "name": "Erik Hanlan",
+      "person_id": 10866
+    },
+    {
       "name": "Johnny Brosnan",
       "person_id": 10892
     },
     {
-      "name": "Travis Wade",
-      "person_id": 11226
+      "name": "Lindon Hawk",
+      "person_id": 11130
     },
     {
-      "name": "David Moretti",
-      "person_id": 10820
+      "name": "Matt Spencer",
+      "person_id": 11067
     },
     {
       "name": "Robert Balint",
@@ -29,16 +37,8 @@
       "person_id": 10855
     },
     {
-      "name": "Matt Spencer",
-      "person_id": 11067
-    },
-    {
-      "name": "Erik Hanlan",
-      "person_id": 10866
-    },
-    {
-      "name": "Lindon Hawk",
-      "person_id": 11130
+      "name": "Travis Wade",
+      "person_id": 11226
     }
   ],
   "release_date": "2007-01-01",

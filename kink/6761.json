@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Erik Everhard",
-      "person_id": 19759
-    },
-    {
       "name": "Claire Dames",
       "person_id": 14027
+    },
+    {
+      "name": "Erik Everhard",
+      "person_id": 19759
     }
   ],
   "release_date": "2009-10-16",

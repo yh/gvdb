@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nikki Nievez",
-      "person_id": 12336
-    },
-    {
       "name": "Danny Wylde",
       "person_id": 7790
+    },
+    {
+      "name": "Nikki Nievez",
+      "person_id": 12336
     }
   ],
   "release_date": "2007-04-04",

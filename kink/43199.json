@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Francesca Le",
-      "person_id": 36526
-    },
-    {
       "name": "Alana Cruise",
       "person_id": 60194
+    },
+    {
+      "name": "Francesca Le",
+      "person_id": 36526
     }
   ],
   "release_date": "2018-03-09",

@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Harmony",
-      "person_id": 6341
-    },
-    {
-      "name": "Stacey Stax",
-      "person_id": 12839
-    },
-    {
       "name": "Ariel X",
       "person_id": 10464
     },
     {
+      "name": "Harmony",
+      "person_id": 6341
+    },
+    {
       "name": "Isis Love",
       "person_id": 6584
+    },
+    {
+      "name": "Stacey Stax",
+      "person_id": 12839
     }
   ],
   "release_date": "2007-10-05",

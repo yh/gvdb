@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dylan Ryan",
-      "person_id": 10069
-    },
-    {
       "name": "Christian Wilde",
       "person_id": 21037
+    },
+    {
+      "name": "Dylan Ryan",
+      "person_id": 10069
     }
   ],
   "release_date": "2014-09-20",

@@ -11,24 +11,24 @@
   ],
   "models": [
     {
-      "name": "James Deen",
-      "person_id": 8935
-    },
-    {
-      "name": "John Strong",
-      "person_id": 17050
+      "name": "Bruce Venture",
+      "person_id": 22904
     },
     {
       "name": "Cherry Torn",
       "person_id": 11105
     },
     {
-      "name": "Bruce Venture",
-      "person_id": 22904
+      "name": "James Deen",
+      "person_id": 8935
     },
     {
       "name": "Joey Brass",
       "person_id": 35094
+    },
+    {
+      "name": "John Strong",
+      "person_id": 17050
     },
     {
       "name": "Otto Bauer",

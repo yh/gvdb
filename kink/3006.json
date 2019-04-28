@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jason Bays",
-      "person_id": 5444
-    },
-    {
       "name": "Jasmine Byrne",
       "person_id": 6322
+    },
+    {
+      "name": "Jason Bays",
+      "person_id": 5444
     }
   ],
   "release_date": "2005-06-20",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kurt Lockwood",
-      "person_id": 5422
-    },
-    {
       "name": "Claire Dames",
       "person_id": 14027
+    },
+    {
+      "name": "Kurt Lockwood",
+      "person_id": 5422
     }
   ],
   "release_date": "2010-03-01",

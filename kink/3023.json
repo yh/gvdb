@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "shy love",
-      "person_id": 6403
-    },
-    {
       "name": "Penny Barber",
       "person_id": 6664
+    },
+    {
+      "name": "shy love",
+      "person_id": 6403
     }
   ],
   "release_date": "2005-07-15",

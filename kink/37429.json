@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Orlando",
-      "person_id": 16649
-    },
-    {
       "name": "Beretta James",
       "person_id": 33659
+    },
+    {
+      "name": "Orlando",
+      "person_id": 16649
     }
   ],
   "release_date": "2015-03-06",

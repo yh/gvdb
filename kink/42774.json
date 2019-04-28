@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kristina Rose",
-      "person_id": 20560
-    },
-    {
       "name": "Derrick Pierce",
       "person_id": 14403
+    },
+    {
+      "name": "Kristina Rose",
+      "person_id": 20560
     }
   ],
   "release_date": "2017-12-08",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Trent Diesel",
-      "person_id": 21234
-    },
-    {
       "name": "DJ",
       "person_id": 20225
+    },
+    {
+      "name": "Trent Diesel",
+      "person_id": 21234
     }
   ],
   "release_date": "2010-03-17",

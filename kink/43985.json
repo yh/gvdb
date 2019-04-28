@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Sebastian Kane",
-      "person_id": 60373
-    },
-    {
       "name": "Johnny Carlisle",
       "person_id": 61730
+    },
+    {
+      "name": "Sebastian Kane",
+      "person_id": 60373
     }
   ],
   "release_date": "2018-11-16",

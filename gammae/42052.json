@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Eric Evans",
-      "person_id": 19558
-    },
-    {
       "name": "Bryce Pierce",
       "person_id": 19818
+    },
+    {
+      "name": "Eric Evans",
+      "person_id": 19558
     },
     {
       "name": "Reed Parker",

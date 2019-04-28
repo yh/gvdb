@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Claire Adams",
-      "person_id": 378
-    },
-    {
       "name": "Charlotte Brooke",
       "person_id": 1255
+    },
+    {
+      "name": "Claire Adams",
+      "person_id": 378
     }
   ],
   "release_date": "2011-08-25",

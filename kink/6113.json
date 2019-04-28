@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dak Ramsey",
-      "person_id": 18805
-    },
-    {
       "name": "Billy Berlin",
       "person_id": 18898
+    },
+    {
+      "name": "Dak Ramsey",
+      "person_id": 18805
     }
   ],
   "release_date": "2009-02-05",

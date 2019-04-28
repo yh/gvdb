@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Ian Levine",
-      "person_id": 35736
-    },
-    {
       "name": "Dirk Caber",
       "person_id": 36926
+    },
+    {
+      "name": "Ian Levine",
+      "person_id": 35736
     }
   ],
   "release_date": "2015-07-14",

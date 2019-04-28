@@ -11,6 +11,10 @@
   ],
   "models": [
     {
+      "name": "Candy Manson",
+      "person_id": 11827
+    },
+    {
       "name": "Iona Grace",
       "person_id": 25204
     },
@@ -21,10 +25,6 @@
     {
       "name": "Sparky Sin Claire",
       "person_id": 29494
-    },
-    {
-      "name": "Candy Manson",
-      "person_id": 11827
     }
   ],
   "release_date": "2011-06-01",

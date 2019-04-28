@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "London River",
-      "person_id": 56590
-    },
-    {
       "name": "Bobbi Dylan",
       "person_id": 59345
+    },
+    {
+      "name": "London River",
+      "person_id": 56590
     }
   ],
   "release_date": "2017-11-29",

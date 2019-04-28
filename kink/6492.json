@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tober Brandt",
-      "person_id": 17152
-    },
-    {
       "name": "Chad Rock",
       "person_id": 14593
+    },
+    {
+      "name": "Tober Brandt",
+      "person_id": 17152
     }
   ],
   "release_date": "2009-04-30",

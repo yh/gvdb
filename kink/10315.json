@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Gia DiMarco",
-      "person_id": 21436
-    },
-    {
       "name": "Emma Haize",
       "person_id": 29618
+    },
+    {
+      "name": "Gia DiMarco",
+      "person_id": 21436
     }
   ],
   "release_date": "2010-10-01",

@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Tori Avano",
-      "person_id": 55975
-    },
-    {
       "name": "Dee Williams",
       "person_id": 4197
     },
     {
       "name": "Syren de Mer",
       "person_id": 43807
+    },
+    {
+      "name": "Tori Avano",
+      "person_id": 55975
     }
   ],
   "release_date": "2018-06-01",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Patrick Rouge",
-      "person_id": 18939
-    },
-    {
       "name": "Cole Streets",
       "person_id": 18974
+    },
+    {
+      "name": "Patrick Rouge",
+      "person_id": 18939
     }
   ],
   "release_date": "2009-01-29",

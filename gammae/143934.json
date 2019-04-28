@@ -5,12 +5,12 @@
   "description": "Lady Dee wants to hire a stripper for a masked bachelorette party so she decides to put an ad. Alex Hamilton answers the call though he has no experience at all. She decides to give him his chance and schedule him for a meeting at her place...",
   "models": [
     {
-      "name": "Lady Dee",
-      "person_id": 57476
-    },
-    {
       "name": "Alex Hamilton",
       "person_id": 57475
+    },
+    {
+      "name": "Lady Dee",
+      "person_id": 57476
     }
   ],
   "release_date": "2018-11-13",

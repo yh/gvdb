@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Saffron",
-      "person_id": 14595
-    },
-    {
       "name": "DragonLily",
       "person_id": 3433
+    },
+    {
+      "name": "Saffron",
+      "person_id": 14595
     }
   ],
   "release_date": "2011-01-28",

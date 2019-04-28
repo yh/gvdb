@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lorelei Lee",
-      "person_id": 758
-    },
-    {
       "name": "Dutch Bardoux",
       "person_id": 30063
+    },
+    {
+      "name": "Lorelei Lee",
+      "person_id": 758
     }
   ],
   "release_date": "2011-02-02",

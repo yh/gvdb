@@ -5,12 +5,12 @@
   "description": "Next up is a locker room tryst between trade top Mike Roberts and Falcon Exclusive Roman Heart.",
   "models": [
     {
-      "name": "Roman Heart",
-      "person_id": 11368
-    },
-    {
       "name": "Mike Roberts",
       "person_id": 11608
+    },
+    {
+      "name": "Roman Heart",
+      "person_id": 11368
     }
   ],
   "release_date": "2010-07-04",

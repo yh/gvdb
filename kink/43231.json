@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Savannah Fox",
-      "person_id": 47440
-    },
-    {
       "name": "Nina Lawless",
       "person_id": 52751
+    },
+    {
+      "name": "Savannah Fox",
+      "person_id": 47440
     }
   ],
   "release_date": "2018-04-09",

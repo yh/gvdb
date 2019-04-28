@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Chloe Camilla",
-      "person_id": 22493
-    },
-    {
       "name": "Adrianna Nicole",
       "person_id": 301
+    },
+    {
+      "name": "Chloe Camilla",
+      "person_id": 22493
     }
   ],
   "release_date": "2010-10-29",

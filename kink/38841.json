@@ -11,56 +11,56 @@
   ],
   "models": [
     {
-      "name": "Penny Barber",
-      "person_id": 6664
-    },
-    {
-      "name": "Daisy Ducati",
-      "person_id": 50939
-    },
-    {
-      "name": "Mona Wales",
-      "person_id": 51511
-    },
-    {
-      "name": "Izamar Gutierrez",
-      "person_id": 30590
+      "name": "Angel Allwood",
+      "person_id": 52348
     },
     {
       "name": "Cheyenne Jewel",
       "person_id": 22734
     },
     {
-      "name": "Lisa Tiffian",
-      "person_id": 55478
+      "name": "Daisy Ducati",
+      "person_id": 50939
     },
     {
       "name": "Dee Williams",
       "person_id": 4197
     },
     {
-      "name": "Mia Little",
-      "person_id": 51496
-    },
-    {
       "name": "Holly Heart",
       "person_id": 20472
+    },
+    {
+      "name": "Izamar Gutierrez",
+      "person_id": 30590
     },
     {
       "name": "Juliette March",
       "person_id": 22072
     },
     {
-      "name": "Angel Allwood",
-      "person_id": 52348
+      "name": "Lisa Tiffian",
+      "person_id": 55478
     },
     {
-      "name": "Yasmine Loven",
-      "person_id": 37660
+      "name": "Mia Little",
+      "person_id": 51496
+    },
+    {
+      "name": "Mona Wales",
+      "person_id": 51511
+    },
+    {
+      "name": "Penny Barber",
+      "person_id": 6664
     },
     {
       "name": "Syd Blakovich",
       "person_id": 7618
+    },
+    {
+      "name": "Yasmine Loven",
+      "person_id": 37660
     }
   ],
   "release_date": "2015-09-29",

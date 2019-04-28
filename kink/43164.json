@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Master Aaron",
-      "person_id": 60724
-    },
-    {
       "name": "Alex Roman",
       "person_id": 61045
     },
     {
       "name": "Leo Bunny",
       "person_id": 61046
+    },
+    {
+      "name": "Master Aaron",
+      "person_id": 60724
     }
   ],
   "release_date": "2018-04-04",

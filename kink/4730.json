@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tahiti Boy",
-      "person_id": 14861
-    },
-    {
       "name": "Sandra Romain",
       "person_id": 10239
+    },
+    {
+      "name": "Tahiti Boy",
+      "person_id": 14861
     }
   ],
   "release_date": "2011-08-15",

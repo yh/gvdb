@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Jessica Jaymes",
-      "person_id": 61148
-    },
-    {
       "name": "Briana Banks",
       "person_id": 61475
+    },
+    {
+      "name": "Jessica Jaymes",
+      "person_id": 61148
     }
   ],
   "release_date": "2018-08-22",

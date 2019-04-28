@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Hayden Russo",
+      "person_id": 26846
+    },
+    {
       "name": "Nick Moretti",
       "person_id": 17516
     },
     {
       "name": "Tristan Jaxx",
       "person_id": 20786
-    },
-    {
-      "name": "Hayden Russo",
-      "person_id": 26846
     }
   ],
   "release_date": "2011-03-04",

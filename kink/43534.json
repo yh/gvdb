@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sebastian Keys",
-      "person_id": 20316
-    },
-    {
       "name": "Buck Wright",
       "person_id": 61329
+    },
+    {
+      "name": "Sebastian Keys",
+      "person_id": 20316
     }
   ],
   "release_date": "2018-06-21",

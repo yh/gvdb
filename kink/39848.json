@@ -11,10 +11,6 @@
   ],
   "models": [
     {
-      "name": "Rikki Rumor",
-      "person_id": 59237
-    },
-    {
       "name": "Aiden Starr",
       "person_id": 11489
     },
@@ -25,6 +21,10 @@
     {
       "name": "Mickey Mod",
       "person_id": 19623
+    },
+    {
+      "name": "Rikki Rumor",
+      "person_id": 59237
     }
   ],
   "release_date": "2016-04-01",

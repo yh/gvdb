@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dana DeArmond",
-      "person_id": 4498
-    },
-    {
       "name": "CiCi Rhodes",
       "person_id": 33887
+    },
+    {
+      "name": "Dana DeArmond",
+      "person_id": 4498
     }
   ],
   "release_date": "2014-05-13",

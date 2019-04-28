@@ -15,24 +15,24 @@
       "person_id": 43670
     },
     {
-      "name": "Ramon Nomar",
-      "person_id": 35412
-    },
-    {
-      "name": "Tommy Pistol",
-      "person_id": 12663
-    },
-    {
-      "name": "Owen Gray",
-      "person_id": 39181
-    },
-    {
       "name": "Dane Cross",
       "person_id": 21442
     },
     {
       "name": "Nikki Darling",
       "person_id": 42508
+    },
+    {
+      "name": "Owen Gray",
+      "person_id": 39181
+    },
+    {
+      "name": "Ramon Nomar",
+      "person_id": 35412
+    },
+    {
+      "name": "Tommy Pistol",
+      "person_id": 12663
     }
   ],
   "release_date": "2014-07-30",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Seth Gamble",
-      "person_id": 57488
-    },
-    {
       "name": "Chloe Cherry",
       "person_id": 60066
+    },
+    {
+      "name": "Seth Gamble",
+      "person_id": 57488
     }
   ],
   "release_date": "2019-03-01",

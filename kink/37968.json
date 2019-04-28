@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nina Lawless",
-      "person_id": 52751
-    },
-    {
       "name": "Mike Panic",
       "person_id": 41034
+    },
+    {
+      "name": "Nina Lawless",
+      "person_id": 52751
     }
   ],
   "release_date": "2015-06-10",

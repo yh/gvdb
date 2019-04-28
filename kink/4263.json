@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lorelei Lee",
-      "person_id": 758
-    },
-    {
       "name": "Diezel",
       "person_id": 13655
+    },
+    {
+      "name": "Lorelei Lee",
+      "person_id": 758
     }
   ],
   "release_date": "2013-01-28",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Xander Corvus",
-      "person_id": 46000
-    },
-    {
       "name": "Lily LaBeau",
       "person_id": 25162
+    },
+    {
+      "name": "Xander Corvus",
+      "person_id": 46000
     }
   ],
   "release_date": "2017-03-31",

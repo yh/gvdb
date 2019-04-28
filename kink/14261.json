@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mr. Pete",
-      "person_id": 16823
-    },
-    {
       "name": "Lizzy London",
       "person_id": 33622
+    },
+    {
+      "name": "Mr. Pete",
+      "person_id": 16823
     }
   ],
   "release_date": "2011-08-19",

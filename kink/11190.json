@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Adam Knox",
+      "person_id": 22095
+    },
+    {
       "name": "Christian Wilde",
       "person_id": 21037
     },
     {
       "name": "Cole Streets",
       "person_id": 18974
-    },
-    {
-      "name": "Adam Knox",
-      "person_id": 22095
     }
   ],
   "release_date": "2011-01-14",

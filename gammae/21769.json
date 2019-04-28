@@ -5,12 +5,12 @@
   "description": "Hayden Stephens & Tory Mason. Impatient with the faulty copy machine, Tory gives the hunky repairman a tongue-lashing for the inadequate service. But Hayden's no wimp and doesn't take sass from any whiny asshole so he takes matters in hand and shows Tory just who is the man and who's in charge.",
   "models": [
     {
-      "name": "Tory Mason",
-      "person_id": 12920
-    },
-    {
       "name": "Hayden Stephens",
       "person_id": 12921
+    },
+    {
+      "name": "Tory Mason",
+      "person_id": 12920
     }
   ],
   "release_date": "2008-03-03",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nerine Mechanique",
-      "person_id": 19851
-    },
-    {
       "name": "Lilla Katt",
       "person_id": 18701
+    },
+    {
+      "name": "Nerine Mechanique",
+      "person_id": 19851
     },
     {
       "name": "Sophie Monroe",

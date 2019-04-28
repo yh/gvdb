@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
+      "name": "Jason Katana",
+      "person_id": 61788
+    },
+    {
       "name": "Jenna Ivory",
       "person_id": 52755
     },
     {
       "name": "Slave Fluffy",
       "person_id": 58760
-    },
-    {
-      "name": "Jason Katana",
-      "person_id": 61788
     }
   ],
   "release_date": "2019-02-13",

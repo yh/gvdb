@@ -5,12 +5,12 @@
   "description": "Triumvirate: Before They Were Stars 2",
   "models": [
     {
-      "name": "Dujan Sin",
-      "person_id": 29620
-    },
-    {
       "name": "Andrew Connel",
       "person_id": 29693
+    },
+    {
+      "name": "Dujan Sin",
+      "person_id": 29620
     }
   ],
   "release_date": "2004-03-31",

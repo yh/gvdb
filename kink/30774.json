@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Ariel X",
-      "person_id": 10464
-    },
-    {
       "name": "Anikka Albrite",
       "person_id": 37246
+    },
+    {
+      "name": "Ariel X",
+      "person_id": 10464
     }
   ],
   "release_date": "2013-06-11",

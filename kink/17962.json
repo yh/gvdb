@@ -15,16 +15,12 @@
       "person_id": 10464
     },
     {
-      "name": "Claire Adams",
-      "person_id": 378
-    },
-    {
       "name": "Bryn Blayne",
       "person_id": 36234
     },
     {
-      "name": "Yasmine de Leon",
-      "person_id": 21595
+      "name": "Claire Adams",
+      "person_id": 378
     },
     {
       "name": "Mackenzie Lux",
@@ -33,6 +29,10 @@
     {
       "name": "Mallory Mallone",
       "person_id": 32943
+    },
+    {
+      "name": "Yasmine de Leon",
+      "person_id": 21595
     }
   ],
   "release_date": "2012-02-17",

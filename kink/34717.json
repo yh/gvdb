@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Satine Phoenix",
-      "person_id": 11425
-    },
-    {
       "name": "Mz Berlin",
       "person_id": 14228
+    },
+    {
+      "name": "Satine Phoenix",
+      "person_id": 11425
     }
   ],
   "release_date": "2015-01-31",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Steve Holmes",
-      "person_id": 15810
-    },
-    {
       "name": "Ruby Knox",
       "person_id": 16408
+    },
+    {
+      "name": "Steve Holmes",
+      "person_id": 15810
     }
   ],
   "release_date": "2008-02-29",

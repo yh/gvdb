@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lance Hart",
-      "person_id": 37346
-    },
-    {
       "name": "Aiden Starr",
       "person_id": 11489
+    },
+    {
+      "name": "Lance Hart",
+      "person_id": 37346
     }
   ],
   "release_date": "2015-02-25",

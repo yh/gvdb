@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Kitty",
-      "person_id": 6250
-    },
-    {
       "name": "Ken Sleazy",
       "person_id": 6251
+    },
+    {
+      "name": "Kitty",
+      "person_id": 6250
     }
   ],
   "release_date": "2004-10-28",

@@ -11,28 +11,28 @@
   ],
   "models": [
     {
-      "name": "Riley Nixon",
-      "person_id": 59619
-    },
-    {
-      "name": "Tommy Pistol",
-      "person_id": 12663
+      "name": "Mr. Pete",
+      "person_id": 16823
     },
     {
       "name": "Ramon Nomar",
       "person_id": 35412
     },
     {
-      "name": "Will Havoc",
-      "person_id": 46285
+      "name": "Riley Nixon",
+      "person_id": 59619
     },
     {
       "name": "Tarzan",
       "person_id": 59796
     },
     {
-      "name": "Mr. Pete",
-      "person_id": 16823
+      "name": "Tommy Pistol",
+      "person_id": 12663
+    },
+    {
+      "name": "Will Havoc",
+      "person_id": 46285
     }
   ],
   "release_date": "2017-06-28",

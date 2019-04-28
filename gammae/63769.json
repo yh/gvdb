@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Tommy Defendi",
-      "person_id": 28400
-    },
-    {
       "name": "Bobby Hart",
       "person_id": 31830
+    },
+    {
+      "name": "Tommy Defendi",
+      "person_id": 28400
     }
   ],
   "release_date": "2014-03-26",

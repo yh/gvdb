@@ -11,10 +11,6 @@
   ],
   "models": [
     {
-      "name": "Lisey Sweet",
-      "person_id": 60674
-    },
-    {
       "name": "Donny Sins",
       "person_id": 55693
     },
@@ -23,16 +19,20 @@
       "person_id": 45211
     },
     {
-      "name": "Ricky Johnson",
-      "person_id": 58838
-    },
-    {
       "name": "Justin Hunt",
       "person_id": 48973
     },
     {
+      "name": "Lisey Sweet",
+      "person_id": 60674
+    },
+    {
       "name": "Nathan Bronson",
       "person_id": 58786
+    },
+    {
+      "name": "Ricky Johnson",
+      "person_id": 58838
     }
   ],
   "release_date": "2017-12-13",

@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Mario Costa",
-      "person_id": 28031
-    },
-    {
       "name": "Hunter Page",
       "person_id": 28535
+    },
+    {
+      "name": "Mario Costa",
+      "person_id": 28031
     }
   ],
   "release_date": "2013-05-29",

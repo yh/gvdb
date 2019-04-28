@@ -9,12 +9,12 @@
       "person_id": 11431
     },
     {
-      "name": "Tom Steele",
-      "person_id": 11435
-    },
-    {
       "name": "Steve Alden",
       "person_id": 12026
+    },
+    {
+      "name": "Tom Steele",
+      "person_id": 11435
     }
   ],
   "release_date": "2010-07-02",

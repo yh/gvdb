@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tommy Pistol",
-      "person_id": 12663
-    },
-    {
       "name": "Jacqueline Black Lady",
       "person_id": 26709
+    },
+    {
+      "name": "Tommy Pistol",
+      "person_id": 12663
     }
   ],
   "release_date": "2010-09-17",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Brix",
-      "person_id": 16158
-    },
-    {
       "name": "Alexa Von Tess",
       "person_id": 12340
+    },
+    {
+      "name": "Brix",
+      "person_id": 16158
     }
   ],
   "release_date": "2008-05-13",

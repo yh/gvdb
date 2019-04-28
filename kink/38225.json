@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Christian Wilde",
-      "person_id": 21037
-    },
-    {
       "name": "Brock Rustin",
       "person_id": 39243
+    },
+    {
+      "name": "Christian Wilde",
+      "person_id": 21037
     }
   ],
   "release_date": "2015-06-25",

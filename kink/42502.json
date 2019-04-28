@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Sicilia Ricci",
-      "person_id": 60351
-    },
-    {
       "name": "Colin",
       "person_id": 60350
+    },
+    {
+      "name": "Sicilia Ricci",
+      "person_id": 60351
     }
   ],
   "release_date": "2017-07-19",

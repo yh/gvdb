@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mia Bangg",
-      "person_id": 8204
-    },
-    {
       "name": "Mark Davis",
       "person_id": 8200
+    },
+    {
+      "name": "Mia Bangg",
+      "person_id": 8204
     }
   ],
   "release_date": "2005-06-29",

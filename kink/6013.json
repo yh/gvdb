@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jesse",
-      "person_id": 12790
-    },
-    {
       "name": "Dean Strong",
       "person_id": 18291
+    },
+    {
+      "name": "Jesse",
+      "person_id": 12790
     }
   ],
   "release_date": "2008-12-30",

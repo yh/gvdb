@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Josh West",
-      "person_id": 20861
-    },
-    {
       "name": "Jason Miller",
       "person_id": 17619
+    },
+    {
+      "name": "Josh West",
+      "person_id": 20861
     },
     {
       "name": "Spencer Reed",

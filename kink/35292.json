@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sgt. Major",
-      "person_id": 4556
-    },
-    {
       "name": "Katt Anomia",
       "person_id": 52431
+    },
+    {
+      "name": "Sgt. Major",
+      "person_id": 4556
     }
   ],
   "release_date": "2014-04-24",

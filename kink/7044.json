@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mitch Colby",
-      "person_id": 19262
-    },
-    {
       "name": "Dak Ramsey",
       "person_id": 18805
+    },
+    {
+      "name": "Mitch Colby",
+      "person_id": 19262
     }
   ],
   "release_date": "2012-08-21",

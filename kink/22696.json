@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Chanel Preston",
-      "person_id": 26542
-    },
-    {
       "name": "Asa Akira",
       "person_id": 19908
+    },
+    {
+      "name": "Chanel Preston",
+      "person_id": 26542
     }
   ],
   "release_date": "2012-06-29",

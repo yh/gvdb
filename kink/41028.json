@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Mr. Pete",
-      "person_id": 16823
-    },
-    {
       "name": "Maddy O'Reilly",
       "person_id": 41042
+    },
+    {
+      "name": "Mr. Pete",
+      "person_id": 16823
     }
   ],
   "release_date": "2016-08-27",

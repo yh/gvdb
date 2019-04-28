@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nerine Mechanique",
-      "person_id": 19851
-    },
-    {
       "name": "Krysta Kaos",
       "person_id": 25624
+    },
+    {
+      "name": "Nerine Mechanique",
+      "person_id": 19851
     }
   ],
   "release_date": "2011-08-19",

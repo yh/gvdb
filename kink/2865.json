@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Mika Tan",
-      "person_id": 236
-    },
-    {
       "name": "Danny Wylde",
       "person_id": 7790
     },
     {
       "name": "Jasmine Byrne",
       "person_id": 6322
+    },
+    {
+      "name": "Mika Tan",
+      "person_id": 236
     },
     {
       "name": "mini",

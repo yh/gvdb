@@ -5,12 +5,12 @@
   "description": "Triumvirate: Up Up And Away",
   "models": [
     {
-      "name": "Hudson Grant",
-      "person_id": 29464
-    },
-    {
       "name": "Daniel Avedon",
       "person_id": 29497
+    },
+    {
+      "name": "Hudson Grant",
+      "person_id": 29464
     }
   ],
   "release_date": "2009-04-21",

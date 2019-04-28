@@ -3,24 +3,19 @@
     "Device Bondage"
   ],
   "description": "Claire Adams, Elyse, Sara Faye",
-  "directors": [
-    {
-      "name": "Cyd Black",
-      "person_id": 12661
-    }
-  ],
+  "directors": [],
   "models": [
     {
       "name": "Claire Adams",
       "person_id": 378
     },
     {
-      "name": "Sara Faye",
-      "person_id": 12832
-    },
-    {
       "name": "Elyse",
       "person_id": 18470
+    },
+    {
+      "name": "Sara Faye",
+      "person_id": 12832
     }
   ],
   "release_date": "2008-12-27",

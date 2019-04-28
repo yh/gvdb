@@ -6,20 +6,20 @@
   "directors": [],
   "models": [
     {
-      "name": "Ian Tate",
-      "person_id": 61175
-    },
-    {
       "name": "Danny D",
       "person_id": 61183
     },
     {
-      "name": "Sofia Valentine",
-      "person_id": 61176
+      "name": "Ian Tate",
+      "person_id": 61175
     },
     {
       "name": "Robyn Truelove",
       "person_id": 61725
+    },
+    {
+      "name": "Sofia Valentine",
+      "person_id": 61176
     }
   ],
   "release_date": "2018-11-16",

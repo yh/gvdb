@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tommy Defendi",
-      "person_id": 20359
-    },
-    {
       "name": "Dane Caroggio",
       "person_id": 22757
+    },
+    {
+      "name": "Tommy Defendi",
+      "person_id": 20359
     }
   ],
   "release_date": "2010-04-28",

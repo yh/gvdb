@@ -6,6 +6,10 @@
   "directors": [],
   "models": [
     {
+      "name": "Carmen Rivera",
+      "person_id": 60339
+    },
+    {
       "name": "Ella Kross",
       "person_id": 61013
     },
@@ -14,16 +18,12 @@
       "person_id": 51954
     },
     {
-      "name": "Carmen Rivera",
-      "person_id": 60339
+      "name": "Maskierter Mann 1",
+      "person_id": 61015
     },
     {
       "name": "Maskierter Mann 2",
       "person_id": 61016
-    },
-    {
-      "name": "Maskierter Mann 1",
-      "person_id": 61015
     }
   ],
   "release_date": "2018-04-06",

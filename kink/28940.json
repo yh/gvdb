@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Claire Robbins",
-      "person_id": 46978
-    },
-    {
       "name": "Big Red",
       "person_id": 29981
+    },
+    {
+      "name": "Claire Robbins",
+      "person_id": 46978
     }
   ],
   "release_date": "2013-05-31",

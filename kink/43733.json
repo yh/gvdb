@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Seth Gamble",
-      "person_id": 57488
-    },
-    {
       "name": "April Aniston",
       "person_id": 61520
+    },
+    {
+      "name": "Seth Gamble",
+      "person_id": 57488
     }
   ],
   "release_date": "2018-10-26",

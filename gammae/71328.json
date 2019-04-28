@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Marxel Rios",
-      "person_id": 28050
-    },
-    {
       "name": "Jake Jennings",
       "person_id": 31734
+    },
+    {
+      "name": "Marxel Rios",
+      "person_id": 28050
     }
   ],
   "release_date": "2014-12-26",

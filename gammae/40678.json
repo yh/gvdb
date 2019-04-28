@@ -5,44 +5,44 @@
   "description": "",
   "models": [
     {
-      "name": "Martin Sandor",
-      "person_id": 20741
+      "name": "Alexandru Cuza",
+      "person_id": 20754
     },
     {
       "name": "Daniel Halasz",
       "person_id": 20852
     },
     {
-      "name": "Luis Bedog",
-      "person_id": 20894
-    },
-    {
-      "name": "Alexandru Cuza",
-      "person_id": 20754
-    },
-    {
-      "name": "Samuel Galamb",
-      "person_id": 20853
-    },
-    {
       "name": "Daniel Magam",
       "person_id": 20895
-    },
-    {
-      "name": "Thierry Golyo",
-      "person_id": 20842
     },
     {
       "name": "Logan Sajnal",
       "person_id": 20855
     },
     {
-      "name": "Terence Kiadas",
-      "person_id": 20849
+      "name": "Luis Bedog",
+      "person_id": 20894
+    },
+    {
+      "name": "Martin Sandor",
+      "person_id": 20741
     },
     {
       "name": "Matthew Sakk",
       "person_id": 20857
+    },
+    {
+      "name": "Samuel Galamb",
+      "person_id": 20853
+    },
+    {
+      "name": "Terence Kiadas",
+      "person_id": 20849
+    },
+    {
+      "name": "Thierry Golyo",
+      "person_id": 20842
     }
   ],
   "release_date": "1998-05-11",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mr. Pete",
-      "person_id": 16823
-    },
-    {
       "name": "Karla Kush",
       "person_id": 53531
+    },
+    {
+      "name": "Mr. Pete",
+      "person_id": 16823
     }
   ],
   "release_date": "2014-08-08",

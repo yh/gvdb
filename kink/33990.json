@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Princess Donna Dolore",
-      "person_id": 5235
-    },
-    {
       "name": "Jordan Ash",
       "person_id": 42543
+    },
+    {
+      "name": "Princess Donna Dolore",
+      "person_id": 5235
     }
   ],
   "release_date": "2013-11-08",

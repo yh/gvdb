@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Shade Paine",
-      "person_id": 710
-    },
-    {
       "name": "Chanta-Rose",
       "person_id": 124
+    },
+    {
+      "name": "Shade Paine",
+      "person_id": 710
     }
   ],
   "release_date": "2003-01-10",

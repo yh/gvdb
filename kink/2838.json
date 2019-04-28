@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mika Tan",
-      "person_id": 236
-    },
-    {
       "name": "DragonLily",
       "person_id": 3433
+    },
+    {
+      "name": "Mika Tan",
+      "person_id": 236
     }
   ],
   "release_date": "2005-07-19",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Olivia Fawn",
-      "person_id": 57633
-    },
-    {
       "name": "Chanel Preston",
       "person_id": 26542
+    },
+    {
+      "name": "Olivia Fawn",
+      "person_id": 57633
     }
   ],
   "release_date": "2015-08-27",

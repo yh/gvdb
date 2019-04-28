@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Ricky Sinz",
-      "person_id": 21480
-    },
-    {
       "name": "Jason Miller",
       "person_id": 17619
+    },
+    {
+      "name": "Ricky Sinz",
+      "person_id": 21480
     }
   ],
   "release_date": "2012-02-16",

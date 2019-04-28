@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Marlon Moreno",
-      "person_id": 12992
-    },
-    {
       "name": "Eliot Cerry",
       "person_id": 13384
+    },
+    {
+      "name": "Marlon Moreno",
+      "person_id": 12992
     }
   ],
   "release_date": "2010-07-12",

@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
+      "name": "Chad Diamond",
+      "person_id": 42305
+    },
+    {
       "name": "Havana Ginger",
       "person_id": 61214
     },
     {
       "name": "Jessica Fox",
       "person_id": 17013
-    },
-    {
-      "name": "Chad Diamond",
-      "person_id": 42305
     }
   ],
   "release_date": "2018-12-26",

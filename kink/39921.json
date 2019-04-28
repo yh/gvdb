@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Scott DeMarco",
-      "person_id": 59206
-    },
-    {
       "name": "Jackson Fillmore",
       "person_id": 56833
+    },
+    {
+      "name": "Scott DeMarco",
+      "person_id": 59206
     }
   ],
   "release_date": "2016-06-11",

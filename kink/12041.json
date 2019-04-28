@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Nick Moretti",
-      "person_id": 17516
-    },
-    {
       "name": "Josh West",
       "person_id": 20861
     },
     {
-      "name": "Tristan Jaxx",
-      "person_id": 20786
-    },
-    {
       "name": "Lance Navarro",
       "person_id": 29113
+    },
+    {
+      "name": "Nick Moretti",
+      "person_id": 17516
+    },
+    {
+      "name": "Tristan Jaxx",
+      "person_id": 20786
     }
   ],
   "release_date": "2011-04-28",

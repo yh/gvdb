@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Nerine Mechanique",
-      "person_id": 19851
-    },
-    {
       "name": "Iona Grace",
       "person_id": 25204
     },
     {
-      "name": "Sophie Monroe",
-      "person_id": 20940
-    },
-    {
       "name": "Maestro Stefanos",
       "person_id": 17148
+    },
+    {
+      "name": "Nerine Mechanique",
+      "person_id": 19851
+    },
+    {
+      "name": "Sophie Monroe",
+      "person_id": 20940
     }
   ],
   "release_date": "2011-06-08",

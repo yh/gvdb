@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jennifer White",
-      "person_id": 26211
-    },
-    {
       "name": "Anthony Rosano",
       "person_id": 24418
+    },
+    {
+      "name": "Jennifer White",
+      "person_id": 26211
     }
   ],
   "release_date": "2010-09-28",

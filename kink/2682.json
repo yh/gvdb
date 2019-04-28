@@ -3,20 +3,15 @@
     "Fucking Machines"
   ],
   "description": "G-Force is back to unleash the machines on Smokie-Flame. Smokie took a variety of dongs all the way up to the mighty king kong dong.",
-  "directors": [
-    {
-      "name": "Foxy G",
-      "person_id": 7012
-    }
-  ],
+  "directors": [],
   "models": [
-    {
-      "name": "Smokie Flame",
-      "person_id": 6680
-    },
     {
       "name": "G-Force",
       "person_id": 7050
+    },
+    {
+      "name": "Smokie Flame",
+      "person_id": 6680
     }
   ],
   "release_date": "2005-01-26",

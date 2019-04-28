@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Rizzo Ford",
-      "person_id": 56943
-    },
-    {
       "name": "Cheyenne Jewel",
       "person_id": 22734
+    },
+    {
+      "name": "Rizzo Ford",
+      "person_id": 56943
     }
   ],
   "release_date": "2017-02-15",

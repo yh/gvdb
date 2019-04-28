@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lisa Tiffian",
-      "person_id": 55478
-    },
-    {
       "name": "Lea Lexis",
       "person_id": 17836
+    },
+    {
+      "name": "Lisa Tiffian",
+      "person_id": 55478
     }
   ],
   "release_date": "2015-07-10",

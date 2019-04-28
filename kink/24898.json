@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dakota Wolfe",
-      "person_id": 41106
-    },
-    {
       "name": "Colby Jansen",
       "person_id": 34457
+    },
+    {
+      "name": "Dakota Wolfe",
+      "person_id": 41106
     },
     {
       "name": "Tristan Jaxx",

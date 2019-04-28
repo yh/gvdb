@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lauren Phillips",
-      "person_id": 59097
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
+    },
+    {
+      "name": "Lauren Phillips",
+      "person_id": 59097
     }
   ],
   "release_date": "2017-03-02",

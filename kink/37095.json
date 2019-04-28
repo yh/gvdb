@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lea Lexis",
-      "person_id": 17836
-    },
-    {
       "name": "Corbin Dallas",
       "person_id": 51921
+    },
+    {
+      "name": "Lea Lexis",
+      "person_id": 17836
     }
   ],
   "release_date": "2015-02-12",

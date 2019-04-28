@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Viktor Belmont",
-      "person_id": 56517
-    },
-    {
       "name": "Christian Wilde",
       "person_id": 21037
+    },
+    {
+      "name": "Viktor Belmont",
+      "person_id": 56517
     }
   ],
   "release_date": "2017-09-05",

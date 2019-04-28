@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tyler Saint",
-      "person_id": 17416
-    },
-    {
       "name": "Alessio Romero",
       "person_id": 20463
+    },
+    {
+      "name": "Tyler Saint",
+      "person_id": 17416
     }
   ],
   "release_date": "2011-05-18",

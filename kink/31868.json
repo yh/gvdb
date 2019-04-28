@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Maestro",
-      "person_id": 11928
-    },
-    {
       "name": "Bonnie Day",
       "person_id": 39894
+    },
+    {
+      "name": "Maestro",
+      "person_id": 11928
     }
   ],
   "release_date": "2013-11-24",

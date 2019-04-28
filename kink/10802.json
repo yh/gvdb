@@ -6,28 +6,28 @@
   "directors": [],
   "models": [
     {
-      "name": "Wolf Hudson",
-      "person_id": 14471
+      "name": "Dana Vixen",
+      "person_id": 25104
     },
     {
       "name": "Emma Haize",
       "person_id": 29618
     },
     {
-      "name": "Kait Snow",
-      "person_id": 25825
-    },
-    {
       "name": "Iona Grace",
       "person_id": 25204
     },
     {
-      "name": "Dana Vixen",
-      "person_id": 25104
+      "name": "Kait Snow",
+      "person_id": 25825
     },
     {
       "name": "Maestro",
       "person_id": 11928
+    },
+    {
+      "name": "Wolf Hudson",
+      "person_id": 14471
     }
   ],
   "release_date": "2010-12-23",

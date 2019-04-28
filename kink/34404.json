@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Harmony",
-      "person_id": 6341
-    },
-    {
       "name": "Daac Ramsey",
       "person_id": 15390
+    },
+    {
+      "name": "Harmony",
+      "person_id": 6341
     }
   ],
   "release_date": "2015-02-02",

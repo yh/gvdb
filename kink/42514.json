@@ -6,10 +6,6 @@
   "directors": [],
   "models": [
     {
-      "name": "Sling King",
-      "person_id": 60357
-    },
-    {
       "name": "Blashure",
       "person_id": 60358
     },
@@ -20,6 +16,10 @@
     {
       "name": "Mistress Hidest",
       "person_id": 5864
+    },
+    {
+      "name": "Sling King",
+      "person_id": 60357
     }
   ],
   "release_date": "2017-08-25",

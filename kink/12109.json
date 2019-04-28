@@ -11,24 +11,24 @@
   ],
   "models": [
     {
-      "name": "Hollie Stevens",
-      "person_id": 1572
+      "name": "Ariel X",
+      "person_id": 10464
+    },
+    {
+      "name": "Bella Rossi",
+      "person_id": 18418
     },
     {
       "name": "DragonLily",
       "person_id": 3433
     },
     {
-      "name": "Ariel X",
-      "person_id": 10464
+      "name": "Hollie Stevens",
+      "person_id": 1572
     },
     {
       "name": "Isis Love",
       "person_id": 6584
-    },
-    {
-      "name": "Bella Rossi",
-      "person_id": 18418
     }
   ],
   "release_date": "2011-02-22",

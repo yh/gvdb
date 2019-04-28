@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Trevor Knight",
-      "person_id": 11564
-    },
-    {
       "name": "Luke Riley",
       "person_id": 11795
+    },
+    {
+      "name": "Trevor Knight",
+      "person_id": 11564
     }
   ],
   "release_date": "2009-12-16",

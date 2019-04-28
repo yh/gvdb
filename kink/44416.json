@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Marsha May",
-      "person_id": 54620
-    },
-    {
       "name": "Bruno Dickemz",
       "person_id": 54328
+    },
+    {
+      "name": "Marsha May",
+      "person_id": 54620
     }
   ],
   "release_date": "2019-03-28",

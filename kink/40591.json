@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Steve Holmes",
-      "person_id": 15810
-    },
-    {
       "name": "Alexa Tomas",
       "person_id": 59649
+    },
+    {
+      "name": "Steve Holmes",
+      "person_id": 15810
     },
     {
       "name": "Tina Kay",

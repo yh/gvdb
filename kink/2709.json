@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sophia",
-      "person_id": 6750
-    },
-    {
       "name": "Isis Love",
       "person_id": 6584
+    },
+    {
+      "name": "Sophia",
+      "person_id": 6750
     }
   ],
   "release_date": "2005-02-22",

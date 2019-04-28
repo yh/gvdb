@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Trenton Ducati",
-      "person_id": 42630
-    },
-    {
       "name": "Mitch Vaughn",
       "person_id": 35274
+    },
+    {
+      "name": "Trenton Ducati",
+      "person_id": 42630
     }
   ],
   "release_date": "2014-04-16",

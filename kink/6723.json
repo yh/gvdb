@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jordan Kingsley",
-      "person_id": 19567
-    },
-    {
       "name": "Dean Strong",
       "person_id": 18291
+    },
+    {
+      "name": "Jordan Kingsley",
+      "person_id": 19567
     }
   ],
   "release_date": "2012-08-27",

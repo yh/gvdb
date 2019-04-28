@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Master Aaron",
-      "person_id": 60724
-    },
-    {
       "name": "Leon Teal",
       "person_id": 60729
+    },
+    {
+      "name": "Master Aaron",
+      "person_id": 60724
     }
   ],
   "release_date": "2017-12-13",

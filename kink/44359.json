@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Mugur",
-      "person_id": 33526
-    },
-    {
       "name": "Laura Orsolya",
       "person_id": 61896
+    },
+    {
+      "name": "Mugur",
+      "person_id": 33526
     },
     {
       "name": "Susana Alcala",

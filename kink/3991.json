@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "DragonLily",
-      "person_id": 3433
-    },
-    {
       "name": "Dana DeArmond",
       "person_id": 4498
+    },
+    {
+      "name": "DragonLily",
+      "person_id": 3433
     }
   ],
   "release_date": "2006-10-17",

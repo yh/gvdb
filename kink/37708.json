@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Derek Scott",
-      "person_id": 56668
-    },
-    {
       "name": "Christian Wilde",
       "person_id": 21037
+    },
+    {
+      "name": "Derek Scott",
+      "person_id": 56668
     }
   ],
   "release_date": "2015-04-09",

@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Tori Lux",
-      "person_id": 26264
-    },
-    {
       "name": "John Strong",
       "person_id": 17050
     },
     {
       "name": "Marco Banderas",
       "person_id": 27958
+    },
+    {
+      "name": "Tori Lux",
+      "person_id": 26264
     }
   ],
   "release_date": "2012-08-24",

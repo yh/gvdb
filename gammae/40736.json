@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Garcia Udulo",
-      "person_id": 20962
-    },
-    {
       "name": "Enrico Bellagio",
       "person_id": 20982
+    },
+    {
+      "name": "Garcia Udulo",
+      "person_id": 20962
     }
   ],
   "release_date": "1998-06-01",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Toni Benz",
-      "person_id": 11299
-    },
-    {
       "name": "DragonLily",
       "person_id": 3433
+    },
+    {
+      "name": "Toni Benz",
+      "person_id": 11299
     }
   ],
   "release_date": "2006-03-07",

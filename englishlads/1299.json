@@ -5,11 +5,11 @@
   "description": "",
   "models": [
     {
-      "name": "Phil Jones",
+      "name": "Dan James",
       "person_id": null
     },
     {
-      "name": "Dan James",
+      "name": "Phil Jones",
       "person_id": null
     }
   ],

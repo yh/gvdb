@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Amy Brooke",
+      "person_id": 24422
+    },
+    {
       "name": "Ashley Edmonds",
       "person_id": 28180
     },
     {
       "name": "Lorelei Lee",
       "person_id": 758
-    },
-    {
-      "name": "Amy Brooke",
-      "person_id": 24422
     }
   ],
   "release_date": "2011-05-13",

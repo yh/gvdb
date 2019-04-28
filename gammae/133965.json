@@ -5,12 +5,16 @@
   "description": "Some of our fans asked us to search in our archives for unseen footage of their favorite models. We did find some amazing ones! Here's part one of some never seen footage, featuring Zack Lemec, Ricky, Carl and Philippe. Enjoy!",
   "models": [
     {
+      "name": "Carl",
+      "person_id": 37878
+    },
+    {
       "name": "Pascal",
       "person_id": 32430
     },
     {
-      "name": "Carl",
-      "person_id": 37878
+      "name": "Philippe",
+      "person_id": 37301
     },
     {
       "name": "Ricky",
@@ -19,10 +23,6 @@
     {
       "name": "Zack Lemec",
       "person_id": 34095
-    },
-    {
-      "name": "Philippe",
-      "person_id": 37301
     }
   ],
   "release_date": "2018-07-24",

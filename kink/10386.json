@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "James Deen",
-      "person_id": 8935
-    },
-    {
       "name": "Devon Taylor",
       "person_id": 26550
+    },
+    {
+      "name": "James Deen",
+      "person_id": 8935
     }
   ],
   "release_date": "2010-10-01",

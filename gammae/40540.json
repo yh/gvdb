@@ -5,24 +5,24 @@
   "description": "",
   "models": [
     {
-      "name": "Peter Tapasz",
-      "person_id": 20784
+      "name": "Attila F.",
+      "person_id": 20816
     },
     {
       "name": "Elemer R.",
       "person_id": 20820
     },
     {
+      "name": "Laszlo V.",
+      "person_id": 20817
+    },
+    {
       "name": "Martin Hubai",
       "person_id": 20804
     },
     {
-      "name": "Attila F.",
-      "person_id": 20816
-    },
-    {
-      "name": "Laszlo V.",
-      "person_id": 20817
+      "name": "Peter Tapasz",
+      "person_id": 20784
     }
   ],
   "release_date": "1998-03-16",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kendra James",
-      "person_id": 247
-    },
-    {
       "name": "Bridgett Harrington",
       "person_id": 4554
+    },
+    {
+      "name": "Kendra James",
+      "person_id": 247
     }
   ],
   "release_date": "2004-04-29",

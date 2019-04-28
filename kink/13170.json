@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Riley Shy",
-      "person_id": 15743
-    },
-    {
       "name": "Mr. Pete",
       "person_id": 16823
+    },
+    {
+      "name": "Riley Shy",
+      "person_id": 15743
     }
   ],
   "release_date": "2011-07-22",

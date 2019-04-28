@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
-      "name": "Tomas Dombai",
-      "person_id": 20767
+      "name": "Attila L",
+      "person_id": 20837
     },
     {
       "name": "David Vidak",
       "person_id": 20836
     },
     {
-      "name": "Attila L",
-      "person_id": 20837
+      "name": "Tomas Dombai",
+      "person_id": 20767
     }
   ],
   "release_date": "1998-03-14",

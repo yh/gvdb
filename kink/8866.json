@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Troy Daniels",
-      "person_id": 23354
-    },
-    {
       "name": "Derek Reynolds",
       "person_id": 23916
+    },
+    {
+      "name": "Troy Daniels",
+      "person_id": 23354
     }
   ],
   "release_date": "2010-06-23",

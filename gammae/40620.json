@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
-      "name": "Michael Smith",
-      "person_id": 20876
+      "name": "Joseph Lewis",
+      "person_id": 20883
     },
     {
       "name": "Matthew Harris",
       "person_id": 20882
     },
     {
-      "name": "Joseph Lewis",
-      "person_id": 20883
+      "name": "Michael Smith",
+      "person_id": 20876
     },
     {
       "name": "Mort Morgan",

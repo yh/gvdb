@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Penny Pax",
-      "person_id": 38571
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
     },
     {
       "name": "Ella Nova",
       "person_id": 51866
+    },
+    {
+      "name": "Penny Pax",
+      "person_id": 38571
     }
   ],
   "release_date": "2014-03-21",

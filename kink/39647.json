@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jeze Belle",
-      "person_id": 52164
-    },
-    {
       "name": "Delia DeLions",
       "person_id": 57489
+    },
+    {
+      "name": "Jeze Belle",
+      "person_id": 52164
     }
   ],
   "release_date": "2016-05-20",

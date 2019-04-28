@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Sexy Vanessa",
-      "person_id": 61215
-    },
-    {
       "name": "Jay Huntington",
       "person_id": 7093
+    },
+    {
+      "name": "Sexy Vanessa",
+      "person_id": 61215
     }
   ],
   "release_date": "2019-02-13",

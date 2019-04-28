@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Mickey Mod",
-      "person_id": 19623
-    },
-    {
-      "name": "Iona Grace",
-      "person_id": 25204
-    },
-    {
       "name": "Adrianna Luna",
       "person_id": 35882
     },
     {
       "name": "Derrick Pierce",
       "person_id": 14403
+    },
+    {
+      "name": "Iona Grace",
+      "person_id": 25204
+    },
+    {
+      "name": "Mickey Mod",
+      "person_id": 19623
     }
   ],
   "release_date": "2013-10-04",

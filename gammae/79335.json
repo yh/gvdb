@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Valentin Petrov",
-      "person_id": 28033
-    },
-    {
       "name": "Sean Duran",
       "person_id": 28079
+    },
+    {
+      "name": "Valentin Petrov",
+      "person_id": 28033
     }
   ],
   "release_date": "2015-12-24",

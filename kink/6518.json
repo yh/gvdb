@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Sabrina Fox",
-      "person_id": 14055
-    },
-    {
       "name": "Maggie Mayhem",
       "person_id": 19763
+    },
+    {
+      "name": "Sabrina Fox",
+      "person_id": 14055
     }
   ],
   "release_date": "2009-07-02",

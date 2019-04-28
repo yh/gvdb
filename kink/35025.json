@@ -11,8 +11,12 @@
   ],
   "models": [
     {
-      "name": "Van Darkholme",
-      "person_id": 15862
+      "name": "Alex Adams",
+      "person_id": 46014
+    },
+    {
+      "name": "Christian Wilde",
+      "person_id": 21037
     },
     {
       "name": "Connor Maguire",
@@ -23,12 +27,8 @@
       "person_id": 47357
     },
     {
-      "name": "Alex Adams",
-      "person_id": 46014
-    },
-    {
-      "name": "Christian Wilde",
-      "person_id": 21037
+      "name": "Van Darkholme",
+      "person_id": 15862
     }
   ],
   "release_date": "2014-02-13",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sabrina Fox",
-      "person_id": 14055
-    },
-    {
       "name": "Kade",
       "person_id": 12580
+    },
+    {
+      "name": "Sabrina Fox",
+      "person_id": 14055
     }
   ],
   "release_date": "2012-05-07",

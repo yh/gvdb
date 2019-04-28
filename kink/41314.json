@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Xander Corvus",
-      "person_id": 46000
-    },
-    {
-      "name": "Tommy Pistol",
-      "person_id": 12663
-    },
-    {
       "name": "Mona Wales",
       "person_id": 51511
     },
     {
       "name": "Penny Pax",
       "person_id": 38571
+    },
+    {
+      "name": "Tommy Pistol",
+      "person_id": 12663
+    },
+    {
+      "name": "Xander Corvus",
+      "person_id": 46000
     }
   ],
   "release_date": "2016-12-23",

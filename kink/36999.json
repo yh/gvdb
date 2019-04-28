@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sgt. Major",
-      "person_id": 4556
-    },
-    {
       "name": "Emma Haize",
       "person_id": 29618
+    },
+    {
+      "name": "Sgt. Major",
+      "person_id": 4556
     }
   ],
   "release_date": "2014-11-27",

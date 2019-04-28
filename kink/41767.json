@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Violet Monroe",
-      "person_id": 20284
-    },
-    {
       "name": "Stefani Special",
       "person_id": 49148
+    },
+    {
+      "name": "Violet Monroe",
+      "person_id": 20284
     }
   ],
   "release_date": "2017-09-11",

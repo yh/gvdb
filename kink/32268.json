@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Trenton Ducati",
-      "person_id": 42630
-    },
-    {
       "name": "Branden Forrest",
       "person_id": 29020
+    },
+    {
+      "name": "Trenton Ducati",
+      "person_id": 42630
     }
   ],
   "release_date": "2013-09-19",

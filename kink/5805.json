@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Hollie Stevens",
-      "person_id": 1572
-    },
-    {
       "name": "Adrianna Nicole",
       "person_id": 301
+    },
+    {
+      "name": "Hollie Stevens",
+      "person_id": 1572
     }
   ],
   "release_date": "2008-12-30",

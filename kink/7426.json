@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Trey Turner",
-      "person_id": 20020
-    },
-    {
       "name": "Sebastian Keys",
       "person_id": 20316
+    },
+    {
+      "name": "Trey Turner",
+      "person_id": 20020
     }
   ],
   "release_date": "2009-12-16",

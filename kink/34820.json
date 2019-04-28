@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mr. Pete",
-      "person_id": 16823
-    },
-    {
       "name": "Lily LaBeau",
       "person_id": 25162
+    },
+    {
+      "name": "Mr. Pete",
+      "person_id": 16823
     },
     {
       "name": "Savannah Fox",

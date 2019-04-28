@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lucas Frost",
-      "person_id": 60279
-    },
-    {
       "name": "AJ Applegate",
       "person_id": 45997
+    },
+    {
+      "name": "Lucas Frost",
+      "person_id": 60279
     },
     {
       "name": "Tommy Pistol",

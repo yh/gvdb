@@ -11,6 +11,10 @@
   ],
   "models": [
     {
+      "name": "Bella Rossi",
+      "person_id": 18418
+    },
+    {
       "name": "Jessie Cox",
       "person_id": 18739
     },
@@ -25,10 +29,6 @@
     {
       "name": "Sophie Monroe",
       "person_id": 20940
-    },
-    {
-      "name": "Bella Rossi",
-      "person_id": 18418
     }
   ],
   "release_date": "2011-04-15",

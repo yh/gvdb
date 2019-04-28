@@ -11,28 +11,28 @@
   ],
   "models": [
     {
-      "name": "Dee Williams",
-      "person_id": 4197
-    },
-    {
       "name": "Astral Dust",
       "person_id": 43670
-    },
-    {
-      "name": "John Strong",
-      "person_id": 17050
     },
     {
       "name": "Bill Bailey",
       "person_id": 46601
     },
     {
-      "name": "Xander Corvus",
-      "person_id": 46000
+      "name": "Dee Williams",
+      "person_id": 4197
+    },
+    {
+      "name": "John Strong",
+      "person_id": 17050
     },
     {
       "name": "Tommy Pistol",
       "person_id": 12663
+    },
+    {
+      "name": "Xander Corvus",
+      "person_id": 46000
     }
   ],
   "release_date": "2014-03-05",

@@ -11,14 +11,6 @@
   ],
   "models": [
     {
-      "name": "Ramon Nomar",
-      "person_id": 35412
-    },
-    {
-      "name": "Penny Pax",
-      "person_id": 38571
-    },
-    {
       "name": "Aiden Starr",
       "person_id": 11489
     },
@@ -31,12 +23,20 @@
       "person_id": 44270
     },
     {
-      "name": "Yhivi",
-      "person_id": 53649
+      "name": "Penny Pax",
+      "person_id": 38571
+    },
+    {
+      "name": "Ramon Nomar",
+      "person_id": 35412
     },
     {
       "name": "Simone Sonay",
       "person_id": 34687
+    },
+    {
+      "name": "Yhivi",
+      "person_id": 53649
     }
   ],
   "release_date": "2014-12-05",

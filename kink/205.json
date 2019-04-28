@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sadie Belle",
-      "person_id": 134
-    },
-    {
       "name": "Jewel",
       "person_id": 157
+    },
+    {
+      "name": "Sadie Belle",
+      "person_id": 134
     }
   ],
   "release_date": "2001-09-22",

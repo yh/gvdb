@@ -11,10 +11,6 @@
   ],
   "models": [
     {
-      "name": "Xander Corvus",
-      "person_id": 46000
-    },
-    {
       "name": "Aiden Starr",
       "person_id": 11489
     },
@@ -25,6 +21,10 @@
     {
       "name": "Roxanne Rae",
       "person_id": 50987
+    },
+    {
+      "name": "Xander Corvus",
+      "person_id": 46000
     }
   ],
   "release_date": "2017-05-30",

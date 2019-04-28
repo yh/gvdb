@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Jacques LaVere",
-      "person_id": 28077
-    },
-    {
       "name": "Doug Acre",
       "person_id": 33732
+    },
+    {
+      "name": "Jacques LaVere",
+      "person_id": 28077
     }
   ],
   "release_date": "2014-05-28",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Juliette March",
-      "person_id": 22072
-    },
-    {
       "name": "Iona Grace",
       "person_id": 25204
+    },
+    {
+      "name": "Juliette March",
+      "person_id": 22072
     }
   ],
   "release_date": "2011-12-14",

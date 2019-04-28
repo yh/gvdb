@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dia Zerva",
-      "person_id": 16038
-    },
-    {
       "name": "Dean Strong",
       "person_id": 18291
+    },
+    {
+      "name": "Dia Zerva",
+      "person_id": 16038
     }
   ],
   "release_date": "2010-04-28",

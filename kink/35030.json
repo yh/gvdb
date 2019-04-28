@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sienna West",
-      "person_id": 30404
-    },
-    {
       "name": "Kurt Lockwood",
       "person_id": 5422
+    },
+    {
+      "name": "Sienna West",
+      "person_id": 30404
     }
   ],
   "release_date": "2010-04-12",

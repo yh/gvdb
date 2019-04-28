@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Roman Rivers",
-      "person_id": 26923
-    },
-    {
       "name": "Ashley Fires",
       "person_id": 20856
+    },
+    {
+      "name": "Roman Rivers",
+      "person_id": 26923
     }
   ],
   "release_date": "2011-07-13",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Parker London",
-      "person_id": 22006
-    },
-    {
       "name": "Jake Austin",
       "person_id": 25498
+    },
+    {
+      "name": "Parker London",
+      "person_id": 22006
     }
   ],
   "release_date": "2011-06-17",

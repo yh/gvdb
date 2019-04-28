@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Morgan Bailey",
-      "person_id": 19660
-    },
-    {
       "name": "Alexander Gustavo",
       "person_id": 55166
+    },
+    {
+      "name": "Morgan Bailey",
+      "person_id": 19660
     }
   ],
   "release_date": "2015-04-08",

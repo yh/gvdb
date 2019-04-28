@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Daisy Ducati",
-      "person_id": 50939
-    },
-    {
       "name": "Arabelle Raphael",
       "person_id": 22128
+    },
+    {
+      "name": "Daisy Ducati",
+      "person_id": 50939
     }
   ],
   "release_date": "2016-01-08",

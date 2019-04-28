@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Gia DiMarco",
-      "person_id": 21436
-    },
-    {
       "name": "Annika",
       "person_id": 27904
     },
     {
       "name": "Asphyxia Noir",
       "person_id": 31983
+    },
+    {
+      "name": "Gia DiMarco",
+      "person_id": 21436
     }
   ],
   "release_date": "2011-09-23",

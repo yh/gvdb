@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Damien Moreau",
-      "person_id": 51956
-    },
-    {
       "name": "Adam Herst",
       "person_id": 39639
+    },
+    {
+      "name": "Damien Moreau",
+      "person_id": 51956
     }
   ],
   "release_date": "2013-11-28",

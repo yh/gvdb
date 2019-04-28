@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Zane Anders",
-      "person_id": 55730
-    },
-    {
       "name": "JJ Knight",
       "person_id": 58863
+    },
+    {
+      "name": "Zane Anders",
+      "person_id": 55730
     }
   ],
   "release_date": "2016-05-25",

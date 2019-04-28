@@ -11,36 +11,36 @@
   ],
   "models": [
     {
-      "name": "Cherry Torn",
-      "person_id": 11105
-    },
-    {
-      "name": "Savannah West",
-      "person_id": 19581
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
-    },
-    {
-      "name": "Sarah Shevon",
-      "person_id": 19605
-    },
-    {
-      "name": "Mister Torn",
-      "person_id": 19633
     },
     {
       "name": "Catrina Cummings",
       "person_id": 20134
     },
     {
-      "name": "Maestro",
-      "person_id": 11928
+      "name": "Cherry Torn",
+      "person_id": 11105
     },
     {
       "name": "Curt Wooster",
       "person_id": 18252
+    },
+    {
+      "name": "Maestro",
+      "person_id": 11928
+    },
+    {
+      "name": "Mister Torn",
+      "person_id": 19633
+    },
+    {
+      "name": "Sarah Shevon",
+      "person_id": 19605
+    },
+    {
+      "name": "Savannah West",
+      "person_id": 19581
     }
   ],
   "release_date": "2009-11-27",

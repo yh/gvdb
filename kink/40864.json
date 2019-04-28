@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Riley Nixon",
-      "person_id": 59619
-    },
-    {
       "name": "Mona Wales",
       "person_id": 51511
+    },
+    {
+      "name": "Riley Nixon",
+      "person_id": 59619
     }
   ],
   "release_date": "2016-09-29",

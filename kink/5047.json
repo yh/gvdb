@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Sgt. Major",
-      "person_id": 4556
-    },
-    {
       "name": "Amber Rayne",
       "person_id": 12631
+    },
+    {
+      "name": "Sgt. Major",
+      "person_id": 4556
     }
   ],
   "release_date": "2012-09-27",

@@ -15,20 +15,20 @@
       "person_id": 10069
     },
     {
-      "name": "Krysta Kaos",
-      "person_id": 25624
-    },
-    {
       "name": "Jack Hammer",
       "person_id": 18499
     },
     {
-      "name": "The Pope",
-      "person_id": 27779
+      "name": "Krysta Kaos",
+      "person_id": 25624
     },
     {
       "name": "Maestro Stefanos",
       "person_id": 17148
+    },
+    {
+      "name": "The Pope",
+      "person_id": 27779
     }
   ],
   "release_date": "2012-07-13",

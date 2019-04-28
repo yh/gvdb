@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Cameron Adams",
+      "person_id": 22338
+    },
+    {
       "name": "Chris Tyler",
       "person_id": 27947
     },
     {
       "name": "Jake Austin",
       "person_id": 25498
-    },
-    {
-      "name": "Cameron Adams",
-      "person_id": 22338
     }
   ],
   "release_date": "2011-04-27",

@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Raina Verene",
-      "person_id": 17161
-    },
-    {
       "name": "Lobo",
       "person_id": 16229
     },
     {
       "name": "Princess Donna Dolore",
       "person_id": 5235
+    },
+    {
+      "name": "Raina Verene",
+      "person_id": 17161
     }
   ],
   "release_date": "2008-12-19",

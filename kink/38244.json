@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kelly Klaymour",
-      "person_id": 53469
-    },
-    {
       "name": "Angel Allwood",
       "person_id": 52348
+    },
+    {
+      "name": "Kelly Klaymour",
+      "person_id": 53469
     }
   ],
   "release_date": "2015-09-25",

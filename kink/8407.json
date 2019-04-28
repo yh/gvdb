@@ -11,12 +11,16 @@
   ],
   "models": [
     {
+      "name": "Bella Rossi",
+      "person_id": 18418
+    },
+    {
       "name": "Cherry Torn",
       "person_id": 11105
     },
     {
-      "name": "Bella Rossi",
-      "person_id": 18418
+      "name": "Hollie Stevens",
+      "person_id": 1572
     },
     {
       "name": "Madison Young",
@@ -25,10 +29,6 @@
     {
       "name": "Nerine Mechanique",
       "person_id": 19851
-    },
-    {
-      "name": "Hollie Stevens",
-      "person_id": 1572
     }
   ],
   "release_date": "2010-04-01",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Rod Daily",
-      "person_id": 47872
-    },
-    {
       "name": "Casey More",
       "person_id": 47825
+    },
+    {
+      "name": "Rod Daily",
+      "person_id": 47872
     }
   ],
   "release_date": "2013-05-22",

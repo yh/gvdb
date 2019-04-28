@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Trisha Parks",
-      "person_id": 58246
-    },
-    {
       "name": "Jordan Ash",
       "person_id": 42543
+    },
+    {
+      "name": "Trisha Parks",
+      "person_id": 58246
     }
   ],
   "release_date": "2018-02-09",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Ramon Nomar",
-      "person_id": 35412
-    },
-    {
       "name": "Luna Star",
       "person_id": 58678
+    },
+    {
+      "name": "Ramon Nomar",
+      "person_id": 35412
     }
   ],
   "release_date": "2018-01-19",

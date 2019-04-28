@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Kolton Ray",
-      "person_id": 31656
-    },
-    {
       "name": "Josh Hodges",
       "person_id": 31658
+    },
+    {
+      "name": "Kolton Ray",
+      "person_id": 31656
     }
   ],
   "release_date": "2013-09-13",

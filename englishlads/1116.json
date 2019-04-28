@@ -5,19 +5,19 @@
   "description": "",
   "models": [
     {
-      "name": "Kev Adamson",
-      "person_id": null
-    },
-    {
       "name": "Anthony Clarke",
       "person_id": null
     },
     {
-      "name": "Will Jamieson",
+      "name": "Jake Cooper",
       "person_id": null
     },
     {
-      "name": "Jake Cooper",
+      "name": "Kev Adamson",
+      "person_id": null
+    },
+    {
+      "name": "Will Jamieson",
       "person_id": null
     }
   ],

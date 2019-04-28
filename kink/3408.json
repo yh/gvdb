@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tory Lane",
-      "person_id": 8228
-    },
-    {
       "name": "Nadia Styles",
       "person_id": 10823
+    },
+    {
+      "name": "Tory Lane",
+      "person_id": 8228
     }
   ],
   "release_date": "2006-02-17",

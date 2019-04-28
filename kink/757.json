@@ -3,20 +3,15 @@
     "Fucking Machines"
   ],
   "description": "Visiting the physician for what she thinks will be a routine examination, Kellyfire gets more than what she bargained for when the doctor turns out to be Hamilton Steele.",
-  "directors": [
-    {
-      "name": "Amy Camus",
-      "person_id": 7032
-    }
-  ],
+  "directors": [],
   "models": [
-    {
-      "name": "Kellyfire",
-      "person_id": 497
-    },
     {
       "name": "Hamilton",
       "person_id": 498
+    },
+    {
+      "name": "Kellyfire",
+      "person_id": 497
     }
   ],
   "release_date": "2002-11-27",

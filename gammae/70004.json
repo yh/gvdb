@@ -5,12 +5,12 @@
   "description": "Description Coming Soon",
   "models": [
     {
-      "name": "Twins",
-      "person_id": 35049
-    },
-    {
       "name": "Dean",
       "person_id": 35074
+    },
+    {
+      "name": "Twins",
+      "person_id": 35049
     }
   ],
   "release_date": "2006-03-28",

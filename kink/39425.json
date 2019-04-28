@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Venus Lux",
-      "person_id": 41417
-    },
-    {
       "name": "Jay West",
       "person_id": 53166
+    },
+    {
+      "name": "Venus Lux",
+      "person_id": 41417
     }
   ],
   "release_date": "2015-12-23",

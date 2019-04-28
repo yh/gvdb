@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Yhivi",
-      "person_id": 53649
-    },
-    {
       "name": "Harley Jade",
       "person_id": 59426
     },
     {
       "name": "Tommy Pistol",
       "person_id": 12663
+    },
+    {
+      "name": "Yhivi",
+      "person_id": 53649
     }
   ],
   "release_date": "2016-07-15",

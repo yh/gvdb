@@ -5,12 +5,12 @@
   "description": "Triumvirate: Jungle Voodoo",
   "models": [
     {
-      "name": "Kalib Mohamed",
-      "person_id": 29463
-    },
-    {
       "name": "Ivan Jakov",
       "person_id": 29479
+    },
+    {
+      "name": "Kalib Mohamed",
+      "person_id": 29463
     }
   ],
   "release_date": "2003-02-12",

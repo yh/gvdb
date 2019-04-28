@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Isis Love",
-      "person_id": 6584
-    },
-    {
       "name": "Angela Stone",
       "person_id": 6478
+    },
+    {
+      "name": "Isis Love",
+      "person_id": 6584
     }
   ],
   "release_date": "2005-07-06",

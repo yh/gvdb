@@ -6,20 +6,20 @@
   "directors": [],
   "models": [
     {
-      "name": "Steve Holmes",
-      "person_id": 15810
-    },
-    {
-      "name": "Tina Kay",
-      "person_id": 58964
+      "name": "Bella Beretta",
+      "person_id": 58150
     },
     {
       "name": "RAM",
       "person_id": 20259
     },
     {
-      "name": "Bella Beretta",
-      "person_id": 58150
+      "name": "Steve Holmes",
+      "person_id": 15810
+    },
+    {
+      "name": "Tina Kay",
+      "person_id": 58964
     }
   ],
   "release_date": "2015-11-06",

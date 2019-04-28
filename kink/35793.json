@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Shay Fox",
-      "person_id": 53492
-    },
-    {
       "name": "Ramon Nomar",
       "person_id": 35412
+    },
+    {
+      "name": "Shay Fox",
+      "person_id": 53492
     }
   ],
   "release_date": "2014-08-01",

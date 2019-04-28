@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Greg Ross",
-      "person_id": 11914
-    },
-    {
       "name": "Dallas Taylor",
       "person_id": 11949
+    },
+    {
+      "name": "Greg Ross",
+      "person_id": 11914
     },
     {
       "name": "Jason Broderick",

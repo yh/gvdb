@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
-      "name": "Ritchy Segely",
-      "person_id": 20872
-    },
-    {
       "name": "Julian Vincenzo",
       "person_id": 20918
     },
     {
       "name": "Patton Hall",
       "person_id": 21036
+    },
+    {
+      "name": "Ritchy Segely",
+      "person_id": 20872
     }
   ],
   "release_date": "1998-05-09",

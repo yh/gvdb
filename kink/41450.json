@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Xander Corvus",
-      "person_id": 46000
-    },
-    {
       "name": "Eliza Jane",
       "person_id": 59596
+    },
+    {
+      "name": "Xander Corvus",
+      "person_id": 46000
     }
   ],
   "release_date": "2017-01-17",

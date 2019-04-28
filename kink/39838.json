@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Rikki Rumor",
-      "person_id": 59237
-    },
-    {
       "name": "Maestro",
       "person_id": 11928
+    },
+    {
+      "name": "Rikki Rumor",
+      "person_id": 59237
     }
   ],
   "release_date": "2016-04-22",

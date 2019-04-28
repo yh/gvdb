@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tommy Pistol",
-      "person_id": 12663
-    },
-    {
       "name": "Sadie Santana",
       "person_id": 53272
+    },
+    {
+      "name": "Tommy Pistol",
+      "person_id": 12663
     }
   ],
   "release_date": "2016-06-03",

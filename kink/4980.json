@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mark Davis",
-      "person_id": 8200
-    },
-    {
       "name": "Jaelyn Fox",
       "person_id": 15970
+    },
+    {
+      "name": "Mark Davis",
+      "person_id": 8200
     }
   ],
   "release_date": "2007-12-14",

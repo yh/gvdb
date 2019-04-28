@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Marcelo",
-      "person_id": 46090
-    },
-    {
       "name": "Chanel Preston",
       "person_id": 26542
+    },
+    {
+      "name": "Marcelo",
+      "person_id": 46090
     }
   ],
   "release_date": "2018-02-27",

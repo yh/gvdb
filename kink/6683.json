@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Nika Noire",
-      "person_id": 17418
-    },
-    {
       "name": "Ariel X",
       "person_id": 10464
     },
     {
       "name": "Dana DeArmond",
       "person_id": 4498
+    },
+    {
+      "name": "Nika Noire",
+      "person_id": 17418
     }
   ],
   "release_date": "2009-07-13",

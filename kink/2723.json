@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Sgt. Major",
-      "person_id": 4556
-    },
-    {
       "name": "Lola",
       "person_id": 6034
+    },
+    {
+      "name": "Sgt. Major",
+      "person_id": 4556
     }
   ],
   "release_date": "2005-05-24",

@@ -5,16 +5,16 @@
   "description": "Sizzling three encounter where the real action is not on the field, but in the locker room afterwards!",
   "models": [
     {
-      "name": "Tyler Mason",
-      "person_id": 30224
+      "name": "Chase Matthews",
+      "person_id": 30422
     },
     {
       "name": "Kyle Aames",
       "person_id": 30421
     },
     {
-      "name": "Chase Matthews",
-      "person_id": 30422
+      "name": "Tyler Mason",
+      "person_id": 30224
     }
   ],
   "release_date": "2007-07-18",

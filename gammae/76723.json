@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Valentin Petrov",
-      "person_id": 28033
-    },
-    {
       "name": "Patrick Ridge",
       "person_id": 37185
+    },
+    {
+      "name": "Valentin Petrov",
+      "person_id": 28033
     }
   ],
   "release_date": "2015-07-16",

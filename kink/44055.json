@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Paige Turnah",
-      "person_id": 61181
-    },
-    {
       "name": "Jay Snakes",
       "person_id": 61169
+    },
+    {
+      "name": "Paige Turnah",
+      "person_id": 61181
     }
   ],
   "release_date": "2018-12-07",

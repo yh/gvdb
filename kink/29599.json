@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Yasmine de Leon",
-      "person_id": 21595
-    },
-    {
       "name": "Xander Corvus",
       "person_id": 46000
+    },
+    {
+      "name": "Yasmine de Leon",
+      "person_id": 21595
     }
   ],
   "release_date": "2013-03-29",

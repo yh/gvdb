@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Victoria White",
-      "person_id": 27851
-    },
-    {
       "name": "Nika Noire",
       "person_id": 17418
+    },
+    {
+      "name": "Victoria White",
+      "person_id": 27851
     }
   ],
   "release_date": "2010-12-30",

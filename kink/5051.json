@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Harmony",
-      "person_id": 6341
-    },
-    {
       "name": "Daphne Rosen",
       "person_id": 13788
+    },
+    {
+      "name": "Harmony",
+      "person_id": 6341
     }
   ],
   "release_date": "2008-02-08",

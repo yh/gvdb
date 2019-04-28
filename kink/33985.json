@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Syren de Mer",
-      "person_id": 43807
-    },
-    {
       "name": "Mikki Lynn",
       "person_id": 47146
+    },
+    {
+      "name": "Syren de Mer",
+      "person_id": 43807
     }
   ],
   "release_date": "2013-10-22",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Justine Joli",
-      "person_id": 8211
-    },
-    {
       "name": "Felony",
       "person_id": 17502
+    },
+    {
+      "name": "Justine Joli",
+      "person_id": 8211
     }
   ],
   "release_date": "2012-06-22",

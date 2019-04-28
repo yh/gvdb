@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Ami Emerson",
+      "person_id": 18094
+    },
+    {
       "name": "Isis Love",
       "person_id": 6584
     },
     {
       "name": "Jessie Cox",
       "person_id": 18739
-    },
-    {
-      "name": "Ami Emerson",
-      "person_id": 18094
     }
   ],
   "release_date": "2009-10-19",

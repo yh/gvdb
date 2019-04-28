@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Sir C",
-      "person_id": 10946
-    },
-    {
       "name": "Annie Cruz",
       "person_id": 7776
     },
     {
       "name": "Judass",
       "person_id": 10563
+    },
+    {
+      "name": "Sir C",
+      "person_id": 10946
     }
   ],
   "release_date": "2006-09-20",

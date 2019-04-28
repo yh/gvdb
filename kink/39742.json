@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Will Havoc",
-      "person_id": 46285
-    },
-    {
       "name": "Honey FoXXX",
       "person_id": 20864
+    },
+    {
+      "name": "Will Havoc",
+      "person_id": 46285
     }
   ],
   "release_date": "2016-03-09",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Wild Bill",
-      "person_id": 225
-    },
-    {
       "name": "Annie Cruz",
       "person_id": 7776
+    },
+    {
+      "name": "Wild Bill",
+      "person_id": 225
     }
   ],
   "release_date": "2005-10-06",

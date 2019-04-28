@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Orlando",
-      "person_id": 16649
-    },
-    {
       "name": "Marie McCray",
       "person_id": 20393
+    },
+    {
+      "name": "Orlando",
+      "person_id": 16649
     }
   ],
   "release_date": "2013-11-08",

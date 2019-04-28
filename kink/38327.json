@@ -6,20 +6,20 @@
   "directors": [],
   "models": [
     {
-      "name": "RAM",
-      "person_id": 20259
-    },
-    {
-      "name": "Proxy Paige",
-      "person_id": 24708
+      "name": "Bella Beretta",
+      "person_id": 58150
     },
     {
       "name": "Nikki Thorne",
       "person_id": 58279
     },
     {
-      "name": "Bella Beretta",
-      "person_id": 58150
+      "name": "Proxy Paige",
+      "person_id": 24708
+    },
+    {
+      "name": "RAM",
+      "person_id": 20259
     }
   ],
   "release_date": "2015-10-09",

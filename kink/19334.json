@@ -11,24 +11,24 @@
   ],
   "models": [
     {
-      "name": "Keira Quinn",
-      "person_id": 38494
+      "name": "Alice Kingsnorth",
+      "person_id": 33807
     },
     {
       "name": "Angelica Swiss",
       "person_id": 38545
     },
     {
-      "name": "Alice Kingsnorth",
-      "person_id": 33807
+      "name": "Bonnie Day",
+      "person_id": 39894
     },
     {
       "name": "Jack Hammer",
       "person_id": 18499
     },
     {
-      "name": "Bonnie Day",
-      "person_id": 39894
+      "name": "Keira Quinn",
+      "person_id": 38494
     }
   ],
   "release_date": "2012-05-04",

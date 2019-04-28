@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mark Davis",
-      "person_id": 8200
-    },
-    {
       "name": "Katie Kox",
       "person_id": 21378
+    },
+    {
+      "name": "Mark Davis",
+      "person_id": 8200
     }
   ],
   "release_date": "2010-05-21",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jett Jax",
-      "person_id": 50996
-    },
-    {
       "name": "Jaxton Wheeler",
       "person_id": 53352
+    },
+    {
+      "name": "Jett Jax",
+      "person_id": 50996
     }
   ],
   "release_date": "2014-05-08",

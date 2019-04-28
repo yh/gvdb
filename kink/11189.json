@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Lily LaBeau",
-      "person_id": 25162
-    },
-    {
-      "name": "Tom Moore",
-      "person_id": 13997
-    },
-    {
       "name": "Felony",
       "person_id": 17502
     },
     {
+      "name": "Lily LaBeau",
+      "person_id": 25162
+    },
+    {
       "name": "Sinn Sage",
       "person_id": 19154
+    },
+    {
+      "name": "Tom Moore",
+      "person_id": 13997
     }
   ],
   "release_date": "2010-12-17",

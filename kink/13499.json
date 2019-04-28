@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Parker London",
-      "person_id": 22006
-    },
-    {
       "name": "Jason Miller",
       "person_id": 17619
+    },
+    {
+      "name": "Parker London",
+      "person_id": 22006
     }
   ],
   "release_date": "2011-07-08",

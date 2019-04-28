@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Rita Faltoyano",
-      "person_id": 11235
-    },
-    {
       "name": "Mark Davis",
       "person_id": 8200
+    },
+    {
+      "name": "Rita Faltoyano",
+      "person_id": 11235
     }
   ],
   "release_date": "2006-01-27",

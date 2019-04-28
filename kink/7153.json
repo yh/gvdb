@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Rusty Stevens",
-      "person_id": 19600
-    },
-    {
       "name": "Derrek Diamond",
       "person_id": 19001
+    },
+    {
+      "name": "Rusty Stevens",
+      "person_id": 19600
     }
   ],
   "release_date": "2009-10-08",

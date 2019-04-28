@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "James Deen",
-      "person_id": 8935
-    },
-    {
       "name": "Ava Addams",
       "person_id": 44633
+    },
+    {
+      "name": "James Deen",
+      "person_id": 8935
     }
   ],
   "release_date": "2013-08-09",

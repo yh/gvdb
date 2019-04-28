@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Crimson Ninja",
-      "person_id": 6346
-    },
-    {
       "name": "Ariel X",
       "person_id": 10464
+    },
+    {
+      "name": "Crimson Ninja",
+      "person_id": 6346
     }
   ],
   "release_date": "2006-06-27",

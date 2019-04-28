@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Xana Star",
-      "person_id": 2881
-    },
-    {
       "name": "Lola",
       "person_id": 6034
+    },
+    {
+      "name": "Xana Star",
+      "person_id": 2881
     }
   ],
   "release_date": "2005-08-09",

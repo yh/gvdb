@@ -5,16 +5,16 @@
   "description": "Mike Chavez, Cort Stevens and Adam Wilde get down and dirty in a basement threeway.",
   "models": [
     {
-      "name": "Mike Chavez",
-      "person_id": 10900
-    },
-    {
       "name": "Adam Wilde",
       "person_id": 11430
     },
     {
       "name": "Cort Stevens",
       "person_id": 11466
+    },
+    {
+      "name": "Mike Chavez",
+      "person_id": 10900
     }
   ],
   "release_date": "2007-06-01",

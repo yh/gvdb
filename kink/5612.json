@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Vendetta",
-      "person_id": 8300
-    },
-    {
       "name": "Claire Dames",
       "person_id": 14027
+    },
+    {
+      "name": "Vendetta",
+      "person_id": 8300
     }
   ],
   "release_date": "2008-07-29",

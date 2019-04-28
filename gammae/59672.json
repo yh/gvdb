@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Joe Parker",
-      "person_id": 28044
-    },
-    {
       "name": "Jake Jennings",
       "person_id": 31734
+    },
+    {
+      "name": "Joe Parker",
+      "person_id": 28044
     }
   ],
   "release_date": "2013-09-10",

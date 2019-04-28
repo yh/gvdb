@@ -5,12 +5,12 @@
   "description": "Joshua Klein spends some quality time alone... with the aid of the Kris Lord Supercock.",
   "models": [
     {
-      "name": "Kris Lord",
-      "person_id": 11879
-    },
-    {
       "name": "Joshua Klein",
       "person_id": 12130
+    },
+    {
+      "name": "Kris Lord",
+      "person_id": 11879
     }
   ],
   "release_date": "2010-09-02",

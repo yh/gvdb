@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Simone Garza",
-      "person_id": 60272
-    },
-    {
       "name": "Alexa Nova",
       "person_id": 57359
+    },
+    {
+      "name": "Simone Garza",
+      "person_id": 60272
     }
   ],
   "release_date": "2017-08-25",

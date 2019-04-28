@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Trystian Sweet",
-      "person_id": 17505
-    },
-    {
       "name": "Jackson Lawless",
       "person_id": 17496
+    },
+    {
+      "name": "Trystian Sweet",
+      "person_id": 17505
     },
     {
       "name": "Viper",

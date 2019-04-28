@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Connor Patricks",
-      "person_id": 47357
-    },
-    {
       "name": "Chris Burke",
       "person_id": 58819
+    },
+    {
+      "name": "Connor Patricks",
+      "person_id": 47357
     }
   ],
   "release_date": "2015-11-25",

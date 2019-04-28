@@ -11,12 +11,16 @@
   ],
   "models": [
     {
-      "name": "Siouxsie Q",
-      "person_id": 34821
+      "name": "John Strong",
+      "person_id": 17050
     },
     {
       "name": "Karlo Karrera",
       "person_id": 35221
+    },
+    {
+      "name": "Michael Vegas",
+      "person_id": 47624
     },
     {
       "name": "Mickey Mod",
@@ -27,12 +31,8 @@
       "person_id": 39181
     },
     {
-      "name": "John Strong",
-      "person_id": 17050
-    },
-    {
-      "name": "Michael Vegas",
-      "person_id": 47624
+      "name": "Siouxsie Q",
+      "person_id": 34821
     }
   ],
   "release_date": "2015-04-15",

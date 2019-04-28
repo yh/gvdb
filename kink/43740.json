@@ -6,24 +6,24 @@
   "directors": [],
   "models": [
     {
-      "name": "Rosi Rosetta",
-      "person_id": 60471
-    },
-    {
       "name": "Carmen Rivera",
       "person_id": 60339
     },
     {
-      "name": "Mister P.",
-      "person_id": 60472
+      "name": "Lady Nancy",
+      "person_id": 60473
     },
     {
       "name": "Miss Chantalle",
       "person_id": 60474
     },
     {
-      "name": "Lady Nancy",
-      "person_id": 60473
+      "name": "Mister P.",
+      "person_id": 60472
+    },
+    {
+      "name": "Rosi Rosetta",
+      "person_id": 60471
     }
   ],
   "release_date": "2018-08-10",

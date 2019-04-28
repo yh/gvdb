@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Oliver",
-      "person_id": 20096
-    },
-    {
       "name": "Alina Rose",
       "person_id": 20136
     },
     {
       "name": "Max Cortes",
       "person_id": 20131
+    },
+    {
+      "name": "Oliver",
+      "person_id": 20096
     }
   ],
   "release_date": "2009-09-11",

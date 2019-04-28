@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Jade Phillips",
-      "person_id": 55434
-    },
-    {
       "name": "Jack Hammer",
       "person_id": 18499
+    },
+    {
+      "name": "Jade Phillips",
+      "person_id": 55434
     }
   ],
   "release_date": "2019-01-08",

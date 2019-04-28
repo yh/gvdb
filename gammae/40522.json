@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
+      "name": "Keri Iswan",
+      "person_id": 22556
+    },
+    {
       "name": "Marko Pacyna",
       "person_id": 20763
     },
     {
       "name": "Nikolas Kiss",
       "person_id": 20797
-    },
-    {
-      "name": "Keri Iswan",
-      "person_id": 22556
     }
   ],
   "release_date": "1998-03-09",

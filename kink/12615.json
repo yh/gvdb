@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Isis Love",
-      "person_id": 6584
-    },
-    {
       "name": "Candy Manson",
       "person_id": 11827
     },
     {
       "name": "Derrick Pierce",
       "person_id": 14403
+    },
+    {
+      "name": "Isis Love",
+      "person_id": 6584
     }
   ],
   "release_date": "2011-04-19",

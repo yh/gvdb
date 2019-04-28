@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Luke Riley",
-      "person_id": 18736
-    },
-    {
       "name": "Leo Forte",
       "person_id": 22142
+    },
+    {
+      "name": "Luke Riley",
+      "person_id": 18736
     }
   ],
   "release_date": "2010-06-30",

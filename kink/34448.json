@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Rilynn Rae",
-      "person_id": 39210
-    },
-    {
       "name": "Layton Benton",
       "person_id": 45707
+    },
+    {
+      "name": "Rilynn Rae",
+      "person_id": 39210
     }
   ],
   "release_date": "2014-04-25",

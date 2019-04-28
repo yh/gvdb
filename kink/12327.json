@@ -11,8 +11,12 @@
   ],
   "models": [
     {
-      "name": "Isis Love",
-      "person_id": 6584
+      "name": "Ariel X",
+      "person_id": 10464
+    },
+    {
+      "name": "Chloe Camilla",
+      "person_id": 22493
     },
     {
       "name": "Dee Williams",
@@ -23,12 +27,8 @@
       "person_id": 25204
     },
     {
-      "name": "Ariel X",
-      "person_id": 10464
-    },
-    {
-      "name": "Chloe Camilla",
-      "person_id": 22493
+      "name": "Isis Love",
+      "person_id": 6584
     }
   ],
   "release_date": "2011-06-28",

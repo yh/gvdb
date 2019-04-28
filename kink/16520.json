@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Leo Forte",
-      "person_id": 22142
-    },
-    {
       "name": "Jason Miller",
       "person_id": 17619
+    },
+    {
+      "name": "Leo Forte",
+      "person_id": 22142
     }
   ],
   "release_date": "2012-03-15",

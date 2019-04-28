@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Julie Night",
+      "person_id": 11190
+    },
+    {
       "name": "Natali Demore",
       "person_id": 10055
     },
     {
       "name": "Phoebe",
       "person_id": 11799
-    },
-    {
-      "name": "Julie Night",
-      "person_id": 11190
     }
   ],
   "release_date": "2006-05-05",

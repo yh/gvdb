@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Zach Alexander",
-      "person_id": 22076
-    },
-    {
       "name": "Christian Wilde",
       "person_id": 21037
+    },
+    {
+      "name": "Zach Alexander",
+      "person_id": 22076
     }
   ],
   "release_date": "2010-09-09",

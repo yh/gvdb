@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Parker London",
-      "person_id": 13456
-    },
-    {
       "name": "Jake Austin",
       "person_id": 13462
+    },
+    {
+      "name": "Parker London",
+      "person_id": 13456
     }
   ],
   "release_date": "2010-12-29",

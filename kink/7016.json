@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Simone Kross",
-      "person_id": 4932
-    },
-    {
       "name": "Curt Wooster",
       "person_id": 18252
+    },
+    {
+      "name": "Simone Kross",
+      "person_id": 4932
     }
   ],
   "release_date": "2012-06-18",

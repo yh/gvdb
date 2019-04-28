@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Valentina Nappi",
-      "person_id": 58888
-    },
-    {
       "name": "Alix Lynx",
       "person_id": 58426
+    },
+    {
+      "name": "Valentina Nappi",
+      "person_id": 58888
     }
   ],
   "release_date": "2018-12-18",

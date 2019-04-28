@@ -9,22 +9,6 @@
       "person_id": 21781
     },
     {
-      "name": "Jim Bentley",
-      "person_id": 21848
-    },
-    {
-      "name": "Ryan Stone B",
-      "person_id": 21880
-    },
-    {
-      "name": "Race Jensen",
-      "person_id": 21791
-    },
-    {
-      "name": "Jack Lofton",
-      "person_id": 21871
-    },
-    {
       "name": "Chad Douglas",
       "person_id": 21806
     },
@@ -33,12 +17,28 @@
       "person_id": 21874
     },
     {
-      "name": "Tony Marino",
-      "person_id": 21847
-    },
-    {
       "name": "Eric Manchester",
       "person_id": 21875
+    },
+    {
+      "name": "Jack Lofton",
+      "person_id": 21871
+    },
+    {
+      "name": "Jim Bentley",
+      "person_id": 21848
+    },
+    {
+      "name": "Race Jensen",
+      "person_id": 21791
+    },
+    {
+      "name": "Ryan Stone B",
+      "person_id": 21880
+    },
+    {
+      "name": "Tony Marino",
+      "person_id": 21847
     }
   ],
   "release_date": "2000-01-01",

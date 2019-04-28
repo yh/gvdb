@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sofia Lauryn",
-      "person_id": 32617
-    },
-    {
       "name": "Isis Love",
       "person_id": 6584
+    },
+    {
+      "name": "Sofia Lauryn",
+      "person_id": 32617
     }
   ],
   "release_date": "2011-07-28",

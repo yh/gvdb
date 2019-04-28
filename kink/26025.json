@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sheena Ryder",
-      "person_id": 35620
-    },
-    {
       "name": "Beretta James",
       "person_id": 33659
+    },
+    {
+      "name": "Sheena Ryder",
+      "person_id": 35620
     }
   ],
   "release_date": "2012-11-30",

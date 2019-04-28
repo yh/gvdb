@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Tyler Rush",
-      "person_id": 54465
-    },
-    {
       "name": "Trenton Ducati",
       "person_id": 42630
+    },
+    {
+      "name": "Tyler Rush",
+      "person_id": 54465
     }
   ],
   "release_date": "2017-07-11",

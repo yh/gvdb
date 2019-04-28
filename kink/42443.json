@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Cindy Dollar",
-      "person_id": 60299
-    },
-    {
       "name": "Ar",
       "person_id": 60282
+    },
+    {
+      "name": "Cindy Dollar",
+      "person_id": 60299
     }
   ],
   "release_date": "2017-06-27",

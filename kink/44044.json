@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Claudia Valentine",
-      "person_id": 20990
-    },
-    {
       "name": "Aubrey Luna",
       "person_id": 61775
+    },
+    {
+      "name": "Claudia Valentine",
+      "person_id": 20990
     }
   ],
   "release_date": "2018-12-05",

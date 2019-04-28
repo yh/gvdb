@@ -5,8 +5,8 @@
   "description": "",
   "models": [
     {
-      "name": "Nick Piston",
-      "person_id": 19515
+      "name": "Damien",
+      "person_id": 21756
     },
     {
       "name": "Duke Rivers",
@@ -17,12 +17,12 @@
       "person_id": 19852
     },
     {
-      "name": "Steve Parker",
-      "person_id": 21720
+      "name": "Nick Piston",
+      "person_id": 19515
     },
     {
-      "name": "Damien",
-      "person_id": 21756
+      "name": "Steve Parker",
+      "person_id": 21720
     }
   ],
   "release_date": "2003-07-01",

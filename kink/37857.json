@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Mandy Muse",
-      "person_id": 54180
-    },
-    {
       "name": "Bill Bailey",
       "person_id": 46601
     },
     {
       "name": "Emily Austin",
       "person_id": 51945
+    },
+    {
+      "name": "Mandy Muse",
+      "person_id": 54180
     }
   ],
   "release_date": "2015-06-26",

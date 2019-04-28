@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jessie Colter",
-      "person_id": 34311
-    },
-    {
       "name": "Jacob Durham",
       "person_id": 33772
+    },
+    {
+      "name": "Jessie Colter",
+      "person_id": 34311
     }
   ],
   "release_date": "2016-12-22",

@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
-      "name": "Simon Cox",
-      "person_id": 26258
-    },
-    {
       "name": "Eddie Moreno",
       "person_id": 27005
     },
     {
       "name": "Rob Edwards",
       "person_id": 27009
+    },
+    {
+      "name": "Simon Cox",
+      "person_id": 26258
     }
   ],
   "release_date": "2014-01-23",

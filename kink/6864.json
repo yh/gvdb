@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Zenza Raggi",
-      "person_id": 20195
-    },
-    {
       "name": "Steve Holmes",
       "person_id": 15810
     },
     {
       "name": "Yoha",
       "person_id": 20196
+    },
+    {
+      "name": "Zenza Raggi",
+      "person_id": 20195
     }
   ],
   "release_date": "2009-06-26",

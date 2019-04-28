@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Veruca James",
-      "person_id": 43570
-    },
-    {
       "name": "Reed Jameson",
       "person_id": 52382
+    },
+    {
+      "name": "Veruca James",
+      "person_id": 43570
     }
   ],
   "release_date": "2017-03-03",

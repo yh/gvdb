@@ -6,6 +6,14 @@
   "directors": [],
   "models": [
     {
+      "name": "Evan Stone",
+      "person_id": 10920
+    },
+    {
+      "name": "James Deen",
+      "person_id": 8935
+    },
+    {
       "name": "Madelyn Monroe",
       "person_id": 43891
     },
@@ -16,14 +24,6 @@
     {
       "name": "Mick Blue",
       "person_id": 35591
-    },
-    {
-      "name": "James Deen",
-      "person_id": 8935
-    },
-    {
-      "name": "Evan Stone",
-      "person_id": 10920
     }
   ],
   "release_date": "2017-12-29",

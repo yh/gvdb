@@ -11,10 +11,6 @@
   ],
   "models": [
     {
-      "name": "Sinn Sage",
-      "person_id": 19154
-    },
-    {
       "name": "Ariel X",
       "person_id": 10464
     },
@@ -25,6 +21,10 @@
     {
       "name": "Rachael Madori",
       "person_id": 56706
+    },
+    {
+      "name": "Sinn Sage",
+      "person_id": 19154
     }
   ],
   "release_date": "2015-03-17",

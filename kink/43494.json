@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Hugh Hunter",
-      "person_id": 57059
-    },
-    {
       "name": "Dolf Dietrich",
       "person_id": 59019
+    },
+    {
+      "name": "Hugh Hunter",
+      "person_id": 57059
     }
   ],
   "release_date": "2018-06-06",

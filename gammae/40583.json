@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
+      "name": "August Habarcs",
+      "person_id": 20963
+    },
+    {
       "name": "Jonathan Collins",
       "person_id": 20955
     },
     {
       "name": "Manuel Macko",
       "person_id": 20961
-    },
-    {
-      "name": "August Habarcs",
-      "person_id": 20963
     }
   ],
   "release_date": "1998-04-06",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Maitresse Madeline Marlowe",
-      "person_id": 17872
-    },
-    {
       "name": "Lea Hart",
       "person_id": 54358
+    },
+    {
+      "name": "Maitresse Madeline Marlowe",
+      "person_id": 17872
     }
   ],
   "release_date": "2015-02-27",

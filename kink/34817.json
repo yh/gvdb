@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Daisy Ducati",
+      "person_id": 50939
+    },
+    {
       "name": "Syren de Mer",
       "person_id": 43807
     },
     {
       "name": "Tommy Pistol",
       "person_id": 12663
-    },
-    {
-      "name": "Daisy Ducati",
-      "person_id": 50939
     }
   ],
   "release_date": "2014-02-28",

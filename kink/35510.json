@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Karlo Karrera",
-      "person_id": 35221
-    },
-    {
       "name": "Aiden Starr",
       "person_id": 11489
     },
     {
-      "name": "Rose Red",
-      "person_id": 53699
-    },
-    {
       "name": "Jenna Ivory",
       "person_id": 52755
+    },
+    {
+      "name": "Karlo Karrera",
+      "person_id": 35221
+    },
+    {
+      "name": "Rose Red",
+      "person_id": 53699
     }
   ],
   "release_date": "2014-06-06",

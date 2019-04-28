@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Shane Erickson",
-      "person_id": 18821
-    },
-    {
       "name": "Kyle Sparks",
       "person_id": 20812
+    },
+    {
+      "name": "Shane Erickson",
+      "person_id": 18821
     }
   ],
   "release_date": "2009-09-30",

@@ -15,20 +15,20 @@
       "person_id": 59853
     },
     {
-      "name": "Ramon Nomar",
-      "person_id": 35412
-    },
-    {
-      "name": "Will Havoc",
-      "person_id": 46285
-    },
-    {
       "name": "Owen Gray",
       "person_id": 39181
     },
     {
+      "name": "Ramon Nomar",
+      "person_id": 35412
+    },
+    {
       "name": "Tarzan",
       "person_id": 59796
+    },
+    {
+      "name": "Will Havoc",
+      "person_id": 46285
     }
   ],
   "release_date": "2016-11-30",

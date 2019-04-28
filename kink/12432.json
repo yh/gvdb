@@ -11,6 +11,18 @@
   ],
   "models": [
     {
+      "name": "Alexxa Bound",
+      "person_id": 27871
+    },
+    {
+      "name": "Jade Taylor",
+      "person_id": 29789
+    },
+    {
+      "name": "Juliette March",
+      "person_id": 22072
+    },
+    {
       "name": "Lilla Katt",
       "person_id": 18701
     },
@@ -21,18 +33,6 @@
     {
       "name": "Shae Simone",
       "person_id": 22709
-    },
-    {
-      "name": "Juliette March",
-      "person_id": 22072
-    },
-    {
-      "name": "Alexxa Bound",
-      "person_id": 27871
-    },
-    {
-      "name": "Jade Taylor",
-      "person_id": 29789
     }
   ],
   "release_date": "2011-03-14",

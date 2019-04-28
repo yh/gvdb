@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Shannon Kelly",
-      "person_id": 3763
-    },
-    {
       "name": "Lucy Lee",
       "person_id": 5102
+    },
+    {
+      "name": "Shannon Kelly",
+      "person_id": 3763
     }
   ],
   "release_date": "2004-12-13",

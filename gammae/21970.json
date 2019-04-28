@@ -5,12 +5,12 @@
   "description": "Jake Andrews and Scott Randsome work their muscled bodies together like well-oiled machines.",
   "models": [
     {
-      "name": "Scott Randsome",
-      "person_id": 11140
-    },
-    {
       "name": "Jake Andrews",
       "person_id": 11431
+    },
+    {
+      "name": "Scott Randsome",
+      "person_id": 11140
     }
   ],
   "release_date": "2007-06-01",

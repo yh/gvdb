@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mickey Mod",
-      "person_id": 19623
-    },
-    {
       "name": "Bobbi Starr",
       "person_id": 11290
+    },
+    {
+      "name": "Mickey Mod",
+      "person_id": 19623
     }
   ],
   "release_date": "2010-03-03",

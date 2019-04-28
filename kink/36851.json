@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Orlando",
-      "person_id": 16649
-    },
-    {
       "name": "Ariel X",
       "person_id": 10464
+    },
+    {
+      "name": "Orlando",
+      "person_id": 16649
     }
   ],
   "release_date": "2014-12-05",

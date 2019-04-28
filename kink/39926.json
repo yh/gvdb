@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Van Darkholme",
-      "person_id": 15862
-    },
-    {
-      "name": "Zane Anders",
-      "person_id": 55730
+      "name": "Adam Ramzi",
+      "person_id": 53722
     },
     {
       "name": "Trenton Ducati",
       "person_id": 42630
     },
     {
-      "name": "Adam Ramzi",
-      "person_id": 53722
+      "name": "Van Darkholme",
+      "person_id": 15862
+    },
+    {
+      "name": "Zane Anders",
+      "person_id": 55730
     }
   ],
   "release_date": "2016-06-23",

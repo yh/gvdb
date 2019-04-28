@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Kacie Castle",
-      "person_id": 59236
-    },
-    {
       "name": "Cadence Lux",
       "person_id": 51424
     },
     {
       "name": "Cherry Torn",
       "person_id": 11105
+    },
+    {
+      "name": "Kacie Castle",
+      "person_id": 59236
     }
   ],
   "release_date": "2016-09-15",

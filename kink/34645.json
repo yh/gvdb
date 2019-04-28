@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kirk Cummings",
-      "person_id": 44246
-    },
-    {
       "name": "Dominic Pacifico",
       "person_id": 14892
+    },
+    {
+      "name": "Kirk Cummings",
+      "person_id": 44246
     }
   ],
   "release_date": "2014-05-28",

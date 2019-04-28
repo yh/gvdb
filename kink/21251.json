@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Lorelei Lee",
-      "person_id": 758
-    },
-    {
       "name": "Bobbi Starr",
       "person_id": 11290
     },
     {
-      "name": "Shaun Diesel",
-      "person_id": 18801
+      "name": "Lorelei Lee",
+      "person_id": 758
     },
     {
       "name": "Sebastian Keys",
       "person_id": 20316
+    },
+    {
+      "name": "Shaun Diesel",
+      "person_id": 18801
     }
   ],
   "release_date": "2012-05-16",

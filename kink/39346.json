@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Venus Lux",
-      "person_id": 41417
-    },
-    {
       "name": "Arabelle Raphael",
       "person_id": 22128
+    },
+    {
+      "name": "Venus Lux",
+      "person_id": 41417
     }
   ],
   "release_date": "2015-12-25",

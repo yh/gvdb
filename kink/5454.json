@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kade",
-      "person_id": 12580
-    },
-    {
       "name": "Claire Adams",
       "person_id": 378
+    },
+    {
+      "name": "Kade",
+      "person_id": 12580
     },
     {
       "name": "Riley Shy",

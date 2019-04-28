@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Coral Aorta",
+      "person_id": 38216
+    },
+    {
       "name": "Kristina Rose",
       "person_id": 20560
     },
     {
       "name": "Naidyne",
       "person_id": 37796
-    },
-    {
-      "name": "Coral Aorta",
-      "person_id": 38216
     },
     {
       "name": "Ruby Song",

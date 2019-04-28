@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Maestro",
-      "person_id": 11928
-    },
-    {
       "name": "Cherry Torn",
       "person_id": 11105
+    },
+    {
+      "name": "Maestro",
+      "person_id": 11928
     }
   ],
   "release_date": "2013-12-15",

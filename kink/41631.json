@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Juliette March",
-      "person_id": 22072
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
+    },
+    {
+      "name": "Juliette March",
+      "person_id": 22072
     }
   ],
   "release_date": "2017-03-23",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Skin Diamond",
-      "person_id": 31494
-    },
-    {
       "name": "Maestro",
       "person_id": 11928
+    },
+    {
+      "name": "Skin Diamond",
+      "person_id": 31494
     }
   ],
   "release_date": "2011-08-26",

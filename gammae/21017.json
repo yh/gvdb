@@ -5,16 +5,16 @@
   "description": "Upperclassman Part One:   Handsome teacher Mark Perry gives class to a room full of eager students, both boys and girls.  Even though the girls flirt with him, it's Brian Reed who catches his eye and his attention after class.  The teacher takes control and bends the student over his desk and teaches him some new lessons upon the watchful eyes of fellow student Luke spying into the classroom window (Luke performs in the non-sexual capacity of a voyeur).",
   "models": [
     {
+      "name": "Brian Reed",
+      "person_id": 12117
+    },
+    {
       "name": "Luke",
       "person_id": 12051
     },
     {
       "name": "Mark Perry",
       "person_id": 12116
-    },
-    {
-      "name": "Brian Reed",
-      "person_id": 12117
     }
   ],
   "release_date": "2010-07-01",

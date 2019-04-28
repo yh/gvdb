@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jonah Marx",
-      "person_id": 51893
-    },
-    {
       "name": "Gia DiMarco",
       "person_id": 21436
+    },
+    {
+      "name": "Jonah Marx",
+      "person_id": 51893
     }
   ],
   "release_date": "2014-09-17",

@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Xavier St-Jude",
-      "person_id": 18504
-    },
-    {
       "name": "Kurt Weber",
       "person_id": 18949
     },
     {
       "name": "Tober Brandt",
       "person_id": 17152
+    },
+    {
+      "name": "Xavier St-Jude",
+      "person_id": 18504
     }
   ],
   "release_date": "2011-08-04",

@@ -11,6 +11,10 @@
   ],
   "models": [
     {
+      "name": "Alan Stafford",
+      "person_id": 20129
+    },
+    {
       "name": "Cherry Torn",
       "person_id": 11105
     },
@@ -21,10 +25,6 @@
     {
       "name": "Mr. Pete",
       "person_id": 16823
-    },
-    {
-      "name": "Alan Stafford",
-      "person_id": 20129
     }
   ],
   "release_date": "2009-06-12",

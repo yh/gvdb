@@ -9,8 +9,16 @@
       "person_id": 26257
     },
     {
+      "name": "Jeff Allen",
+      "person_id": 37566
+    },
+    {
       "name": "Matthew Green",
       "person_id": 37567
+    },
+    {
+      "name": "Michael Soldier",
+      "person_id": 26380
     },
     {
       "name": "Rik Jammer",
@@ -19,14 +27,6 @@
     {
       "name": "Scott Samson",
       "person_id": 37568
-    },
-    {
-      "name": "Michael Soldier",
-      "person_id": 26380
-    },
-    {
-      "name": "Jeff Allen",
-      "person_id": 37566
     }
   ],
   "release_date": "2015-08-27",

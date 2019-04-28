@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jason Miller",
-      "person_id": 17619
-    },
-    {
       "name": "Alexis Golden",
       "person_id": 19726
+    },
+    {
+      "name": "Jason Miller",
+      "person_id": 17619
     }
   ],
   "release_date": "2009-12-30",

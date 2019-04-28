@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Madison Young",
-      "person_id": 2674
-    },
-    {
       "name": "Danny Wylde",
       "person_id": 7790
+    },
+    {
+      "name": "Madison Young",
+      "person_id": 2674
     }
   ],
   "release_date": "2011-01-10",

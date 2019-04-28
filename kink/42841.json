@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "The Pope",
-      "person_id": 27779
-    },
-    {
       "name": "Ashley Lane",
       "person_id": 52112
+    },
+    {
+      "name": "The Pope",
+      "person_id": 27779
     }
   ],
   "release_date": "2018-03-01",

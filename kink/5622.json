@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Steve Holmes",
-      "person_id": 15810
+      "name": "Crystal Crown",
+      "person_id": 18067
     },
     {
       "name": "Lea Lexis",
       "person_id": 17836
     },
     {
-      "name": "Crystal Crown",
-      "person_id": 18067
-    },
-    {
       "name": "Sandra Romain",
       "person_id": 10239
+    },
+    {
+      "name": "Steve Holmes",
+      "person_id": 15810
     }
   ],
   "release_date": "2008-10-03",

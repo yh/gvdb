@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jynx Maze",
-      "person_id": 22010
-    },
-    {
       "name": "John Strong",
       "person_id": 17050
+    },
+    {
+      "name": "Jynx Maze",
+      "person_id": 22010
     }
   ],
   "release_date": "2010-10-19",

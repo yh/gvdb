@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mark Davis",
-      "person_id": 8200
-    },
-    {
       "name": "Dylan Ryan",
       "person_id": 10069
+    },
+    {
+      "name": "Mark Davis",
+      "person_id": 8200
     }
   ],
   "release_date": "2008-08-29",

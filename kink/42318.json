@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Scott DeMarco",
-      "person_id": 59206
-    },
-    {
       "name": "Dakota Rivers",
       "person_id": 19527
+    },
+    {
+      "name": "Scott DeMarco",
+      "person_id": 59206
     }
   ],
   "release_date": "2017-06-08",

@@ -5,12 +5,12 @@
   "description": "Rod Daily is a sympathetic teacher. He understands that sometimes, just because  a student doesn't put forth his best effort doesn't mean he isn't willing to go the extra mile. Sometimes there are extenuating circumstances that just need to be rectified. Such is the case with his student, Dylan Hauser, normally one his better pupils. Lately though, Dylan has been slipping, and it turns out there is a reason: too much late night activity. But Rod decides to give Dylan a chance to make up the extra credit. And a willing Dylan is about to not only get a lesson, he's about to get something else rectified.Enjoy!",
   "models": [
     {
-      "name": "Rod Daily",
-      "person_id": 9574
-    },
-    {
       "name": "Dylan Hauser",
       "person_id": 14217
+    },
+    {
+      "name": "Rod Daily",
+      "person_id": 9574
     }
   ],
   "release_date": "2011-07-22",

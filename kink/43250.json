@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Martin Porter",
-      "person_id": 61060
-    },
-    {
       "name": "Arny Donan",
       "person_id": 60754
+    },
+    {
+      "name": "Martin Porter",
+      "person_id": 61060
     }
   ],
   "release_date": "2018-02-27",

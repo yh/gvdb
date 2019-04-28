@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mark Davis",
-      "person_id": 8200
-    },
-    {
       "name": "Georgia Peach",
       "person_id": 12175
+    },
+    {
+      "name": "Mark Davis",
+      "person_id": 8200
     }
   ],
   "release_date": "2006-06-30",

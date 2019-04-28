@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Connor Maguire",
-      "person_id": 46426
-    },
-    {
       "name": "Bryan Cole",
       "person_id": 42298
+    },
+    {
+      "name": "Connor Maguire",
+      "person_id": 46426
     }
   ],
   "release_date": "2013-03-21",

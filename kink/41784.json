@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nikki Delano",
-      "person_id": 45587
-    },
-    {
       "name": "Daisy Ducati",
       "person_id": 50939
+    },
+    {
+      "name": "Nikki Delano",
+      "person_id": 45587
     }
   ],
   "release_date": "2017-05-17",

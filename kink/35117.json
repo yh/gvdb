@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Orlando",
-      "person_id": 16649
-    },
-    {
       "name": "Dylan Ryan",
       "person_id": 10069
+    },
+    {
+      "name": "Orlando",
+      "person_id": 16649
     }
   ],
   "release_date": "2014-03-28",

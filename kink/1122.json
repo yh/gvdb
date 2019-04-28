@@ -3,20 +3,15 @@
     "Butt Machine Boys"
   ],
   "description": "Rhet brings his buddy, Jimmy Phaver, along to show him a good time with the machines. These two studs enjoy each others company as well as that of the machines, and it shows. We need to bring these two back again.",
-  "directors": [
-    {
-      "name": "Biff Cocblocer",
-      "person_id": 7031
-    }
-  ],
+  "directors": [],
   "models": [
-    {
-      "name": "Rhet Hengst",
-      "person_id": 227
-    },
     {
       "name": "Jimmy Phaver",
       "person_id": 1771
+    },
+    {
+      "name": "Rhet Hengst",
+      "person_id": 227
     }
   ],
   "release_date": "2003-05-30",

@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "James Deen",
+      "person_id": 8935
+    },
+    {
       "name": "Sandra Romain",
       "person_id": 10239
     },
     {
       "name": "Steve Holmes",
       "person_id": 15810
-    },
-    {
-      "name": "James Deen",
-      "person_id": 8935
     }
   ],
   "release_date": "2011-06-29",

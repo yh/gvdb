@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Venus",
-      "person_id": 2302
-    },
-    {
       "name": "Mark Davis",
       "person_id": 8200
+    },
+    {
+      "name": "Venus",
+      "person_id": 2302
     }
   ],
   "release_date": "2005-12-01",

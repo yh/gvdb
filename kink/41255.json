@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Seth Gamble",
-      "person_id": 57488
-    },
-    {
       "name": "Sarah Jessie",
       "person_id": 59871
+    },
+    {
+      "name": "Seth Gamble",
+      "person_id": 57488
     }
   ],
   "release_date": "2016-11-18",

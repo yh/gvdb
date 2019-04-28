@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Will Havoc",
-      "person_id": 46285
-    },
-    {
       "name": "Jessica Fox",
       "person_id": 17013
+    },
+    {
+      "name": "Will Havoc",
+      "person_id": 46285
     }
   ],
   "release_date": "2015-12-30",

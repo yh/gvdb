@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Stefani Special",
-      "person_id": 49148
-    },
-    {
       "name": "Kate England",
       "person_id": 56948
+    },
+    {
+      "name": "Stefani Special",
+      "person_id": 49148
     }
   ],
   "release_date": "2017-02-27",

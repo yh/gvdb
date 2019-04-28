@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Topher DiMaggio",
-      "person_id": 13465
-    },
-    {
       "name": "Logan Drake",
       "person_id": 14050
+    },
+    {
+      "name": "Topher DiMaggio",
+      "person_id": 13465
     }
   ],
   "release_date": "2010-12-20",

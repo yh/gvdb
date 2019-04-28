@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Daisy Ducati",
-      "person_id": 50939
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
+    },
+    {
+      "name": "Daisy Ducati",
+      "person_id": 50939
     }
   ],
   "release_date": "2015-07-09",

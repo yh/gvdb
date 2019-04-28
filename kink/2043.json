@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Karma",
-      "person_id": 4783
-    },
-    {
       "name": "Audrey Leigh",
       "person_id": 1587
+    },
+    {
+      "name": "Karma",
+      "person_id": 4783
     }
   ],
   "release_date": "2004-08-03",

@@ -11,40 +11,40 @@
   ],
   "models": [
     {
-      "name": "Lily LaBeau",
-      "person_id": 25162
+      "name": "Alex West",
+      "person_id": 35072
     },
     {
       "name": "Ashli Orion",
       "person_id": 17155
     },
     {
-      "name": "Mr. Pete",
-      "person_id": 16823
+      "name": "Dane Cross",
+      "person_id": 21442
     },
     {
       "name": "James Deen",
       "person_id": 8935
     },
     {
-      "name": "Tee Reel",
-      "person_id": 31096
+      "name": "John Strong",
+      "person_id": 17050
+    },
+    {
+      "name": "Lily LaBeau",
+      "person_id": 25162
+    },
+    {
+      "name": "Mr. Pete",
+      "person_id": 16823
     },
     {
       "name": "Rico Strong",
       "person_id": 30846
     },
     {
-      "name": "Alex West",
-      "person_id": 35072
-    },
-    {
-      "name": "Dane Cross",
-      "person_id": 21442
-    },
-    {
-      "name": "John Strong",
-      "person_id": 17050
+      "name": "Tee Reel",
+      "person_id": 31096
     }
   ],
   "release_date": "2011-11-09",

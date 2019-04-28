@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Billie Star",
-      "person_id": 60461
-    },
-    {
       "name": "Ar",
       "person_id": 60282
+    },
+    {
+      "name": "Billie Star",
+      "person_id": 60461
     }
   ],
   "release_date": "2017-09-06",

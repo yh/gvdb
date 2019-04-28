@@ -23,10 +23,6 @@
       "person_id": 11928
     },
     {
-      "name": "Peter",
-      "person_id": 7005
-    },
-    {
       "name": "Maggie Mayhem",
       "person_id": 19763
     },
@@ -35,12 +31,16 @@
       "person_id": 19851
     },
     {
-      "name": "Sasha Lexing",
-      "person_id": 17850
+      "name": "Peter",
+      "person_id": 7005
     },
     {
       "name": "Sarah Shevon",
       "person_id": 19605
+    },
+    {
+      "name": "Sasha Lexing",
+      "person_id": 17850
     },
     {
       "name": "Savannah West",

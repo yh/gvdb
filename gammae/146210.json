@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Zak Bishop",
-      "person_id": 47446
-    },
-    {
       "name": "Adonis Cole",
       "person_id": 58025
+    },
+    {
+      "name": "Zak Bishop",
+      "person_id": 47446
     }
   ],
   "release_date": "2019-03-20",

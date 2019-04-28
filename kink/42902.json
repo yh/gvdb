@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Olivia Nova",
-      "person_id": 60708
-    },
-    {
       "name": "Mick Blue",
       "person_id": 35591
+    },
+    {
+      "name": "Olivia Nova",
+      "person_id": 60708
     }
   ],
   "release_date": "2018-11-30",

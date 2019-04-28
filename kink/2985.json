@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Kelly Wells",
+      "person_id": 6381
+    },
+    {
       "name": "Paris Kennedy",
       "person_id": 6775
     },
     {
       "name": "Sydnee Capri",
       "person_id": 6399
-    },
-    {
-      "name": "Kelly Wells",
-      "person_id": 6381
     }
   ],
   "release_date": "2005-08-19",

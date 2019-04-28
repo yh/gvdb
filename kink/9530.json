@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "James Deen",
-      "person_id": 8935
-    },
-    {
       "name": "Cali Lakai",
       "person_id": 25349
+    },
+    {
+      "name": "James Deen",
+      "person_id": 8935
     }
   ],
   "release_date": "2010-07-16",

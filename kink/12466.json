@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "James Deen",
-      "person_id": 8935
-    },
-    {
       "name": "Dana DeArmond",
       "person_id": 4498
+    },
+    {
+      "name": "James Deen",
+      "person_id": 8935
     },
     {
       "name": "Skin Diamond",

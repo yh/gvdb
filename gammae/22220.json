@@ -9,6 +9,14 @@
       "person_id": 13217
     },
     {
+      "name": "Evan Richards",
+      "person_id": 13219
+    },
+    {
+      "name": "Jesse Swift",
+      "person_id": 13220
+    },
+    {
       "name": "Krist Cummings",
       "person_id": 13221
     },
@@ -19,14 +27,6 @@
     {
       "name": "Scott Adler",
       "person_id": 13222
-    },
-    {
-      "name": "Evan Richards",
-      "person_id": 13219
-    },
-    {
-      "name": "Jesse Swift",
-      "person_id": 13220
     }
   ],
   "release_date": "2009-08-25",

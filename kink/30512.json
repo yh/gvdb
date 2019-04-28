@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Derrick Pierce",
-      "person_id": 14403
-    },
-    {
       "name": "Bianca Stone",
       "person_id": 43437
+    },
+    {
+      "name": "Derrick Pierce",
+      "person_id": 14403
     }
   ],
   "release_date": "2013-09-15",

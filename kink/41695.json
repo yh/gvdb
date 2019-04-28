@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sinn Sage",
-      "person_id": 19154
-    },
-    {
       "name": "Jessy Dubai",
       "person_id": 47035
+    },
+    {
+      "name": "Sinn Sage",
+      "person_id": 19154
     }
   ],
   "release_date": "2017-02-13",

@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Yasmin Scott",
-      "person_id": 59872
-    },
-    {
       "name": "James Deen",
       "person_id": 8935
+    },
+    {
+      "name": "Yasmin Scott",
+      "person_id": 59872
     }
   ],
   "release_date": "2017-08-25",

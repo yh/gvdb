@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Shadrack Stargazer",
-      "person_id": 61135
-    },
-    {
       "name": "Lilly Ligotage",
       "person_id": 55115
+    },
+    {
+      "name": "Shadrack Stargazer",
+      "person_id": 61135
     }
   ],
   "release_date": "2018-05-02",

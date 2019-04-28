@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
+      "name": "Fred Fele",
+      "person_id": 20848
+    },
+    {
       "name": "Marko Pacyna",
       "person_id": 20763
     },
     {
       "name": "Zen Sabej",
       "person_id": 20847
-    },
-    {
-      "name": "Fred Fele",
-      "person_id": 20848
     }
   ],
   "release_date": "1998-03-28",

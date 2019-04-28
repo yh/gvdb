@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Rebecca",
-      "person_id": 60881
-    },
-    {
       "name": "Kamo Chlap",
       "person_id": 61302
+    },
+    {
+      "name": "Rebecca",
+      "person_id": 60881
     }
   ],
   "release_date": "2018-05-24",

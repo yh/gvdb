@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Logan Stevens",
-      "person_id": 39184
-    },
-    {
       "name": "Christian Wilde",
       "person_id": 21037
     },
     {
       "name": "Josh West",
       "person_id": 20861
+    },
+    {
+      "name": "Logan Stevens",
+      "person_id": 39184
     }
   ],
   "release_date": "2012-07-27",

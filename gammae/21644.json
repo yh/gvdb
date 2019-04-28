@@ -5,12 +5,12 @@
   "description": "Heartbroken by his boyfriend's infidelity, Josh Weston finds his way to Gus Mattox, making slow and passionate love to him.",
   "models": [
     {
-      "name": "Josh Weston",
-      "person_id": 11096
-    },
-    {
       "name": "Gus Mattox",
       "person_id": 11121
+    },
+    {
+      "name": "Josh Weston",
+      "person_id": 11096
     }
   ],
   "release_date": "2004-05-01",

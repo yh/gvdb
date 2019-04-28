@@ -3,24 +3,19 @@
     "The Upper Floor"
   ],
   "description": "Stefanos' Brunch!",
-  "directors": [
-    {
-      "name": "Maestro",
-      "person_id": 11928
-    }
-  ],
+  "directors": [],
   "models": [
     {
-      "name": "Nerine Mechanique",
-      "person_id": 19851
+      "name": "Cherry Torn",
+      "person_id": 11105
     },
     {
       "name": "Iona Grace",
       "person_id": 25204
     },
     {
-      "name": "Cherry Torn",
-      "person_id": 11105
+      "name": "Nerine Mechanique",
+      "person_id": 19851
     }
   ],
   "release_date": "2011-01-05",

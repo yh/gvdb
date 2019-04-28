@@ -11,6 +11,22 @@
   ],
   "models": [
     {
+      "name": "Cheyenne Jewel",
+      "person_id": 22734
+    },
+    {
+      "name": "Chloe Camilla",
+      "person_id": 22493
+    },
+    {
+      "name": "Danni Daniels",
+      "person_id": 30141
+    },
+    {
+      "name": "Iona Grace",
+      "person_id": 25204
+    },
+    {
       "name": "Jessie Cox",
       "person_id": 18739
     },
@@ -19,24 +35,8 @@
       "person_id": 25825
     },
     {
-      "name": "Iona Grace",
-      "person_id": 25204
-    },
-    {
-      "name": "Cheyenne Jewel",
-      "person_id": 22734
-    },
-    {
       "name": "Sparky Sin Claire",
       "person_id": 29494
-    },
-    {
-      "name": "Danni Daniels",
-      "person_id": 30141
-    },
-    {
-      "name": "Chloe Camilla",
-      "person_id": 22493
     }
   ],
   "release_date": "2011-03-21",

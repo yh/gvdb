@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Max Cameron",
-      "person_id": 57500
-    },
-    {
       "name": "Lance Hart",
       "person_id": 37346
+    },
+    {
+      "name": "Max Cameron",
+      "person_id": 57500
     }
   ],
   "release_date": "2017-03-09",

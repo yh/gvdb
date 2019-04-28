@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tori Mayes",
-      "person_id": 53483
-    },
-    {
       "name": "Arabelle Raphael",
       "person_id": 22128
+    },
+    {
+      "name": "Tori Mayes",
+      "person_id": 53483
     }
   ],
   "release_date": "2017-01-30",

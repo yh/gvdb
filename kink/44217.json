@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Luna Star",
-      "person_id": 58678
-    },
-    {
       "name": "Jason Katana",
       "person_id": 61788
+    },
+    {
+      "name": "Luna Star",
+      "person_id": 58678
     }
   ],
   "release_date": "2019-01-16",

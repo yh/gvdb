@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Van Darkholme",
-      "person_id": 15862
-    },
-    {
       "name": "Abel Archer",
       "person_id": 54503
+    },
+    {
+      "name": "Connor Maguire",
+      "person_id": 46426
     },
     {
       "name": "Jonah Marx",
       "person_id": 51893
     },
     {
-      "name": "Connor Maguire",
-      "person_id": 46426
+      "name": "Van Darkholme",
+      "person_id": 15862
     }
   ],
   "release_date": "2015-02-19",

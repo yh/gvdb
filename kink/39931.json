@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lexi Lowe",
-      "person_id": 59257
-    },
-    {
       "name": "Bill Bailey",
       "person_id": 46601
+    },
+    {
+      "name": "Lexi Lowe",
+      "person_id": 59257
     }
   ],
   "release_date": "2016-04-22",

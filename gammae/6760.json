@@ -9,12 +9,12 @@
       "person_id": 4351
     },
     {
-      "name": "Dallas",
-      "person_id": 4354
-    },
-    {
       "name": "Cypher",
       "person_id": 5573
+    },
+    {
+      "name": "Dallas",
+      "person_id": 4354
     }
   ],
   "release_date": "2007-04-16",

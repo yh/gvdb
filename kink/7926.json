@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Wolf Hudson",
-      "person_id": 14471
-    },
-    {
       "name": "Isis Love",
       "person_id": 6584
+    },
+    {
+      "name": "Wolf Hudson",
+      "person_id": 14471
     }
   ],
   "release_date": "2010-04-21",

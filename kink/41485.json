@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Venus Lux",
-      "person_id": 41417
-    },
-    {
       "name": "Artemis Faux",
       "person_id": 55021
+    },
+    {
+      "name": "Venus Lux",
+      "person_id": 41417
     }
   ],
   "release_date": "2017-01-03",

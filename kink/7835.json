@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jack Hammer",
-      "person_id": 18499
-    },
-    {
       "name": "Cherry Torn",
       "person_id": 11105
+    },
+    {
+      "name": "Jack Hammer",
+      "person_id": 18499
     },
     {
       "name": "Sarah Shevon",

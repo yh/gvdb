@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Jimmy Durano",
-      "person_id": 19633
-    },
-    {
       "name": "Adam Herst",
       "person_id": 20667
+    },
+    {
+      "name": "Jimmy Durano",
+      "person_id": 19633
     }
   ],
   "release_date": "2012-01-01",

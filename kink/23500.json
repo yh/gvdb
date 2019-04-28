@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Bryn Blayne",
-      "person_id": 36234
-    },
-    {
       "name": "Alani Pi",
       "person_id": 36290
+    },
+    {
+      "name": "Bryn Blayne",
+      "person_id": 36234
     }
   ],
   "release_date": "2012-06-12",

@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Skin Diamond",
-      "person_id": 31494
-    },
-    {
-      "name": "Nerine Mechanique",
-      "person_id": 19851
-    },
-    {
       "name": "Krysta Kaos",
       "person_id": 25624
     },
     {
       "name": "Maestro Stefanos",
       "person_id": 17148
+    },
+    {
+      "name": "Nerine Mechanique",
+      "person_id": 19851
+    },
+    {
+      "name": "Skin Diamond",
+      "person_id": 31494
     }
   ],
   "release_date": "2011-11-16",

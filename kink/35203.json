@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mz Berlin",
-      "person_id": 14228
-    },
-    {
       "name": "Christian Wilde",
       "person_id": 21037
+    },
+    {
+      "name": "Mz Berlin",
+      "person_id": 14228
     }
   ],
   "release_date": "2014-04-12",

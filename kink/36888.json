@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lotus Lain",
-      "person_id": 47027
-    },
-    {
       "name": "Jack Hammer",
       "person_id": 18499
+    },
+    {
+      "name": "Lotus Lain",
+      "person_id": 47027
     }
   ],
   "release_date": "2014-12-19",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lea Lexis",
-      "person_id": 17836
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
+    },
+    {
+      "name": "Lea Lexis",
+      "person_id": 17836
     }
   ],
   "release_date": "2017-06-28",

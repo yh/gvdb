@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Nikki Bell",
-      "person_id": 54279
-    },
-    {
       "name": "Isa Mendez",
       "person_id": 53665
+    },
+    {
+      "name": "Nikki Bell",
+      "person_id": 54279
     }
   ],
   "release_date": "2017-08-04",

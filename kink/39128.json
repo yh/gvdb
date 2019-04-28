@@ -11,28 +11,28 @@
   ],
   "models": [
     {
-      "name": "Xander Corvus",
-      "person_id": 46000
-    },
-    {
-      "name": "John Strong",
-      "person_id": 17050
+      "name": "Dee Williams",
+      "person_id": 4197
     },
     {
       "name": "Gage Sin",
       "person_id": 53344
     },
     {
-      "name": "Owen Gray",
-      "person_id": 39181
-    },
-    {
-      "name": "Dee Williams",
-      "person_id": 4197
+      "name": "John Strong",
+      "person_id": 17050
     },
     {
       "name": "Mark Wood",
       "person_id": 31058
+    },
+    {
+      "name": "Owen Gray",
+      "person_id": 39181
+    },
+    {
+      "name": "Xander Corvus",
+      "person_id": 46000
     }
   ],
   "release_date": "2015-11-11",

@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
+      "name": "Paris Granat",
+      "person_id": 20934
+    },
+    {
       "name": "Ritchy Segely",
       "person_id": 20872
     },
     {
       "name": "Tavish Szabad",
       "person_id": 20927
-    },
-    {
-      "name": "Paris Granat",
-      "person_id": 20934
     }
   ],
   "release_date": "1998-04-18",

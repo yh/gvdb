@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Steve Peryoux",
-      "person_id": 61063
-    },
-    {
       "name": "Jirka Mendez",
       "person_id": 61062
+    },
+    {
+      "name": "Steve Peryoux",
+      "person_id": 61063
     }
   ],
   "release_date": "2018-03-15",

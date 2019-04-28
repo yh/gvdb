@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Cherry Torn",
+      "person_id": 11105
+    },
+    {
       "name": "Eros Sin",
       "person_id": 54619
     },
     {
       "name": "Lorelei Lee",
       "person_id": 758
-    },
-    {
-      "name": "Cherry Torn",
-      "person_id": 11105
     }
   ],
   "release_date": "2014-10-22",

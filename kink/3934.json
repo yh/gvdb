@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tory Lane",
-      "person_id": 8228
-    },
-    {
       "name": "Katja Kassin",
       "person_id": 11582
+    },
+    {
+      "name": "Tory Lane",
+      "person_id": 8228
     }
   ],
   "release_date": "2006-09-22",

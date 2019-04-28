@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Velma DeArmond",
-      "person_id": 61347
-    },
-    {
       "name": "James Kickstand",
       "person_id": 48660
+    },
+    {
+      "name": "Velma DeArmond",
+      "person_id": 61347
     }
   ],
   "release_date": "2017-08-02",

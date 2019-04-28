@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sebastian Keys",
-      "person_id": 20316
-    },
-    {
       "name": "Kyler Ash",
       "person_id": 59359
+    },
+    {
+      "name": "Sebastian Keys",
+      "person_id": 20316
     }
   ],
   "release_date": "2016-10-13",

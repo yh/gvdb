@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Victoria Sweet",
-      "person_id": 8068
-    },
-    {
       "name": "DragonLily",
       "person_id": 3433
+    },
+    {
+      "name": "Victoria Sweet",
+      "person_id": 8068
     }
   ],
   "release_date": "2005-05-13",

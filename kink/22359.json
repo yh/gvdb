@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Shae Simone",
-      "person_id": 22709
-    },
-    {
       "name": "Angelica Swiss",
       "person_id": 38545
+    },
+    {
+      "name": "Shae Simone",
+      "person_id": 22709
     }
   ],
   "release_date": "2012-06-01",

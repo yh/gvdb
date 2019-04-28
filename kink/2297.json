@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lola",
-      "person_id": 6034
-    },
-    {
       "name": "Brooke Bound",
       "person_id": 4137
+    },
+    {
+      "name": "Lola",
+      "person_id": 6034
     }
   ],
   "release_date": "2004-08-17",

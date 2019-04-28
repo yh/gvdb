@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Savannah Fox",
-      "person_id": 47440
-    },
-    {
       "name": "Angel Allwood",
       "person_id": 52348
+    },
+    {
+      "name": "Savannah Fox",
+      "person_id": 47440
     }
   ],
   "release_date": "2015-05-22",

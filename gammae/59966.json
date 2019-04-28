@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Mitch Vaughn",
-      "person_id": 28068
-    },
-    {
       "name": "Bobby Hart",
       "person_id": 31830
+    },
+    {
+      "name": "Mitch Vaughn",
+      "person_id": 28068
     }
   ],
   "release_date": "2013-09-17",

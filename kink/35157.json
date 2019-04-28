@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Marsha Lord",
-      "person_id": 14866
-    },
-    {
       "name": "Anthony Rosano",
       "person_id": 24418
+    },
+    {
+      "name": "Marsha Lord",
+      "person_id": 14866
     }
   ],
   "release_date": "2011-06-13",

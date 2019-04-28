@@ -11,8 +11,8 @@
   ],
   "models": [
     {
-      "name": "Toni Ribas",
-      "person_id": 38962
+      "name": "Astral Dust",
+      "person_id": 43670
     },
     {
       "name": "John Strong",
@@ -23,12 +23,12 @@
       "person_id": 19730
     },
     {
-      "name": "Astral Dust",
-      "person_id": 43670
-    },
-    {
       "name": "Tommy Pistol",
       "person_id": 12663
+    },
+    {
+      "name": "Toni Ribas",
+      "person_id": 38962
     }
   ],
   "release_date": "2014-01-15",

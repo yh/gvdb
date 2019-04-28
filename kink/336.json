@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Molly Matthews",
-      "person_id": 126
-    },
-    {
       "name": "Anna Mills",
       "person_id": 201
+    },
+    {
+      "name": "Molly Matthews",
+      "person_id": 126
     }
   ],
   "release_date": "2001-11-16",

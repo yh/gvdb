@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Syd Blakovich",
-      "person_id": 7618
-    },
-    {
       "name": "Faye Runaway",
       "person_id": 15151
+    },
+    {
+      "name": "Syd Blakovich",
+      "person_id": 7618
     }
   ],
   "release_date": "2007-10-16",

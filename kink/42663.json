@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Xander Corvus",
-      "person_id": 46000
-    },
-    {
       "name": "Chloe Cherry",
       "person_id": 60066
+    },
+    {
+      "name": "Xander Corvus",
+      "person_id": 46000
     }
   ],
   "release_date": "2017-11-03",

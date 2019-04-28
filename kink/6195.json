@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Shane Erickson",
-      "person_id": 18821
-    },
-    {
       "name": "Jimmie Slater",
       "person_id": 18792
+    },
+    {
+      "name": "Shane Erickson",
+      "person_id": 18821
     }
   ],
   "release_date": "2012-10-31",

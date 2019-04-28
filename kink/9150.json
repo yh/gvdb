@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Skylar Price",
-      "person_id": 20638
-    },
-    {
       "name": "Princess Donna Dolore",
       "person_id": 5235
+    },
+    {
+      "name": "Skylar Price",
+      "person_id": 20638
     }
   ],
   "release_date": "2010-06-24",

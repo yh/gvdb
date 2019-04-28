@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Kira Noir",
-      "person_id": 58892
+      "name": "Bella Rossi",
+      "person_id": 18418
     },
     {
       "name": "Eliza Jane",
       "person_id": 59596
     },
     {
-      "name": "Bella Rossi",
-      "person_id": 18418
+      "name": "Kira Noir",
+      "person_id": 58892
     }
   ],
   "release_date": "2018-01-12",

@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "John Strong",
-      "person_id": 17050
+      "name": "Alby Rydes",
+      "person_id": 52316
     },
     {
       "name": "Bill Bailey",
       "person_id": 46601
     },
     {
-      "name": "Tommy Pistol",
-      "person_id": 12663
+      "name": "John Strong",
+      "person_id": 17050
     },
     {
-      "name": "Alby Rydes",
-      "person_id": 52316
+      "name": "Tommy Pistol",
+      "person_id": 12663
     }
   ],
   "release_date": "2014-02-26",

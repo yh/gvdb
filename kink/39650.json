@@ -11,6 +11,10 @@
   ],
   "models": [
     {
+      "name": "Cheyenne Jewel",
+      "person_id": 22734
+    },
+    {
       "name": "Jessica Fox",
       "person_id": 17013
     },
@@ -21,10 +25,6 @@
     {
       "name": "Venus Lux",
       "person_id": 41417
-    },
-    {
-      "name": "Cheyenne Jewel",
-      "person_id": 22734
     }
   ],
   "release_date": "2016-04-01",

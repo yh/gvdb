@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sebastian Keys",
-      "person_id": 20316
-    },
-    {
       "name": "Damien Moreau",
       "person_id": 51956
+    },
+    {
+      "name": "Sebastian Keys",
+      "person_id": 20316
     }
   ],
   "release_date": "2014-11-06",

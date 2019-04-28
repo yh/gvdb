@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Mz Berlin",
-      "person_id": 14228
-    },
-    {
       "name": "Beverly Hills",
       "person_id": 17432
+    },
+    {
+      "name": "Mz Berlin",
+      "person_id": 14228
     }
   ],
   "release_date": "2015-01-08",

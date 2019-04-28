@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Liam Harkmoore",
-      "person_id": 51860
-    },
-    {
       "name": "Christian Wilde",
       "person_id": 21037
+    },
+    {
+      "name": "Liam Harkmoore",
+      "person_id": 51860
     }
   ],
   "release_date": "2013-11-14",

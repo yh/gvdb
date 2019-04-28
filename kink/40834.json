@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tommy Pistol",
-      "person_id": 12663
-    },
-    {
       "name": "Riley Reyes",
       "person_id": 55057
+    },
+    {
+      "name": "Tommy Pistol",
+      "person_id": 12663
     }
   ],
   "release_date": "2016-09-13",

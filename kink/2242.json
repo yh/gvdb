@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jenni Lee",
-      "person_id": 1358
-    },
-    {
       "name": "DragonLily",
       "person_id": 3433
+    },
+    {
+      "name": "Jenni Lee",
+      "person_id": 1358
     }
   ],
   "release_date": "2004-11-02",

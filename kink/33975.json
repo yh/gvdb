@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Dee Williams",
+      "person_id": 4197
+    },
+    {
       "name": "Evilyn Fierce",
       "person_id": 27842
     },
     {
       "name": "Owen Gray",
       "person_id": 39181
-    },
-    {
-      "name": "Dee Williams",
-      "person_id": 4197
     }
   ],
   "release_date": "2013-11-08",

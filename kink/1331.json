@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lorelei Lee",
-      "person_id": 758
-    },
-    {
       "name": "Kym Wilde",
       "person_id": 99
+    },
+    {
+      "name": "Lorelei Lee",
+      "person_id": 758
     }
   ],
   "release_date": "2003-09-02",

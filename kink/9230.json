@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Tommy Defendi",
-      "person_id": 20359
-    },
-    {
-      "name": "Nick Moretti",
-      "person_id": 17516
+      "name": "Derek Pain",
+      "person_id": 17904
     },
     {
       "name": "Drake Jaden",
       "person_id": 19522
     },
     {
-      "name": "Derek Pain",
-      "person_id": 17904
+      "name": "Nick Moretti",
+      "person_id": 17516
+    },
+    {
+      "name": "Tommy Defendi",
+      "person_id": 20359
     }
   ],
   "release_date": "2010-08-19",

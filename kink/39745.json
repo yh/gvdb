@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Isabella Sorrenti",
-      "person_id": 59147
-    },
-    {
       "name": "Artemis Faux",
       "person_id": 55021
+    },
+    {
+      "name": "Isabella Sorrenti",
+      "person_id": 59147
     }
   ],
   "release_date": "2016-03-16",

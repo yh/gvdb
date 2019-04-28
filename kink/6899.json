@@ -6,8 +6,48 @@
   "directors": [],
   "models": [
     {
+      "name": "Amber Keen",
+      "person_id": 18730
+    },
+    {
+      "name": "Annie Cruz",
+      "person_id": 7776
+    },
+    {
       "name": "Bella Rossi",
       "person_id": 18418
+    },
+    {
+      "name": "Catrina Cummings",
+      "person_id": 20134
+    },
+    {
+      "name": "Cherry Torn",
+      "person_id": 11105
+    },
+    {
+      "name": "Curt Wooster",
+      "person_id": 18252
+    },
+    {
+      "name": "Dean Strong",
+      "person_id": 18291
+    },
+    {
+      "name": "Derrick Pierce",
+      "person_id": 14403
+    },
+    {
+      "name": "Hollie Stevens",
+      "person_id": 1572
+    },
+    {
+      "name": "John Strong",
+      "person_id": 17050
+    },
+    {
+      "name": "Lilla Katt",
+      "person_id": 18701
     },
     {
       "name": "Maestro",
@@ -18,68 +58,28 @@
       "person_id": 8200
     },
     {
-      "name": "Cherry Torn",
-      "person_id": 11105
-    },
-    {
-      "name": "Annie Cruz",
-      "person_id": 7776
-    },
-    {
-      "name": "Derrick Pierce",
-      "person_id": 14403
-    },
-    {
-      "name": "Catrina Cummings",
-      "person_id": 20134
-    },
-    {
-      "name": "Savannah West",
-      "person_id": 19581
-    },
-    {
       "name": "Mason",
       "person_id": 19795
-    },
-    {
-      "name": "Sindee Jennings",
-      "person_id": 18682
-    },
-    {
-      "name": "Sarah Shevon",
-      "person_id": 19605
-    },
-    {
-      "name": "Amber Keen",
-      "person_id": 18730
-    },
-    {
-      "name": "Lilla Katt",
-      "person_id": 18701
-    },
-    {
-      "name": "Hollie Stevens",
-      "person_id": 1572
-    },
-    {
-      "name": "Dean Strong",
-      "person_id": 18291
-    },
-    {
-      "name": "Mr. Pete",
-      "person_id": 16823
-    },
-    {
-      "name": "Curt Wooster",
-      "person_id": 18252
     },
     {
       "name": "Mister Torn",
       "person_id": 19633
     },
     {
-      "name": "John Strong",
-      "person_id": 17050
+      "name": "Mr. Pete",
+      "person_id": 16823
+    },
+    {
+      "name": "Sarah Shevon",
+      "person_id": 19605
+    },
+    {
+      "name": "Savannah West",
+      "person_id": 19581
+    },
+    {
+      "name": "Sindee Jennings",
+      "person_id": 18682
     }
   ],
   "release_date": "2012-03-01",

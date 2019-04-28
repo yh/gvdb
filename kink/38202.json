@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tristan Mathews",
-      "person_id": 17640
-    },
-    {
       "name": "Dicky Johnson",
       "person_id": 57861
+    },
+    {
+      "name": "Tristan Mathews",
+      "person_id": 17640
     }
   ],
   "release_date": "2015-05-08",

@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Hunter Harm",
-      "person_id": 35464
-    },
-    {
       "name": "Bryan Cole",
       "person_id": 35465
+    },
+    {
+      "name": "Hunter Harm",
+      "person_id": 35464
     }
   ],
   "release_date": "2014-12-11",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Princess Donna Dolore",
-      "person_id": 5235
-    },
-    {
       "name": "Beverly Hills",
       "person_id": 17432
+    },
+    {
+      "name": "Princess Donna Dolore",
+      "person_id": 5235
     }
   ],
   "release_date": "2010-03-11",

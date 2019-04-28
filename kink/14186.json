@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Gia DiMarco",
-      "person_id": 21436
-    },
-    {
       "name": "Dietrich Cyrus",
       "person_id": 17649
+    },
+    {
+      "name": "Gia DiMarco",
+      "person_id": 21436
     },
     {
       "name": "Wolf Hudson",

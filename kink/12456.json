@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Sinn Sage",
-      "person_id": 19154
-    },
-    {
       "name": "Elexis Monroe",
       "person_id": 24854
     },
     {
       "name": "Gia DiMarco",
       "person_id": 21436
+    },
+    {
+      "name": "Sinn Sage",
+      "person_id": 19154
     }
   ],
   "release_date": "2011-04-01",

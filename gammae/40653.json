@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Glen Santoro",
-      "person_id": 20943
-    },
-    {
       "name": "Garcia Udulo",
       "person_id": 20962
+    },
+    {
+      "name": "Glen Santoro",
+      "person_id": 20943
     }
   ],
   "release_date": "1998-05-02",

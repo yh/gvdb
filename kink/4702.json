@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nikki Nievez",
-      "person_id": 12336
-    },
-    {
       "name": "LieLani",
       "person_id": 12664
+    },
+    {
+      "name": "Nikki Nievez",
+      "person_id": 12336
     }
   ],
   "release_date": "2008-06-13",

@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Morgan Black",
-      "person_id": 19690
-    },
-    {
       "name": "Jason Michaels",
       "person_id": 20665
+    },
+    {
+      "name": "Morgan Black",
+      "person_id": 19690
     }
   ],
   "release_date": "2012-01-01",

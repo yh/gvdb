@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Kimmy Lee",
-      "person_id": 56661
-    },
-    {
       "name": "James Kickstand",
       "person_id": 48660
+    },
+    {
+      "name": "Kimmy Lee",
+      "person_id": 56661
     }
   ],
   "release_date": "2019-01-17",

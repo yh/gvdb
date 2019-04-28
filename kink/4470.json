@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Julie Night",
-      "person_id": 11190
-    },
-    {
       "name": "Billy",
       "person_id": 13720
+    },
+    {
+      "name": "Julie Night",
+      "person_id": 11190
     }
   ],
   "release_date": "2007-08-17",

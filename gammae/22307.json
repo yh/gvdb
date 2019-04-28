@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Mike Dixon",
-      "person_id": 12143
-    },
-    {
       "name": "Damien",
       "person_id": 12193
+    },
+    {
+      "name": "Mike Dixon",
+      "person_id": 12143
     },
     {
       "name": "Rick Lawrence",

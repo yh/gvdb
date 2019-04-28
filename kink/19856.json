@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Ricky Sinz",
-      "person_id": 21480
-    },
-    {
       "name": "Holden Phillips",
       "person_id": 36020
+    },
+    {
+      "name": "Ricky Sinz",
+      "person_id": 21480
     }
   ],
   "release_date": "2012-04-13",

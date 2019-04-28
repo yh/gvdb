@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Lorelei Lee",
-      "person_id": 758
-    },
-    {
       "name": "Emma Haize",
       "person_id": 29618
+    },
+    {
+      "name": "Lorelei Lee",
+      "person_id": 758
     }
   ],
   "release_date": "2010-08-26",

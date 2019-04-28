@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Leo Forte",
-      "person_id": 22142
-    },
-    {
       "name": "Blake Daniels",
       "person_id": 30557
+    },
+    {
+      "name": "Leo Forte",
+      "person_id": 22142
     },
     {
       "name": "Tanner Wayne",

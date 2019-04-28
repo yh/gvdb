@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Venus Lux",
-      "person_id": 41417
-    },
-    {
       "name": "Rick Fantana",
       "person_id": 59599
+    },
+    {
+      "name": "Venus Lux",
+      "person_id": 41417
     }
   ],
   "release_date": "2017-02-07",

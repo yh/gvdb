@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Ariel X",
-      "person_id": 10464
-    },
-    {
       "name": "Amy Brooke",
       "person_id": 24422
+    },
+    {
+      "name": "Ariel X",
+      "person_id": 10464
     },
     {
       "name": "Holly Hanna",

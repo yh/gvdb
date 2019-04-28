@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sensi Pearl",
-      "person_id": 32462
-    },
-    {
       "name": "Rain DeGrey",
       "person_id": 16817
+    },
+    {
+      "name": "Sensi Pearl",
+      "person_id": 32462
     }
   ],
   "release_date": "2011-07-21",

@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Remi Mint",
-      "person_id": 35470
-    },
-    {
       "name": "Jacob Ladder",
       "person_id": 35747
+    },
+    {
+      "name": "Remi Mint",
+      "person_id": 35470
     }
   ],
   "release_date": "2015-01-26",

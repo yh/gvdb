@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Marcus Ruhl",
-      "person_id": 47823
-    },
-    {
       "name": "Jeremy Stevens",
       "person_id": 40364
+    },
+    {
+      "name": "Marcus Ruhl",
+      "person_id": 47823
     }
   ],
   "release_date": "2013-05-15",

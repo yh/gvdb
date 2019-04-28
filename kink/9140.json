@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Martin Lorenzo",
-      "person_id": 20569
-    },
-    {
       "name": "Cameron Adams",
       "person_id": 22338
+    },
+    {
+      "name": "Martin Lorenzo",
+      "person_id": 20569
     }
   ],
   "release_date": "2010-07-28",

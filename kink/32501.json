@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lorelei Lee",
-      "person_id": 758
-    },
-    {
       "name": "Casey Calvert",
       "person_id": 36437
+    },
+    {
+      "name": "Lorelei Lee",
+      "person_id": 758
     },
     {
       "name": "Rilynn Rae",

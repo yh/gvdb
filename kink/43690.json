@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Chanel Santos",
-      "person_id": 61414
-    },
-    {
       "name": "Andy Baxter",
       "person_id": 60614
+    },
+    {
+      "name": "Chanel Santos",
+      "person_id": 61414
     },
     {
       "name": "Pascal White",

@@ -6,10 +6,6 @@
   "directors": [],
   "models": [
     {
-      "name": "Steve Holmes",
-      "person_id": 15810
-    },
-    {
       "name": "Angelina Wild",
       "person_id": 60239
     },
@@ -20,6 +16,10 @@
     {
       "name": "RAM",
       "person_id": 20259
+    },
+    {
+      "name": "Steve Holmes",
+      "person_id": 15810
     }
   ],
   "release_date": "2017-05-15",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Daisy Ducati",
-      "person_id": 50939
-    },
-    {
       "name": "Cheyenne Jewel",
       "person_id": 22734
+    },
+    {
+      "name": "Daisy Ducati",
+      "person_id": 50939
     },
     {
       "name": "Ella Nova",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sierra Skye",
-      "person_id": 23643
-    },
-    {
       "name": "Aiden Starr",
       "person_id": 11489
+    },
+    {
+      "name": "Sierra Skye",
+      "person_id": 23643
     }
   ],
   "release_date": "2010-07-01",

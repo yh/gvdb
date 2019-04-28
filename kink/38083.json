@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tony Orlando",
-      "person_id": 48907
-    },
-    {
       "name": "Michelle Firestone",
       "person_id": 55747
+    },
+    {
+      "name": "Tony Orlando",
+      "person_id": 48907
     }
   ],
   "release_date": "2015-06-17",

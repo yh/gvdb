@@ -11,28 +11,28 @@
   ],
   "models": [
     {
-      "name": "Dee Williams",
-      "person_id": 4197
-    },
-    {
-      "name": "Penny Barber",
-      "person_id": 6664
-    },
-    {
       "name": "Angel Allwood",
       "person_id": 52348
-    },
-    {
-      "name": "Ella Nova",
-      "person_id": 51866
     },
     {
       "name": "Daisy Ducati",
       "person_id": 50939
     },
     {
+      "name": "Dee Williams",
+      "person_id": 4197
+    },
+    {
+      "name": "Ella Nova",
+      "person_id": 51866
+    },
+    {
       "name": "Jayogen",
       "person_id": 23291
+    },
+    {
+      "name": "Penny Barber",
+      "person_id": 6664
     }
   ],
   "release_date": "2015-02-24",

@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Jessie Cox",
-      "person_id": 18739
-    },
-    {
       "name": "Iona Grace",
       "person_id": 25204
     },
     {
-      "name": "Sparky Sin Claire",
-      "person_id": 29494
+      "name": "Jessie Cox",
+      "person_id": 18739
     },
     {
       "name": "Nicki Blue",
       "person_id": 28541
+    },
+    {
+      "name": "Sparky Sin Claire",
+      "person_id": 29494
     }
   ],
   "release_date": "2011-04-20",

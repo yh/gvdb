@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sexy Jade",
-      "person_id": 14512
-    },
-    {
       "name": "Eddy",
       "person_id": 14584
+    },
+    {
+      "name": "Sexy Jade",
+      "person_id": 14512
     }
   ],
   "release_date": "2007-07-03",

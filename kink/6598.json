@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Madison Young",
-      "person_id": 2674
-    },
-    {
       "name": "Amber Rayne",
       "person_id": 12631
     },
     {
       "name": "Jack Hammer",
       "person_id": 18499
+    },
+    {
+      "name": "Madison Young",
+      "person_id": 2674
     }
   ],
   "release_date": "2011-07-23",

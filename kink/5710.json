@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Madison Young",
-      "person_id": 2674
-    },
-    {
       "name": "Karrlie Dawn",
       "person_id": 17608
+    },
+    {
+      "name": "Madison Young",
+      "person_id": 2674
     }
   ],
   "release_date": "2008-09-09",

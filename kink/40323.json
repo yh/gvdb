@@ -11,8 +11,16 @@
   ],
   "models": [
     {
+      "name": "John Johnson",
+      "person_id": 49204
+    },
+    {
       "name": "Kacie Castle",
       "person_id": 59236
+    },
+    {
+      "name": "Marco Banderas",
+      "person_id": 27958
     },
     {
       "name": "Mark Wood",
@@ -23,16 +31,8 @@
       "person_id": 16823
     },
     {
-      "name": "John Johnson",
-      "person_id": 49204
-    },
-    {
       "name": "Stallion",
       "person_id": 58525
-    },
-    {
-      "name": "Marco Banderas",
-      "person_id": 27958
     }
   ],
   "release_date": "2016-05-25",

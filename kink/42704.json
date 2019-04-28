@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Haven Rae",
-      "person_id": 60514
-    },
-    {
       "name": "Brad Knight",
       "person_id": 60515
+    },
+    {
+      "name": "Haven Rae",
+      "person_id": 60514
     }
   ],
   "release_date": "2018-03-23",

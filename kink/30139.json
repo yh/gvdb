@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Michael Anthony",
-      "person_id": 28910
-    },
-    {
       "name": "Lief Kaase",
       "person_id": 32465
+    },
+    {
+      "name": "Michael Anthony",
+      "person_id": 28910
     }
   ],
   "release_date": "2013-05-09",

@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Kali Kavalli",
-      "person_id": 54727
-    },
-    {
       "name": "Bruno Dickemz",
       "person_id": 54328
+    },
+    {
+      "name": "Kali Kavalli",
+      "person_id": 54727
     }
   ],
   "release_date": "2018-01-04",

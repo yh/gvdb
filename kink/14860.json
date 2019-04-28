@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Bobbi Starr",
-      "person_id": 11290
-    },
-    {
       "name": "Annie Cruz",
       "person_id": 7776
+    },
+    {
+      "name": "Bobbi Starr",
+      "person_id": 11290
     }
   ],
   "release_date": "2011-09-16",

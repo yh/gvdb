@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Penny Pax",
-      "person_id": 38571
-    },
-    {
       "name": "Maitresse Madeline Marlowe",
       "person_id": 17872
+    },
+    {
+      "name": "Penny Pax",
+      "person_id": 38571
     }
   ],
   "release_date": "2013-01-11",

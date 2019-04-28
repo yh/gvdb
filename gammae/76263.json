@@ -5,12 +5,12 @@
   "description": "Gabriel was browsing through some ads while talking to a friend on the phone. Not looking for anything specific, he stumbled across what might be the most unbelievable ad... 'Handyman, well-equipped, experienced and versatile, for various jobs. Satisfaction guaranteed. Call for a free estimate.' Gabriel immediately called without even thinking about what he needed to repair. When Manuel Deboxer showed up and found out that he came over for nothing, Gabriel had to think of something to make it up to him...",
   "models": [
     {
-      "name": "Manuel Deboxer",
-      "person_id": 32463
-    },
-    {
       "name": "Gabriel Clark",
       "person_id": 35869
+    },
+    {
+      "name": "Manuel Deboxer",
+      "person_id": 32463
     }
   ],
   "release_date": "2015-05-26",

@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Penny Pax",
-      "person_id": 38571
-    },
-    {
-      "name": "Marco Banderas",
-      "person_id": 27958
-    },
-    {
       "name": "Aiden Starr",
       "person_id": 11489
     },
     {
       "name": "Layla Price",
       "person_id": 48143
+    },
+    {
+      "name": "Marco Banderas",
+      "person_id": 27958
+    },
+    {
+      "name": "Penny Pax",
+      "person_id": 38571
     }
   ],
   "release_date": "2015-02-20",

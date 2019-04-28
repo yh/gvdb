@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Hayden Richards",
-      "person_id": 47285
-    },
-    {
       "name": "Doug Acre",
       "person_id": 47153
+    },
+    {
+      "name": "Hayden Richards",
+      "person_id": 47285
     }
   ],
   "release_date": "2013-12-19",

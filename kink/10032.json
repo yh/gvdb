@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Zenza Raggi",
-      "person_id": 20195
-    },
-    {
       "name": "Bailey",
       "person_id": 27095
+    },
+    {
+      "name": "Zenza Raggi",
+      "person_id": 20195
     }
   ],
   "release_date": "2015-03-20",

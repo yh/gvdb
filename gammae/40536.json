@@ -9,20 +9,20 @@
       "person_id": 20772
     },
     {
-      "name": "Marko Balazs",
-      "person_id": 20833
-    },
-    {
       "name": "Karl Nepessy",
       "person_id": 20803
     },
     {
-      "name": "Stefan Stano",
-      "person_id": 20819
+      "name": "Marko Balazs",
+      "person_id": 20833
     },
     {
       "name": "Sandor Sablon",
       "person_id": 20832
+    },
+    {
+      "name": "Stefan Stano",
+      "person_id": 20819
     }
   ],
   "release_date": "1998-03-14",

@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Rain DeGrey",
-      "person_id": 16817
-    },
-    {
       "name": "Nika Noire",
       "person_id": 17418
+    },
+    {
+      "name": "Rain DeGrey",
+      "person_id": 16817
     }
   ],
   "release_date": "2017-12-16",

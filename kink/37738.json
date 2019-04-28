@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Zane Anders",
-      "person_id": 55730
-    },
-    {
       "name": "Aiden Starr",
       "person_id": 11489
+    },
+    {
+      "name": "Zane Anders",
+      "person_id": 55730
     }
   ],
   "release_date": "2015-04-03",

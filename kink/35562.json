@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Scott Cage",
-      "person_id": 53920
-    },
-    {
       "name": "Corbin Dallas",
       "person_id": 51921
+    },
+    {
+      "name": "Scott Cage",
+      "person_id": 53920
     }
   ],
   "release_date": "2014-08-12",

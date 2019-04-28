@@ -11,24 +11,24 @@
   ],
   "models": [
     {
-      "name": "Steve Holmes",
-      "person_id": 15810
-    },
-    {
-      "name": "Violet Moon",
-      "person_id": 50143
-    },
-    {
       "name": "Erikhard",
       "person_id": 51094
+    },
+    {
+      "name": "John Strong",
+      "person_id": 17050
     },
     {
       "name": "Omar Galanti",
       "person_id": 42129
     },
     {
-      "name": "John Strong",
-      "person_id": 17050
+      "name": "Steve Holmes",
+      "person_id": 15810
+    },
+    {
+      "name": "Violet Moon",
+      "person_id": 50143
     }
   ],
   "release_date": "2013-09-18",

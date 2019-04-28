@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tommy Pistol",
-      "person_id": 12663
-    },
-    {
       "name": "Bijou",
       "person_id": 29351
+    },
+    {
+      "name": "Tommy Pistol",
+      "person_id": 12663
     }
   ],
   "release_date": "2010-12-24",

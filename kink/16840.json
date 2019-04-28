@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Melissa Jacobs",
-      "person_id": 35370
-    },
-    {
       "name": "Jiz Lee",
       "person_id": 19482
+    },
+    {
+      "name": "Melissa Jacobs",
+      "person_id": 35370
     }
   ],
   "release_date": "2012-03-02",

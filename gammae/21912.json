@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Marco Rossi",
-      "person_id": 11944
-    },
-    {
       "name": "Johnny Rey",
       "person_id": 11959
+    },
+    {
+      "name": "Marco Rossi",
+      "person_id": 11944
     }
   ],
   "release_date": "2010-07-01",

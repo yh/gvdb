@@ -5,12 +5,12 @@
   "description": "Triumvirate: Soccer Camp",
   "models": [
     {
-      "name": "Robert Driveman",
-      "person_id": 29605
-    },
-    {
       "name": "Miky Sem",
       "person_id": 29678
+    },
+    {
+      "name": "Robert Driveman",
+      "person_id": 29605
     }
   ],
   "release_date": "2003-10-29",

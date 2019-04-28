@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
+      "name": "Anna",
+      "person_id": 61768
+    },
+    {
       "name": "Patricia MedicalySado",
       "person_id": 61767
     },
     {
       "name": "Pou Fosc",
       "person_id": 61774
-    },
-    {
-      "name": "Anna",
-      "person_id": 61768
     }
   ],
   "release_date": "2018-12-27",

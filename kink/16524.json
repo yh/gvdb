@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "John Magnum",
-      "person_id": 20528
-    },
-    {
       "name": "Fabio Stallone",
       "person_id": 35618
+    },
+    {
+      "name": "John Magnum",
+      "person_id": 20528
     }
   ],
   "release_date": "2011-12-23",

@@ -11,14 +11,6 @@
   ],
   "models": [
     {
-      "name": "Mickey Mod",
-      "person_id": 19623
-    },
-    {
-      "name": "Maitresse Madeline Marlowe",
-      "person_id": 17872
-    },
-    {
       "name": "David Chase",
       "person_id": 20106
     },
@@ -27,8 +19,16 @@
       "person_id": 2674
     },
     {
+      "name": "Maitresse Madeline Marlowe",
+      "person_id": 17872
+    },
+    {
       "name": "Martin Lorenzo",
       "person_id": 20569
+    },
+    {
+      "name": "Mickey Mod",
+      "person_id": 19623
     }
   ],
   "release_date": "2010-01-20",

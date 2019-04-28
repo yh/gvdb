@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kristine Kahill",
-      "person_id": 35343
-    },
-    {
       "name": "Gia DiMarco",
       "person_id": 21436
+    },
+    {
+      "name": "Kristine Kahill",
+      "person_id": 35343
     }
   ],
   "release_date": "2013-06-07",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dresden",
-      "person_id": 58978
-    },
-    {
       "name": "Cherry Torn",
       "person_id": 11105
+    },
+    {
+      "name": "Dresden",
+      "person_id": 58978
     }
   ],
   "release_date": "2018-11-08",

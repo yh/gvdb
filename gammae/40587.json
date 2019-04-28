@@ -5,6 +5,14 @@
   "description": "",
   "models": [
     {
+      "name": "Daniel Halasz",
+      "person_id": 20852
+    },
+    {
+      "name": "Isvan",
+      "person_id": 20777
+    },
+    {
       "name": "Janos Volt",
       "person_id": 20756
     },
@@ -13,16 +21,8 @@
       "person_id": 20955
     },
     {
-      "name": "Isvan",
-      "person_id": 20777
-    },
-    {
       "name": "Stefan Stano",
       "person_id": 20819
-    },
-    {
-      "name": "Daniel Halasz",
-      "person_id": 20852
     }
   ],
   "release_date": "1998-04-06",

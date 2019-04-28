@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Paris Kennedy",
-      "person_id": 6775
-    },
-    {
       "name": "Lola",
       "person_id": 6034
+    },
+    {
+      "name": "Paris Kennedy",
+      "person_id": 6775
     }
   ],
   "release_date": "2005-07-12",

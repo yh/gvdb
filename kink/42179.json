@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Juliette March",
-      "person_id": 22072
-    },
-    {
       "name": "John Strong",
       "person_id": 17050
+    },
+    {
+      "name": "Juliette March",
+      "person_id": 22072
     }
   ],
   "release_date": "2017-05-09",

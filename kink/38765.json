@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Yasmine Loven",
-      "person_id": 37660
-    },
-    {
       "name": "Holly Heart",
       "person_id": 20472
+    },
+    {
+      "name": "Yasmine Loven",
+      "person_id": 37660
     }
   ],
   "release_date": "2015-09-04",

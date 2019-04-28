@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Lorelei Lee",
-      "person_id": 758
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
     },
     {
       "name": "Dia Zerva",
       "person_id": 16038
+    },
+    {
+      "name": "Lorelei Lee",
+      "person_id": 758
     }
   ],
   "release_date": "2009-06-12",

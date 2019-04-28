@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Spencer Reed",
-      "person_id": 19086
-    },
-    {
       "name": "Jake Woods",
       "person_id": 20647
+    },
+    {
+      "name": "Spencer Reed",
+      "person_id": 19086
     }
   ],
   "release_date": "2010-03-04",

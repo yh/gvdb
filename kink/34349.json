@@ -11,18 +11,6 @@
   ],
   "models": [
     {
-      "name": "Mr. Pete",
-      "person_id": 16823
-    },
-    {
-      "name": "John Strong",
-      "person_id": 17050
-    },
-    {
-      "name": "Xander Corvus",
-      "person_id": 46000
-    },
-    {
       "name": "Astral Dust",
       "person_id": 43670
     },
@@ -31,8 +19,20 @@
       "person_id": 21442
     },
     {
+      "name": "John Strong",
+      "person_id": 17050
+    },
+    {
+      "name": "Mr. Pete",
+      "person_id": 16823
+    },
+    {
       "name": "Violet Monroe",
       "person_id": 20284
+    },
+    {
+      "name": "Xander Corvus",
+      "person_id": 46000
     }
   ],
   "release_date": "2014-02-19",

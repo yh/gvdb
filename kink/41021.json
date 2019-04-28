@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Seth Gamble",
-      "person_id": 57488
-    },
-    {
       "name": "Raquel Roper",
       "person_id": 56438
+    },
+    {
+      "name": "Seth Gamble",
+      "person_id": 57488
     }
   ],
   "release_date": "2016-11-08",

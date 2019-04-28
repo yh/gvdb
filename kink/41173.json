@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Veruca James",
-      "person_id": 43570
-    },
-    {
       "name": "Kacie Castle",
       "person_id": 59236
+    },
+    {
+      "name": "Veruca James",
+      "person_id": 43570
     }
   ],
   "release_date": "2016-11-17",

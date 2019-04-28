@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "James Deen",
-      "person_id": 8935
-    },
-    {
       "name": "Holly Michaels",
       "person_id": 40156
+    },
+    {
+      "name": "James Deen",
+      "person_id": 8935
     }
   ],
   "release_date": "2012-08-16",

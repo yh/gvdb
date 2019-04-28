@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Mario Costa",
-      "person_id": 28031
-    },
-    {
       "name": "Damien Crosse",
       "person_id": 34063
+    },
+    {
+      "name": "Mario Costa",
+      "person_id": 28031
     }
   ],
   "release_date": "2014-07-02",

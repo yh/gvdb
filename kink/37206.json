@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Trenton Ducati",
-      "person_id": 42630
-    },
-    {
       "name": "Leon Fox",
       "person_id": 53355
+    },
+    {
+      "name": "Trenton Ducati",
+      "person_id": 42630
     }
   ],
   "release_date": "2015-01-22",

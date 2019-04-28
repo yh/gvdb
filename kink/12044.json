@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tori Lux",
-      "person_id": 26264
-    },
-    {
       "name": "Aiden Ashley",
       "person_id": 29601
+    },
+    {
+      "name": "Tori Lux",
+      "person_id": 26264
     }
   ],
   "release_date": "2011-03-18",

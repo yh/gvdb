@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "James Deen",
-      "person_id": 8935
-    },
-    {
       "name": "Chloe Scott",
       "person_id": 60507
+    },
+    {
+      "name": "James Deen",
+      "person_id": 8935
     }
   ],
   "release_date": "2018-02-02",

@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Audrey Rose",
+      "person_id": 31792
+    },
+    {
       "name": "Beretta James",
       "person_id": 33659
     },
     {
       "name": "Dylan Ryan",
       "person_id": 10069
-    },
-    {
-      "name": "Audrey Rose",
-      "person_id": 31792
     },
     {
       "name": "Odile",

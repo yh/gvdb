@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Xander Corvus",
-      "person_id": 46000
+      "name": "Ivy LeBelle",
+      "person_id": 60683
     },
     {
       "name": "Penny Barber",
       "person_id": 6664
     },
     {
-      "name": "Ivy LeBelle",
-      "person_id": 60683
+      "name": "Xander Corvus",
+      "person_id": 46000
     }
   ],
   "release_date": "2017-12-22",

@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Ashli Orion",
+      "person_id": 17155
+    },
+    {
       "name": "Bobbi Starr",
       "person_id": 11290
     },
     {
       "name": "John Strong",
       "person_id": 17050
-    },
-    {
-      "name": "Ashli Orion",
-      "person_id": 17155
     }
   ],
   "release_date": "2011-08-02",

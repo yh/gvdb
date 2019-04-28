@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mike Martin",
-      "person_id": 34306
-    },
-    {
       "name": "Kieron Ryan",
       "person_id": 35481
+    },
+    {
+      "name": "Mike Martin",
+      "person_id": 34306
     }
   ],
   "release_date": "2012-03-23",

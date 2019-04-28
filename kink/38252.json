@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Juliette March",
-      "person_id": 22072
-    },
-    {
       "name": "Aali Rousseau",
       "person_id": 57660
+    },
+    {
+      "name": "Juliette March",
+      "person_id": 22072
     }
   ],
   "release_date": "2015-08-13",

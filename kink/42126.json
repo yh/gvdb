@@ -15,8 +15,16 @@
       "person_id": 35195
     },
     {
+      "name": "Nikki Hearts",
+      "person_id": 52257
+    },
+    {
       "name": "Owen Gray",
       "person_id": 39181
+    },
+    {
+      "name": "Steve Holmes",
+      "person_id": 15810
     },
     {
       "name": "Tommy Pistol",
@@ -25,14 +33,6 @@
     {
       "name": "Will Havoc",
       "person_id": 46285
-    },
-    {
-      "name": "Steve Holmes",
-      "person_id": 15810
-    },
-    {
-      "name": "Nikki Hearts",
-      "person_id": 52257
     }
   ],
   "release_date": "2017-05-31",

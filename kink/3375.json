@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sandra Romain",
-      "person_id": 10239
-    },
-    {
       "name": "Brooke Haven",
       "person_id": 11121
+    },
+    {
+      "name": "Sandra Romain",
+      "person_id": 10239
     }
   ],
   "release_date": "2006-01-20",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Holden Phillips",
-      "person_id": 36020
-    },
-    {
       "name": "Adam Herst",
       "person_id": 39639
+    },
+    {
+      "name": "Holden Phillips",
+      "person_id": 36020
     }
   ],
   "release_date": "2013-06-07",

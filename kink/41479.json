@@ -11,28 +11,28 @@
   ],
   "models": [
     {
-      "name": "Kristina Rose",
-      "person_id": 20560
+      "name": "John Johnson",
+      "person_id": 49204
     },
     {
-      "name": "Steve Holmes",
-      "person_id": 15810
+      "name": "John Strong",
+      "person_id": 17050
     },
     {
       "name": "Jon Jon",
       "person_id": 35195
     },
     {
-      "name": "John Johnson",
-      "person_id": 49204
+      "name": "Kristina Rose",
+      "person_id": 20560
     },
     {
       "name": "Ramon Nomar",
       "person_id": 35412
     },
     {
-      "name": "John Strong",
-      "person_id": 17050
+      "name": "Steve Holmes",
+      "person_id": 15810
     }
   ],
   "release_date": "2017-01-25",

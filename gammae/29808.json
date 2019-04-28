@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Matthew Singer ",
-      "person_id": 52481
-    },
-    {
       "name": "Alex Rock ",
       "person_id": 52482
+    },
+    {
+      "name": "Matthew Singer ",
+      "person_id": 52481
     }
   ],
   "release_date": "2011-03-14",

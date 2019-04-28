@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Landon Conrad",
-      "person_id": 44237
-    },
-    {
       "name": "Doug Acre",
       "person_id": 47153
+    },
+    {
+      "name": "Landon Conrad",
+      "person_id": 44237
     }
   ],
   "release_date": "2013-10-23",

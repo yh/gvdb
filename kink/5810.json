@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Rod Stevans",
-      "person_id": 18203
-    },
-    {
       "name": "James Jorden",
       "person_id": 18204
+    },
+    {
+      "name": "Rod Stevans",
+      "person_id": 18203
     }
   ],
   "release_date": "2008-09-18",

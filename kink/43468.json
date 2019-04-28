@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Lovita Fate",
-      "person_id": 60469
-    },
-    {
       "name": "Alex",
       "person_id": 61298
+    },
+    {
+      "name": "Lovita Fate",
+      "person_id": 60469
     }
   ],
   "release_date": "2018-05-23",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Holly Hendrix",
-      "person_id": 58890
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
+    },
+    {
+      "name": "Holly Hendrix",
+      "person_id": 58890
     },
     {
       "name": "Marco Banderas",

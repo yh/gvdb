@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Valentin Petrov",
-      "person_id": 28033
-    },
-    {
       "name": "Casey More",
       "person_id": 28891
+    },
+    {
+      "name": "Valentin Petrov",
+      "person_id": 28033
     }
   ],
   "release_date": "2013-03-06",

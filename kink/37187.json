@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sophia Locke",
-      "person_id": 53323
-    },
-    {
       "name": "Maestro",
       "person_id": 11928
+    },
+    {
+      "name": "Sophia Locke",
+      "person_id": 53323
     }
   ],
   "release_date": "2015-01-30",

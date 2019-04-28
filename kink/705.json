@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Maria Shadoes",
-      "person_id": 363
-    },
-    {
       "name": "Lew Rubens",
       "person_id": 1441
+    },
+    {
+      "name": "Maria Shadoes",
+      "person_id": 363
     }
   ],
   "release_date": "2003-02-05",

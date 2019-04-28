@@ -5,20 +5,20 @@
   "description": "",
   "models": [
     {
-      "name": "Thierry Golyo",
-      "person_id": 20842
-    },
-    {
       "name": "Daniel Halasz",
       "person_id": 20852
+    },
+    {
+      "name": "Gabriel Galad",
+      "person_id": 20898
     },
     {
       "name": "Luis Landzsa",
       "person_id": 20893
     },
     {
-      "name": "Gabriel Galad",
-      "person_id": 20898
+      "name": "Thierry Golyo",
+      "person_id": 20842
     }
   ],
   "release_date": "1998-04-01",

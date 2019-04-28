@@ -5,12 +5,12 @@
   "description": "Triumvirate: Before They Were Stars 3",
   "models": [
     {
-      "name": "Pietro White",
-      "person_id": 29734
-    },
-    {
       "name": "George Plozen",
       "person_id": 29818
+    },
+    {
+      "name": "Pietro White",
+      "person_id": 29734
     }
   ],
   "release_date": "2005-01-05",

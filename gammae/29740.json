@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Tristan Jaxx",
-      "person_id": 11781
-    },
-    {
       "name": "Adam Knox",
       "person_id": 52352
+    },
+    {
+      "name": "Tristan Jaxx",
+      "person_id": 11781
     }
   ],
   "release_date": "2010-03-10",

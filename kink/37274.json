@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Alexander Gustavo",
+      "person_id": 55166
+    },
+    {
       "name": "Mona Wales",
       "person_id": 51511
     },
     {
       "name": "Simone Sonay",
       "person_id": 34687
-    },
-    {
-      "name": "Alexander Gustavo",
-      "person_id": 55166
     }
   ],
   "release_date": "2015-02-05",

@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Slave",
-      "person_id": 61761
-    },
-    {
       "name": "Mistress Abaddon",
       "person_id": 61760
+    },
+    {
+      "name": "Slave",
+      "person_id": 61761
     }
   ],
   "release_date": "2018-11-28",

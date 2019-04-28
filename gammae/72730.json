@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Rikk York",
-      "person_id": 32679
-    },
-    {
       "name": "Johnny Hazzard",
       "person_id": 34096
+    },
+    {
+      "name": "Rikk York",
+      "person_id": 32679
     }
   ],
   "release_date": "2015-03-06",

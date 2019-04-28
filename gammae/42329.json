@@ -5,12 +5,12 @@
   "description": "Threeway.",
   "models": [
     {
-      "name": "Tom Vacarro",
-      "person_id": 19505
-    },
-    {
       "name": "Jeff Allen",
       "person_id": 19819
+    },
+    {
+      "name": "Tom Vacarro",
+      "person_id": 19505
     }
   ],
   "release_date": "2005-01-01",

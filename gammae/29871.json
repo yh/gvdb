@@ -9,10 +9,6 @@
       "person_id": 15191
     },
     {
-      "name": "Steve Winston",
-      "person_id": 16417
-    },
-    {
       "name": "Frank Sylvano",
       "person_id": 15497
     },
@@ -23,6 +19,10 @@
     {
       "name": "Mack Kurtis",
       "person_id": 15926
+    },
+    {
+      "name": "Steve Winston",
+      "person_id": 16417
     }
   ],
   "release_date": "2007-11-05",

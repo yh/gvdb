@@ -6,28 +6,28 @@
   "directors": [],
   "models": [
     {
-      "name": "Melissa Moore",
-      "person_id": 60023
+      "name": "Brad Hart",
+      "person_id": 60737
     },
     {
       "name": "Chad Alva",
       "person_id": 39074
     },
     {
-      "name": "Brad Hart",
-      "person_id": 60737
-    },
-    {
-      "name": "Ryan McLane",
-      "person_id": 47515
+      "name": "Eric John",
+      "person_id": 47359
     },
     {
       "name": "Filthy Rich",
       "person_id": 60738
     },
     {
-      "name": "Eric John",
-      "person_id": 47359
+      "name": "Melissa Moore",
+      "person_id": 60023
+    },
+    {
+      "name": "Ryan McLane",
+      "person_id": 47515
     }
   ],
   "release_date": "2018-05-25",

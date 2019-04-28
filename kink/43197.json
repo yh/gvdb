@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Venus Lux",
-      "person_id": 41417
-    },
-    {
       "name": "Corbin Dallas",
       "person_id": 51921
+    },
+    {
+      "name": "Venus Lux",
+      "person_id": 41417
     }
   ],
   "release_date": "2018-02-20",

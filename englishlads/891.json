@@ -5,15 +5,15 @@
   "description": "",
   "models": [
     {
+      "name": "Jon Janes",
+      "person_id": null
+    },
+    {
       "name": "Ryan Carter",
       "person_id": null
     },
     {
       "name": "Toby James",
-      "person_id": null
-    },
-    {
-      "name": "Jon Janes",
       "person_id": null
     }
   ],

@@ -11,8 +11,8 @@
   ],
   "models": [
     {
-      "name": "Van Darkholme",
-      "person_id": 15862
+      "name": "Kieron Ryan",
+      "person_id": 35481
     },
     {
       "name": "Master Avery",
@@ -23,8 +23,8 @@
       "person_id": 20316
     },
     {
-      "name": "Kieron Ryan",
-      "person_id": 35481
+      "name": "Van Darkholme",
+      "person_id": 15862
     }
   ],
   "release_date": "2012-02-23",

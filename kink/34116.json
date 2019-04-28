@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Wenona",
-      "person_id": 4485
-    },
-    {
       "name": "Tommy Pistol",
       "person_id": 12663
+    },
+    {
+      "name": "Wenona",
+      "person_id": 4485
     }
   ],
   "release_date": "2013-11-29",

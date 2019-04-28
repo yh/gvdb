@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Nubius",
-      "person_id": 21196
-    },
-    {
       "name": "Buster Sly",
       "person_id": 21462
+    },
+    {
+      "name": "Nubius",
+      "person_id": 21196
     }
   ],
   "release_date": "2012-08-02",

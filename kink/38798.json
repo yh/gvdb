@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Trisha Parks",
-      "person_id": 58246
-    },
-    {
       "name": "Seth Gamble",
       "person_id": 57488
+    },
+    {
+      "name": "Trisha Parks",
+      "person_id": 58246
     }
   ],
   "release_date": "2015-09-04",

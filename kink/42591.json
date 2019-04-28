@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jonah Fontana",
-      "person_id": 59550
-    },
-    {
       "name": "Christian Wilde",
       "person_id": 21037
+    },
+    {
+      "name": "Jonah Fontana",
+      "person_id": 59550
     }
   ],
   "release_date": "2017-09-21",

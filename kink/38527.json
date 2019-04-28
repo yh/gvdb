@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kirsten Price",
-      "person_id": 42134
-    },
-    {
       "name": "Dolly Leigh",
       "person_id": 55868
+    },
+    {
+      "name": "Kirsten Price",
+      "person_id": 42134
     }
   ],
   "release_date": "2015-08-14",

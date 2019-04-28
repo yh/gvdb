@@ -11,56 +11,44 @@
   ],
   "models": [
     {
-      "name": "Maestro",
-      "person_id": 11928
-    },
-    {
-      "name": "Satine Phoenix",
-      "person_id": 11425
+      "name": "Bella Rossi",
+      "person_id": 18418
     },
     {
       "name": "Cherry Torn",
       "person_id": 11105
     },
     {
-      "name": "Bella Rossi",
-      "person_id": 18418
+      "name": "James",
+      "person_id": 10539
     },
     {
-      "name": "Lobo",
-      "person_id": 16229
+      "name": "Laura Antoniou",
+      "person_id": 19635
     },
     {
       "name": "Lilla Katt",
       "person_id": 18701
     },
     {
-      "name": "Peter",
-      "person_id": 7005
+      "name": "Lobo",
+      "person_id": 16229
     },
     {
-      "name": "Princess Donna Dolore",
-      "person_id": 5235
-    },
-    {
-      "name": "Tomcat",
-      "person_id": 7009
-    },
-    {
-      "name": "Miss Jade Indica",
-      "person_id": 16744
-    },
-    {
-      "name": "Matt Williams",
-      "person_id": 7008
+      "name": "Maestro",
+      "person_id": 11928
     },
     {
       "name": "Maitresse Madeline Marlowe",
       "person_id": 17872
     },
     {
-      "name": "James",
-      "person_id": 10539
+      "name": "Matt Williams",
+      "person_id": 7008
+    },
+    {
+      "name": "Miss Jade Indica",
+      "person_id": 16744
     },
     {
       "name": "Mister Torn",
@@ -71,8 +59,20 @@
       "person_id": 19634
     },
     {
-      "name": "Laura Antoniou",
-      "person_id": 19635
+      "name": "Peter",
+      "person_id": 7005
+    },
+    {
+      "name": "Princess Donna Dolore",
+      "person_id": 5235
+    },
+    {
+      "name": "Satine Phoenix",
+      "person_id": 11425
+    },
+    {
+      "name": "Tomcat",
+      "person_id": 7009
     }
   ],
   "release_date": "2009-04-07",

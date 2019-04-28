@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Troy Masters",
-      "person_id": 10852
-    },
-    {
       "name": "Jordan Young",
       "person_id": 11132
+    },
+    {
+      "name": "Troy Masters",
+      "person_id": 10852
     }
   ],
   "release_date": "2007-10-01",

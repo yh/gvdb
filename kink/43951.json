@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Pidzemellya Hospodynya",
-      "person_id": 61363
-    },
-    {
       "name": "Milan Manek",
       "person_id": 61674
+    },
+    {
+      "name": "Pidzemellya Hospodynya",
+      "person_id": 61363
     }
   ],
   "release_date": "2018-11-02",

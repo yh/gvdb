@@ -9,16 +9,8 @@
       "person_id": 19548
     },
     {
-      "name": "Ryven",
-      "person_id": 19554
-    },
-    {
       "name": "Andy Dill",
       "person_id": 19549
-    },
-    {
-      "name": "Sean Storm",
-      "person_id": 19555
     },
     {
       "name": "Brendan Austen",
@@ -27,6 +19,14 @@
     {
       "name": "Robert Marx",
       "person_id": 19553
+    },
+    {
+      "name": "Ryven",
+      "person_id": 19554
+    },
+    {
+      "name": "Sean Storm",
+      "person_id": 19555
     }
   ],
   "release_date": "2004-10-01",

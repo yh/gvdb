@@ -5,12 +5,12 @@
   "description": "Samuel O'Toole is throwing a party! And not just any party, but a themed out blacklight party. He's got the room all set up and the party is in a few days, but he just can't wait to try it out. So he lures Dominic Pacifico down into his blacklight dungeon, where Dominic discovers that Samuel has a few tricks up his sleeve, as well as one gigantic trick down his pants.Enjoy!",
   "models": [
     {
-      "name": "Samuel O'Toole",
-      "person_id": 10367
-    },
-    {
       "name": "Dominic Pacifico",
       "person_id": 16878
+    },
+    {
+      "name": "Samuel O'Toole",
+      "person_id": 10367
     }
   ],
   "release_date": "2011-08-09",

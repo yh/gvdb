@@ -3,20 +3,15 @@
     "Fucking Machines"
   ],
   "description": "Kylie and Summer get together to do homework. Needless to say the only thing they learned was that two playing is more fun than playing alone.",
-  "directors": [
-    {
-      "name": "Pirelli",
-      "person_id": 7016
-    }
-  ],
+  "directors": [],
   "models": [
-    {
-      "name": "Summer Storm",
-      "person_id": 482
-    },
     {
       "name": "Kylie Wilde",
       "person_id": 297
+    },
+    {
+      "name": "Summer Storm",
+      "person_id": 482
     }
   ],
   "release_date": "2002-12-18",

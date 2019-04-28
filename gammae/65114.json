@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Sam Truitt",
-      "person_id": 32028
-    },
-    {
       "name": "Drake Stone",
       "person_id": 33834
+    },
+    {
+      "name": "Sam Truitt",
+      "person_id": 32028
     }
   ],
   "release_date": "2014-06-04",

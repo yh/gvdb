@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Steve Vex",
-      "person_id": 36590
-    },
-    {
       "name": "Cody Allen",
       "person_id": 35162
+    },
+    {
+      "name": "Steve Vex",
+      "person_id": 36590
     }
   ],
   "release_date": "2012-02-17",

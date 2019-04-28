@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
+      "name": "Jeremy Hall",
+      "person_id": 11578
+    },
+    {
       "name": "Ross Stuart",
       "person_id": 10969
     },
     {
       "name": "Tyler Marks",
       "person_id": 11286
-    },
-    {
-      "name": "Jeremy Hall",
-      "person_id": 11578
     }
   ],
   "release_date": "2006-06-01",

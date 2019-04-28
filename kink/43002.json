@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Riley Reyes",
-      "person_id": 55057
-    },
-    {
       "name": "Cadence Lux",
       "person_id": 51424
     },
     {
       "name": "Ramon Nomar",
       "person_id": 35412
+    },
+    {
+      "name": "Riley Reyes",
+      "person_id": 55057
     }
   ],
   "release_date": "2016-12-27",

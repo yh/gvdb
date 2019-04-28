@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jamie Page",
-      "person_id": 16783
-    },
-    {
       "name": "Chad Rock",
       "person_id": 14593
+    },
+    {
+      "name": "Jamie Page",
+      "person_id": 16783
     }
   ],
   "release_date": "2008-06-17",

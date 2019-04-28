@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Bryn Blayne",
-      "person_id": 36234
-    },
-    {
-      "name": "Penny Barber",
-      "person_id": 6664
+      "name": "Ariel X",
+      "person_id": 10464
     },
     {
       "name": "Bella Rossi",
       "person_id": 18418
     },
     {
-      "name": "Ariel X",
-      "person_id": 10464
+      "name": "Bryn Blayne",
+      "person_id": 36234
+    },
+    {
+      "name": "Penny Barber",
+      "person_id": 6664
     }
   ],
   "release_date": "2012-06-12",

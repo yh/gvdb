@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Princess Donna Dolore",
-      "person_id": 5235
-    },
-    {
       "name": "Ivy Mokhov",
       "person_id": 20321
+    },
+    {
+      "name": "Princess Donna Dolore",
+      "person_id": 5235
     }
   ],
   "release_date": "2009-07-23",

@@ -5,12 +5,12 @@
   "description": "Triumvirate: Soccer Camp 2",
   "models": [
     {
-      "name": "Steeve Sanders",
-      "person_id": 29460
-    },
-    {
       "name": "Ray Renfro",
       "person_id": 29585
+    },
+    {
+      "name": "Steeve Sanders",
+      "person_id": 29460
     }
   ],
   "release_date": "2004-01-14",

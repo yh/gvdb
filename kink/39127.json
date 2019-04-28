@@ -11,18 +11,6 @@
   ],
   "models": [
     {
-      "name": "John Strong",
-      "person_id": 17050
-    },
-    {
-      "name": "Marco Banderas",
-      "person_id": 27958
-    },
-    {
-      "name": "Mark Wood",
-      "person_id": 31058
-    },
-    {
       "name": "Bradley Remington",
       "person_id": 56736
     },
@@ -31,8 +19,20 @@
       "person_id": 53344
     },
     {
+      "name": "John Strong",
+      "person_id": 17050
+    },
+    {
       "name": "Layla Price",
       "person_id": 48143
+    },
+    {
+      "name": "Marco Banderas",
+      "person_id": 27958
+    },
+    {
+      "name": "Mark Wood",
+      "person_id": 31058
     }
   ],
   "release_date": "2015-11-04",

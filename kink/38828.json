@@ -11,8 +11,8 @@
   ],
   "models": [
     {
-      "name": "Virginia Tunnels",
-      "person_id": 58187
+      "name": "Bill Bailey",
+      "person_id": 46601
     },
     {
       "name": "Bradley Remington",
@@ -23,16 +23,16 @@
       "person_id": 17050
     },
     {
-      "name": "Mark Wood",
-      "person_id": 31058
-    },
-    {
       "name": "Marco Banderas",
       "person_id": 27958
     },
     {
-      "name": "Bill Bailey",
-      "person_id": 46601
+      "name": "Mark Wood",
+      "person_id": 31058
+    },
+    {
+      "name": "Virginia Tunnels",
+      "person_id": 58187
     }
   ],
   "release_date": "2015-11-25",

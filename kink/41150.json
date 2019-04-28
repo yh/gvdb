@@ -11,10 +11,6 @@
   ],
   "models": [
     {
-      "name": "Cheyenne Jewel",
-      "person_id": 22734
-    },
-    {
       "name": "Adley Rose",
       "person_id": 57261
     },
@@ -25,6 +21,10 @@
     {
       "name": "Ariel X",
       "person_id": 10464
+    },
+    {
+      "name": "Cheyenne Jewel",
+      "person_id": 22734
     },
     {
       "name": "Syd Blakovich",

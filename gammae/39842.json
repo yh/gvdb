@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Devin Moss",
-      "person_id": 20715
-    },
-    {
       "name": "Aydan Cruz",
       "person_id": 20719
+    },
+    {
+      "name": "Devin Moss",
+      "person_id": 20715
     }
   ],
   "release_date": "2009-10-15",

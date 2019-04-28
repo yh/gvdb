@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Lew Rubens",
-      "person_id": 1441
-    },
-    {
       "name": "Jenni Lee",
       "person_id": 1358
+    },
+    {
+      "name": "Lew Rubens",
+      "person_id": 1441
     }
   ],
   "release_date": "2004-02-17",

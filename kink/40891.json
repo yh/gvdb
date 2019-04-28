@@ -6,20 +6,20 @@
   "directors": [],
   "models": [
     {
-      "name": "Steve Holmes",
-      "person_id": 15810
+      "name": "Gemma Gomory",
+      "person_id": 60020
     },
     {
       "name": "Joel Tomas",
       "person_id": 60000
     },
     {
-      "name": "Gemma Gomory",
-      "person_id": 60020
-    },
-    {
       "name": "Silvia Rubi",
       "person_id": 57227
+    },
+    {
+      "name": "Steve Holmes",
+      "person_id": 15810
     }
   ],
   "release_date": "2017-01-23",

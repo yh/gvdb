@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Daisy Lee",
-      "person_id": 60458
-    },
-    {
       "name": "Ar",
       "person_id": 60282
+    },
+    {
+      "name": "Daisy Lee",
+      "person_id": 60458
     }
   ],
   "release_date": "2018-09-19",

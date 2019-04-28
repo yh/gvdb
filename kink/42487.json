@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Pierce Paris",
-      "person_id": 56974
-    },
-    {
       "name": "Christian Wilde",
       "person_id": 21037
+    },
+    {
+      "name": "Pierce Paris",
+      "person_id": 56974
     }
   ],
   "release_date": "2017-08-31",

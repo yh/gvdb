@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Miki Love",
-      "person_id": 60470
-    },
-    {
       "name": "Ar",
       "person_id": 60282
+    },
+    {
+      "name": "Miki Love",
+      "person_id": 60470
     }
   ],
   "release_date": "2018-07-25",

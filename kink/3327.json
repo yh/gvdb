@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
+      "name": "James",
+      "person_id": 10539
+    },
+    {
       "name": "Sandra Romain",
       "person_id": 10239
     },
     {
       "name": "mini",
       "person_id": 7361
-    },
-    {
-      "name": "James",
-      "person_id": 10539
     }
   ],
   "release_date": "2005-12-29",

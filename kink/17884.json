@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "The Pope",
-      "person_id": 27779
-    },
-    {
       "name": "Beretta James",
       "person_id": 33659
+    },
+    {
+      "name": "The Pope",
+      "person_id": 27779
     }
   ],
   "release_date": "2012-07-20",

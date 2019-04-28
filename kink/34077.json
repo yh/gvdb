@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Phoenix Marie",
-      "person_id": 17093
-    },
-    {
       "name": "Mr. Pete",
       "person_id": 16823
+    },
+    {
+      "name": "Phoenix Marie",
+      "person_id": 17093
     }
   ],
   "release_date": "2013-10-25",

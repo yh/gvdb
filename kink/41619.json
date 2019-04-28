@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Morgan Bailey",
-      "person_id": 19660
-    },
-    {
       "name": "Corbin Dallas",
       "person_id": 51921
+    },
+    {
+      "name": "Morgan Bailey",
+      "person_id": 19660
     }
   ],
   "release_date": "2017-02-14",

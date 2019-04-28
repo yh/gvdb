@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Wolf Hudson",
-      "person_id": 14471
-    },
-    {
       "name": "Kimberly Kane",
       "person_id": 10900
+    },
+    {
+      "name": "Wolf Hudson",
+      "person_id": 14471
     }
   ],
   "release_date": "2011-06-13",

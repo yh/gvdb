@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Silas O'Hara",
-      "person_id": 46143
-    },
-    {
       "name": "Andrew Fitch",
       "person_id": 50089
     },
     {
       "name": "Jay Cloud",
       "person_id": 50116
+    },
+    {
+      "name": "Silas O'Hara",
+      "person_id": 46143
     }
   ],
   "release_date": "2013-09-13",

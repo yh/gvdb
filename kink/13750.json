@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sophie Monroe",
-      "person_id": 20940
-    },
-    {
       "name": "Mark Davis",
       "person_id": 8200
+    },
+    {
+      "name": "Sophie Monroe",
+      "person_id": 20940
     }
   ],
   "release_date": "2011-06-15",

@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Jake Jammer",
-      "person_id": 32751
-    },
-    {
       "name": "Ian Levine",
       "person_id": 32752
+    },
+    {
+      "name": "Jake Jammer",
+      "person_id": 32751
     }
   ],
   "release_date": "2014-01-22",

@@ -15,24 +15,24 @@
       "person_id": 8935
     },
     {
-      "name": "Ramon Nomar",
-      "person_id": 35412
+      "name": "Karlo Karrera",
+      "person_id": 35221
     },
     {
       "name": "Nicole Rider",
       "person_id": 39423
     },
     {
-      "name": "Toni Ribas",
-      "person_id": 38962
-    },
-    {
-      "name": "Karlo Karrera",
-      "person_id": 35221
-    },
-    {
       "name": "Owen Gray",
       "person_id": 39181
+    },
+    {
+      "name": "Ramon Nomar",
+      "person_id": 35412
+    },
+    {
+      "name": "Toni Ribas",
+      "person_id": 38962
     }
   ],
   "release_date": "2012-04-18",

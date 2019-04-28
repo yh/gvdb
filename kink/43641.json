@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Ruckus",
-      "person_id": 48209
-    },
-    {
       "name": "Joanna Angel",
       "person_id": 61458
+    },
+    {
+      "name": "Ruckus",
+      "person_id": 48209
     }
   ],
   "release_date": "2018-10-23",

@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Chloe Cherry",
+      "person_id": 60066
+    },
+    {
       "name": "Lyra Law",
       "person_id": 58708
     },
     {
       "name": "Steve Holmes",
       "person_id": 15810
-    },
-    {
-      "name": "Chloe Cherry",
-      "person_id": 60066
     }
   ],
   "release_date": "2017-03-24",

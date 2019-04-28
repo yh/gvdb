@@ -9,20 +9,20 @@
       "person_id": 20777
     },
     {
-      "name": "Larry Packa",
-      "person_id": 20932
-    },
-    {
       "name": "Jack Mecs",
       "person_id": 20929
     },
     {
-      "name": "Tim Brensen",
-      "person_id": 20930
+      "name": "Larry Packa",
+      "person_id": 20932
     },
     {
       "name": "Rick Bauer",
       "person_id": 20931
+    },
+    {
+      "name": "Tim Brensen",
+      "person_id": 20930
     }
   ],
   "release_date": "1998-04-18",

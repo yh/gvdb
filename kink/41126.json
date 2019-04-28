@@ -6,20 +6,20 @@
   "directors": [],
   "models": [
     {
-      "name": "Steve Holmes",
-      "person_id": 15810
-    },
-    {
-      "name": "Sandra Romain",
-      "person_id": 10239
+      "name": "Naomi",
+      "person_id": 60230
     },
     {
       "name": "RAM",
       "person_id": 20259
     },
     {
-      "name": "Naomi",
-      "person_id": 60230
+      "name": "Sandra Romain",
+      "person_id": 10239
+    },
+    {
+      "name": "Steve Holmes",
+      "person_id": 15810
     }
   ],
   "release_date": "2017-05-01",

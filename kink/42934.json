@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Dahlia Sky",
-      "person_id": 45819
-    },
-    {
       "name": "Chanel Preston",
       "person_id": 26542
+    },
+    {
+      "name": "Dahlia Sky",
+      "person_id": 45819
     }
   ],
   "release_date": "2018-06-08",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kelli Lox",
-      "person_id": 37743
-    },
-    {
       "name": "Barbary Rose",
       "person_id": 54183
+    },
+    {
+      "name": "Kelli Lox",
+      "person_id": 37743
     }
   ],
   "release_date": "2016-04-22",

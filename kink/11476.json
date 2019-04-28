@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Kimberly Kane",
-      "person_id": 10900
-    },
-    {
       "name": "Brenn Wyson",
       "person_id": 19912
     },
     {
       "name": "DJ",
       "person_id": 20225
+    },
+    {
+      "name": "Kimberly Kane",
+      "person_id": 10900
     }
   ],
   "release_date": "2011-01-19",

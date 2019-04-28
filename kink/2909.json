@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sydnee Capri",
-      "person_id": 6399
-    },
-    {
       "name": "Lain Oi",
       "person_id": 8446
+    },
+    {
+      "name": "Sydnee Capri",
+      "person_id": 6399
     }
   ],
   "release_date": "2005-05-20",

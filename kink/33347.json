@@ -11,24 +11,24 @@
   ],
   "models": [
     {
-      "name": "Van Darkholme",
-      "person_id": 15862
+      "name": "Alessio Romero",
+      "person_id": 20463
     },
     {
       "name": "Christian Wilde",
       "person_id": 21037
     },
     {
+      "name": "Hayden Richards",
+      "person_id": 47285
+    },
+    {
       "name": "Jessie Colter",
       "person_id": 34311
     },
     {
-      "name": "Alessio Romero",
-      "person_id": 20463
-    },
-    {
-      "name": "Hayden Richards",
-      "person_id": 47285
+      "name": "Van Darkholme",
+      "person_id": 15862
     }
   ],
   "release_date": "2013-10-17",

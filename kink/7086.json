@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Luke Riley",
-      "person_id": 18736
-    },
-    {
       "name": "Chad Manning",
       "person_id": 18618
+    },
+    {
+      "name": "Luke Riley",
+      "person_id": 18736
     }
   ],
   "release_date": "2009-10-01",

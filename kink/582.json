@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sharon Wild",
-      "person_id": 188
-    },
-    {
       "name": "Kym Wilde",
       "person_id": 99
+    },
+    {
+      "name": "Sharon Wild",
+      "person_id": 188
     }
   ],
   "release_date": "2002-06-26",

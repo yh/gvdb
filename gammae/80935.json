@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Darin Silvers",
-      "person_id": 27992
-    },
-    {
       "name": "Alessio Romero",
       "person_id": 28032
+    },
+    {
+      "name": "Darin Silvers",
+      "person_id": 27992
     }
   ],
   "release_date": "2016-01-22",

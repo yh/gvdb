@@ -5,12 +5,12 @@
   "description": "I called the local stripper service last night and was astonished to see my buddy Frank at the door. I havent't seen him in months. He looked amazingly buffed and had that killer smile on his face that makes me want to kiss him so bad. I got a lot more than the striptease I paid for...",
   "models": [
     {
-      "name": "Pascal",
-      "person_id": 32430
-    },
-    {
       "name": "Frank T",
       "person_id": 32461
+    },
+    {
+      "name": "Pascal",
+      "person_id": 32430
     }
   ],
   "release_date": "2009-07-31",

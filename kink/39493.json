@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nikki Darling",
-      "person_id": 42508
-    },
-    {
       "name": "Anna Tyler",
       "person_id": 59049
+    },
+    {
+      "name": "Nikki Darling",
+      "person_id": 42508
     }
   ],
   "release_date": "2016-03-04",

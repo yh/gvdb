@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Patrick Rouge",
-      "person_id": 18939
-    },
-    {
       "name": "Master Avery",
       "person_id": 24956
+    },
+    {
+      "name": "Patrick Rouge",
+      "person_id": 18939
     }
   ],
   "release_date": "2011-01-20",

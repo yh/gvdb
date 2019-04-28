@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
+      "name": "Damian",
+      "person_id": 21289
+    },
+    {
       "name": "Nubius",
       "person_id": 21196
     },
     {
       "name": "Race Cooper",
       "person_id": 21216
-    },
-    {
-      "name": "Damian",
-      "person_id": 21289
     }
   ],
   "release_date": "2012-11-08",

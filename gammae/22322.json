@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Sean Davis",
-      "person_id": 11905
-    },
-    {
       "name": "Mark West",
       "person_id": 11968
+    },
+    {
+      "name": "Sean Davis",
+      "person_id": 11905
     }
   ],
   "release_date": "2005-10-01",

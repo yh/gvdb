@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Annie Cruz",
-      "person_id": 7776
-    },
-    {
       "name": "Aiden Starr",
       "person_id": 11489
+    },
+    {
+      "name": "Annie Cruz",
+      "person_id": 7776
     }
   ],
   "release_date": "2017-10-11",

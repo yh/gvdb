@@ -5,12 +5,12 @@
   "description": "Curtis. Darius. Vander.\nAll I am gonna say is, this is an amazing way to End/Start the Year!\nIt's a big file, but there was so much good stuff happening, that it is likely the longest video to hit the site.\nWorth every second!\nHappy New Year!",
   "models": [
     {
-      "name": "Darius",
-      "person_id": 3435
-    },
-    {
       "name": "Curtis",
       "person_id": 3406
+    },
+    {
+      "name": "Darius",
+      "person_id": 3435
     },
     {
       "name": "Vander",

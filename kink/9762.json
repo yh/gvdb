@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sebastian Keys",
-      "person_id": 20316
-    },
-    {
       "name": "Paul Wagner",
       "person_id": 21443
+    },
+    {
+      "name": "Sebastian Keys",
+      "person_id": 20316
     }
   ],
   "release_date": "2010-09-22",

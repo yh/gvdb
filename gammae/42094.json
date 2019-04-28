@@ -5,12 +5,8 @@
   "description": "",
   "models": [
     {
-      "name": "Trey Casteel",
-      "person_id": 19788
-    },
-    {
-      "name": "Xerxes",
-      "person_id": 21746
+      "name": "Brendan Davies",
+      "person_id": 21745
     },
     {
       "name": "Brock Hatcher",
@@ -21,8 +17,12 @@
       "person_id": 21744
     },
     {
-      "name": "Brendan Davies",
-      "person_id": 21745
+      "name": "Trey Casteel",
+      "person_id": 19788
+    },
+    {
+      "name": "Xerxes",
+      "person_id": 21746
     }
   ],
   "release_date": "2007-04-01",

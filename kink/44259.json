@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Kristen Scott",
-      "person_id": 60734
-    },
-    {
       "name": "Chad White",
       "person_id": 46541
+    },
+    {
+      "name": "Kristen Scott",
+      "person_id": 60734
     }
   ],
   "release_date": "2019-02-01",

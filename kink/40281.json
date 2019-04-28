@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Veruca James",
-      "person_id": 43570
-    },
-    {
       "name": "Charlotte Sartre",
       "person_id": 57874
+    },
+    {
+      "name": "Veruca James",
+      "person_id": 43570
     }
   ],
   "release_date": "2016-06-03",

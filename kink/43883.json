@@ -10,12 +10,12 @@
       "person_id": 60339
     },
     {
-      "name": "Hans im Glueck",
-      "person_id": 61549
-    },
-    {
       "name": "Giada Da Vinci",
       "person_id": 61548
+    },
+    {
+      "name": "Hans im Glueck",
+      "person_id": 61549
     }
   ],
   "release_date": "2018-10-05",

@@ -11,10 +11,6 @@
   ],
   "models": [
     {
-      "name": "Maitresse Madeline Marlowe",
-      "person_id": 17872
-    },
-    {
       "name": "Jack Thunda",
       "person_id": 29198
     },
@@ -25,6 +21,10 @@
     {
       "name": "Jessie Sparkles",
       "person_id": 27566
+    },
+    {
+      "name": "Maitresse Madeline Marlowe",
+      "person_id": 17872
     }
   ],
   "release_date": "2011-02-23",

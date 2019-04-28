@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sloane Soleil",
-      "person_id": 22611
-    },
-    {
       "name": "Princess Donna Dolore",
       "person_id": 5235
+    },
+    {
+      "name": "Sloane Soleil",
+      "person_id": 22611
     }
   ],
   "release_date": "2010-12-16",

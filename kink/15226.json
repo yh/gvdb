@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Amy Brooke",
+      "person_id": 24422
+    },
+    {
       "name": "James Deen",
       "person_id": 8935
     },
     {
       "name": "Krissy Lynn",
       "person_id": 19730
-    },
-    {
-      "name": "Amy Brooke",
-      "person_id": 24422
     }
   ],
   "release_date": "2011-10-04",

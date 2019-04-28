@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Derrick Pierce",
+      "person_id": 14403
+    },
+    {
       "name": "Iona Grace",
       "person_id": 25204
     },
     {
       "name": "Krysta Kaos",
       "person_id": 25624
-    },
-    {
-      "name": "Derrick Pierce",
-      "person_id": 14403
     }
   ],
   "release_date": "2011-08-31",

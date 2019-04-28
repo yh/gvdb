@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Christina Aguchi",
-      "person_id": 12919
-    },
-    {
       "name": "Alexa Von Tess",
       "person_id": 12340
+    },
+    {
+      "name": "Christina Aguchi",
+      "person_id": 12919
     }
   ],
   "release_date": "2007-05-15",

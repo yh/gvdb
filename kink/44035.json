@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Sadie Holmes",
-      "person_id": 45655
-    },
-    {
       "name": "Lexi Foxy",
       "person_id": 61319
+    },
+    {
+      "name": "Sadie Holmes",
+      "person_id": 45655
     }
   ],
   "release_date": "2018-12-04",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sophie Dee",
-      "person_id": 19770
-    },
-    {
       "name": "Chad Rock",
       "person_id": 14593
+    },
+    {
+      "name": "Sophie Dee",
+      "person_id": 19770
     }
   ],
   "release_date": "2011-02-09",

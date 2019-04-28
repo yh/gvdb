@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Carla Cox",
-      "person_id": 18168
-    },
-    {
       "name": "Ar",
       "person_id": 60282
+    },
+    {
+      "name": "Carla Cox",
+      "person_id": 18168
     }
   ],
   "release_date": "2017-06-16",

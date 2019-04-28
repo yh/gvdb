@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Lady Lydia McLane",
-      "person_id": 10302
-    },
-    {
       "name": "Ed Stone",
       "person_id": 6100
     },
     {
       "name": "James",
       "person_id": 10539
+    },
+    {
+      "name": "Lady Lydia McLane",
+      "person_id": 10302
     }
   ],
   "release_date": "2006-02-01",

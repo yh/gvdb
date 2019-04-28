@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tony Orlando",
-      "person_id": 48907
-    },
-    {
       "name": "Jessica Ryan",
       "person_id": 51474
+    },
+    {
+      "name": "Tony Orlando",
+      "person_id": 48907
     }
   ],
   "release_date": "2017-04-28",

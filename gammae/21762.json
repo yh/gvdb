@@ -5,16 +5,12 @@
   "description": "Featuring Matthew Rush, Braxton Bond, Roman Heart, Mason Wyler, Tyler Saint, Dallas Reeves and Eric Blaine.",
   "models": [
     {
-      "name": "Matthew Rush",
-      "person_id": 11036
+      "name": "Braxton Bond",
+      "person_id": 12890
     },
     {
-      "name": "Tyler Saint",
-      "person_id": 11799
-    },
-    {
-      "name": "Roman Heart",
-      "person_id": 11368
+      "name": "Dallas Reeves",
+      "person_id": 11770
     },
     {
       "name": "Eric Blaine",
@@ -25,12 +21,16 @@
       "person_id": 11577
     },
     {
-      "name": "Braxton Bond",
-      "person_id": 12890
+      "name": "Matthew Rush",
+      "person_id": 11036
     },
     {
-      "name": "Dallas Reeves",
-      "person_id": 11770
+      "name": "Roman Heart",
+      "person_id": 11368
+    },
+    {
+      "name": "Tyler Saint",
+      "person_id": 11799
     }
   ],
   "release_date": "2007-12-21",

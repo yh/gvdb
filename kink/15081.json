@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Phenix Saint",
-      "person_id": 21202
-    },
-    {
       "name": "Kyle Quinn",
       "person_id": 31285
+    },
+    {
+      "name": "Phenix Saint",
+      "person_id": 21202
     }
   ],
   "release_date": "2011-09-29",

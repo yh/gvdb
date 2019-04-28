@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Mona Wales",
-      "person_id": 51511
-    },
-    {
       "name": "Marta La Croft",
       "person_id": 57763
+    },
+    {
+      "name": "Mona Wales",
+      "person_id": 51511
     },
     {
       "name": "Xavi Tralla",

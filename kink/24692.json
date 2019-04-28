@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lorelei Lee",
-      "person_id": 758
-    },
-    {
       "name": "Kristine Kahill",
       "person_id": 35343
+    },
+    {
+      "name": "Lorelei Lee",
+      "person_id": 758
     },
     {
       "name": "Mark Wood",

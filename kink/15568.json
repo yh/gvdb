@@ -11,28 +11,28 @@
   ],
   "models": [
     {
-      "name": "Tia Ling",
-      "person_id": 17361
-    },
-    {
       "name": "Dirk Huge",
       "person_id": 35068
-    },
-    {
-      "name": "Lucas Stone",
-      "person_id": 35067
     },
     {
       "name": "Jack Napier",
       "person_id": 35069
     },
     {
-      "name": "Tee Reel",
-      "person_id": 31096
+      "name": "Lucas Stone",
+      "person_id": 35067
     },
     {
       "name": "Rico Strong",
       "person_id": 30846
+    },
+    {
+      "name": "Tee Reel",
+      "person_id": 31096
+    },
+    {
+      "name": "Tia Ling",
+      "person_id": 17361
     }
   ],
   "release_date": "2011-11-30",

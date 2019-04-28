@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Mitch Vaughn",
-      "person_id": 35274
-    },
-    {
       "name": "Kory Houston",
       "person_id": 60593
+    },
+    {
+      "name": "Mitch Vaughn",
+      "person_id": 35274
     }
   ],
   "release_date": "2017-07-26",

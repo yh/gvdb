@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Van Darkholme",
-      "person_id": 15862
-    },
-    {
-      "name": "Josh West",
-      "person_id": 20861
+      "name": "Dominic Pacifico",
+      "person_id": 14892
     },
     {
       "name": "Dylan Deap",
       "person_id": 21477
     },
     {
-      "name": "Dominic Pacifico",
-      "person_id": 14892
+      "name": "Josh West",
+      "person_id": 20861
+    },
+    {
+      "name": "Van Darkholme",
+      "person_id": 15862
     }
   ],
   "release_date": "2012-01-05",

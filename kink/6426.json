@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Penny Flame",
-      "person_id": 6345
-    },
-    {
       "name": "Alrik Angel",
       "person_id": 18176
+    },
+    {
+      "name": "Penny Flame",
+      "person_id": 6345
     }
   ],
   "release_date": "2011-03-07",

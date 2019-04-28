@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Janos Volt",
-      "person_id": 20756
-    },
-    {
       "name": "Istvan Kerekes",
       "person_id": 20769
+    },
+    {
+      "name": "Janos Volt",
+      "person_id": 20756
     }
   ],
   "release_date": "1998-03-11",

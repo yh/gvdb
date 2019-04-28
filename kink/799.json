@@ -3,20 +3,15 @@
     "Butt Machine Boys"
   ],
   "description": "Grant goes down the wrong alley and finds himself with Perry. Perry locks him up and has his way with him, until Grant wises up and literally gets pissed off.",
-  "directors": [
-    {
-      "name": "Biff Cocblocer",
-      "person_id": 7031
-    }
-  ],
+  "directors": [],
   "models": [
-    {
-      "name": "Perry A. Waters",
-      "person_id": 368
-    },
     {
       "name": "Grant",
       "person_id": 724
+    },
+    {
+      "name": "Perry A. Waters",
+      "person_id": 368
     }
   ],
   "release_date": "2002-12-10",

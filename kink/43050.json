@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "John Magnum",
-      "person_id": 20528
-    },
-    {
       "name": "Angelo Marconi",
       "person_id": 60445
+    },
+    {
+      "name": "John Magnum",
+      "person_id": 20528
     }
   ],
   "release_date": "2017-12-13",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Gavin Waters",
-      "person_id": 26008
-    },
-    {
       "name": "Christian Wilde",
       "person_id": 21037
+    },
+    {
+      "name": "Gavin Waters",
+      "person_id": 26008
     }
   ],
   "release_date": "2011-04-08",

@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Sandra Romain",
-      "person_id": 10239
-    },
-    {
       "name": "Daac Ramsey",
       "person_id": 15390
+    },
+    {
+      "name": "Sandra Romain",
+      "person_id": 10239
     }
   ],
   "release_date": "2015-02-20",

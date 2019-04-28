@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Casey Calvert",
-      "person_id": 36437
-    },
-    {
       "name": "Ariel X",
       "person_id": 10464
+    },
+    {
+      "name": "Casey Calvert",
+      "person_id": 36437
     }
   ],
   "release_date": "2013-11-12",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sammie Rhodes",
-      "person_id": 12675
-    },
-    {
       "name": "DragonLily",
       "person_id": 3433
+    },
+    {
+      "name": "Sammie Rhodes",
+      "person_id": 12675
     }
   ],
   "release_date": "2007-01-30",

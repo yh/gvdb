@@ -11,28 +11,28 @@
   ],
   "models": [
     {
-      "name": "Mr. Pete",
-      "person_id": 16823
+      "name": "Audrey Rose",
+      "person_id": 31792
     },
     {
       "name": "GoodBlackJohn",
       "person_id": 34997
     },
     {
-      "name": "Karlo Karrera",
-      "person_id": 35221
-    },
-    {
-      "name": "Audrey Rose",
-      "person_id": 31792
-    },
-    {
       "name": "Henry Jacob",
       "person_id": 33551
     },
     {
+      "name": "Karlo Karrera",
+      "person_id": 35221
+    },
+    {
       "name": "Mickey Mod",
       "person_id": 19623
+    },
+    {
+      "name": "Mr. Pete",
+      "person_id": 16823
     }
   ],
   "release_date": "2011-11-23",

@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Tex Davidson",
-      "person_id": 58182
-    },
-    {
       "name": "Angelo Marconi",
       "person_id": 60445
+    },
+    {
+      "name": "Tex Davidson",
+      "person_id": 58182
     }
   ],
   "release_date": "2018-01-03",

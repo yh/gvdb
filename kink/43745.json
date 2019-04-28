@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Conrad Logun",
-      "person_id": 52161
-    },
-    {
       "name": "Anthony London",
       "person_id": 60441
+    },
+    {
+      "name": "Conrad Logun",
+      "person_id": 52161
     }
   ],
   "release_date": "2018-08-15",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tia Ling",
-      "person_id": 17361
-    },
-    {
       "name": "Annie Cruz",
       "person_id": 7776
+    },
+    {
+      "name": "Tia Ling",
+      "person_id": 17361
     }
   ],
   "release_date": "2009-05-12",

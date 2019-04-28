@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Rob Piper",
-      "person_id": 54778
-    },
-    {
       "name": "Nina Elle",
       "person_id": 61459
+    },
+    {
+      "name": "Rob Piper",
+      "person_id": 54778
     }
   ],
   "release_date": "2018-08-23",

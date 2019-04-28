@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Star",
-      "person_id": 2401
-    },
-    {
       "name": "Selina Minx",
       "person_id": 5183
+    },
+    {
+      "name": "Star",
+      "person_id": 2401
     }
   ],
   "release_date": "2004-07-22",

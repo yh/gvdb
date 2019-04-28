@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "TS Diana Hx.",
-      "person_id": 59787
-    },
-    {
       "name": "DJ",
       "person_id": 20225
+    },
+    {
+      "name": "TS Diana Hx.",
+      "person_id": 59787
     }
   ],
   "release_date": "2016-11-22",

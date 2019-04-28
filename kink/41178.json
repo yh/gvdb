@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Zane Anders",
-      "person_id": 55730
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
+    },
+    {
+      "name": "Zane Anders",
+      "person_id": 55730
     }
   ],
   "release_date": "2016-10-28",

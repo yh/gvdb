@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dee Williams",
-      "person_id": 4197
-    },
-    {
       "name": "Charisma Cappelli",
       "person_id": 36230
+    },
+    {
+      "name": "Dee Williams",
+      "person_id": 4197
     }
   ],
   "release_date": "2011-11-18",

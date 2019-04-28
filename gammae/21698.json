@@ -5,40 +5,40 @@
   "description": "",
   "models": [
     {
-      "name": "Ross Stuart",
-      "person_id": 10969
+      "name": "Dakota Rivers",
+      "person_id": 11136
     },
     {
       "name": "Derrick Vinyard",
       "person_id": 11316
     },
     {
-      "name": "Ralph Woods",
-      "person_id": 11579
-    },
-    {
-      "name": "Dakota Rivers",
-      "person_id": 11136
-    },
-    {
-      "name": "Pierre Fitch",
-      "person_id": 11511
-    },
-    {
-      "name": "Tyler Marks",
-      "person_id": 11286
-    },
-    {
-      "name": "Mason Wyler",
-      "person_id": 11577
+      "name": "Jeremy Hall",
+      "person_id": 11578
     },
     {
       "name": "Justin Wells",
       "person_id": 11303
     },
     {
-      "name": "Jeremy Hall",
-      "person_id": 11578
+      "name": "Mason Wyler",
+      "person_id": 11577
+    },
+    {
+      "name": "Pierre Fitch",
+      "person_id": 11511
+    },
+    {
+      "name": "Ralph Woods",
+      "person_id": 11579
+    },
+    {
+      "name": "Ross Stuart",
+      "person_id": 10969
+    },
+    {
+      "name": "Tyler Marks",
+      "person_id": 11286
     }
   ],
   "release_date": "2006-06-01",

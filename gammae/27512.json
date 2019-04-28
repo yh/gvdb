@@ -5,12 +5,12 @@
   "description": "Paul Wagner is not your typical muse, but in Hunter Vance's eyes, he's a masterpiece. Not that it really matters: truth be told, Hunter isn't much of an artist, but that isn't going to stop him from getting what he wants. Using the old \u201cmodel for me\u201d routine, Hunter has Paul in the perfect pose, but the gig is up when Paul sees Hunter's sketch, and realizes that Hunter is no Rembrandt. But it's ok, they can still paint a Pollock.     Enjoy!",
   "models": [
     {
-      "name": "Paul Wagner",
-      "person_id": 10462
-    },
-    {
       "name": "Hunter Vance",
       "person_id": 14352
+    },
+    {
+      "name": "Paul Wagner",
+      "person_id": 10462
     }
   ],
   "release_date": "2011-01-27",

@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Ariel X",
+      "person_id": 10464
+    },
+    {
       "name": "Gabriella Paltrova",
       "person_id": 41906
     },
     {
       "name": "Ryan Riesling",
       "person_id": 59367
-    },
-    {
-      "name": "Ariel X",
-      "person_id": 10464
     }
   ],
   "release_date": "2016-12-30",

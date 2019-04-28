@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Karrlie Dawn",
-      "person_id": 17608
-    },
-    {
       "name": "Ariel X",
       "person_id": 10464
+    },
+    {
+      "name": "Karrlie Dawn",
+      "person_id": 17608
     }
   ],
   "release_date": "2008-11-04",

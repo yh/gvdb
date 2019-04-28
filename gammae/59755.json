@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "James Hamilton",
-      "person_id": 27947
-    },
-    {
       "name": "Dylan Drive",
       "person_id": 28538
+    },
+    {
+      "name": "James Hamilton",
+      "person_id": 27947
     }
   ],
   "release_date": "2013-01-09",

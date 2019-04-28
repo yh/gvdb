@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jessie Colter",
-      "person_id": 34311
-    },
-    {
       "name": "Abel Archer",
       "person_id": 54503
+    },
+    {
+      "name": "Jessie Colter",
+      "person_id": 34311
     }
   ],
   "release_date": "2014-07-30",

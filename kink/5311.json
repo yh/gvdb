@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Sexy Jade",
-      "person_id": 14512
-    },
-    {
       "name": "Chad Rock",
       "person_id": 14593
+    },
+    {
+      "name": "Sexy Jade",
+      "person_id": 14512
     }
   ],
   "release_date": "2008-07-08",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Raven Rocket",
-      "person_id": 45170
-    },
-    {
       "name": "Lyla Storm",
       "person_id": 33882
+    },
+    {
+      "name": "Raven Rocket",
+      "person_id": 45170
     }
   ],
   "release_date": "2015-02-06",

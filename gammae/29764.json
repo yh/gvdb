@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Tristan Jaxx",
-      "person_id": 11781
-    },
-    {
       "name": "Ethan Roberts",
       "person_id": 13450
+    },
+    {
+      "name": "Tristan Jaxx",
+      "person_id": 11781
     }
   ],
   "release_date": "2010-05-23",

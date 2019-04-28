@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Jason Lee",
-      "person_id": 29907
-    },
-    {
       "name": "Adam Park",
       "person_id": 31238
+    },
+    {
+      "name": "Jason Lee",
+      "person_id": 29907
     }
   ],
   "release_date": "2013-08-02",

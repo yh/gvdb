@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Tyler Rush",
-      "person_id": 54465
-    },
-    {
       "name": "Rocco Steele",
       "person_id": 57575
     },
     {
       "name": "Ruckus",
       "person_id": 48209
+    },
+    {
+      "name": "Tyler Rush",
+      "person_id": 54465
     }
   ],
   "release_date": "2015-09-18",

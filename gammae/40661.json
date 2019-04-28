@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Julian Vincenzo",
-      "person_id": 20918
-    },
-    {
       "name": "Drago Lembeck",
       "person_id": 20991
+    },
+    {
+      "name": "Julian Vincenzo",
+      "person_id": 20918
     },
     {
       "name": "Robert Wild",

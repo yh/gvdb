@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Lilly Ligotage",
-      "person_id": 55115
-    },
-    {
       "name": "Bruno Dickemz",
       "person_id": 54328
+    },
+    {
+      "name": "Lilly Ligotage",
+      "person_id": 55115
     }
   ],
   "release_date": "2018-02-08",

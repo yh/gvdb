@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Isis Love",
-      "person_id": 6584
-    },
-    {
       "name": "Allison Moore",
       "person_id": 45299
+    },
+    {
+      "name": "Isis Love",
+      "person_id": 6584
     },
     {
       "name": "Veruca James",

@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Seda",
-      "person_id": 21745
+      "name": "Dana DeArmond",
+      "person_id": 4498
     },
     {
       "name": "Hollie Stevens",
       "person_id": 1572
     },
     {
-      "name": "Tommy Defendi",
-      "person_id": 20359
+      "name": "Seda",
+      "person_id": 21745
     },
     {
-      "name": "Dana DeArmond",
-      "person_id": 4498
+      "name": "Tommy Defendi",
+      "person_id": 20359
     }
   ],
   "release_date": "2010-05-12",

@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Xander Corvus",
-      "person_id": 46000
+      "name": "Draven Star",
+      "person_id": 59131
     },
     {
       "name": "Lily Lane",
       "person_id": 50199
     },
     {
-      "name": "Draven Star",
-      "person_id": 59131
+      "name": "Xander Corvus",
+      "person_id": 46000
     }
   ],
   "release_date": "2016-10-28",

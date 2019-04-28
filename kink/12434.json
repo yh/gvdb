@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Girth Brooks",
-      "person_id": 25112
-    },
-    {
       "name": "Drake Jaden",
       "person_id": 19522
+    },
+    {
+      "name": "Girth Brooks",
+      "person_id": 25112
     }
   ],
   "release_date": "2011-04-15",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "The Pope",
-      "person_id": 27779
-    },
-    {
       "name": "Cheyenne Jewel",
       "person_id": 22734
+    },
+    {
+      "name": "The Pope",
+      "person_id": 27779
     }
   ],
   "release_date": "2017-08-17",

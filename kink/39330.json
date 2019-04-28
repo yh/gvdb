@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Charlotte Sartre",
+      "person_id": 57874
+    },
+    {
       "name": "Jessica Fox",
       "person_id": 17013
     },
     {
       "name": "Max Legend",
       "person_id": 58963
-    },
-    {
-      "name": "Charlotte Sartre",
-      "person_id": 57874
     }
   ],
   "release_date": "2015-12-02",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Race Cooper",
-      "person_id": 19341
-    },
-    {
       "name": "Jeremy Tyler",
       "person_id": 25417
+    },
+    {
+      "name": "Race Cooper",
+      "person_id": 19341
     }
   ],
   "release_date": "2011-03-16",

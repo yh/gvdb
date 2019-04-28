@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Zenza Raggi",
-      "person_id": 20195
-    },
-    {
       "name": "Niki Sweet",
       "person_id": 33639
+    },
+    {
+      "name": "Zenza Raggi",
+      "person_id": 20195
     }
   ],
   "release_date": "2011-09-30",

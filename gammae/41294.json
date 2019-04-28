@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Youngblood",
-      "person_id": 21351
-    },
-    {
       "name": "Sisco",
       "person_id": 21896
+    },
+    {
+      "name": "Youngblood",
+      "person_id": 21351
     }
   ],
   "release_date": "2012-08-02",

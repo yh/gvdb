@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
-      "name": "Michael Vincenzo",
-      "person_id": 19524
-    },
-    {
       "name": "Brendan Austen",
       "person_id": 19550
     },
     {
       "name": "Jerek",
       "person_id": 19754
+    },
+    {
+      "name": "Michael Vincenzo",
+      "person_id": 19524
     }
   ],
   "release_date": "2003-11-01",

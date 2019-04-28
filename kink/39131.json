@@ -11,24 +11,24 @@
   ],
   "models": [
     {
-      "name": "Mike Panic",
-      "person_id": 41034
-    },
-    {
-      "name": "Jay West",
-      "person_id": 53166
-    },
-    {
-      "name": "Veruca James",
-      "person_id": 43570
+      "name": "Bella Rossi",
+      "person_id": 18418
     },
     {
       "name": "Cherry Torn",
       "person_id": 11105
     },
     {
-      "name": "Bella Rossi",
-      "person_id": 18418
+      "name": "Jay West",
+      "person_id": 53166
+    },
+    {
+      "name": "Mike Panic",
+      "person_id": 41034
+    },
+    {
+      "name": "Veruca James",
+      "person_id": 43570
     }
   ],
   "release_date": "2015-10-30",

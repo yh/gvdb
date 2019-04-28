@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Jason Crew",
-      "person_id": 19624
-    },
-    {
       "name": "Ethan Roberts",
       "person_id": 19792
+    },
+    {
+      "name": "Jason Crew",
+      "person_id": 19624
     }
   ],
   "release_date": "2010-03-18",

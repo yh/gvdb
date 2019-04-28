@@ -11,6 +11,10 @@
   ],
   "models": [
     {
+      "name": "Alexa Von Tess",
+      "person_id": 12340
+    },
+    {
       "name": "Amber Rayne",
       "person_id": 12631
     },
@@ -21,10 +25,6 @@
     {
       "name": "Wenona",
       "person_id": 4485
-    },
-    {
-      "name": "Alexa Von Tess",
-      "person_id": 12340
     }
   ],
   "release_date": "2008-09-26",

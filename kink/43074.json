@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Savannah Fox",
-      "person_id": 47440
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
+    },
+    {
+      "name": "Savannah Fox",
+      "person_id": 47440
     }
   ],
   "release_date": "2018-02-09",

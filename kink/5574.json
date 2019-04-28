@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Vendetta",
-      "person_id": 8300
-    },
-    {
       "name": "Claire Adams",
       "person_id": 378
+    },
+    {
+      "name": "Vendetta",
+      "person_id": 8300
     }
   ],
   "release_date": "2008-07-29",

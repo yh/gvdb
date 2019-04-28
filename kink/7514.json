@@ -11,24 +11,24 @@
   ],
   "models": [
     {
-      "name": "James Deen",
-      "person_id": 8935
+      "name": "Charley Chase",
+      "person_id": 16304
     },
     {
-      "name": "Miss Jade Indica",
-      "person_id": 16744
+      "name": "James Deen",
+      "person_id": 8935
     },
     {
       "name": "John Henry",
       "person_id": 20655
     },
     {
-      "name": "Mr. Pete",
-      "person_id": 16823
+      "name": "Miss Jade Indica",
+      "person_id": 16744
     },
     {
-      "name": "Charley Chase",
-      "person_id": 16304
+      "name": "Mr. Pete",
+      "person_id": 16823
     }
   ],
   "release_date": "2011-10-11",

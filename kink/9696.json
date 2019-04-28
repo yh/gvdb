@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Paul Wagner",
-      "person_id": 21443
-    },
-    {
       "name": "James Gates",
       "person_id": 25013
+    },
+    {
+      "name": "Paul Wagner",
+      "person_id": 21443
     }
   ],
   "release_date": "2015-05-20",

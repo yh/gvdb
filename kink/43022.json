@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Cheyenne Jewel",
-      "person_id": 22734
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
+    },
+    {
+      "name": "Cheyenne Jewel",
+      "person_id": 22734
     }
   ],
   "release_date": "2018-01-24",

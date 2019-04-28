@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kat",
-      "person_id": 323
-    },
-    {
       "name": "Cowgirl",
       "person_id": 110
+    },
+    {
+      "name": "Kat",
+      "person_id": 323
     }
   ],
   "release_date": "2002-08-02",

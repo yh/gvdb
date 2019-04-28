@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Derek Parker",
-      "person_id": 44396
-    },
-    {
       "name": "Adam Bryant",
       "person_id": 60702
+    },
+    {
+      "name": "Derek Parker",
+      "person_id": 44396
     }
   ],
   "release_date": "2018-11-27",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Savannah Fox",
-      "person_id": 47440
-    },
-    {
       "name": "Dee Williams",
       "person_id": 4197
+    },
+    {
+      "name": "Savannah Fox",
+      "person_id": 47440
     }
   ],
   "release_date": "2016-01-01",

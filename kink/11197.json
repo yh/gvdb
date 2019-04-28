@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Kiera King",
+      "person_id": 19571
+    },
+    {
       "name": "Lorelei Lee",
       "person_id": 758
     },
     {
       "name": "Nika Noire",
       "person_id": 17418
-    },
-    {
-      "name": "Kiera King",
-      "person_id": 19571
     }
   ],
   "release_date": "2010-11-22",

@@ -6,8 +6,8 @@
   "directors": [],
   "models": [
     {
-      "name": "Steve Holmes",
-      "person_id": 15810
+      "name": "Aragne Spicy",
+      "person_id": 60070
     },
     {
       "name": "Juan Lucho",
@@ -18,8 +18,8 @@
       "person_id": 57227
     },
     {
-      "name": "Aragne Spicy",
-      "person_id": 60070
+      "name": "Steve Holmes",
+      "person_id": 15810
     }
   ],
   "release_date": "2017-02-06",

@@ -11,16 +11,12 @@
   ],
   "models": [
     {
-      "name": "CiCi Rhodes",
-      "person_id": 33887
-    },
-    {
       "name": "Bobby Bends",
       "person_id": 22578
     },
     {
-      "name": "Tee Reel",
-      "person_id": 31096
+      "name": "CiCi Rhodes",
+      "person_id": 33887
     },
     {
       "name": "Jack Napier",
@@ -31,12 +27,16 @@
       "person_id": 39900
     },
     {
+      "name": "Mark Davis",
+      "person_id": 8200
+    },
+    {
       "name": "Rico Strong",
       "person_id": 30846
     },
     {
-      "name": "Mark Davis",
-      "person_id": 8200
+      "name": "Tee Reel",
+      "person_id": 31096
     }
   ],
   "release_date": "2012-04-11",

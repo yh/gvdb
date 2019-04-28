@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dirk Caber",
-      "person_id": 27341
-    },
-    {
       "name": "Billy Santoro",
       "person_id": 52181
+    },
+    {
+      "name": "Dirk Caber",
+      "person_id": 27341
     },
     {
       "name": "Hugh Hunter",

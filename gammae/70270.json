@@ -5,12 +5,12 @@
   "description": "He and Alex are always up to something it seems and tonight they've got another hot, nervous Marine in tow named Chris. Now when Mike sicks Alex on a newbie, things usually go for the good.",
   "models": [
     {
-      "name": "Chris MB",
-      "person_id": 35194
-    },
-    {
       "name": "Alex",
       "person_id": 35236
+    },
+    {
+      "name": "Chris MB",
+      "person_id": 35194
     }
   ],
   "release_date": "2012-10-17",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "James Jones",
-      "person_id": 18200
-    },
-    {
       "name": "Fabrizio Mangiatti",
       "person_id": 18199
+    },
+    {
+      "name": "James Jones",
+      "person_id": 18200
     },
     {
       "name": "Maurizio Mangiatti",

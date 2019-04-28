@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Aiden Starr",
+      "person_id": 11489
+    },
+    {
       "name": "Coral Aorta",
       "person_id": 38216
     },
     {
       "name": "Odile",
       "person_id": 33692
-    },
-    {
-      "name": "Aiden Starr",
-      "person_id": 11489
     }
   ],
   "release_date": "2013-03-22",

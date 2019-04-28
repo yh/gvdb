@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Charisma Cappelli",
-      "person_id": 36230
-    },
-    {
       "name": "Bill Bailey",
       "person_id": 46601
+    },
+    {
+      "name": "Charisma Cappelli",
+      "person_id": 36230
     }
   ],
   "release_date": "2018-11-01",

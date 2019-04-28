@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Josh West",
-      "person_id": 20861
-    },
-    {
       "name": "Cameron Adams",
       "person_id": 22338
+    },
+    {
+      "name": "Josh West",
+      "person_id": 20861
     },
     {
       "name": "Nick Moretti",

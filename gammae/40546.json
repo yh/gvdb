@@ -5,6 +5,10 @@
   "description": "",
   "models": [
     {
+      "name": "Akos Gazdag",
+      "person_id": 20812
+    },
+    {
       "name": "Isidore Nadas",
       "person_id": 20762
     },
@@ -13,16 +17,12 @@
       "person_id": 20861
     },
     {
-      "name": "Miklos O.",
-      "person_id": 20811
-    },
-    {
-      "name": "Akos Gazdag",
-      "person_id": 20812
-    },
-    {
       "name": "Laszlo V.",
       "person_id": 20817
+    },
+    {
+      "name": "Miklos O.",
+      "person_id": 20811
     }
   ],
   "release_date": "1998-03-18",

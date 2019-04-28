@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sean Spurt",
-      "person_id": 21434
-    },
-    {
       "name": "Maitresse Madeline Marlowe",
       "person_id": 17872
+    },
+    {
+      "name": "Sean Spurt",
+      "person_id": 21434
     }
   ],
   "release_date": "2013-02-20",

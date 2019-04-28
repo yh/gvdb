@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lea Lexis",
-      "person_id": 17836
-    },
-    {
       "name": "Jayogen",
       "person_id": 23291
+    },
+    {
+      "name": "Lea Lexis",
+      "person_id": 17836
     }
   ],
   "release_date": "2014-07-25",

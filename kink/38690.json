@@ -11,16 +11,8 @@
   ],
   "models": [
     {
-      "name": "Caramel Starr",
-      "person_id": 52144
-    },
-    {
-      "name": "Mark Wood",
-      "person_id": 31058
-    },
-    {
-      "name": "Owen Gray",
-      "person_id": 39181
+      "name": "Astral Dust",
+      "person_id": 43670
     },
     {
       "name": "Bill Bailey",
@@ -31,8 +23,16 @@
       "person_id": 56736
     },
     {
-      "name": "Astral Dust",
-      "person_id": 43670
+      "name": "Caramel Starr",
+      "person_id": 52144
+    },
+    {
+      "name": "Mark Wood",
+      "person_id": 31058
+    },
+    {
+      "name": "Owen Gray",
+      "person_id": 39181
     }
   ],
   "release_date": "2015-08-12",

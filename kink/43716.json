@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Petr Dizel",
-      "person_id": 60934
-    },
-    {
       "name": "Leny",
       "person_id": 60544
+    },
+    {
+      "name": "Petr Dizel",
+      "person_id": 60934
     }
   ],
   "release_date": "2018-08-02",

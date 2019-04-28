@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mitch Vaughn",
-      "person_id": 35274
-    },
-    {
       "name": "Beau Reed",
       "person_id": 58566
+    },
+    {
+      "name": "Mitch Vaughn",
+      "person_id": 35274
     }
   ],
   "release_date": "2015-09-30",

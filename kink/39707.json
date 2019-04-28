@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lea Lexis",
-      "person_id": 17836
-    },
-    {
       "name": "Juliette March",
       "person_id": 22072
+    },
+    {
+      "name": "Lea Lexis",
+      "person_id": 17836
     }
   ],
   "release_date": "2016-02-11",

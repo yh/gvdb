@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Johan Reves",
-      "person_id": 20911
-    },
-    {
       "name": "Carlo",
       "person_id": 21101
+    },
+    {
+      "name": "Johan Reves",
+      "person_id": 20911
     }
   ],
   "release_date": "1998-02-16",

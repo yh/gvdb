@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Jack Taylor",
-      "person_id": 60720
-    },
-    {
       "name": "Billy Rock",
       "person_id": 60721
+    },
+    {
+      "name": "Jack Taylor",
+      "person_id": 60720
     }
   ],
   "release_date": "2018-01-10",

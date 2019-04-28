@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mallory Knots",
-      "person_id": 587
-    },
-    {
       "name": "Lena Ramon",
       "person_id": 339
+    },
+    {
+      "name": "Mallory Knots",
+      "person_id": 587
     },
     {
       "name": "Sonya",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Vai",
-      "person_id": 15646
-    },
-    {
       "name": "Bobbi Starr",
       "person_id": 11290
+    },
+    {
+      "name": "Vai",
+      "person_id": 15646
     }
   ],
   "release_date": "2010-03-25",

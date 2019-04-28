@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mike Panic",
-      "person_id": 41034
-    },
-    {
       "name": "Cherry Torn",
       "person_id": 11105
+    },
+    {
+      "name": "Mike Panic",
+      "person_id": 41034
     }
   ],
   "release_date": "2015-11-27",

@@ -4,15 +4,15 @@
   ],
   "models": [
     {
-      "name": "Sean Blue",
-      "person_id": null
-    },
-    {
       "name": "Archer",
       "person_id": null
     },
     {
       "name": "Max Bredwell",
+      "person_id": null
+    },
+    {
+      "name": "Sean Blue",
       "person_id": null
     }
   ],

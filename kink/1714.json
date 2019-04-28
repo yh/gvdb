@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dana DeArmond",
-      "person_id": 4498
-    },
-    {
       "name": "Chanta-Rose",
       "person_id": 124
+    },
+    {
+      "name": "Dana DeArmond",
+      "person_id": 4498
     }
   ],
   "release_date": "2004-03-19",

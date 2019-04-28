@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lea Lexis",
-      "person_id": 17836
-    },
-    {
       "name": "Fallon West",
       "person_id": 56321
+    },
+    {
+      "name": "Lea Lexis",
+      "person_id": 17836
     },
     {
       "name": "Penny Barber",

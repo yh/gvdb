@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Vic Rocco",
-      "person_id": 33907
-    },
-    {
       "name": "Jon Galt",
       "person_id": 34090
+    },
+    {
+      "name": "Vic Rocco",
+      "person_id": 33907
     }
   ],
   "release_date": "2014-07-01",

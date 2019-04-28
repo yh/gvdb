@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lea Lexis",
-      "person_id": 17836
-    },
-    {
       "name": "Beretta James",
       "person_id": 33659
+    },
+    {
+      "name": "Lea Lexis",
+      "person_id": 17836
     }
   ],
   "release_date": "2015-03-05",

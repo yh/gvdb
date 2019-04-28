@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Syren de Mer",
-      "person_id": 43807
-    },
-    {
       "name": "Mickey Mod",
       "person_id": 19623
+    },
+    {
+      "name": "Syren de Mer",
+      "person_id": 43807
     }
   ],
   "release_date": "2014-11-07",

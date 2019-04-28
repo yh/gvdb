@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Jesse Santana",
-      "person_id": 19662
-    },
-    {
       "name": "Dylan Hyde",
       "person_id": 20666
+    },
+    {
+      "name": "Jesse Santana",
+      "person_id": 19662
     }
   ],
   "release_date": "2012-01-01",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Ariel Everitts",
-      "person_id": 14689
-    },
-    {
       "name": "Aaron Lee",
       "person_id": 17628
+    },
+    {
+      "name": "Ariel Everitts",
+      "person_id": 14689
     }
   ],
   "release_date": "2008-12-02",

@@ -5,16 +5,16 @@
   "description": "Triumvirate: Soccer Camp",
   "models": [
     {
+      "name": "Arturs Lapa",
+      "person_id": 29679
+    },
+    {
       "name": "Jude Lowe",
       "person_id": 29591
     },
     {
       "name": "Samuel Dolce",
       "person_id": 29593
-    },
-    {
-      "name": "Arturs Lapa",
-      "person_id": 29679
     }
   ],
   "release_date": "2003-10-29",

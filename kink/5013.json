@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mandy Mitchell",
-      "person_id": 15687
-    },
-    {
       "name": "Johnny Rocket",
       "person_id": 15904
+    },
+    {
+      "name": "Mandy Mitchell",
+      "person_id": 15687
     }
   ],
   "release_date": "2008-01-29",

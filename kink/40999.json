@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Savannah Fox",
-      "person_id": 47440
-    },
-    {
       "name": "Kacie Castle",
       "person_id": 59236
+    },
+    {
+      "name": "Savannah Fox",
+      "person_id": 47440
     }
   ],
   "release_date": "2017-01-27",

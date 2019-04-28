@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sebastian Keys",
-      "person_id": 20316
-    },
-    {
       "name": "Cody Winter",
       "person_id": 59548
+    },
+    {
+      "name": "Sebastian Keys",
+      "person_id": 20316
     }
   ],
   "release_date": "2018-11-15",

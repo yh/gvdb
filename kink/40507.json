@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Chanel Preston",
-      "person_id": 26542
-    },
-    {
       "name": "Cadence Lux",
       "person_id": 51424
+    },
+    {
+      "name": "Chanel Preston",
+      "person_id": 26542
     }
   ],
   "release_date": "2016-06-30",

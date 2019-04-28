@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Iona Grace",
-      "person_id": 25204
-    },
-    {
       "name": "Amber Rayne",
       "person_id": 12631
     },
     {
       "name": "Felony",
       "person_id": 17502
+    },
+    {
+      "name": "Iona Grace",
+      "person_id": 25204
     }
   ],
   "release_date": "2010-11-12",

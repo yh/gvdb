@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
-      "name": "Thomas Williams",
-      "person_id": 20765
-    },
-    {
       "name": "Alex Lambert",
       "person_id": 20795
     },
     {
       "name": "Karl Nepessy",
       "person_id": 20803
+    },
+    {
+      "name": "Thomas Williams",
+      "person_id": 20765
     }
   ],
   "release_date": "1998-03-11",

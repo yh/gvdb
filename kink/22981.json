@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Master Avery",
-      "person_id": 24956
-    },
-    {
       "name": "Dominic Pacifico",
       "person_id": 14892
+    },
+    {
+      "name": "Master Avery",
+      "person_id": 24956
     }
   ],
   "release_date": "2012-08-16",

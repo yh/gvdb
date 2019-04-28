@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Utah Sweet",
-      "person_id": 4105
-    },
-    {
       "name": "Madison Young",
       "person_id": 2674
+    },
+    {
+      "name": "Utah Sweet",
+      "person_id": 4105
     }
   ],
   "release_date": "2004-03-02",

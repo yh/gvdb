@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Viktorie",
-      "person_id": 60538
-    },
-    {
       "name": "Dony",
       "person_id": 60545
+    },
+    {
+      "name": "Viktorie",
+      "person_id": 60538
     }
   ],
   "release_date": "2018-04-19",

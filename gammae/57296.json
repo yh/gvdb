@@ -5,16 +5,16 @@
   "description": "Triumvirate: Can't Hide That Feeling Part 2",
   "models": [
     {
-      "name": "Ray Renfro",
-      "person_id": 29585
-    },
-    {
       "name": "Andrew Connel",
       "person_id": 29693
     },
     {
       "name": "Andrew Quiet",
       "person_id": 29694
+    },
+    {
+      "name": "Ray Renfro",
+      "person_id": 29585
     }
   ],
   "release_date": "2003-11-26",

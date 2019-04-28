@@ -3,20 +3,15 @@
     "Fucking Machines"
   ],
   "description": "Some good fucking going on here. Chanta shows Phoenix some discipline in a way only she is capable of ....",
-  "directors": [
-    {
-      "name": "Pirelli",
-      "person_id": 7016
-    }
-  ],
+  "directors": [],
   "models": [
-    {
-      "name": "Phoenix",
-      "person_id": 284
-    },
     {
       "name": "Chanta-Rose",
       "person_id": 124
+    },
+    {
+      "name": "Phoenix",
+      "person_id": 284
     }
   ],
   "release_date": "2003-09-02",

@@ -9,16 +9,16 @@
       "person_id": 11807
     },
     {
-      "name": "Steve Fox",
-      "person_id": 11871
-    },
-    {
       "name": "Marcus Braun",
       "person_id": 11877
     },
     {
       "name": "Matt Gunther",
       "person_id": 12214
+    },
+    {
+      "name": "Steve Fox",
+      "person_id": 11871
     }
   ],
   "release_date": "2006-08-01",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mz Berlin",
-      "person_id": 14228
-    },
-    {
       "name": "Madison Young",
       "person_id": 2674
+    },
+    {
+      "name": "Mz Berlin",
+      "person_id": 14228
     }
   ],
   "release_date": "2008-01-18",

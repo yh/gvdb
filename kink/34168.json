@@ -11,6 +11,10 @@
   ],
   "models": [
     {
+      "name": "Kip Johnson",
+      "person_id": 51603
+    },
+    {
       "name": "Lorelei Lee",
       "person_id": 758
     },
@@ -19,16 +23,12 @@
       "person_id": 17872
     },
     {
-      "name": "Kip Johnson",
-      "person_id": 51603
+      "name": "Reed Jameson",
+      "person_id": 52382
     },
     {
       "name": "Santiago",
       "person_id": 52171
-    },
-    {
-      "name": "Reed Jameson",
-      "person_id": 52382
     }
   ],
   "release_date": "2014-04-23",

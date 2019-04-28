@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mr. Pete",
-      "person_id": 16823
-    },
-    {
       "name": "Aria Aspen",
       "person_id": 33781
+    },
+    {
+      "name": "Mr. Pete",
+      "person_id": 16823
     },
     {
       "name": "Princess Donna Dolore",

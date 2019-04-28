@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Katja Kassin",
-      "person_id": 11582
-    },
-    {
       "name": "Claire Robbins",
       "person_id": 46978
+    },
+    {
+      "name": "Katja Kassin",
+      "person_id": 11582
     }
   ],
   "release_date": "2013-06-21",

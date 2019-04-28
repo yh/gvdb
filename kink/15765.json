@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sofia Lauryn",
-      "person_id": 32617
-    },
-    {
       "name": "Mahina Zaltana",
       "person_id": 28012
+    },
+    {
+      "name": "Sofia Lauryn",
+      "person_id": 32617
     }
   ],
   "release_date": "2011-10-14",

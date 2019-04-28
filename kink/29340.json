@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Maestro",
-      "person_id": 11928
-    },
-    {
       "name": "Audrey Rose",
       "person_id": 31792
+    },
+    {
+      "name": "Maestro",
+      "person_id": 11928
     }
   ],
   "release_date": "2013-02-09",

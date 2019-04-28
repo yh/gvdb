@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Sandra Boobies",
-      "person_id": 61904
-    },
-    {
       "name": "Mugur",
       "person_id": 33526
+    },
+    {
+      "name": "Sandra Boobies",
+      "person_id": 61904
     }
   ],
   "release_date": "2019-03-19",

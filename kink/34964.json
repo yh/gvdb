@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Wolf Hudson",
-      "person_id": 14471
-    },
-    {
       "name": "Holly Heart",
       "person_id": 20472
     },
     {
       "name": "Simone Sonay",
       "person_id": 34687
+    },
+    {
+      "name": "Wolf Hudson",
+      "person_id": 14471
     }
   ],
   "release_date": "2014-04-18",

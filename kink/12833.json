@@ -6,20 +6,20 @@
   "directors": [],
   "models": [
     {
-      "name": "Matthew Singer",
-      "person_id": 21729
-    },
-    {
       "name": "Chris Tyler",
       "person_id": 27947
     },
     {
-      "name": "Trent Diesel",
-      "person_id": 21234
-    },
-    {
       "name": "Gavin Waters",
       "person_id": 26008
+    },
+    {
+      "name": "Matthew Singer",
+      "person_id": 21729
+    },
+    {
+      "name": "Trent Diesel",
+      "person_id": 21234
     }
   ],
   "release_date": "2011-05-25",

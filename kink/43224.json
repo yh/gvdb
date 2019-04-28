@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Varla Vex",
-      "person_id": 61040
+      "name": "Carly",
+      "person_id": 186
     },
     {
       "name": "Mina Meow",
       "person_id": 20519
     },
     {
-      "name": "Carly",
-      "person_id": 186
+      "name": "Varla Vex",
+      "person_id": 61040
     }
   ],
   "release_date": "2018-02-19",

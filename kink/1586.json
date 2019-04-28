@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Madison Young",
-      "person_id": 2674
-    },
-    {
       "name": "Kym Wilde",
       "person_id": 99
+    },
+    {
+      "name": "Madison Young",
+      "person_id": 2674
     }
   ],
   "release_date": "2004-01-20",

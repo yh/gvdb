@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Siouxsie Q",
-      "person_id": 34821
-    },
-    {
       "name": "Grayson",
       "person_id": 58952
+    },
+    {
+      "name": "Siouxsie Q",
+      "person_id": 34821
     }
   ],
   "release_date": "2015-12-25",

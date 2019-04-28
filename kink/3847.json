@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sandra Romain",
-      "person_id": 10239
-    },
-    {
       "name": "Jazmine Leih",
       "person_id": 12228
+    },
+    {
+      "name": "Sandra Romain",
+      "person_id": 10239
     }
   ],
   "release_date": "2006-08-24",

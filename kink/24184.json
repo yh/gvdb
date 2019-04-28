@@ -15,14 +15,6 @@
       "person_id": 33659
     },
     {
-      "name": "Kristina Rose",
-      "person_id": 20560
-    },
-    {
-      "name": "Krysta Kaos",
-      "person_id": 25624
-    },
-    {
       "name": "Dylan Ryan",
       "person_id": 10069
     },
@@ -31,12 +23,20 @@
       "person_id": 18499
     },
     {
-      "name": "The Pope",
-      "person_id": 27779
+      "name": "Kristina Rose",
+      "person_id": 20560
+    },
+    {
+      "name": "Krysta Kaos",
+      "person_id": 25624
     },
     {
       "name": "Maestro Stefanos",
       "person_id": 17148
+    },
+    {
+      "name": "The Pope",
+      "person_id": 27779
     }
   ],
   "release_date": "2012-08-31",

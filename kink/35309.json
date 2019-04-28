@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Rich Kelly",
-      "person_id": 51057
-    },
-    {
       "name": "Jacob Durham",
       "person_id": 33772
+    },
+    {
+      "name": "Rich Kelly",
+      "person_id": 51057
     }
   ],
   "release_date": "2014-04-30",

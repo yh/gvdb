@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mr. Pete",
-      "person_id": 16823
-    },
-    {
       "name": "Cheyenne Jewel",
       "person_id": 22734
+    },
+    {
+      "name": "Mr. Pete",
+      "person_id": 16823
     },
     {
       "name": "Princess Donna Dolore",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kaden Alexander",
-      "person_id": 59146
-    },
-    {
       "name": "Colby Jansen",
       "person_id": 34457
+    },
+    {
+      "name": "Kaden Alexander",
+      "person_id": 59146
     }
   ],
   "release_date": "2017-02-23",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Liam Harkmoore",
-      "person_id": 51860
-    },
-    {
       "name": "Damien Moreau",
       "person_id": 51956
+    },
+    {
+      "name": "Liam Harkmoore",
+      "person_id": 51860
     }
   ],
   "release_date": "2013-11-13",

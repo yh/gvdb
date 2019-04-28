@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Maestro",
-      "person_id": 11928
-    },
-    {
       "name": "Dahlia Sky",
       "person_id": 45819
+    },
+    {
+      "name": "Maestro",
+      "person_id": 11928
     }
   ],
   "release_date": "2013-06-22",

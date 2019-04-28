@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Ned Mayhem",
-      "person_id": 22135
-    },
-    {
       "name": "Blake Daniels",
       "person_id": 30557
+    },
+    {
+      "name": "Ned Mayhem",
+      "person_id": 22135
     }
   ],
   "release_date": "2011-04-01",

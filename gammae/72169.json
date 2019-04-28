@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Sean Duran",
-      "person_id": 28079
-    },
-    {
       "name": "Billy Warren",
       "person_id": 35760
+    },
+    {
+      "name": "Sean Duran",
+      "person_id": 28079
     }
   ],
   "release_date": "2015-02-04",

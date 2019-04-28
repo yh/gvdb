@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Drake Temple",
-      "person_id": 31831
-    },
-    {
       "name": "Blake Daniels",
       "person_id": 30557
+    },
+    {
+      "name": "Drake Temple",
+      "person_id": 31831
     }
   ],
   "release_date": "2011-08-24",

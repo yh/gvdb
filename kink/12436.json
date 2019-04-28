@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Noah Brooks",
-      "person_id": 29051
-    },
-    {
       "name": "Cliff Jensen",
       "person_id": 29792
+    },
+    {
+      "name": "Noah Brooks",
+      "person_id": 29051
     }
   ],
   "release_date": "2011-04-22",

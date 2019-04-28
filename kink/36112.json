@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Serena Blair",
-      "person_id": 31165
-    },
-    {
       "name": "Juliette March",
       "person_id": 22072
+    },
+    {
+      "name": "Serena Blair",
+      "person_id": 31165
     }
   ],
   "release_date": "2014-10-10",

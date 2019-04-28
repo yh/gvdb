@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Brooke Banner",
-      "person_id": 5758
-    },
-    {
       "name": "Andy Mann",
       "person_id": 5818
+    },
+    {
+      "name": "Brooke Banner",
+      "person_id": 5758
     }
   ],
   "release_date": "2004-09-23",

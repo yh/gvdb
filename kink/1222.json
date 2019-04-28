@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Roxy Jezel",
-      "person_id": 1867
-    },
-    {
       "name": "Chanta-Rose",
       "person_id": 124
+    },
+    {
+      "name": "Roxy Jezel",
+      "person_id": 1867
     }
   ],
   "release_date": "2003-07-03",

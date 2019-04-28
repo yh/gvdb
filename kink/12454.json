@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Riley Vlcek",
-      "person_id": 27642
-    },
-    {
       "name": "Maitresse Madeline Marlowe",
       "person_id": 17872
+    },
+    {
+      "name": "Riley Vlcek",
+      "person_id": 27642
     }
   ],
   "release_date": "2011-03-23",

@@ -3,24 +3,19 @@
     "Men in Pain"
   ],
   "description": "If there's one thing Kali hates it's bad service at a restaurant, especially when dining with good friend Audrey. Together they decide to punish their server in the hope that next time they will receive the attention that two gorgeous ladies like themselves should receive!",
-  "directors": [
-    {
-      "name": "Chanta-Rose",
-      "person_id": 124
-    }
-  ],
+  "directors": [],
   "models": [
     {
-      "name": "Princess Kali",
-      "person_id": 1821
+      "name": "Audrey Leigh",
+      "person_id": 1587
     },
     {
       "name": "Michael J Cox",
       "person_id": 2561
     },
     {
-      "name": "Audrey Leigh",
-      "person_id": 1587
+      "name": "Princess Kali",
+      "person_id": 1821
     }
   ],
   "release_date": "2004-06-10",

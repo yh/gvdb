@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Daisy Marie",
-      "person_id": 15529
-    },
-    {
       "name": "Audrey Leigh",
       "person_id": 1587
+    },
+    {
+      "name": "Daisy Marie",
+      "person_id": 15529
     }
   ],
   "release_date": "2015-03-09",

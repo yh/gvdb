@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Claire Robbins",
-      "person_id": 46978
-    },
-    {
       "name": "Cherry Torn",
       "person_id": 11105
+    },
+    {
+      "name": "Claire Robbins",
+      "person_id": 46978
     }
   ],
   "release_date": "2014-01-10",

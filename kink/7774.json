@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Missy Woods",
-      "person_id": 20123
-    },
-    {
       "name": "Mark Davis",
       "person_id": 8200
+    },
+    {
+      "name": "Missy Woods",
+      "person_id": 20123
     }
   ],
   "release_date": "2010-01-22",

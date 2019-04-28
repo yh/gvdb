@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Veruca James",
-      "person_id": 43570
-    },
-    {
       "name": "Bill Bailey",
       "person_id": 46601
+    },
+    {
+      "name": "Veruca James",
+      "person_id": 43570
     }
   ],
   "release_date": "2013-10-18",

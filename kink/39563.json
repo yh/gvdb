@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Reed Jameson",
-      "person_id": 52382
-    },
-    {
       "name": "Jessica Fox",
       "person_id": 17013
+    },
+    {
+      "name": "Reed Jameson",
+      "person_id": 52382
     }
   ],
   "release_date": "2016-02-24",

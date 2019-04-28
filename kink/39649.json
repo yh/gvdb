@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Aiden Starr",
+      "person_id": 11489
+    },
+    {
       "name": "Penny Barber",
       "person_id": 6664
     },
     {
       "name": "Veruca James",
       "person_id": 43570
-    },
-    {
-      "name": "Aiden Starr",
-      "person_id": 11489
     }
   ],
   "release_date": "2016-05-10",

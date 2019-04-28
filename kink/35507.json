@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Derrick Pierce",
-      "person_id": 14403
-    },
-    {
       "name": "Casey Calvert",
       "person_id": 36437
+    },
+    {
+      "name": "Derrick Pierce",
+      "person_id": 14403
     }
   ],
   "release_date": "2014-06-14",

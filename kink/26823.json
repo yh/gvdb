@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dylan Ryan",
-      "person_id": 10069
-    },
-    {
       "name": "Beretta James",
       "person_id": 33659
+    },
+    {
+      "name": "Dylan Ryan",
+      "person_id": 10069
     },
     {
       "name": "Maestro Stefanos",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sgt. Major",
-      "person_id": 4556
-    },
-    {
       "name": "Serena Blair",
       "person_id": 31165
+    },
+    {
+      "name": "Sgt. Major",
+      "person_id": 4556
     }
   ],
   "release_date": "2013-01-10",

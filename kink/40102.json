@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nikki Delano",
-      "person_id": 45587
-    },
-    {
       "name": "Lilith Luxe",
       "person_id": 55114
+    },
+    {
+      "name": "Nikki Delano",
+      "person_id": 45587
     }
   ],
   "release_date": "2016-05-27",

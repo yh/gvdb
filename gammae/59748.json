@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Joey Cooper",
-      "person_id": 28095
-    },
-    {
       "name": "Hunter Page",
       "person_id": 28535
+    },
+    {
+      "name": "Joey Cooper",
+      "person_id": 28095
     }
   ],
   "release_date": "2013-01-25",

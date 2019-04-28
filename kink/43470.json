@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Isabella Chrystin",
-      "person_id": 60292
-    },
-    {
       "name": "Ar",
       "person_id": 60282
+    },
+    {
+      "name": "Isabella Chrystin",
+      "person_id": 60292
     }
   ],
   "release_date": "2018-05-30",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Isis Love",
-      "person_id": 6584
-    },
-    {
       "name": "Gianna Lynn",
       "person_id": 14081
+    },
+    {
+      "name": "Isis Love",
+      "person_id": 6584
     }
   ],
   "release_date": "2007-05-04",

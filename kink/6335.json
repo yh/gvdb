@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dante",
-      "person_id": 16797
-    },
-    {
       "name": "Colin Steele",
       "person_id": 19077
+    },
+    {
+      "name": "Dante",
+      "person_id": 16797
     }
   ],
   "release_date": "2009-03-26",

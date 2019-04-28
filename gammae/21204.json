@@ -9,12 +9,12 @@
       "person_id": 10844
     },
     {
-      "name": "Tom Steele",
-      "person_id": 11435
-    },
-    {
       "name": "Kevin Wiles",
       "person_id": 12228
+    },
+    {
+      "name": "Tom Steele",
+      "person_id": 11435
     }
   ],
   "release_date": "2006-01-01",

@@ -5,12 +5,12 @@
   "description": "Triumvirate: Soccer Camp",
   "models": [
     {
-      "name": "Steeve Sanders",
-      "person_id": 29460
-    },
-    {
       "name": "Robert Driveman",
       "person_id": 29605
+    },
+    {
+      "name": "Steeve Sanders",
+      "person_id": 29460
     }
   ],
   "release_date": "2003-10-29",

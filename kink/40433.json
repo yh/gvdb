@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Stella Cox",
-      "person_id": 59424
-    },
-    {
       "name": "Francesca Le",
       "person_id": 36526
+    },
+    {
+      "name": "Stella Cox",
+      "person_id": 59424
     }
   ],
   "release_date": "2016-09-23",

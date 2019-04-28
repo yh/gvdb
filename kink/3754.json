@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Princess Donna Dolore",
-      "person_id": 5235
-    },
-    {
       "name": "Lola",
       "person_id": 6034
+    },
+    {
+      "name": "Princess Donna Dolore",
+      "person_id": 5235
     }
   ],
   "release_date": "2006-07-27",

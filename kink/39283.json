@@ -11,6 +11,10 @@
   ],
   "models": [
     {
+      "name": "Gage Sin",
+      "person_id": 53344
+    },
+    {
       "name": "Kimmy Lee",
       "person_id": 56661
     },
@@ -19,20 +23,16 @@
       "person_id": 19623
     },
     {
-      "name": "Wolf Hudson",
-      "person_id": 14471
+      "name": "Owen Gray",
+      "person_id": 39181
     },
     {
       "name": "Will Havoc",
       "person_id": 46285
     },
     {
-      "name": "Owen Gray",
-      "person_id": 39181
-    },
-    {
-      "name": "Gage Sin",
-      "person_id": 53344
+      "name": "Wolf Hudson",
+      "person_id": 14471
     }
   ],
   "release_date": "2015-12-23",

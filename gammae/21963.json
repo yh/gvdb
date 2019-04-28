@@ -9,16 +9,16 @@
       "person_id": 11298
     },
     {
-      "name": "Steve Harper",
-      "person_id": 11988
-    },
-    {
       "name": "Daryl Brock",
       "person_id": 12002
     },
     {
       "name": "Scott Ryder",
       "person_id": 12011
+    },
+    {
+      "name": "Steve Harper",
+      "person_id": 11988
     }
   ],
   "release_date": "2010-07-03",

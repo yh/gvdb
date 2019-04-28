@@ -11,8 +11,20 @@
   ],
   "models": [
     {
+      "name": "Gage Sin",
+      "person_id": 53344
+    },
+    {
       "name": "Mark Wood",
       "person_id": 31058
+    },
+    {
+      "name": "Rose Rhapsody",
+      "person_id": 52003
+    },
+    {
+      "name": "Small Hands",
+      "person_id": 59499
     },
     {
       "name": "Tommy Pistol",
@@ -21,18 +33,6 @@
     {
       "name": "Xander Corvus",
       "person_id": 46000
-    },
-    {
-      "name": "Small Hands",
-      "person_id": 59499
-    },
-    {
-      "name": "Rose Rhapsody",
-      "person_id": 52003
-    },
-    {
-      "name": "Gage Sin",
-      "person_id": 53344
     }
   ],
   "release_date": "2016-09-07",

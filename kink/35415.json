@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Victoria Sin",
-      "person_id": 8185
-    },
-    {
       "name": "Brandon Iron",
       "person_id": 12540
+    },
+    {
+      "name": "Victoria Sin",
+      "person_id": 8185
     }
   ],
   "release_date": "2011-07-21",

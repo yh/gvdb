@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Penny Flame",
-      "person_id": 6345
-    },
-    {
       "name": "Christina Carter",
       "person_id": 10147
+    },
+    {
+      "name": "Penny Flame",
+      "person_id": 6345
     }
   ],
   "release_date": "2012-06-10",

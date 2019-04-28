@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Seth Gamble",
-      "person_id": 57488
-    },
-    {
       "name": "Kacie Castle",
       "person_id": 59236
     },
     {
       "name": "Sadie Santana",
       "person_id": 53272
+    },
+    {
+      "name": "Seth Gamble",
+      "person_id": 57488
     }
   ],
   "release_date": "2017-02-21",

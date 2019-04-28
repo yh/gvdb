@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Ramon Nomar",
-      "person_id": 35412
-    },
-    {
       "name": "Maddy O'Reilly",
       "person_id": 41042
+    },
+    {
+      "name": "Ramon Nomar",
+      "person_id": 35412
     }
   ],
   "release_date": "2013-02-01",

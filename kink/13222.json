@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sloane Soleil",
-      "person_id": 22611
-    },
-    {
       "name": "Maestro",
       "person_id": 11928
+    },
+    {
+      "name": "Sloane Soleil",
+      "person_id": 22611
     }
   ],
   "release_date": "2011-06-24",

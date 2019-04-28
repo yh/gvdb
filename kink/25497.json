@@ -11,28 +11,28 @@
   ],
   "models": [
     {
-      "name": "Ramon Nomar",
-      "person_id": 35412
+      "name": "Danny Mountain",
+      "person_id": 43091
     },
     {
-      "name": "Vicki Chase",
-      "person_id": 22412
+      "name": "James Deen",
+      "person_id": 8935
     },
     {
       "name": "Karlo Karrera",
       "person_id": 35221
     },
     {
-      "name": "Danny Mountain",
-      "person_id": 43091
+      "name": "Ramon Nomar",
+      "person_id": 35412
     },
     {
       "name": "Toni Ribas",
       "person_id": 38962
     },
     {
-      "name": "James Deen",
-      "person_id": 8935
+      "name": "Vicki Chase",
+      "person_id": 22412
     }
   ],
   "release_date": "2012-10-31",

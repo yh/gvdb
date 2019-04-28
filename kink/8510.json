@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Maitresse Madeline Marlowe",
-      "person_id": 17872
-    },
-    {
       "name": "Holly Heart",
       "person_id": 20472
+    },
+    {
+      "name": "Maitresse Madeline Marlowe",
+      "person_id": 17872
     }
   ],
   "release_date": "2010-04-23",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mike Panic",
-      "person_id": 41034
-    },
-    {
       "name": "Honey FoXXX",
       "person_id": 20864
+    },
+    {
+      "name": "Mike Panic",
+      "person_id": 41034
     }
   ],
   "release_date": "2016-12-06",

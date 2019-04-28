@@ -9,10 +9,6 @@
       "person_id": 15424
     },
     {
-      "name": "Rob Edwards",
-      "person_id": 16249
-    },
-    {
       "name": "Giovanni Bellini",
       "person_id": 15533
     },
@@ -23,6 +19,10 @@
     {
       "name": "Rick West",
       "person_id": 16232
+    },
+    {
+      "name": "Rob Edwards",
+      "person_id": 16249
     }
   ],
   "release_date": "2008-01-01",

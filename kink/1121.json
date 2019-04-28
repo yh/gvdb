@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Rose",
-      "person_id": 315
-    },
-    {
       "name": "Kym Wilde",
       "person_id": 99
+    },
+    {
+      "name": "Rose",
+      "person_id": 315
     }
   ],
   "release_date": "2003-05-15",

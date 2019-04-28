@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Vendetta",
-      "person_id": 8300
-    },
-    {
       "name": "Dee Williams",
       "person_id": 4197
+    },
+    {
+      "name": "Vendetta",
+      "person_id": 8300
     }
   ],
   "release_date": "2007-08-14",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Will Parks",
-      "person_id": 42160
-    },
-    {
       "name": "Sebastian Keys",
       "person_id": 20316
+    },
+    {
+      "name": "Will Parks",
+      "person_id": 42160
     }
   ],
   "release_date": "2013-01-23",

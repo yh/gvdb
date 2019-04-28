@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Mika Tan",
-      "person_id": 236
-    },
-    {
       "name": "Ivy",
       "person_id": 27
+    },
+    {
+      "name": "Mika Tan",
+      "person_id": 236
     },
     {
       "name": "Wild Bill",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dusty",
-      "person_id": 194
-    },
-    {
       "name": "Cowgirl",
       "person_id": 110
+    },
+    {
+      "name": "Dusty",
+      "person_id": 194
     }
   ],
   "release_date": "2002-09-13",

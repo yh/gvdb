@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "CJ Seven",
-      "person_id": 12373
-    },
-    {
       "name": "Annie Cruz",
       "person_id": 7776
+    },
+    {
+      "name": "CJ Seven",
+      "person_id": 12373
     }
   ],
   "release_date": "2007-01-17",

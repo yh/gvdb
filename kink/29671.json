@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Marcus Ruhl",
-      "person_id": 47823
-    },
-    {
       "name": "Maitresse Madeline Marlowe",
       "person_id": 17872
+    },
+    {
+      "name": "Marcus Ruhl",
+      "person_id": 47823
     }
   ],
   "release_date": "2013-04-03",

@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Ariel X",
+      "person_id": 10464
+    },
+    {
       "name": "Chanell Heart",
       "person_id": 52272
     },
     {
       "name": "Mr. Pete",
       "person_id": 16823
-    },
-    {
-      "name": "Ariel X",
-      "person_id": 10464
     }
   ],
   "release_date": "2014-07-18",

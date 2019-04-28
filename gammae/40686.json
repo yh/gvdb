@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "York Pennello",
-      "person_id": 21072
-    },
-    {
       "name": "Nico Sideropolus",
       "person_id": 21073
+    },
+    {
+      "name": "York Pennello",
+      "person_id": 21072
     }
   ],
   "release_date": "1998-05-16",

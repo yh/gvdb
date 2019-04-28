@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Shane Frost",
-      "person_id": 21091
-    },
-    {
       "name": "Mike Rivers",
       "person_id": 31789
+    },
+    {
+      "name": "Shane Frost",
+      "person_id": 21091
     }
   ],
   "release_date": "2011-08-31",

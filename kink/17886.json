@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Mickey Mod",
-      "person_id": 19623
+      "name": "Bobby Bends",
+      "person_id": 22578
     },
     {
       "name": "Dylan Ryan",
       "person_id": 10069
     },
     {
-      "name": "Bobby Bends",
-      "person_id": 22578
-    },
-    {
       "name": "Krysta Kaos",
       "person_id": 25624
+    },
+    {
+      "name": "Mickey Mod",
+      "person_id": 19623
     },
     {
       "name": "Odile",

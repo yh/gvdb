@@ -5,16 +5,16 @@
   "description": "Violator and Butch Grand fist Matthieu Paris.",
   "models": [
     {
+      "name": "Butch Grand",
+      "person_id": 26391
+    },
+    {
       "name": "Matthieu Paris",
       "person_id": 26272
     },
     {
       "name": "Violator",
       "person_id": 26390
-    },
-    {
-      "name": "Butch Grand",
-      "person_id": 26391
     }
   ],
   "release_date": "2006-06-30",

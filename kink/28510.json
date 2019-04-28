@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lorelei Lee",
-      "person_id": 758
-    },
-    {
       "name": "Kristina Rose",
       "person_id": 20560
+    },
+    {
+      "name": "Lorelei Lee",
+      "person_id": 758
     },
     {
       "name": "Mallory Mallone",

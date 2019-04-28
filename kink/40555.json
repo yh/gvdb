@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mona Wales",
-      "person_id": 51511
-    },
-    {
       "name": "Milcah Halili",
       "person_id": 45665
+    },
+    {
+      "name": "Mona Wales",
+      "person_id": 51511
     }
   ],
   "release_date": "2016-07-22",

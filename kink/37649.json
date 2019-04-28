@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "TS Foxxy",
-      "person_id": 20055
-    },
-    {
       "name": "Amarna Miller",
       "person_id": 57131
+    },
+    {
+      "name": "TS Foxxy",
+      "person_id": 20055
     }
   ],
   "release_date": "2015-04-03",

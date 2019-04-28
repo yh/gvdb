@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Race Cooper",
-      "person_id": 23174
-    },
-    {
       "name": "Boyhous",
       "person_id": 26307
+    },
+    {
+      "name": "Race Cooper",
+      "person_id": 23174
     }
   ],
   "release_date": "2013-01-08",

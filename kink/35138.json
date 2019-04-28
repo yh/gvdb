@@ -11,12 +11,16 @@
   ],
   "models": [
     {
-      "name": "Toni Ribas",
-      "person_id": 38962
+      "name": "Bill Bailey",
+      "person_id": 46601
     },
     {
       "name": "Juliette March",
       "person_id": 22072
+    },
+    {
+      "name": "Karlo Karrera",
+      "person_id": 35221
     },
     {
       "name": "Mr. Pete",
@@ -27,12 +31,8 @@
       "person_id": 12663
     },
     {
-      "name": "Bill Bailey",
-      "person_id": 46601
-    },
-    {
-      "name": "Karlo Karrera",
-      "person_id": 35221
+      "name": "Toni Ribas",
+      "person_id": 38962
     }
   ],
   "release_date": "2014-10-08",

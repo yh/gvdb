@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Master Avery",
-      "person_id": 24956
-    },
-    {
       "name": "Leo Forte",
       "person_id": 22142
+    },
+    {
+      "name": "Master Avery",
+      "person_id": 24956
     }
   ],
   "release_date": "2010-09-23",

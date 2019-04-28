@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Laila Mason",
-      "person_id": 53091
-    },
-    {
       "name": "Chanta-Rose",
       "person_id": 124
+    },
+    {
+      "name": "Laila Mason",
+      "person_id": 53091
     }
   ],
   "release_date": "2017-06-17",

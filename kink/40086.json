@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Natassia Dreams",
-      "person_id": 16310
-    },
-    {
       "name": "Beau Warner",
       "person_id": 51817
+    },
+    {
+      "name": "Natassia Dreams",
+      "person_id": 16310
     }
   ],
   "release_date": "2016-04-20",

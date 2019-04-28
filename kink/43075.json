@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Syren de Mer",
-      "person_id": 43807
-    },
-    {
       "name": "Sheena Rose",
       "person_id": 52312
+    },
+    {
+      "name": "Syren de Mer",
+      "person_id": 43807
     }
   ],
   "release_date": "2018-02-23",

@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Isaac Hardy",
-      "person_id": 49267
-    },
-    {
       "name": "Connor Maguire",
       "person_id": 46426
     },
     {
       "name": "Dayton O'Connor",
       "person_id": 45656
+    },
+    {
+      "name": "Isaac Hardy",
+      "person_id": 49267
     }
   ],
   "release_date": "2013-08-23",

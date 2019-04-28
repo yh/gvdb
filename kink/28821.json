@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Asa Archer",
+      "person_id": 41051
+    },
+    {
       "name": "Cassandra Nix",
       "person_id": 36857
     },
     {
       "name": "Mz Berlin",
       "person_id": 14228
-    },
-    {
-      "name": "Asa Archer",
-      "person_id": 41051
     }
   ],
   "release_date": "2013-03-08",

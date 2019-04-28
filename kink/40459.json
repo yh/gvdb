@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dale Cooper",
-      "person_id": 58718
-    },
-    {
       "name": "Christian Wilde",
       "person_id": 21037
+    },
+    {
+      "name": "Dale Cooper",
+      "person_id": 58718
     }
   ],
   "release_date": "2016-08-04",

@@ -11,24 +11,24 @@
   ],
   "models": [
     {
-      "name": "Emma Haize",
-      "person_id": 29618
-    },
-    {
       "name": "Cheyenne Jewel",
       "person_id": 22734
+    },
+    {
+      "name": "Emma Haize",
+      "person_id": 29618
     },
     {
       "name": "Michelle",
       "person_id": 22445
     },
     {
-      "name": "Sparky Sin Claire",
-      "person_id": 29494
-    },
-    {
       "name": "Shae Simone",
       "person_id": 22709
+    },
+    {
+      "name": "Sparky Sin Claire",
+      "person_id": 29494
     }
   ],
   "release_date": "2011-02-18",

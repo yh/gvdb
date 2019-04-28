@@ -3,20 +3,15 @@
     "Fucking Machines"
   ],
   "description": "Lena gets caught red-handed having a little too much fun with Hamilton's toys, the punishment is swift and harsh.",
-  "directors": [
-    {
-      "name": "Amy Camus",
-      "person_id": 7032
-    }
-  ],
+  "directors": [],
   "models": [
-    {
-      "name": "Lena Ramon",
-      "person_id": 339
-    },
     {
       "name": "Hamilton",
       "person_id": 498
+    },
+    {
+      "name": "Lena Ramon",
+      "person_id": 339
     }
   ],
   "release_date": "2003-01-31",

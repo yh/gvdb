@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Simone Sonay",
-      "person_id": 34687
-    },
-    {
       "name": "Melissa May",
       "person_id": 56252
+    },
+    {
+      "name": "Simone Sonay",
+      "person_id": 34687
     }
   ],
   "release_date": "2016-01-08",

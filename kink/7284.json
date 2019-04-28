@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Ashley Jane",
-      "person_id": 19727
-    },
-    {
       "name": "Amber Rayne",
       "person_id": 12631
+    },
+    {
+      "name": "Ashley Jane",
+      "person_id": 19727
     }
   ],
   "release_date": "2009-09-29",

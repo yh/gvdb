@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Michael Boston",
-      "person_id": 58023
-    },
-    {
       "name": "Evan Landers",
       "person_id": 58024
+    },
+    {
+      "name": "Michael Boston",
+      "person_id": 58023
     }
   ],
   "release_date": "2019-03-21",

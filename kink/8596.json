@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Martin Lorenzo",
-      "person_id": 20569
-    },
-    {
       "name": "Chad Dylan",
       "person_id": 21444
+    },
+    {
+      "name": "Martin Lorenzo",
+      "person_id": 20569
     }
   ],
   "release_date": "2010-04-07",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Zak Tyler",
-      "person_id": 21236
-    },
-    {
       "name": "Nika Noire",
       "person_id": 17418
+    },
+    {
+      "name": "Zak Tyler",
+      "person_id": 21236
     }
   ],
   "release_date": "2010-11-24",

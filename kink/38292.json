@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Stefani Special",
-      "person_id": 49148
-    },
-    {
       "name": "Mistress Kara",
       "person_id": 19043
+    },
+    {
+      "name": "Stefani Special",
+      "person_id": 49148
     }
   ],
   "release_date": "2015-06-26",

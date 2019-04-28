@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "La Cherry Spice",
-      "person_id": 14748
-    },
-    {
       "name": "Dorian",
       "person_id": 11759
+    },
+    {
+      "name": "La Cherry Spice",
+      "person_id": 14748
     }
   ],
   "release_date": "2008-11-11",

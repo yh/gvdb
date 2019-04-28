@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jada Fire",
-      "person_id": 11245
-    },
-    {
       "name": "Britney Manson",
       "person_id": 12877
+    },
+    {
+      "name": "Jada Fire",
+      "person_id": 11245
     }
   ],
   "release_date": "2006-12-08",

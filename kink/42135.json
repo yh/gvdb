@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Stella Cox",
-      "person_id": 59424
-    },
-    {
       "name": "Bill Bailey",
       "person_id": 46601
+    },
+    {
+      "name": "Stella Cox",
+      "person_id": 59424
     }
   ],
   "release_date": "2017-04-25",

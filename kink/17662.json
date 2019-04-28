@@ -11,24 +11,24 @@
   ],
   "models": [
     {
-      "name": "Isis Love",
-      "person_id": 6584
+      "name": "Holly Heart",
+      "person_id": 20472
     },
     {
-      "name": "Kaylee Hilton",
-      "person_id": 31754
+      "name": "Isis Love",
+      "person_id": 6584
     },
     {
       "name": "Jessie Cox",
       "person_id": 18739
     },
     {
-      "name": "Holly Heart",
-      "person_id": 20472
-    },
-    {
       "name": "Juliette March",
       "person_id": 22072
+    },
+    {
+      "name": "Kaylee Hilton",
+      "person_id": 31754
     }
   ],
   "release_date": "2011-12-13",

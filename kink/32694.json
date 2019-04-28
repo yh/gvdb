@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Wenona",
-      "person_id": 4485
-    },
-    {
       "name": "Cheyenne Jewel",
       "person_id": 22734
+    },
+    {
+      "name": "Rilynn Rae",
+      "person_id": 39210
     },
     {
       "name": "Syd Blakovich",
       "person_id": 7618
     },
     {
-      "name": "Rilynn Rae",
-      "person_id": 39210
+      "name": "Wenona",
+      "person_id": 4485
     }
   ],
   "release_date": "2013-10-15",

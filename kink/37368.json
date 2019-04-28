@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Owen Gray",
-      "person_id": 39181
-    },
-    {
       "name": "Kasey Warner",
       "person_id": 56865
+    },
+    {
+      "name": "Owen Gray",
+      "person_id": 39181
     }
   ],
   "release_date": "2015-03-20",

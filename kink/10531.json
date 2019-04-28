@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Scott Alexander",
-      "person_id": 20961
-    },
-    {
       "name": "Jeremy Tyler",
       "person_id": 25417
+    },
+    {
+      "name": "Scott Alexander",
+      "person_id": 20961
     }
   ],
   "release_date": "2010-12-01",

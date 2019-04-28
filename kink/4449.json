@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Steven St. Croix",
-      "person_id": 12188
-    },
-    {
       "name": "Holly Wellin",
       "person_id": 11990
+    },
+    {
+      "name": "Steven St. Croix",
+      "person_id": 12188
     }
   ],
   "release_date": "2007-05-18",

@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Bryan Cole",
+      "person_id": 42298
+    },
+    {
       "name": "Connor Patricks",
       "person_id": 47357
     },
     {
       "name": "Jessie Colter",
       "person_id": 34311
-    },
-    {
-      "name": "Bryan Cole",
-      "person_id": 42298
     }
   ],
   "release_date": "2013-04-05",

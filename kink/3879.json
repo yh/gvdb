@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mark Davis",
-      "person_id": 8200
-    },
-    {
       "name": "Jada Fire",
       "person_id": 11245
+    },
+    {
+      "name": "Mark Davis",
+      "person_id": 8200
     },
     {
       "name": "Tawni Ryden",

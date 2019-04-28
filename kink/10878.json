@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tori Lux",
-      "person_id": 26264
-    },
-    {
       "name": "Lorelei Lee",
       "person_id": 758
+    },
+    {
+      "name": "Tori Lux",
+      "person_id": 26264
     }
   ],
   "release_date": "2010-10-14",

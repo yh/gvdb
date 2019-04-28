@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Yasmin Lee",
-      "person_id": 13931
-    },
-    {
       "name": "Sebastian Keys",
       "person_id": 20316
+    },
+    {
+      "name": "Yasmin Lee",
+      "person_id": 13931
     }
   ],
   "release_date": "2016-06-22",

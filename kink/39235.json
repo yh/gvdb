@@ -11,14 +11,6 @@
   ],
   "models": [
     {
-      "name": "Sophia Locke",
-      "person_id": 53323
-    },
-    {
-      "name": "Mia Little",
-      "person_id": 51496
-    },
-    {
       "name": "Ella Nova",
       "person_id": 51866
     },
@@ -27,8 +19,16 @@
       "person_id": 56321
     },
     {
+      "name": "Mia Little",
+      "person_id": 51496
+    },
+    {
       "name": "Mona Wales",
       "person_id": 51511
+    },
+    {
+      "name": "Sophia Locke",
+      "person_id": 53323
     }
   ],
   "release_date": "2015-11-24",

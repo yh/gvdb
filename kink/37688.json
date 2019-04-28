@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Layton Benton",
-      "person_id": 45707
-    },
-    {
       "name": "Holly Heart",
       "person_id": 20472
+    },
+    {
+      "name": "Layton Benton",
+      "person_id": 45707
     }
   ],
   "release_date": "2015-11-13",

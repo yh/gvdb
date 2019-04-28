@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Tristan Jaxx",
-      "person_id": 19791
-    },
-    {
       "name": "Alex Summers",
       "person_id": 22686
+    },
+    {
+      "name": "Tristan Jaxx",
+      "person_id": 19791
     }
   ],
   "release_date": "2012-04-18",

@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "James Deen",
-      "person_id": 8935
-    },
-    {
-      "name": "Juliette March",
-      "person_id": 22072
+      "name": "Bella Rossi",
+      "person_id": 18418
     },
     {
       "name": "Daisy Ducati",
       "person_id": 50939
     },
     {
-      "name": "Bella Rossi",
-      "person_id": 18418
+      "name": "James Deen",
+      "person_id": 8935
+    },
+    {
+      "name": "Juliette March",
+      "person_id": 22072
     }
   ],
   "release_date": "2014-03-21",

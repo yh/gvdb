@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nika Noire",
-      "person_id": 17418
-    },
-    {
       "name": "Jack Hammer",
       "person_id": 18499
+    },
+    {
+      "name": "Nika Noire",
+      "person_id": 17418
     }
   ],
   "release_date": "2011-02-06",

@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Sabrina Banks",
-      "person_id": 55325
-    },
-    {
       "name": "Bruno Dickemz",
       "person_id": 54328
+    },
+    {
+      "name": "Sabrina Banks",
+      "person_id": 55325
     }
   ],
   "release_date": "2017-11-09",

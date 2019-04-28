@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mike Hawke",
-      "person_id": 50609
-    },
-    {
       "name": "Alani Pi",
       "person_id": 36290
+    },
+    {
+      "name": "Mike Hawke",
+      "person_id": 50609
     }
   ],
   "release_date": "2013-08-16",

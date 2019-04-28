@@ -11,24 +11,24 @@
   ],
   "models": [
     {
-      "name": "Krysta Kaos",
-      "person_id": 25624
-    },
-    {
-      "name": "Lily LaBeau",
-      "person_id": 25162
-    },
-    {
-      "name": "Dylan Ryan",
-      "person_id": 10069
-    },
-    {
       "name": "Beretta James",
       "person_id": 33659
     },
     {
       "name": "Derrick Pierce",
       "person_id": 14403
+    },
+    {
+      "name": "Dylan Ryan",
+      "person_id": 10069
+    },
+    {
+      "name": "Krysta Kaos",
+      "person_id": 25624
+    },
+    {
+      "name": "Lily LaBeau",
+      "person_id": 25162
     }
   ],
   "release_date": "2012-05-18",

@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Steve Holmes",
-      "person_id": 15810
-    },
-    {
       "name": "Antonio Ross",
       "person_id": 33540
     },
     {
       "name": "Carolina Abril",
       "person_id": 57854
+    },
+    {
+      "name": "Steve Holmes",
+      "person_id": 15810
     },
     {
       "name": "Tina Kay",

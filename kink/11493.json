@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Isis Love",
-      "person_id": 6584
-    },
-    {
       "name": "Amy Brooke",
       "person_id": 24422
+    },
+    {
+      "name": "Isis Love",
+      "person_id": 6584
     }
   ],
   "release_date": "2010-12-24",

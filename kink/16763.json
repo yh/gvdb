@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jessie Colter",
-      "person_id": 34311
-    },
-    {
       "name": "Christian Wilde",
       "person_id": 21037
+    },
+    {
+      "name": "Jessie Colter",
+      "person_id": 34311
     }
   ],
   "release_date": "2012-02-10",

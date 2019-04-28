@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
+      "name": "Enrico Vega",
+      "person_id": 19865
+    },
+    {
       "name": "Michael Brandon",
       "person_id": 19509
     },
     {
       "name": "Riley Porter",
       "person_id": 19842
-    },
-    {
-      "name": "Enrico Vega",
-      "person_id": 19865
     }
   ],
   "release_date": "2002-01-01",

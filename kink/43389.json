@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Georgie Lyall",
-      "person_id": 61172
-    },
-    {
       "name": "Clark Kent",
       "person_id": 40603
+    },
+    {
+      "name": "Georgie Lyall",
+      "person_id": 61172
     }
   ],
   "release_date": "2018-04-23",

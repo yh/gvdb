@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tony De Sergio",
-      "person_id": 53085
-    },
-    {
       "name": "Denice K",
       "person_id": 15441
+    },
+    {
+      "name": "Tony De Sergio",
+      "person_id": 53085
     }
   ],
   "release_date": "2010-03-22",

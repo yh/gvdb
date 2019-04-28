@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Melina Mason",
-      "person_id": 32411
-    },
-    {
       "name": "Maitresse Madeline Marlowe",
       "person_id": 17872
+    },
+    {
+      "name": "Melina Mason",
+      "person_id": 32411
     }
   ],
   "release_date": "2011-08-05",

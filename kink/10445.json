@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jason Miller",
-      "person_id": 17619
-    },
-    {
       "name": "Bobbi Starr",
       "person_id": 11290
+    },
+    {
+      "name": "Jason Miller",
+      "person_id": 17619
     }
   ],
   "release_date": "2010-10-13",

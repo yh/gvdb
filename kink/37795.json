@@ -6,16 +6,20 @@
   "directors": [],
   "models": [
     {
-      "name": "Steve Holmes",
-      "person_id": 15810
+      "name": "Claudia Nicole",
+      "person_id": 57832
+    },
+    {
+      "name": "Juliette March",
+      "person_id": 22072
     },
     {
       "name": "Mona Wales",
       "person_id": 51511
     },
     {
-      "name": "Juliette March",
-      "person_id": 22072
+      "name": "Steve Holmes",
+      "person_id": 15810
     },
     {
       "name": "Valeria Blue",
@@ -24,10 +28,6 @@
     {
       "name": "Xavi Tralla",
       "person_id": 57764
-    },
-    {
-      "name": "Claudia Nicole",
-      "person_id": 57832
     }
   ],
   "release_date": "2015-07-24",

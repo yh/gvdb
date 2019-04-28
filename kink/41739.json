@@ -15,8 +15,12 @@
       "person_id": 57874
     },
     {
-      "name": "Tommy Pistol",
-      "person_id": 12663
+      "name": "Mark Wood",
+      "person_id": 31058
+    },
+    {
+      "name": "Mickey Mod",
+      "person_id": 19623
     },
     {
       "name": "Owen Gray",
@@ -27,12 +31,8 @@
       "person_id": 59499
     },
     {
-      "name": "Mark Wood",
-      "person_id": 31058
-    },
-    {
-      "name": "Mickey Mod",
-      "person_id": 19623
+      "name": "Tommy Pistol",
+      "person_id": 12663
     }
   ],
   "release_date": "2017-03-08",

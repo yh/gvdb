@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Richelle Ryan",
-      "person_id": 12887
-    },
-    {
       "name": "Casey V",
       "person_id": 60675
+    },
+    {
+      "name": "Richelle Ryan",
+      "person_id": 12887
     }
   ],
   "release_date": "2017-10-13",

@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Lucy Lee",
-      "person_id": 5102
-    },
-    {
       "name": "Jason Bays",
       "person_id": 5444
+    },
+    {
+      "name": "Lucy Lee",
+      "person_id": 5102
     }
   ],
   "release_date": "2004-12-16",

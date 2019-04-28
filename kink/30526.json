@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Will Parks",
-      "person_id": 42160
-    },
-    {
       "name": "John Jammen",
       "person_id": 22596
+    },
+    {
+      "name": "Will Parks",
+      "person_id": 42160
     }
   ],
   "release_date": "2013-05-08",

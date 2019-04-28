@@ -5,7 +5,7 @@
   "description": "",
   "models": [
     {
-      "name": "Matt Collins",
+      "name": "Danny Boy",
       "person_id": null
     },
     {
@@ -13,11 +13,11 @@
       "person_id": null
     },
     {
-      "name": "Neil Rush",
+      "name": "Matt Collins",
       "person_id": null
     },
     {
-      "name": "Danny Boy",
+      "name": "Neil Rush",
       "person_id": null
     }
   ],

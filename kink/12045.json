@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Hollie Stevens",
-      "person_id": 1572
-    },
-    {
       "name": "Dia Zerva",
       "person_id": 16038
+    },
+    {
+      "name": "Hollie Stevens",
+      "person_id": 1572
     }
   ],
   "release_date": "2011-03-25",

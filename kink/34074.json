@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Lorelei Lee",
-      "person_id": 758
-    },
-    {
       "name": "Bobbi Starr",
       "person_id": 11290
+    },
+    {
+      "name": "Lorelei Lee",
+      "person_id": 758
     }
   ],
   "release_date": "2015-01-01",

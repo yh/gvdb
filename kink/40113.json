@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Cherry Torn",
+      "person_id": 11105
+    },
+    {
       "name": "Kelly Klaymour",
       "person_id": 53469
     },
     {
       "name": "Mona Wales",
       "person_id": 51511
-    },
-    {
-      "name": "Cherry Torn",
-      "person_id": 11105
     }
   ],
   "release_date": "2017-07-03",

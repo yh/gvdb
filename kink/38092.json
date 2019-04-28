@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tom Faulk",
-      "person_id": 57417
-    },
-    {
       "name": "Cherry Torn",
       "person_id": 11105
+    },
+    {
+      "name": "Tom Faulk",
+      "person_id": 57417
     }
   ],
   "release_date": "2015-07-03",

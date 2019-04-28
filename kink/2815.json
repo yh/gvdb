@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kurt Lockwood",
-      "person_id": 5422
-    },
-    {
       "name": "Jenni Lee",
       "person_id": 1358
+    },
+    {
+      "name": "Kurt Lockwood",
+      "person_id": 5422
     }
   ],
   "release_date": "2005-06-06",

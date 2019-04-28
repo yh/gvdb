@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Bridgette B",
-      "person_id": 18041
-    },
-    {
       "name": "Ben English",
       "person_id": 12667
+    },
+    {
+      "name": "Bridgette B",
+      "person_id": 18041
     }
   ],
   "release_date": "2010-01-11",

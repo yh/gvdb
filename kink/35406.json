@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lorena Sanchez",
-      "person_id": 12215
-    },
-    {
       "name": "Kurt Lockwood",
       "person_id": 5422
+    },
+    {
+      "name": "Lorena Sanchez",
+      "person_id": 12215
     }
   ],
   "release_date": "2011-07-07",

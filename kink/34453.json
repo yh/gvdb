@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Ruckus",
-      "person_id": 48209
-    },
-    {
       "name": "Mona Wales",
       "person_id": 51511
+    },
+    {
+      "name": "Ruckus",
+      "person_id": 48209
     }
   ],
   "release_date": "2014-01-08",

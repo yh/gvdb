@@ -11,8 +11,16 @@
   ],
   "models": [
     {
+      "name": "Bill Bailey",
+      "person_id": 46601
+    },
+    {
       "name": "Chanel Preston",
       "person_id": 26542
+    },
+    {
+      "name": "Jay Smooth",
+      "person_id": 48773
     },
     {
       "name": "John Strong",
@@ -25,14 +33,6 @@
     {
       "name": "Mark Wood",
       "person_id": 31058
-    },
-    {
-      "name": "Bill Bailey",
-      "person_id": 46601
-    },
-    {
-      "name": "Jay Smooth",
-      "person_id": 48773
     }
   ],
   "release_date": "2016-01-13",

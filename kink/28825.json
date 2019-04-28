@@ -11,32 +11,32 @@
   ],
   "models": [
     {
-      "name": "Sarah Shevon",
-      "person_id": 19605
-    },
-    {
-      "name": "Xander Corvus",
-      "person_id": 46000
+      "name": "Bill Bailey",
+      "person_id": 46601
     },
     {
       "name": "Danny Wylde",
       "person_id": 7790
     },
     {
-      "name": "Jordan Ash",
-      "person_id": 42543
-    },
-    {
       "name": "John Strong",
       "person_id": 17050
     },
     {
-      "name": "Bill Bailey",
-      "person_id": 46601
+      "name": "Jordan Ash",
+      "person_id": 42543
     },
     {
       "name": "Ryan McLane",
       "person_id": 47515
+    },
+    {
+      "name": "Sarah Shevon",
+      "person_id": 19605
+    },
+    {
+      "name": "Xander Corvus",
+      "person_id": 46000
     }
   ],
   "release_date": "2013-03-13",

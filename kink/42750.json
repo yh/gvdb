@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Peter Stallion",
-      "person_id": 60556
-    },
-    {
       "name": "Camilla",
       "person_id": 60558
+    },
+    {
+      "name": "Peter Stallion",
+      "person_id": 60556
     }
   ],
   "release_date": "2017-09-19",

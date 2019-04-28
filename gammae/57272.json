@@ -5,12 +5,12 @@
   "description": "Triumvirate: Up Up And Away",
   "models": [
     {
-      "name": "Pierre L'Fontaine",
-      "person_id": 29462
-    },
-    {
       "name": "Lukas Wink",
       "person_id": 29489
+    },
+    {
+      "name": "Pierre L'Fontaine",
+      "person_id": 29462
     }
   ],
   "release_date": "2009-04-21",

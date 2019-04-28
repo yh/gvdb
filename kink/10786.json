@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Patrick Rouge",
-      "person_id": 18939
-    },
-    {
       "name": "Josh West",
       "person_id": 20861
+    },
+    {
+      "name": "Patrick Rouge",
+      "person_id": 18939
     }
   ],
   "release_date": "2010-11-26",

@@ -11,8 +11,8 @@
   ],
   "models": [
     {
-      "name": "Sophie Monroe",
-      "person_id": 20940
+      "name": "Iona Grace",
+      "person_id": 25204
     },
     {
       "name": "Jessie Cox",
@@ -23,20 +23,20 @@
       "person_id": 32584
     },
     {
-      "name": "Iona Grace",
-      "person_id": 25204
-    },
-    {
-      "name": "Sparky Sin Claire",
-      "person_id": 29494
+      "name": "Lilla Katt",
+      "person_id": 18701
     },
     {
       "name": "Nerine Mechanique",
       "person_id": 19851
     },
     {
-      "name": "Lilla Katt",
-      "person_id": 18701
+      "name": "Sophie Monroe",
+      "person_id": 20940
+    },
+    {
+      "name": "Sparky Sin Claire",
+      "person_id": 29494
     }
   ],
   "release_date": "2011-06-17",

@@ -5,12 +5,12 @@
   "description": "Triumvirate: Hungry For Love",
   "models": [
     {
-      "name": "Lukas Wink",
-      "person_id": 29489
-    },
-    {
       "name": "Dino Vista",
       "person_id": 29526
+    },
+    {
+      "name": "Lukas Wink",
+      "person_id": 29489
     }
   ],
   "release_date": "2003-04-30",

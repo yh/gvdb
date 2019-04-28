@@ -11,16 +11,12 @@
   ],
   "models": [
     {
-      "name": "Spencer Reed",
-      "person_id": 19086
+      "name": "Jackson Lawless",
+      "person_id": 17496
     },
     {
       "name": "Josh West",
       "person_id": 20861
-    },
-    {
-      "name": "Jackson Lawless",
-      "person_id": 17496
     },
     {
       "name": "Reed Mathews",
@@ -29,6 +25,10 @@
     {
       "name": "Scott Upton",
       "person_id": 34843
+    },
+    {
+      "name": "Spencer Reed",
+      "person_id": 19086
     }
   ],
   "release_date": "2011-12-22",

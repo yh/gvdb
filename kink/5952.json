@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tober Brandt",
-      "person_id": 17152
-    },
-    {
       "name": "Brandon Hawk",
       "person_id": 18018
+    },
+    {
+      "name": "Tober Brandt",
+      "person_id": 17152
     }
   ],
   "release_date": "2008-12-18",

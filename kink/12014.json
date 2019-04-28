@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lily LaBeau",
-      "person_id": 25162
-    },
-    {
       "name": "Ginger Gates",
       "person_id": 22581
+    },
+    {
+      "name": "Lily LaBeau",
+      "person_id": 25162
     }
   ],
   "release_date": "2011-03-11",

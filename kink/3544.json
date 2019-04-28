@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Vendetta",
-      "person_id": 8300
-    },
-    {
       "name": "DragonLily",
       "person_id": 3433
+    },
+    {
+      "name": "Vendetta",
+      "person_id": 8300
     }
   ],
   "release_date": "2006-08-29",

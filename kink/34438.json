@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Rob Yaeger",
-      "person_id": 45103
-    },
-    {
       "name": "Maitresse Madeline Marlowe",
       "person_id": 17872
+    },
+    {
+      "name": "Rob Yaeger",
+      "person_id": 45103
     }
   ],
   "release_date": "2013-12-11",

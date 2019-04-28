@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Zander Lane",
-      "person_id": 57933
-    },
-    {
       "name": "Joseph Banks",
       "person_id": 57934
+    },
+    {
+      "name": "Zander Lane",
+      "person_id": 57933
     }
   ],
   "release_date": "2019-03-14",

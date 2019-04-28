@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kendra James",
-      "person_id": 247
-    },
-    {
       "name": "Chad Rock",
       "person_id": 14593
+    },
+    {
+      "name": "Kendra James",
+      "person_id": 247
     }
   ],
   "release_date": "2011-10-10",

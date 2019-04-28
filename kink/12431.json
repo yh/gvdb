@@ -11,28 +11,28 @@
   ],
   "models": [
     {
-      "name": "Lilla Katt",
-      "person_id": 18701
+      "name": "Alexxa Bound",
+      "person_id": 27871
     },
     {
-      "name": "Shae Simone",
-      "person_id": 22709
+      "name": "Jade Taylor",
+      "person_id": 29789
     },
     {
       "name": "Juliette March",
       "person_id": 22072
     },
     {
-      "name": "Alexxa Bound",
-      "person_id": 27871
-    },
-    {
       "name": "Kiki Koi",
       "person_id": 30457
     },
     {
-      "name": "Jade Taylor",
-      "person_id": 29789
+      "name": "Lilla Katt",
+      "person_id": 18701
+    },
+    {
+      "name": "Shae Simone",
+      "person_id": 22709
     }
   ],
   "release_date": "2011-03-11",

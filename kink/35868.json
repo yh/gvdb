@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dakota Wolfe",
-      "person_id": 41106
-    },
-    {
       "name": "Brock Avery",
       "person_id": 53215
+    },
+    {
+      "name": "Dakota Wolfe",
+      "person_id": 41106
     }
   ],
   "release_date": "2014-07-25",

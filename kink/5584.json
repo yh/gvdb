@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Lochai",
-      "person_id": 4558
-    },
-    {
       "name": "Alexa Von Tess",
       "person_id": 12340
+    },
+    {
+      "name": "Lochai",
+      "person_id": 4558
     }
   ],
   "release_date": "2008-10-14",

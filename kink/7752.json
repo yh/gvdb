@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Ashley Jane",
+      "person_id": 19727
+    },
+    {
       "name": "Felony",
       "person_id": 17502
     },
     {
       "name": "Sasha Yung",
       "person_id": 21135
-    },
-    {
-      "name": "Ashley Jane",
-      "person_id": 19727
     }
   ],
   "release_date": "2009-12-18",

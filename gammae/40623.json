@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Julian Vincenzo",
-      "person_id": 20918
-    },
-    {
       "name": "Adam Kubick",
       "person_id": 21030
+    },
+    {
+      "name": "Julian Vincenzo",
+      "person_id": 20918
     },
     {
       "name": "Peter Schwarz",

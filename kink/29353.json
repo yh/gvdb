@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nikita Bellucci",
-      "person_id": 47908
-    },
-    {
       "name": "Astral Dust",
       "person_id": 43670
+    },
+    {
+      "name": "Nikita Bellucci",
+      "person_id": 47908
     }
   ],
   "release_date": "2013-04-19",

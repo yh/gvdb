@@ -9,16 +9,8 @@
       "person_id": 15191
     },
     {
-      "name": "Mark Evrett",
-      "person_id": 15967
-    },
-    {
       "name": "Giovanni Bellini",
       "person_id": 15533
-    },
-    {
-      "name": "Nick Nicaste",
-      "person_id": 16105
     },
     {
       "name": "Harrison Quaid",
@@ -27,6 +19,14 @@
     {
       "name": "Kelly Smith",
       "person_id": 15811
+    },
+    {
+      "name": "Mark Evrett",
+      "person_id": 15967
+    },
+    {
+      "name": "Nick Nicaste",
+      "person_id": 16105
     }
   ],
   "release_date": "2008-06-16",

@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Spencer Reed",
-      "person_id": 19639
-    },
-    {
       "name": "Christopher Daniels",
       "person_id": 20661
+    },
+    {
+      "name": "Spencer Reed",
+      "person_id": 19639
     }
   ],
   "release_date": "2012-01-01",

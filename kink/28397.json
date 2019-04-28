@@ -11,6 +11,14 @@
   ],
   "models": [
     {
+      "name": "Lance Hart",
+      "person_id": 37346
+    },
+    {
+      "name": "Lea Lexis",
+      "person_id": 17836
+    },
+    {
       "name": "Lorelei Lee",
       "person_id": 758
     },
@@ -19,16 +27,8 @@
       "person_id": 28012
     },
     {
-      "name": "Lea Lexis",
-      "person_id": 17836
-    },
-    {
       "name": "Missy Minks",
       "person_id": 27930
-    },
-    {
-      "name": "Lance Hart",
-      "person_id": 37346
     }
   ],
   "release_date": "2013-02-15",

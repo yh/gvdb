@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Krysta Kaos",
-      "person_id": 25624
+      "name": "Asphyxia Noir",
+      "person_id": 31983
     },
     {
       "name": "Dylan Ryan",
       "person_id": 10069
     },
     {
-      "name": "Asphyxia Noir",
-      "person_id": 31983
-    },
-    {
       "name": "James Deen",
       "person_id": 8935
+    },
+    {
+      "name": "Krysta Kaos",
+      "person_id": 25624
     }
   ],
   "release_date": "2012-02-03",

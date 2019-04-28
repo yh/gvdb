@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Jay Snakes",
-      "person_id": 61169
-    },
-    {
       "name": "Claudia Rossi",
       "person_id": 61841
+    },
+    {
+      "name": "Jay Snakes",
+      "person_id": 61169
     },
     {
       "name": "Ree Petra",

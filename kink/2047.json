@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Chanta-Rose",
-      "person_id": 124
-    },
-    {
       "name": "Brooke Bound",
       "person_id": 4137
+    },
+    {
+      "name": "Chanta-Rose",
+      "person_id": 124
     }
   ],
   "release_date": "2004-07-09",

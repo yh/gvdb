@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Janay",
-      "person_id": 59
-    },
-    {
       "name": "Avy Lee Roth",
       "person_id": 5621
+    },
+    {
+      "name": "Janay",
+      "person_id": 59
     }
   ],
   "release_date": "2004-09-05",

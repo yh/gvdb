@@ -15,6 +15,10 @@
       "person_id": 53344
     },
     {
+      "name": "Jon Jon",
+      "person_id": 35195
+    },
+    {
       "name": "Mr. Pete",
       "person_id": 16823
     },
@@ -25,10 +29,6 @@
     {
       "name": "Sadie Santana",
       "person_id": 53272
-    },
-    {
-      "name": "Jon Jon",
-      "person_id": 35195
     }
   ],
   "release_date": "2016-09-21",

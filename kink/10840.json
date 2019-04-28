@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Ms Kim",
-      "person_id": 25410
-    },
-    {
       "name": "Dylan Deap",
       "person_id": 21477
+    },
+    {
+      "name": "Ms Kim",
+      "person_id": 25410
     }
   ],
   "release_date": "2010-10-20",

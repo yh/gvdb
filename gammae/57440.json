@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Jeremy Stevens",
-      "person_id": 31078
-    },
-    {
       "name": "CJ Parker",
       "person_id": 31291
+    },
+    {
+      "name": "Jeremy Stevens",
+      "person_id": 31078
     }
   ],
   "release_date": "2013-06-11",

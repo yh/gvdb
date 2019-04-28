@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "James Deen",
-      "person_id": 8935
+      "name": "Henry Jacob",
+      "person_id": 33551
     },
     {
-      "name": "Kara Price",
-      "person_id": 21132
+      "name": "James Deen",
+      "person_id": 8935
     },
     {
       "name": "John Strong",
       "person_id": 17050
     },
     {
-      "name": "Henry Jacob",
-      "person_id": 33551
+      "name": "Kara Price",
+      "person_id": 21132
     }
   ],
   "release_date": "2011-10-26",

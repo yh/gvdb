@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Derrick P.",
-      "person_id": 19453
-    },
-    {
       "name": "Ashley Fires",
       "person_id": 20856
+    },
+    {
+      "name": "Derrick P.",
+      "person_id": 19453
     }
   ],
   "release_date": "2009-10-20",

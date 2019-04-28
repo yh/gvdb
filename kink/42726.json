@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Timarrie Baker",
-      "person_id": 60413
-    },
-    {
       "name": "Christop",
       "person_id": 60411
+    },
+    {
+      "name": "Timarrie Baker",
+      "person_id": 60413
     }
   ],
   "release_date": "2017-09-11",

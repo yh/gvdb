@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Penny Barber",
-      "person_id": 6664
-    },
-    {
       "name": "Bill Bailey",
       "person_id": 46601
+    },
+    {
+      "name": "Penny Barber",
+      "person_id": 6664
     },
     {
       "name": "Simone Sonay",

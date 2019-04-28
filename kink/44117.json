@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Maklaryn",
-      "person_id": 291
-    },
-    {
       "name": "Katja",
       "person_id": 337
     },
     {
       "name": "Kym Wilde",
       "person_id": 99
+    },
+    {
+      "name": "Maklaryn",
+      "person_id": 291
     }
   ],
   "release_date": "2002-12-04",

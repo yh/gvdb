@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Small Hands",
-      "person_id": 59499
-    },
-    {
       "name": "Kendra Spade",
       "person_id": 60694
+    },
+    {
+      "name": "Small Hands",
+      "person_id": 59499
     }
   ],
   "release_date": "2019-03-08",

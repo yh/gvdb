@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Harmony",
-      "person_id": 6341
-    },
-    {
       "name": "Elliot Skellington",
       "person_id": 10045
+    },
+    {
+      "name": "Harmony",
+      "person_id": 6341
     }
   ],
   "release_date": "2006-03-22",

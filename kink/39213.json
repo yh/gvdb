@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Trenton Ducati",
-      "person_id": 42630
-    },
-    {
       "name": "Connor Patricks",
       "person_id": 47357
+    },
+    {
+      "name": "Trenton Ducati",
+      "person_id": 42630
     }
   ],
   "release_date": "2015-12-17",

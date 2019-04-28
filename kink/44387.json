@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Nikki Delano",
-      "person_id": 45587
-    },
-    {
       "name": "Ariel X",
       "person_id": 10464
+    },
+    {
+      "name": "Nikki Delano",
+      "person_id": 45587
     }
   ],
   "release_date": "2019-03-19",

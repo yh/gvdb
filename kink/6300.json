@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Miss Jade Indica",
-      "person_id": 16744
-    },
-    {
       "name": "Mark Davis",
       "person_id": 8200
+    },
+    {
+      "name": "Miss Jade Indica",
+      "person_id": 16744
     }
   ],
   "release_date": "2009-02-27",

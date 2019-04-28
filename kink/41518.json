@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Missy Martinez",
-      "person_id": 59648
-    },
-    {
       "name": "John Strong",
       "person_id": 17050
+    },
+    {
+      "name": "Missy Martinez",
+      "person_id": 59648
     }
   ],
   "release_date": "2016-11-24",

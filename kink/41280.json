@@ -11,10 +11,6 @@
   ],
   "models": [
     {
-      "name": "Nikki Delano",
-      "person_id": 45587
-    },
-    {
       "name": "Jenna Foxx",
       "person_id": 59055
     },
@@ -25,6 +21,10 @@
     {
       "name": "Nikki Darling",
       "person_id": 42508
+    },
+    {
+      "name": "Nikki Delano",
+      "person_id": 45587
     }
   ],
   "release_date": "2016-11-30",

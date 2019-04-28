@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "DragonLily",
-      "person_id": 3433
-    },
-    {
       "name": "Ariel X",
       "person_id": 10464
+    },
+    {
+      "name": "DragonLily",
+      "person_id": 3433
     },
     {
       "name": "Holly Heart",

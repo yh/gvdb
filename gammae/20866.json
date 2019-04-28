@@ -5,16 +5,16 @@
   "description": "Peter Krisztia oversees the target practice of Colby Tavers and Serge Istavan, who test their marksmanship in a field. When the captain leaves, the two start sucking each other. Krisztia soon comes back to sample his students.",
   "models": [
     {
+      "name": "Colby Tavers",
+      "person_id": 11478
+    },
+    {
       "name": "Peter Krisztia",
       "person_id": 11078
     },
     {
       "name": "Serge Istavan",
       "person_id": 11267
-    },
-    {
-      "name": "Colby Tavers",
-      "person_id": 11478
     }
   ],
   "release_date": "2005-03-01",

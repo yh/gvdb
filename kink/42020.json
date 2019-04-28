@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Skin Diamond",
-      "person_id": 31494
-    },
-    {
       "name": "John Strong",
       "person_id": 17050
+    },
+    {
+      "name": "Skin Diamond",
+      "person_id": 31494
     }
   ],
   "release_date": "2017-05-10",

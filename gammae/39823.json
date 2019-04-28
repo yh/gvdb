@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
-      "name": "Luke Hass",
-      "person_id": 19616
-    },
-    {
       "name": "Antonio Biaggi",
       "person_id": 19618
     },
     {
       "name": "Bo Matthews",
       "person_id": 19776
+    },
+    {
+      "name": "Luke Hass",
+      "person_id": 19616
     }
   ],
   "release_date": "2007-11-06",

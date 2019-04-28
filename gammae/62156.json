@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Nick Decker",
-      "person_id": 31387
-    },
-    {
       "name": "Isaac Conn",
       "person_id": 31994
+    },
+    {
+      "name": "Nick Decker",
+      "person_id": 31387
     }
   ],
   "release_date": "2013-12-20",

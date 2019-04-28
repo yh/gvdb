@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nora Belle",
-      "person_id": 55020
-    },
-    {
       "name": "Dane Cross",
       "person_id": 21442
+    },
+    {
+      "name": "Nora Belle",
+      "person_id": 55020
     }
   ],
   "release_date": "2014-08-29",

@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Eric Michaels",
-      "person_id": 26408
-    },
-    {
       "name": "Bobby Black",
       "person_id": 26409
+    },
+    {
+      "name": "Eric Michaels",
+      "person_id": 26408
     }
   ],
   "release_date": "2003-01-01",

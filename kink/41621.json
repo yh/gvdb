@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dolf Dietrich",
-      "person_id": 59019
-    },
-    {
       "name": "Christian Wilde",
       "person_id": 21037
+    },
+    {
+      "name": "Dolf Dietrich",
+      "person_id": 59019
     }
   ],
   "release_date": "2017-02-09",

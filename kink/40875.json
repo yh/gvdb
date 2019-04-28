@@ -11,10 +11,6 @@
   ],
   "models": [
     {
-      "name": "Nikki Darling",
-      "person_id": 42508
-    },
-    {
       "name": "Gage Sin",
       "person_id": 53344
     },
@@ -23,16 +19,20 @@
       "person_id": 49204
     },
     {
+      "name": "Marco Banderas",
+      "person_id": 27958
+    },
+    {
+      "name": "Nikki Darling",
+      "person_id": 42508
+    },
+    {
       "name": "Owen Gray",
       "person_id": 39181
     },
     {
       "name": "Tommy Pistol",
       "person_id": 12663
-    },
-    {
-      "name": "Marco Banderas",
-      "person_id": 27958
     }
   ],
   "release_date": "2016-08-10",

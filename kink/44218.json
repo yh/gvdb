@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Pomstychtiva Pritelkyne",
-      "person_id": 61365
-    },
-    {
       "name": "Milen Petroff",
       "person_id": 61848
+    },
+    {
+      "name": "Pomstychtiva Pritelkyne",
+      "person_id": 61365
     }
   ],
   "release_date": "2019-01-16",

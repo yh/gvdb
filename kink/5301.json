@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "La Cherry Spice",
-      "person_id": 14748
-    },
-    {
       "name": "Charlie Whitehorse",
       "person_id": 16181
+    },
+    {
+      "name": "La Cherry Spice",
+      "person_id": 14748
     }
   ],
   "release_date": "2008-05-06",

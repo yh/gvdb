@@ -11,6 +11,10 @@
   ],
   "models": [
     {
+      "name": "Dorian",
+      "person_id": 42882
+    },
+    {
       "name": "Markus Dupree",
       "person_id": 42128
     },
@@ -25,10 +29,6 @@
     {
       "name": "Steve Holmes",
       "person_id": 15810
-    },
-    {
-      "name": "Dorian",
-      "person_id": 42882
     },
     {
       "name": "Vanessa",

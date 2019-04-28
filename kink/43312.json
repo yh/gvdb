@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Ruckus",
-      "person_id": 48209
-    },
-    {
       "name": "Natalie Mars",
       "person_id": 60280
+    },
+    {
+      "name": "Ruckus",
+      "person_id": 48209
     }
   ],
   "release_date": "2018-05-15",

@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Sinnamon Love",
-      "person_id": 352
-    },
-    {
       "name": "Harry the Goblin",
       "person_id": 1967
+    },
+    {
+      "name": "Sinnamon Love",
+      "person_id": 352
     }
   ],
   "release_date": "2003-07-22",

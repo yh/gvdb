@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Peter Mesaros",
-      "person_id": 20490
-    },
-    {
       "name": "David Knap",
       "person_id": 20491
+    },
+    {
+      "name": "Peter Mesaros",
+      "person_id": 20490
     }
   ],
   "release_date": "2006-08-15",

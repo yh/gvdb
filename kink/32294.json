@@ -11,10 +11,6 @@
   ],
   "models": [
     {
-      "name": "Steve Holmes",
-      "person_id": 15810
-    },
-    {
       "name": "Bella Hally",
       "person_id": 50171
     },
@@ -29,6 +25,10 @@
     {
       "name": "Omar Galanti",
       "person_id": 42129
+    },
+    {
+      "name": "Steve Holmes",
+      "person_id": 15810
     },
     {
       "name": "Yury",

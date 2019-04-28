@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Chanel Preston",
-      "person_id": 26542
-    },
-    {
       "name": "Angel Allwood",
       "person_id": 52348
+    },
+    {
+      "name": "Chanel Preston",
+      "person_id": 26542
     }
   ],
   "release_date": "2014-12-09",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jeremy Stevens",
-      "person_id": 40364
-    },
-    {
       "name": "Casey More",
       "person_id": 47825
+    },
+    {
+      "name": "Jeremy Stevens",
+      "person_id": 40364
     }
   ],
   "release_date": "2013-05-30",

@@ -11,32 +11,32 @@
   ],
   "models": [
     {
+      "name": "Aarin Asker",
+      "person_id": 58219
+    },
+    {
       "name": "Christian Wilde",
       "person_id": 21037
     },
     {
-      "name": "Micah Brandt",
-      "person_id": 57628
-    },
-    {
-      "name": "Aarin Asker",
-      "person_id": 58219
+      "name": "Connor Maguire",
+      "person_id": 46426
     },
     {
       "name": "Kaden Alexander",
       "person_id": 59146
     },
     {
-      "name": "Trenton Ducati",
-      "person_id": 42630
-    },
-    {
       "name": "Max Cameron",
       "person_id": 57500
     },
     {
-      "name": "Connor Maguire",
-      "person_id": 46426
+      "name": "Micah Brandt",
+      "person_id": 57628
+    },
+    {
+      "name": "Trenton Ducati",
+      "person_id": 42630
     }
   ],
   "release_date": "2018-03-22",

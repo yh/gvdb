@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Collin Stone",
-      "person_id": 22683
-    },
-    {
       "name": "Caleb Colton",
       "person_id": 28862
+    },
+    {
+      "name": "Collin Stone",
+      "person_id": 22683
     }
   ],
   "release_date": "2012-10-09",

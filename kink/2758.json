@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "shy love",
-      "person_id": 6403
-    },
-    {
       "name": "Jasmine Byrne",
       "person_id": 6322
+    },
+    {
+      "name": "shy love",
+      "person_id": 6403
     }
   ],
   "release_date": "2005-04-25",

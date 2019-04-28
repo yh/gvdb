@@ -5,12 +5,12 @@
   "description": "Triumvirate: Can't Hide That Feeling Part 1",
   "models": [
     {
-      "name": "Leev Lale",
-      "person_id": 29584
-    },
-    {
       "name": "Chet Meyers",
       "person_id": 29619
+    },
+    {
+      "name": "Leev Lale",
+      "person_id": 29584
     }
   ],
   "release_date": "2003-08-06",

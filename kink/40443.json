@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sami Price",
-      "person_id": 56627
-    },
-    {
       "name": "Penny Barber",
       "person_id": 6664
+    },
+    {
+      "name": "Sami Price",
+      "person_id": 56627
     }
   ],
   "release_date": "2016-08-01",

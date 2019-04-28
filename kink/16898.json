@@ -11,14 +11,6 @@
   ],
   "models": [
     {
-      "name": "Isis Love",
-      "person_id": 6584
-    },
-    {
-      "name": "Serena Blair",
-      "person_id": 31165
-    },
-    {
       "name": "Emma Haize",
       "person_id": 29618
     },
@@ -27,8 +19,16 @@
       "person_id": 21436
     },
     {
+      "name": "Isis Love",
+      "person_id": 6584
+    },
+    {
       "name": "Lyla Storm",
       "person_id": 33882
+    },
+    {
+      "name": "Serena Blair",
+      "person_id": 31165
     }
   ],
   "release_date": "2011-11-08",

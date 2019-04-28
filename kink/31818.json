@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jayden Ellis",
-      "person_id": 50088
-    },
-    {
       "name": "Hayden Richards",
       "person_id": 47285
+    },
+    {
+      "name": "Jayden Ellis",
+      "person_id": 50088
     }
   ],
   "release_date": "2013-07-12",

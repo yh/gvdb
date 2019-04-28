@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Steve Vex",
-      "person_id": 19680
-    },
-    {
       "name": "Ben Brown",
       "person_id": 19727
+    },
+    {
+      "name": "Steve Vex",
+      "person_id": 19680
     }
   ],
   "release_date": "2012-06-06",

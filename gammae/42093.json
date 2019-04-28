@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Trojan Rock",
-      "person_id": 21829
-    },
-    {
       "name": "Piero Sias",
       "person_id": 21831
+    },
+    {
+      "name": "Trojan Rock",
+      "person_id": 21829
     }
   ],
   "release_date": "2007-04-01",

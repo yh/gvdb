@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Luna Light",
-      "person_id": 50848
-    },
-    {
       "name": "Karlo Karrera",
       "person_id": 35221
+    },
+    {
+      "name": "Luna Light",
+      "person_id": 50848
     }
   ],
   "release_date": "2013-08-30",

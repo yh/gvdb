@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jessica Creepshow",
-      "person_id": 42682
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
+    },
+    {
+      "name": "Jessica Creepshow",
+      "person_id": 42682
     }
   ],
   "release_date": "2015-12-25",

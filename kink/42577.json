@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Sweet Cat Sandy",
-      "person_id": 60429
-    },
-    {
       "name": "Richy",
       "person_id": 51902
+    },
+    {
+      "name": "Sweet Cat Sandy",
+      "person_id": 60429
     }
   ],
   "release_date": "2018-01-03",

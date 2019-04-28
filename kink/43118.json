@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dallas Steele",
-      "person_id": 61115
-    },
-    {
       "name": "Cody Winter",
       "person_id": 59548
+    },
+    {
+      "name": "Dallas Steele",
+      "person_id": 61115
     }
   ],
   "release_date": "2018-04-19",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Monica Mayhem",
-      "person_id": 8565
-    },
-    {
       "name": "Ariel X",
       "person_id": 10464
+    },
+    {
+      "name": "Monica Mayhem",
+      "person_id": 8565
     }
   ],
   "release_date": "2005-12-09",

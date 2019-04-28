@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Syd Blakovich",
-      "person_id": 7618
-    },
-    {
       "name": "Dia Zerva",
       "person_id": 16038
+    },
+    {
+      "name": "Syd Blakovich",
+      "person_id": 7618
     }
   ],
   "release_date": "2013-02-05",

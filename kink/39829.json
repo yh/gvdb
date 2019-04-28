@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jackson Fillmore",
-      "person_id": 56833
-    },
-    {
       "name": "Chris Burke",
       "person_id": 58819
+    },
+    {
+      "name": "Jackson Fillmore",
+      "person_id": 56833
     }
   ],
   "release_date": "2016-04-20",

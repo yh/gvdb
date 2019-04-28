@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Sgt. Major",
-      "person_id": 4556
-    },
-    {
       "name": "Adrianna Nicole",
       "person_id": 301
+    },
+    {
+      "name": "Sgt. Major",
+      "person_id": 4556
     }
   ],
   "release_date": "2007-11-20",

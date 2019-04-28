@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Nick Decker",
-      "person_id": 31387
-    },
-    {
       "name": "Jay Thomas",
       "person_id": 31604
+    },
+    {
+      "name": "Nick Decker",
+      "person_id": 31387
     },
     {
       "name": "Ryan Ashland",

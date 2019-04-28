@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Xana Star",
-      "person_id": 2881
-    },
-    {
       "name": "Plew",
       "person_id": 5433
+    },
+    {
+      "name": "Xana Star",
+      "person_id": 2881
     }
   ],
   "release_date": "2004-09-09",

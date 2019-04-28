@@ -11,6 +11,18 @@
   ],
   "models": [
     {
+      "name": "Alex Gonz",
+      "person_id": 39154
+    },
+    {
+      "name": "Astral Dust",
+      "person_id": 43670
+    },
+    {
+      "name": "Bill Bailey",
+      "person_id": 46601
+    },
+    {
       "name": "Casey Calvert",
       "person_id": 36437
     },
@@ -21,18 +33,6 @@
     {
       "name": "Mark Davis",
       "person_id": 8200
-    },
-    {
-      "name": "Bill Bailey",
-      "person_id": 46601
-    },
-    {
-      "name": "Astral Dust",
-      "person_id": 43670
-    },
-    {
-      "name": "Alex Gonz",
-      "person_id": 39154
     }
   ],
   "release_date": "2013-02-06",

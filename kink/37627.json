@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Mona Wales",
+      "person_id": 51511
+    },
+    {
       "name": "Phoenix Marie",
       "person_id": 17093
     },
     {
       "name": "Virgo Peridot",
       "person_id": 57205
-    },
-    {
-      "name": "Mona Wales",
-      "person_id": 51511
     }
   ],
   "release_date": "2015-04-21",

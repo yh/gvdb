@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "JP",
-      "person_id": 1665
-    },
-    {
       "name": "Claire Adams",
       "person_id": 378
+    },
+    {
+      "name": "JP",
+      "person_id": 1665
     }
   ],
   "release_date": "2003-05-30",

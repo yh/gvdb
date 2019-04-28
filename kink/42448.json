@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mike Panic",
-      "person_id": 41034
-    },
-    {
       "name": "Chelsea Marie",
       "person_id": 40544
+    },
+    {
+      "name": "Mike Panic",
+      "person_id": 41034
     }
   ],
   "release_date": "2017-07-25",

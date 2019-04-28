@@ -11,28 +11,28 @@
   ],
   "models": [
     {
-      "name": "Morgan Black",
-      "person_id": 34934
+      "name": "John Jammen",
+      "person_id": 22596
     },
     {
       "name": "Leo Forte",
       "person_id": 22142
     },
     {
-      "name": "Van Darkholme",
-      "person_id": 15862
+      "name": "Morgan Black",
+      "person_id": 34934
+    },
+    {
+      "name": "Scratch",
+      "person_id": 30441
     },
     {
       "name": "Sebastian Keys",
       "person_id": 20316
     },
     {
-      "name": "John Jammen",
-      "person_id": 22596
-    },
-    {
-      "name": "Scratch",
-      "person_id": 30441
+      "name": "Van Darkholme",
+      "person_id": 15862
     }
   ],
   "release_date": "2013-02-28",

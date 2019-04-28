@@ -11,28 +11,28 @@
   ],
   "models": [
     {
-      "name": "John Strong",
-      "person_id": 17050
+      "name": "Bill Bailey",
+      "person_id": 46601
     },
     {
-      "name": "Tommy Pistol",
-      "person_id": 12663
+      "name": "Holly Heart",
+      "person_id": 20472
+    },
+    {
+      "name": "John Strong",
+      "person_id": 17050
     },
     {
       "name": "Owen Gray",
       "person_id": 39181
     },
     {
-      "name": "Bill Bailey",
-      "person_id": 46601
-    },
-    {
       "name": "Ramon Nomar",
       "person_id": 35412
     },
     {
-      "name": "Holly Heart",
-      "person_id": 20472
+      "name": "Tommy Pistol",
+      "person_id": 12663
     }
   ],
   "release_date": "2014-08-13",

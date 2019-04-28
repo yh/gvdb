@@ -6,6 +6,10 @@
   "directors": [],
   "models": [
     {
+      "name": "Hollie Stevens",
+      "person_id": 1572
+    },
+    {
       "name": "Isis Love",
       "person_id": 6584
     },
@@ -14,16 +18,12 @@
       "person_id": 5069
     },
     {
-      "name": "Sasha Monet",
-      "person_id": 2348
-    },
-    {
       "name": "Lola",
       "person_id": 6034
     },
     {
-      "name": "Hollie Stevens",
-      "person_id": 1572
+      "name": "Sasha Monet",
+      "person_id": 2348
     }
   ],
   "release_date": "2005-05-04",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "John Strong",
-      "person_id": 17050
-    },
-    {
       "name": "Isis Love",
       "person_id": 6584
+    },
+    {
+      "name": "John Strong",
+      "person_id": 17050
     },
     {
       "name": "Sammy Grand",

@@ -11,24 +11,24 @@
   ],
   "models": [
     {
-      "name": "Maestro",
-      "person_id": 11928
+      "name": "Bella Rossi",
+      "person_id": 18418
     },
     {
       "name": "Cherry Torn",
       "person_id": 11105
     },
     {
-      "name": "Bella Rossi",
-      "person_id": 18418
+      "name": "James",
+      "person_id": 10539
+    },
+    {
+      "name": "Maestro",
+      "person_id": 11928
     },
     {
       "name": "Peter",
       "person_id": 7005
-    },
-    {
-      "name": "James",
-      "person_id": 10539
     }
   ],
   "release_date": "2010-09-03",

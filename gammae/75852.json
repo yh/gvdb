@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Billy Santoro",
-      "person_id": 32561
-    },
-    {
       "name": "Benjamin Bronx",
       "person_id": 34885
+    },
+    {
+      "name": "Billy Santoro",
+      "person_id": 32561
     }
   ],
   "release_date": "2015-08-19",

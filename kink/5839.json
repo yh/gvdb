@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Vai",
-      "person_id": 15646
-    },
-    {
       "name": "Princess Donna Dolore",
       "person_id": 5235
+    },
+    {
+      "name": "Vai",
+      "person_id": 15646
     }
   ],
   "release_date": "2012-07-01",

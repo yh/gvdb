@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Lucius Cross",
-      "person_id": 60417
-    },
-    {
       "name": "Justin Case",
       "person_id": 60416
+    },
+    {
+      "name": "Lucius Cross",
+      "person_id": 60417
     }
   ],
   "release_date": "2017-11-02",

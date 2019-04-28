@@ -3,12 +3,7 @@
     "Butt Machine Boys"
   ],
   "description": "Tom makes a delivery to the roof of a building and rides the machines.",
-  "directors": [
-    {
-      "name": "Biff Cocblocer",
-      "person_id": 7031
-    }
-  ],
+  "directors": [],
   "models": [
     {
       "name": "Tom Deven",

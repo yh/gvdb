@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Jessie Colter",
-      "person_id": 34311
-    },
-    {
       "name": "Billy Santoro",
       "person_id": 52181
     },
     {
       "name": "Doug Acre",
       "person_id": 47153
+    },
+    {
+      "name": "Jessie Colter",
+      "person_id": 34311
     },
     {
       "name": "Leo Forte",

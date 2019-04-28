@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Salina Samone",
-      "person_id": 58797
-    },
-    {
       "name": "Lance Hart",
       "person_id": 37346
+    },
+    {
+      "name": "Salina Samone",
+      "person_id": 58797
     }
   ],
   "release_date": "2016-02-17",

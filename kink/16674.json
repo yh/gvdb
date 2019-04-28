@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lyla Storm",
-      "person_id": 33882
-    },
-    {
       "name": "Gia DiMarco",
       "person_id": 21436
+    },
+    {
+      "name": "Lyla Storm",
+      "person_id": 33882
     }
   ],
   "release_date": "2011-11-25",

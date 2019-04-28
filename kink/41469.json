@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "TS Foxxy",
-      "person_id": 20055
-    },
-    {
       "name": "Rizzo Ford",
       "person_id": 56943
+    },
+    {
+      "name": "TS Foxxy",
+      "person_id": 20055
     }
   ],
   "release_date": "2017-03-27",

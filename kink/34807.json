@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Francesca Le",
-      "person_id": 36526
-    },
-    {
       "name": "Dee Williams",
       "person_id": 4197
+    },
+    {
+      "name": "Francesca Le",
+      "person_id": 36526
     }
   ],
   "release_date": "2014-03-18",

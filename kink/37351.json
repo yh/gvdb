@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Amarna Miller",
+      "person_id": 57131
+    },
+    {
       "name": "Maestro",
       "person_id": 11928
     },
     {
       "name": "Savannah Fox",
       "person_id": 47440
-    },
-    {
-      "name": "Amarna Miller",
-      "person_id": 57131
     }
   ],
   "release_date": "2015-03-06",

@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "JJ Knight",
-      "person_id": 58863
-    },
-    {
       "name": "Armond Rizzo",
       "person_id": 60590
+    },
+    {
+      "name": "JJ Knight",
+      "person_id": 58863
     }
   ],
   "release_date": "2017-06-15",

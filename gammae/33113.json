@@ -5,12 +5,12 @@
   "description": "Aaron Blake is trying to learn a little self defense technique at the gym. Ty Roderick is showing him some basics, and to his credit, Aaron displays some initial natural ability. Punching and kicking he seems to have down, but where he really wants to improve is down on the mat in tighter hand to hand struggles. Very quickly, Aaron learns there are certain positions that one should avoid. One of those positions is lying flat on your back while another man straddles your face with his crotch. Of course, as bad a position as this is for fighting, it does have its advantages when it comes to other activities.Enjoy!",
   "models": [
     {
-      "name": "Ty Roderick",
-      "person_id": 16609
-    },
-    {
       "name": "Aaron Blake",
       "person_id": 17774
+    },
+    {
+      "name": "Ty Roderick",
+      "person_id": 16609
     }
   ],
   "release_date": "2011-11-17",

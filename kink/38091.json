@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Tom Faulk",
-      "person_id": 57417
-    },
-    {
       "name": "Delia DeLions",
       "person_id": 57489
     },
     {
       "name": "Siouxsie Q",
       "person_id": 34821
+    },
+    {
+      "name": "Tom Faulk",
+      "person_id": 57417
     }
   ],
   "release_date": "2015-07-08",

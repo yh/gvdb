@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "David Chase",
-      "person_id": 20106
-    },
-    {
       "name": "Ashley Fires",
       "person_id": 20856
+    },
+    {
+      "name": "David Chase",
+      "person_id": 20106
     }
   ],
   "release_date": "2010-06-02",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nikki Knightly",
-      "person_id": 58427
-    },
-    {
       "name": "Nadia Jay",
       "person_id": 58293
+    },
+    {
+      "name": "Nikki Knightly",
+      "person_id": 58427
     }
   ],
   "release_date": "2015-08-12",

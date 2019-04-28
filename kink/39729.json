@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Slave Fluffy",
-      "person_id": 58760
-    },
-    {
       "name": "Lorelei Lee",
       "person_id": 758
+    },
+    {
+      "name": "Slave Fluffy",
+      "person_id": 58760
     }
   ],
   "release_date": "2016-03-18",

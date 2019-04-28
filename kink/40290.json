@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Will Havoc",
-      "person_id": 46285
-    },
-    {
       "name": "Aubrey Kate",
       "person_id": 51491
+    },
+    {
+      "name": "Will Havoc",
+      "person_id": 46285
     }
   ],
   "release_date": "2016-06-01",

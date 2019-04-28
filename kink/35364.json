@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Wenona",
-      "person_id": 4485
-    },
-    {
       "name": "Lea Lexis",
       "person_id": 17836
+    },
+    {
+      "name": "Wenona",
+      "person_id": 4485
     }
   ],
   "release_date": "2014-06-06",

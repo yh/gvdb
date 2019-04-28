@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Skin Diamond",
-      "person_id": 31494
-    },
-    {
       "name": "James Deen",
       "person_id": 8935
     },
     {
       "name": "Princess Donna Dolore",
       "person_id": 5235
+    },
+    {
+      "name": "Skin Diamond",
+      "person_id": 31494
     }
   ],
   "release_date": "2011-07-29",

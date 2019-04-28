@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Doug Acre",
-      "person_id": 47153
-    },
-    {
       "name": "Alex Adams",
       "person_id": 46014
+    },
+    {
+      "name": "Doug Acre",
+      "person_id": 47153
     },
     {
       "name": "Trenton Ducati",

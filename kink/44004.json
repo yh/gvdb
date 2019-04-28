@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Viktor Belmont",
-      "person_id": 56517
-    },
-    {
       "name": "Leo Forte",
       "person_id": 22142
+    },
+    {
+      "name": "Viktor Belmont",
+      "person_id": 56517
     }
   ],
   "release_date": "2019-01-01",

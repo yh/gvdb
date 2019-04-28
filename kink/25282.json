@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Bella Rossi",
+      "person_id": 18418
+    },
+    {
       "name": "Mia Lelani",
       "person_id": 21648
     },
     {
       "name": "Mz Berlin",
       "person_id": 14228
-    },
-    {
-      "name": "Bella Rossi",
-      "person_id": 18418
     }
   ],
   "release_date": "2012-08-21",

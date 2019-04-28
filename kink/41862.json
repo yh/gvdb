@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "TS Foxxy",
-      "person_id": 20055
-    },
-    {
       "name": "Alrik Angel",
       "person_id": 18176
+    },
+    {
+      "name": "TS Foxxy",
+      "person_id": 20055
     }
   ],
   "release_date": "2017-04-04",

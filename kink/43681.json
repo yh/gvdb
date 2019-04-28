@@ -10,10 +10,6 @@
       "person_id": 61201
     },
     {
-      "name": "Jack Logan",
-      "person_id": 61196
-    },
-    {
       "name": "Deke",
       "person_id": 61197
     },
@@ -22,8 +18,8 @@
       "person_id": 61198
     },
     {
-      "name": "Marco Banderas",
-      "person_id": 27958
+      "name": "Jack Logan",
+      "person_id": 61196
     },
     {
       "name": "Jazz Duro",
@@ -34,16 +30,20 @@
       "person_id": 61200
     },
     {
+      "name": "Marco Banderas",
+      "person_id": 27958
+    },
+    {
       "name": "Marcus London",
       "person_id": 53021
     },
     {
-      "name": "Oliver",
-      "person_id": 20096
-    },
-    {
       "name": "Mark Davis",
       "person_id": 8200
+    },
+    {
+      "name": "Oliver",
+      "person_id": 20096
     },
     {
       "name": "Tommy Gunn",

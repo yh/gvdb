@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Natassia Dreams",
-      "person_id": 16310
-    },
-    {
       "name": "Dee Williams",
       "person_id": 4197
+    },
+    {
+      "name": "Natassia Dreams",
+      "person_id": 16310
     }
   ],
   "release_date": "2018-12-17",

@@ -5,12 +5,12 @@
   "description": "The Big Scene - A smoldering pairing that pits newcomerTony Scalia opposite the ever-popular Bret Wolfe. With directorMichael Soldier up close and personal, camera in hand, the sceneunfolds as Tony Scalia throws a trademark fuck that sends Bret Wolfeinto the stratosphere of delight. Again, a top notch performance fromtwo gay guys who love having sex!",
   "models": [
     {
-      "name": "Michael Soldier",
-      "person_id": 19510
-    },
-    {
       "name": "Bret Wolfe",
       "person_id": 19844
+    },
+    {
+      "name": "Michael Soldier",
+      "person_id": 19510
     },
     {
       "name": "Tony Scalia",

@@ -11,16 +11,12 @@
   ],
   "models": [
     {
-      "name": "James Deen",
-      "person_id": 8935
+      "name": "Casey Cumz",
+      "person_id": 35606
     },
     {
-      "name": "Mr. Pete",
-      "person_id": 16823
-    },
-    {
-      "name": "John Smith",
-      "person_id": 31088
+      "name": "Chris Archer",
+      "person_id": 18048
     },
     {
       "name": "Christian Wilde",
@@ -31,12 +27,16 @@
       "person_id": 17649
     },
     {
-      "name": "Casey Cumz",
-      "person_id": 35606
+      "name": "James Deen",
+      "person_id": 8935
     },
     {
-      "name": "Chris Archer",
-      "person_id": 18048
+      "name": "John Smith",
+      "person_id": 31088
+    },
+    {
+      "name": "Mr. Pete",
+      "person_id": 16823
     }
   ],
   "release_date": "2011-12-07",

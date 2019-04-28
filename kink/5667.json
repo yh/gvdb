@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Dylan Ryan",
-      "person_id": 10069
-    },
-    {
       "name": "Damon Pierce",
       "person_id": 10720
+    },
+    {
+      "name": "Dylan Ryan",
+      "person_id": 10069
     }
   ],
   "release_date": "2008-09-30",

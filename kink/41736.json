@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Venus Lux",
-      "person_id": 41417
-    },
-    {
       "name": "Mercy West",
       "person_id": 56853
     },
     {
       "name": "Tony Orlando",
       "person_id": 48907
+    },
+    {
+      "name": "Venus Lux",
+      "person_id": 41417
     }
   ],
   "release_date": "2017-03-07",

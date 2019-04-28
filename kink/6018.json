@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Le Rock",
-      "person_id": 18270
-    },
-    {
       "name": "Jesse",
       "person_id": 12790
+    },
+    {
+      "name": "Le Rock",
+      "person_id": 18270
     }
   ],
   "release_date": "2009-01-27",

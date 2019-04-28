@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tia Ling",
-      "person_id": 17361
-    },
-    {
       "name": "Lyla Storm",
       "person_id": 33882
+    },
+    {
+      "name": "Tia Ling",
+      "person_id": 17361
     }
   ],
   "release_date": "2011-11-11",

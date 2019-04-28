@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Chloe Foster",
+      "person_id": 61772
+    },
+    {
       "name": "London River",
       "person_id": 56590
     },
     {
       "name": "Seth Gamble",
       "person_id": 57488
-    },
-    {
-      "name": "Chloe Foster",
-      "person_id": 61772
     }
   ],
   "release_date": "2018-12-21",

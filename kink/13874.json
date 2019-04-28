@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Spencer Reed",
-      "person_id": 19086
-    },
-    {
       "name": "Emanuel",
       "person_id": 25651
+    },
+    {
+      "name": "Spencer Reed",
+      "person_id": 19086
     }
   ],
   "release_date": "2011-08-12",

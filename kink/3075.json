@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Claire Adams",
-      "person_id": 378
-    },
-    {
       "name": "Caroline Pierce",
       "person_id": 6372
+    },
+    {
+      "name": "Claire Adams",
+      "person_id": 378
     }
   ],
   "release_date": "2005-07-14",

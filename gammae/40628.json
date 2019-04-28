@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Julian Vincenzo",
-      "person_id": 20918
-    },
-    {
       "name": "Blue Prince",
       "person_id": 21106
+    },
+    {
+      "name": "Julian Vincenzo",
+      "person_id": 20918
     },
     {
       "name": "Vincent Baker",

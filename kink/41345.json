@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Honey FoXXX",
-      "person_id": 20864
-    },
-    {
       "name": "D. Arclyte",
       "person_id": 59025
+    },
+    {
+      "name": "Honey FoXXX",
+      "person_id": 20864
     }
   ],
   "release_date": "2016-11-15",

@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Jeremy Chris",
-      "person_id": 61009
-    },
-    {
       "name": "James Lain",
       "person_id": 61008
+    },
+    {
+      "name": "Jeremy Chris",
+      "person_id": 61009
     }
   ],
   "release_date": "2018-02-07",

@@ -11,6 +11,10 @@
   ],
   "models": [
     {
+      "name": "Big Red",
+      "person_id": 29981
+    },
+    {
       "name": "Eli Hunter",
       "person_id": 51998
     },
@@ -21,10 +25,6 @@
     {
       "name": "Marcus Isaacs",
       "person_id": 47853
-    },
-    {
-      "name": "Big Red",
-      "person_id": 29981
     }
   ],
   "release_date": "2014-02-07",

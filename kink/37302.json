@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Holly Heart",
+      "person_id": 20472
+    },
+    {
       "name": "Karlo Karrera",
       "person_id": 35221
     },
     {
       "name": "Yhivi",
       "person_id": 53649
-    },
-    {
-      "name": "Holly Heart",
-      "person_id": 20472
     }
   ],
   "release_date": "2015-02-13",

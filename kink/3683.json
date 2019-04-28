@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Natali Demore",
-      "person_id": 10055
-    },
-    {
       "name": "Keeani Lei",
       "person_id": 10038
+    },
+    {
+      "name": "Natali Demore",
+      "person_id": 10055
     }
   ],
   "release_date": "2006-06-09",

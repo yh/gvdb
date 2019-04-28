@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Rachele Richey",
-      "person_id": 58862
-    },
-    {
       "name": "Cathy Heaven",
       "person_id": 61179
+    },
+    {
+      "name": "Rachele Richey",
+      "person_id": 58862
     }
   ],
   "release_date": "2018-08-28",

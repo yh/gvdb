@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Mz Berlin",
-      "person_id": 14228
-    },
-    {
       "name": "Johnny Rocket",
       "person_id": 15904
+    },
+    {
+      "name": "Mz Berlin",
+      "person_id": 14228
     }
   ],
   "release_date": "2015-02-11",

@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
-      "name": "Robert Black",
-      "person_id": 21710
+      "name": "Blake Harper",
+      "person_id": 32042
     },
     {
       "name": "Jason Branch",
       "person_id": 32041
     },
     {
-      "name": "Blake Harper",
-      "person_id": 32042
+      "name": "Robert Black",
+      "person_id": 21710
     }
   ],
   "release_date": "2000-02-01",

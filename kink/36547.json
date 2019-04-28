@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mona Wales",
-      "person_id": 51511
-    },
-    {
       "name": "Alex Adams",
       "person_id": 46014
+    },
+    {
+      "name": "Mona Wales",
+      "person_id": 51511
     }
   ],
   "release_date": "2014-11-12",

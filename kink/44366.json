@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Layla Price",
-      "person_id": 48143
-    },
-    {
       "name": "Bruno Dickemz",
       "person_id": 54328
+    },
+    {
+      "name": "Layla Price",
+      "person_id": 48143
     }
   ],
   "release_date": "2019-03-14",

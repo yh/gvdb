@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Sean Duran",
-      "person_id": 28079
-    },
-    {
       "name": "Armond Rizzo",
       "person_id": 32880
+    },
+    {
+      "name": "Sean Duran",
+      "person_id": 28079
     }
   ],
   "release_date": "2014-12-10",

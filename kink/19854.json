@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Travis Irons",
-      "person_id": 39077
-    },
-    {
       "name": "Christian Wilde",
       "person_id": 21037
+    },
+    {
+      "name": "Travis Irons",
+      "person_id": 39077
     }
   ],
   "release_date": "2012-04-26",

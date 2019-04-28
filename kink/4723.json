@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Harmony",
-      "person_id": 6341
-    },
-    {
       "name": "Christian",
       "person_id": 5673
+    },
+    {
+      "name": "Harmony",
+      "person_id": 6341
     }
   ],
   "release_date": "2013-01-21",

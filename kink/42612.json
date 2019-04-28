@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jessica Fox",
-      "person_id": 17013
-    },
-    {
       "name": "DJ",
       "person_id": 20225
+    },
+    {
+      "name": "Jessica Fox",
+      "person_id": 17013
     }
   ],
   "release_date": "2017-10-03",

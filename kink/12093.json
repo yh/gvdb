@@ -11,36 +11,36 @@
   ],
   "models": [
     {
-      "name": "Emma Haize",
-      "person_id": 29618
-    },
-    {
       "name": "Cheyenne Jewel",
       "person_id": 22734
     },
     {
-      "name": "Sparky Sin Claire",
-      "person_id": 29494
+      "name": "Emma Haize",
+      "person_id": 29618
+    },
+    {
+      "name": "Maestro",
+      "person_id": 11928
     },
     {
       "name": "Michelle",
       "person_id": 22445
     },
     {
-      "name": "Shae Simone",
-      "person_id": 22709
-    },
-    {
       "name": "Natasha Lyn",
       "person_id": 29556
     },
     {
-      "name": "Tiffany Tyler",
-      "person_id": 21497
+      "name": "Shae Simone",
+      "person_id": 22709
     },
     {
-      "name": "Maestro",
-      "person_id": 11928
+      "name": "Sparky Sin Claire",
+      "person_id": 29494
+    },
+    {
+      "name": "Tiffany Tyler",
+      "person_id": 21497
     }
   ],
   "release_date": "2011-02-11",

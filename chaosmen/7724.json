@@ -9,12 +9,12 @@
       "person_id": 3256
     },
     {
-      "name": "Jonah",
-      "person_id": 3328
-    },
-    {
       "name": "Gavin Walters",
       "person_id": 3321
+    },
+    {
+      "name": "Jonah",
+      "person_id": 3328
     }
   ],
   "release_date": "2010-01-13",

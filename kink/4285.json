@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Kimberlee Cline",
+      "person_id": 18742
+    },
+    {
       "name": "Penny Flame",
       "person_id": 6345
     },
     {
       "name": "Wild Bill",
       "person_id": 225
-    },
-    {
-      "name": "Kimberlee Cline",
-      "person_id": 18742
     }
   ],
   "release_date": "2012-05-28",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Leo Forte",
-      "person_id": 22142
-    },
-    {
       "name": "Hayden Richards",
       "person_id": 47285
+    },
+    {
+      "name": "Leo Forte",
+      "person_id": 22142
     },
     {
       "name": "Van Darkholme",

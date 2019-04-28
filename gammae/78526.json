@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Jace Chambers",
-      "person_id": 28094
-    },
-    {
       "name": "Fernando Del Rio",
       "person_id": 34613
+    },
+    {
+      "name": "Jace Chambers",
+      "person_id": 28094
     }
   ],
   "release_date": "2015-09-24",

@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Trina Michaels",
-      "person_id": 16367
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
+    },
+    {
+      "name": "Trina Michaels",
+      "person_id": 16367
     }
   ],
   "release_date": "2009-01-13",

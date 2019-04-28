@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Savannah Stern",
-      "person_id": 13658
-    },
-    {
       "name": "Kylie Wilde",
       "person_id": 297
+    },
+    {
+      "name": "Savannah Stern",
+      "person_id": 13658
     }
   ],
   "release_date": "2007-10-19",

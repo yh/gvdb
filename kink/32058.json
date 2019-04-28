@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Karlo Karrera",
+      "person_id": 35221
+    },
+    {
       "name": "Lorelei Lee",
       "person_id": 758
     },
     {
       "name": "Penny Pax",
       "person_id": 38571
-    },
-    {
-      "name": "Karlo Karrera",
-      "person_id": 35221
     }
   ],
   "release_date": "2013-07-12",

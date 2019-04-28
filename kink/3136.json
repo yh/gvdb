@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Penny Flame",
-      "person_id": 6345
-    },
-    {
       "name": "Elliot Skellington",
       "person_id": 10045
+    },
+    {
+      "name": "Penny Flame",
+      "person_id": 6345
     }
   ],
   "release_date": "2005-09-12",

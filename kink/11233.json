@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Tristan Jaxx",
-      "person_id": 20786
-    },
-    {
       "name": "Adam Knox",
       "person_id": 22095
     },
     {
       "name": "Nick Moretti",
       "person_id": 17516
+    },
+    {
+      "name": "Tristan Jaxx",
+      "person_id": 20786
     }
   ],
   "release_date": "2010-12-17",

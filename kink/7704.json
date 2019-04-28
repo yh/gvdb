@@ -11,6 +11,18 @@
   ],
   "models": [
     {
+      "name": "Amber Keen",
+      "person_id": 18730
+    },
+    {
+      "name": "Cherry Torn",
+      "person_id": 11105
+    },
+    {
+      "name": "Hollie Stevens",
+      "person_id": 1572
+    },
+    {
       "name": "Maestro",
       "person_id": 11928
     },
@@ -19,24 +31,12 @@
       "person_id": 19633
     },
     {
-      "name": "Cherry Torn",
-      "person_id": 11105
+      "name": "Sarah Shevon",
+      "person_id": 19605
     },
     {
       "name": "Scarlet Faux",
       "person_id": 20189
-    },
-    {
-      "name": "Amber Keen",
-      "person_id": 18730
-    },
-    {
-      "name": "Hollie Stevens",
-      "person_id": 1572
-    },
-    {
-      "name": "Sarah Shevon",
-      "person_id": 19605
     }
   ],
   "release_date": "2009-12-18",

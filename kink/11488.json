@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "January Seraph",
-      "person_id": 15846
-    },
-    {
       "name": "Adam Russo",
       "person_id": 27220
+    },
+    {
+      "name": "January Seraph",
+      "person_id": 15846
     }
   ],
   "release_date": "2011-01-05",

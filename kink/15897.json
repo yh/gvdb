@@ -11,24 +11,24 @@
   ],
   "models": [
     {
-      "name": "Isis Love",
-      "person_id": 6584
-    },
-    {
       "name": "Ariel X",
       "person_id": 10464
     },
     {
-      "name": "Dee Williams",
-      "person_id": 4197
+      "name": "Bella Rossi",
+      "person_id": 18418
     },
     {
       "name": "Cheyenne Jewel",
       "person_id": 22734
     },
     {
-      "name": "Bella Rossi",
-      "person_id": 18418
+      "name": "Dee Williams",
+      "person_id": 4197
+    },
+    {
+      "name": "Isis Love",
+      "person_id": 6584
     }
   ],
   "release_date": "2011-10-04",

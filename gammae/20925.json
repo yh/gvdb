@@ -5,12 +5,12 @@
   "description": "Tim Hamilton goes head-to-head with sultry Buck Monroe.",
   "models": [
     {
-      "name": "Tim Hamilton",
-      "person_id": 11700
-    },
-    {
       "name": "Buck Monroe",
       "person_id": 11709
+    },
+    {
+      "name": "Tim Hamilton",
+      "person_id": 11700
     }
   ],
   "release_date": "2007-05-01",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Parker London",
-      "person_id": 22006
-    },
-    {
       "name": "Aiden Starr",
       "person_id": 11489
+    },
+    {
+      "name": "DJ",
+      "person_id": 20225
     },
     {
       "name": "Dutch Bardoux",
@@ -27,16 +27,16 @@
       "person_id": 21436
     },
     {
-      "name": "DJ",
-      "person_id": 20225
-    },
-    {
       "name": "Lorelei Lee",
       "person_id": 758
     },
     {
       "name": "Maitresse Madeline Marlowe",
       "person_id": 17872
+    },
+    {
+      "name": "Parker London",
+      "person_id": 22006
     }
   ],
   "release_date": "2011-09-28",

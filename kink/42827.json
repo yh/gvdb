@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Delirious Hunter",
-      "person_id": 56555
-    },
-    {
       "name": "Ava Mir-Ausziehen",
       "person_id": 60346
+    },
+    {
+      "name": "Delirious Hunter",
+      "person_id": 56555
     }
   ],
   "release_date": "2017-10-18",

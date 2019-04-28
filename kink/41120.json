@@ -6,10 +6,6 @@
   "directors": [],
   "models": [
     {
-      "name": "Steve Holmes",
-      "person_id": 15810
-    },
-    {
       "name": "Amirah Adara",
       "person_id": 56171
     },
@@ -24,6 +20,10 @@
     {
       "name": "Nikki Thorne",
       "person_id": 58279
+    },
+    {
+      "name": "Steve Holmes",
+      "person_id": 15810
     }
   ],
   "release_date": "2017-03-20",

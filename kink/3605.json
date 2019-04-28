@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Osada Steve",
-      "person_id": 11718
-    },
-    {
       "name": "June Mizuna",
       "person_id": 11472
+    },
+    {
+      "name": "Osada Steve",
+      "person_id": 11718
     }
   ],
   "release_date": "2006-10-20",

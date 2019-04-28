@@ -6,24 +6,24 @@
   "directors": [],
   "models": [
     {
-      "name": "Mona Wales",
-      "person_id": 51511
-    },
-    {
       "name": "Conny Dachs",
       "person_id": 58208
     },
     {
-      "name": "Steve Holmes",
-      "person_id": 15810
+      "name": "Jolyne Joy",
+      "person_id": 59303
     },
     {
       "name": "Mad Kate",
       "person_id": 59302
     },
     {
-      "name": "Jolyne Joy",
-      "person_id": 59303
+      "name": "Mona Wales",
+      "person_id": 51511
+    },
+    {
+      "name": "Steve Holmes",
+      "person_id": 15810
     }
   ],
   "release_date": "2016-03-04",

@@ -5,16 +5,8 @@
   "description": "",
   "models": [
     {
-      "name": "Miss Jordan",
-      "person_id": 35425
-    },
-    {
       "name": "Chaz",
       "person_id": 35019
-    },
-    {
-      "name": "Donnie",
-      "person_id": 35261
     },
     {
       "name": "Cole",
@@ -25,8 +17,16 @@
       "person_id": 35074
     },
     {
+      "name": "Donnie",
+      "person_id": 35261
+    },
+    {
       "name": "Jagger",
       "person_id": 35093
+    },
+    {
+      "name": "Miss Jordan",
+      "person_id": 35425
     }
   ],
   "release_date": "2005-11-30",

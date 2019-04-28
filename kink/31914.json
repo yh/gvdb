@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Katharine Cane",
-      "person_id": 35830
-    },
-    {
       "name": "Felony",
       "person_id": 17502
+    },
+    {
+      "name": "Katharine Cane",
+      "person_id": 35830
     }
   ],
   "release_date": "2013-06-14",

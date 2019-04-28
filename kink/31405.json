@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mickey Mod",
-      "person_id": 19623
-    },
-    {
       "name": "Maia Davis",
       "person_id": 43599
+    },
+    {
+      "name": "Mickey Mod",
+      "person_id": 19623
     }
   ],
   "release_date": "2013-08-29",

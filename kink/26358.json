@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Yasmine Loven",
-      "person_id": 37660
-    },
-    {
       "name": "Sara Jay",
       "person_id": 21999
+    },
+    {
+      "name": "Yasmine Loven",
+      "person_id": 37660
     }
   ],
   "release_date": "2012-11-02",

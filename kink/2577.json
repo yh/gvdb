@@ -6,24 +6,24 @@
   "directors": [],
   "models": [
     {
-      "name": "Princess Donna Dolore",
-      "person_id": 5235
-    },
-    {
-      "name": "Sgt. Major",
-      "person_id": 4556
+      "name": "Dee Williams",
+      "person_id": 4197
     },
     {
       "name": "Jenni Lee",
       "person_id": 1358
     },
     {
-      "name": "Dee Williams",
-      "person_id": 4197
-    },
-    {
       "name": "Jenya",
       "person_id": 6227
+    },
+    {
+      "name": "Princess Donna Dolore",
+      "person_id": 5235
+    },
+    {
+      "name": "Sgt. Major",
+      "person_id": 4556
     }
   ],
   "release_date": "2005-05-03",

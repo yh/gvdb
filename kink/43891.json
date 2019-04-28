@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Mugur",
-      "person_id": 33526
-    },
-    {
       "name": "Juan Lucho",
       "person_id": 59517
     },
     {
       "name": "Latex Lucy",
       "person_id": 61550
+    },
+    {
+      "name": "Mugur",
+      "person_id": 33526
     }
   ],
   "release_date": "2018-10-09",

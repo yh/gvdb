@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "TJ Young",
-      "person_id": 17415
-    },
-    {
       "name": "Dak Ramsey",
       "person_id": 18805
+    },
+    {
+      "name": "TJ Young",
+      "person_id": 17415
     }
   ],
   "release_date": "2009-04-29",

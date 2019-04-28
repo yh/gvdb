@@ -3,20 +3,15 @@
     "Butt Machine Boys"
   ],
   "description": "This is not your typical night at McFisties. Mike had no idea what Rhet intended when he was offered to play with the machines. Not only does Mike dance his little tush off for the paying customers, he does a pretty good jig for the machines.",
-  "directors": [
-    {
-      "name": "Biff Cocblocer",
-      "person_id": 7031
-    }
-  ],
+  "directors": [],
   "models": [
-    {
-      "name": "Rhet Hengst",
-      "person_id": 227
-    },
     {
       "name": "Mike Moorehead",
       "person_id": 1357
+    },
+    {
+      "name": "Rhet Hengst",
+      "person_id": 227
     }
   ],
   "release_date": "2003-02-07",

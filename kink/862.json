@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lena Ramon",
-      "person_id": 339
-    },
-    {
       "name": "Kym Wilde",
       "person_id": 99
+    },
+    {
+      "name": "Lena Ramon",
+      "person_id": 339
     }
   ],
   "release_date": "2003-01-31",

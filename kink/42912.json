@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Lily Rader",
-      "person_id": 60741
-    },
-    {
       "name": "Anthony Rosano",
       "person_id": 24418
+    },
+    {
+      "name": "Lily Rader",
+      "person_id": 60741
     }
   ],
   "release_date": "2018-08-17",

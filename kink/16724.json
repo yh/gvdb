@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Mark Davis",
-      "person_id": 8200
-    },
-    {
       "name": "Emma Haize",
       "person_id": 29618
     },
     {
       "name": "Krissy Lynn",
       "person_id": 19730
+    },
+    {
+      "name": "Mark Davis",
+      "person_id": 8200
     }
   ],
   "release_date": "2011-11-22",

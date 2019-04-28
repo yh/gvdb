@@ -11,10 +11,6 @@
   ],
   "models": [
     {
-      "name": "Syd Blakovich",
-      "person_id": 7618
-    },
-    {
       "name": "Isis Love",
       "person_id": 6584
     },
@@ -25,6 +21,10 @@
     {
       "name": "Princess Donna Dolore",
       "person_id": 5235
+    },
+    {
+      "name": "Syd Blakovich",
+      "person_id": 7618
     }
   ],
   "release_date": "2009-02-05",

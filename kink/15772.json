@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nerine Mechanique",
-      "person_id": 19851
-    },
-    {
       "name": "Audrey Rose",
       "person_id": 31792
+    },
+    {
+      "name": "Nerine Mechanique",
+      "person_id": 19851
     }
   ],
   "release_date": "2011-10-31",

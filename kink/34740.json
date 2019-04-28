@@ -11,24 +11,24 @@
   ],
   "models": [
     {
-      "name": "Marley Blaze",
-      "person_id": 52421
+      "name": "Bill Bailey",
+      "person_id": 46601
+    },
+    {
+      "name": "Dane Cross",
+      "person_id": 21442
     },
     {
       "name": "John Strong",
       "person_id": 17050
     },
     {
-      "name": "Bill Bailey",
-      "person_id": 46601
+      "name": "Marley Blaze",
+      "person_id": 52421
     },
     {
       "name": "Prince Yahshua",
       "person_id": 38513
-    },
-    {
-      "name": "Dane Cross",
-      "person_id": 21442
     }
   ],
   "release_date": "2014-04-16",

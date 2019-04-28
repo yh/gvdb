@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Rick Hunt",
-      "person_id": 12653
-    },
-    {
       "name": "Claire Adams",
       "person_id": 378
+    },
+    {
+      "name": "Rick Hunt",
+      "person_id": 12653
     }
   ],
   "release_date": "2006-10-25",

@@ -11,6 +11,14 @@
   ],
   "models": [
     {
+      "name": "Iona Grace",
+      "person_id": 25204
+    },
+    {
+      "name": "Jessie Cox",
+      "person_id": 18739
+    },
+    {
       "name": "Maestro Stefanos",
       "person_id": 17148
     },
@@ -19,16 +27,8 @@
       "person_id": 19851
     },
     {
-      "name": "Jessie Cox",
-      "person_id": 18739
-    },
-    {
       "name": "Nicki Blue",
       "person_id": 28541
-    },
-    {
-      "name": "Iona Grace",
-      "person_id": 25204
     }
   ],
   "release_date": "2011-04-18",

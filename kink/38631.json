@@ -11,28 +11,28 @@
   ],
   "models": [
     {
-      "name": "Dylan Ryan",
-      "person_id": 10069
-    },
-    {
-      "name": "Tommy Pistol",
-      "person_id": 12663
+      "name": "Astral Dust",
+      "person_id": 43670
     },
     {
       "name": "Bill Bailey",
       "person_id": 46601
     },
     {
+      "name": "Dylan Ryan",
+      "person_id": 10069
+    },
+    {
       "name": "Gage Sin",
       "person_id": 53344
     },
     {
-      "name": "Astral Dust",
-      "person_id": 43670
-    },
-    {
       "name": "Michael Vegas",
       "person_id": 47624
+    },
+    {
+      "name": "Tommy Pistol",
+      "person_id": 12663
     }
   ],
   "release_date": "2015-08-05",

@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Kiley Jay",
-      "person_id": 60742
-    },
-    {
       "name": "James Deen",
       "person_id": 8935
+    },
+    {
+      "name": "Kiley Jay",
+      "person_id": 60742
     }
   ],
   "release_date": "2018-11-16",

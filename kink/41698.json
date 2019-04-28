@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Casey Calvert",
+      "person_id": 36437
+    },
+    {
       "name": "Charlotte Cross",
       "person_id": 58806
     },
     {
       "name": "Cheyenne Jewel",
       "person_id": 22734
-    },
-    {
-      "name": "Casey Calvert",
-      "person_id": 36437
     }
   ],
   "release_date": "2017-02-24",

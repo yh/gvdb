@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
+      "name": "Chiki Dulce",
+      "person_id": 59438
+    },
+    {
       "name": "Mona Wales",
       "person_id": 51511
     },
     {
       "name": "Nick Moreno",
       "person_id": 20193
-    },
-    {
-      "name": "Chiki Dulce",
-      "person_id": 59438
     }
   ],
   "release_date": "2016-05-27",

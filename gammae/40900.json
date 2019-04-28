@@ -5,24 +5,24 @@
   "description": "",
   "models": [
     {
-      "name": "Michael Smith",
-      "person_id": 20876
+      "name": "Fergus Smart",
+      "person_id": 20879
     },
     {
       "name": "Jake Butler",
       "person_id": 21079
     },
     {
-      "name": "Fergus Smart",
-      "person_id": 20879
-    },
-    {
-      "name": "Zeb Kelly",
-      "person_id": 20990
+      "name": "Michael Smith",
+      "person_id": 20876
     },
     {
       "name": "Randal Sheldon",
       "person_id": 21053
+    },
+    {
+      "name": "Zeb Kelly",
+      "person_id": 20990
     }
   ],
   "release_date": "1998-06-11",

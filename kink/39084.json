@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Micah Brandt",
-      "person_id": 57628
-    },
-    {
-      "name": "Jessie Colter",
-      "person_id": 34311
+      "name": "DJ",
+      "person_id": 20225
     },
     {
       "name": "Eli Hunter",
       "person_id": 51998
     },
     {
-      "name": "DJ",
-      "person_id": 20225
+      "name": "Jessie Colter",
+      "person_id": 34311
+    },
+    {
+      "name": "Micah Brandt",
+      "person_id": 57628
     }
   ],
   "release_date": "2015-10-28",

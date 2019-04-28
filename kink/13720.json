@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Scout",
-      "person_id": 15993
-    },
-    {
       "name": "Felony",
       "person_id": 17502
+    },
+    {
+      "name": "Scout",
+      "person_id": 15993
     }
   ],
   "release_date": "2011-08-03",

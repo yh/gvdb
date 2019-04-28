@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mickey Mod",
-      "person_id": 19623
-    },
-    {
       "name": "Jane Wilde",
       "person_id": 61147
+    },
+    {
+      "name": "Mickey Mod",
+      "person_id": 19623
     }
   ],
   "release_date": "2018-11-23",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Milcah Halili",
-      "person_id": 45665
-    },
-    {
       "name": "Lilith Luxe",
       "person_id": 55114
+    },
+    {
+      "name": "Milcah Halili",
+      "person_id": 45665
     }
   ],
   "release_date": "2016-10-20",

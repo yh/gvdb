@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lily LaBeau",
-      "person_id": 25162
-    },
-    {
       "name": "James Deen",
       "person_id": 8935
+    },
+    {
+      "name": "Lily LaBeau",
+      "person_id": 25162
     },
     {
       "name": "Princess Donna Dolore",

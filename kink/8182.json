@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Seda",
-      "person_id": 21745
+      "name": "Lilla Katt",
+      "person_id": 18701
     },
     {
       "name": "Mark Davis",
       "person_id": 8200
     },
     {
-      "name": "Lilla Katt",
-      "person_id": 18701
+      "name": "Seda",
+      "person_id": 21745
     }
   ],
   "release_date": "2010-02-12",

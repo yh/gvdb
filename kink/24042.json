@@ -11,10 +11,6 @@
   ],
   "models": [
     {
-      "name": "Princess Donna Dolore",
-      "person_id": 5235
-    },
-    {
       "name": "Kendra",
       "person_id": 42132
     },
@@ -25,6 +21,10 @@
     {
       "name": "Omar Galanti",
       "person_id": 42129
+    },
+    {
+      "name": "Princess Donna Dolore",
+      "person_id": 5235
     },
     {
       "name": "Rokki",

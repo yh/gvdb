@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Sativa Rose",
-      "person_id": 8226
-    },
-    {
       "name": "Kavika",
       "person_id": 10571
+    },
+    {
+      "name": "Sativa Rose",
+      "person_id": 8226
     }
   ],
   "release_date": "2005-10-27",

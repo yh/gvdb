@@ -5,16 +5,16 @@
   "description": "Triumvirate: Soccer Camp",
   "models": [
     {
-      "name": "Steeve Sanders",
-      "person_id": 29460
-    },
-    {
       "name": "Dujan Sin",
       "person_id": 29620
     },
     {
       "name": "Martin Green",
       "person_id": 29677
+    },
+    {
+      "name": "Steeve Sanders",
+      "person_id": 29460
     }
   ],
   "release_date": "2003-10-29",

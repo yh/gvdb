@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Sofi Ryan",
-      "person_id": 60501
-    },
-    {
       "name": "Ryan Ryder",
       "person_id": 60502
+    },
+    {
+      "name": "Sofi Ryan",
+      "person_id": 60501
     }
   ],
   "release_date": "2018-01-05",

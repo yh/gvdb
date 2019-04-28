@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jack Dixon",
-      "person_id": 61576
-    },
-    {
       "name": "Chance Summerlin",
       "person_id": 60103
+    },
+    {
+      "name": "Jack Dixon",
+      "person_id": 61576
     }
   ],
   "release_date": "2018-11-08",

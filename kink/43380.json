@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Violet Monroe",
-      "person_id": 20284
-    },
-    {
       "name": "Seth Gamble",
       "person_id": 57488
+    },
+    {
+      "name": "Violet Monroe",
+      "person_id": 20284
     }
   ],
   "release_date": "2018-05-04",

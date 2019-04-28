@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Chelsea Marie",
-      "person_id": 40544
-    },
-    {
       "name": "Arielle Aquinas",
       "person_id": 59748
+    },
+    {
+      "name": "Chelsea Marie",
+      "person_id": 40544
     }
   ],
   "release_date": "2018-04-23",

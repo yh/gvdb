@@ -11,28 +11,28 @@
   ],
   "models": [
     {
-      "name": "Mia Little",
-      "person_id": 51496
+      "name": "Bill Bailey",
+      "person_id": 46601
     },
     {
       "name": "John Strong",
       "person_id": 17050
     },
     {
-      "name": "Bill Bailey",
-      "person_id": 46601
-    },
-    {
-      "name": "Owen Gray",
-      "person_id": 39181
-    },
-    {
       "name": "Karlo Karrera",
       "person_id": 35221
     },
     {
+      "name": "Mia Little",
+      "person_id": 51496
+    },
+    {
       "name": "Mr. Pete",
       "person_id": 16823
+    },
+    {
+      "name": "Owen Gray",
+      "person_id": 39181
     }
   ],
   "release_date": "2016-02-10",

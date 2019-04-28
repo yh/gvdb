@@ -5,20 +5,20 @@
   "description": "",
   "models": [
     {
-      "name": "Sky Donovan",
-      "person_id": 19504
-    },
-    {
-      "name": "Michael Soldier",
-      "person_id": 19510
+      "name": "Buck Phillips",
+      "person_id": 32060
     },
     {
       "name": "Max Grand",
       "person_id": 19822
     },
     {
-      "name": "Buck Phillips",
-      "person_id": 32060
+      "name": "Michael Soldier",
+      "person_id": 19510
+    },
+    {
+      "name": "Sky Donovan",
+      "person_id": 19504
     }
   ],
   "release_date": "2010-01-01",

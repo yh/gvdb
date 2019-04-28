@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Angel Allwood",
+      "person_id": 52348
+    },
+    {
       "name": "Bill Bailey",
       "person_id": 46601
     },
     {
       "name": "Chanel Preston",
       "person_id": 26542
-    },
-    {
-      "name": "Angel Allwood",
-      "person_id": 52348
     }
   ],
   "release_date": "2014-01-31",

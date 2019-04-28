@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Natali Demore",
-      "person_id": 10055
-    },
-    {
       "name": "Lola",
       "person_id": 6034
+    },
+    {
+      "name": "Natali Demore",
+      "person_id": 10055
     }
   ],
   "release_date": "2005-12-01",

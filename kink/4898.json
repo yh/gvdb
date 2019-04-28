@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Gwen Diamond",
-      "person_id": 13343
-    },
-    {
       "name": "DragonLily",
       "person_id": 3433
+    },
+    {
+      "name": "Gwen Diamond",
+      "person_id": 13343
     }
   ],
   "release_date": "2007-11-06",

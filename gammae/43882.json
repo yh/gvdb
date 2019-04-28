@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Darius Soli",
-      "person_id": 22676
-    },
-    {
       "name": "Brock Keller",
       "person_id": 22677
+    },
+    {
+      "name": "Darius Soli",
+      "person_id": 22676
     }
   ],
   "release_date": "2012-07-04",

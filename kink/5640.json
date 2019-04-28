@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Samantha Sin",
-      "person_id": 14640
-    },
-    {
       "name": "Dia Zerva",
       "person_id": 16038
+    },
+    {
+      "name": "Samantha Sin",
+      "person_id": 14640
     }
   ],
   "release_date": "2009-02-20",

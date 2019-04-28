@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Peter Krisztia",
-      "person_id": 20790
-    },
-    {
       "name": "Guy Philippe",
       "person_id": 21026
+    },
+    {
+      "name": "Peter Krisztia",
+      "person_id": 20790
     }
   ],
   "release_date": "1998-02-23",

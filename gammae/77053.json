@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Max Dunhill",
-      "person_id": 37246
-    },
-    {
       "name": "Derek Reed",
       "person_id": 37247
+    },
+    {
+      "name": "Max Dunhill",
+      "person_id": 37246
     }
   ],
   "release_date": "2015-06-24",

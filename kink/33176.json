@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Connor Maguire",
+      "person_id": 46426
+    },
+    {
       "name": "Hayden Richards",
       "person_id": 47285
     },
     {
       "name": "Jordan Foster",
       "person_id": 43867
-    },
-    {
-      "name": "Connor Maguire",
-      "person_id": 46426
     }
   ],
   "release_date": "2013-08-30",

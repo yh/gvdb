@@ -11,8 +11,16 @@
   ],
   "models": [
     {
+      "name": "Dietrich Cyrus",
+      "person_id": 17649
+    },
+    {
       "name": "James Deen",
       "person_id": 8935
+    },
+    {
+      "name": "Jon Jon",
+      "person_id": 35195
     },
     {
       "name": "Mark Davis",
@@ -23,16 +31,8 @@
       "person_id": 36574
     },
     {
-      "name": "Jon Jon",
-      "person_id": 35195
-    },
-    {
       "name": "Zoe Holiday",
       "person_id": 37233
-    },
-    {
-      "name": "Dietrich Cyrus",
-      "person_id": 17649
     }
   ],
   "release_date": "2012-02-08",

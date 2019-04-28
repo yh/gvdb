@@ -11,20 +11,12 @@
   ],
   "models": [
     {
-      "name": "Prince Yahshua",
-      "person_id": 38513
-    },
-    {
-      "name": "Mickey Mod",
-      "person_id": 19623
+      "name": "Bobby Bends",
+      "person_id": 22578
     },
     {
       "name": "Eva Karera",
       "person_id": 40218
-    },
-    {
-      "name": "Bobby Bends",
-      "person_id": 22578
     },
     {
       "name": "Jon Jon",
@@ -33,6 +25,14 @@
     {
       "name": "Karlo Karrera",
       "person_id": 35221
+    },
+    {
+      "name": "Mickey Mod",
+      "person_id": 19623
+    },
+    {
+      "name": "Prince Yahshua",
+      "person_id": 38513
     }
   ],
   "release_date": "2013-08-05",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jessica Fox",
-      "person_id": 17013
-    },
-    {
       "name": "Charli Piper",
       "person_id": 52294
+    },
+    {
+      "name": "Jessica Fox",
+      "person_id": 17013
     }
   ],
   "release_date": "2015-08-07",

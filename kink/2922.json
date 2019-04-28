@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sativa Rose",
-      "person_id": 8226
-    },
-    {
       "name": "DragonLily",
       "person_id": 3433
+    },
+    {
+      "name": "Sativa Rose",
+      "person_id": 8226
     }
   ],
   "release_date": "2005-06-07",

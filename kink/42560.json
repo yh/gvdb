@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Reece Bentley",
-      "person_id": 60371
-    },
-    {
       "name": "Luca Finn",
       "person_id": 60380
+    },
+    {
+      "name": "Reece Bentley",
+      "person_id": 60371
     }
   ],
   "release_date": "2017-10-27",

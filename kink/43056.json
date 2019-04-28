@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Angelo Marconi",
-      "person_id": 60445
-    },
-    {
       "name": "Adam Russo",
       "person_id": 27220
+    },
+    {
+      "name": "Angelo Marconi",
+      "person_id": 60445
     }
   ],
   "release_date": "2018-02-21",

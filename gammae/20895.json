@@ -5,6 +5,10 @@
   "description": "Marko Balazs, Karl Nepessy, Istvan Kerekes, & Zoltan Kopre. Marko reports for duty and soon discovers that as far as his shipmates are concerned, his duties require a whole lot more than swabbing the decks.",
   "models": [
     {
+      "name": "Istvan Kerekes",
+      "person_id": 11149
+    },
+    {
       "name": "Karl Nepessy",
       "person_id": 10957
     },
@@ -15,10 +19,6 @@
     {
       "name": "Zoltan Kopre",
       "person_id": 11135
-    },
-    {
-      "name": "Istvan Kerekes",
-      "person_id": 11149
     }
   ],
   "release_date": "2007-03-01",

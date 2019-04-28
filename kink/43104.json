@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lilith Luxe",
-      "person_id": 55114
-    },
-    {
       "name": "D. Arclyte",
       "person_id": 59025
+    },
+    {
+      "name": "Lilith Luxe",
+      "person_id": 55114
     }
   ],
   "release_date": "2018-05-08",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Iona Grace",
-      "person_id": 25204
-    },
-    {
       "name": "Beretta James",
       "person_id": 33659
+    },
+    {
+      "name": "Iona Grace",
+      "person_id": 25204
     },
     {
       "name": "Maestro Stefanos",

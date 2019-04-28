@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mitch Vaughn",
-      "person_id": 35274
-    },
-    {
       "name": "Jeremy Stevens",
       "person_id": 40364
+    },
+    {
+      "name": "Mitch Vaughn",
+      "person_id": 35274
     },
     {
       "name": "Rob Yaeger",

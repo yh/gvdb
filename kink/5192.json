@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Madison Young",
-      "person_id": 2674
-    },
-    {
-      "name": "Wenona",
-      "person_id": 4485
-    },
-    {
       "name": "Adrianna Nicole",
       "person_id": 301
     },
     {
       "name": "Dia Zerva",
       "person_id": 16038
+    },
+    {
+      "name": "Madison Young",
+      "person_id": 2674
+    },
+    {
+      "name": "Wenona",
+      "person_id": 4485
     }
   ],
   "release_date": "2008-06-27",

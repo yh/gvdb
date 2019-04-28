@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Gaia",
+      "person_id": 39715
+    },
+    {
       "name": "James Deen",
       "person_id": 8935
     },
     {
       "name": "Summer Brielle",
       "person_id": 28861
-    },
-    {
-      "name": "Gaia",
-      "person_id": 39715
     }
   ],
   "release_date": "2013-12-06",

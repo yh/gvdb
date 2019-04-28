@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Zaid Sebhely",
-      "person_id": 20856
-    },
-    {
       "name": "Rick Bauer",
       "person_id": 20931
+    },
+    {
+      "name": "Zaid Sebhely",
+      "person_id": 20856
     }
   ],
   "release_date": "1998-04-06",

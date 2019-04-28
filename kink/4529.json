@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Devi Lynne",
-      "person_id": 13394
-    },
-    {
       "name": "Christina Aguchi",
       "person_id": 12919
+    },
+    {
+      "name": "Devi Lynne",
+      "person_id": 13394
     }
   ],
   "release_date": "2007-06-19",

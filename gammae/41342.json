@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
-      "name": "Troy Punk",
-      "person_id": 8964
-    },
-    {
       "name": "Derek Reynolds",
       "person_id": 21211
     },
     {
       "name": "Sam Swift",
       "person_id": 21212
+    },
+    {
+      "name": "Troy Punk",
+      "person_id": 8964
     }
   ],
   "release_date": "2012-08-02",

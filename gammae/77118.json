@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Nick Capra",
-      "person_id": 35574
-    },
-    {
       "name": "Dirk Caber",
       "person_id": 36926
+    },
+    {
+      "name": "Nick Capra",
+      "person_id": 35574
     }
   ],
   "release_date": "2015-08-04",

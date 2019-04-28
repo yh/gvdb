@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Nico Moratti",
-      "person_id": 13458
-    },
-    {
       "name": "Jay Jones",
       "person_id": 13459
+    },
+    {
+      "name": "Nico Moratti",
+      "person_id": 13458
     }
   ],
   "release_date": "2010-07-10",

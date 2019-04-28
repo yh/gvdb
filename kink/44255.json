@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Rob Gadling",
-      "person_id": 60682
-    },
-    {
       "name": "Daisy Duxe",
       "person_id": 61855
+    },
+    {
+      "name": "Rob Gadling",
+      "person_id": 60682
     }
   ],
   "release_date": "2019-01-31",

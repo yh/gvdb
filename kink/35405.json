@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Eva Angelina",
-      "person_id": 13344
-    },
-    {
       "name": "Chris Cannon",
       "person_id": 53660
+    },
+    {
+      "name": "Eva Angelina",
+      "person_id": 13344
     }
   ],
   "release_date": "2011-07-07",

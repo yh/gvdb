@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Casper Coxx",
+      "person_id": 15655
+    },
+    {
       "name": "Harmony",
       "person_id": 6341
     },
     {
       "name": "Steve Holmes",
       "person_id": 15810
-    },
-    {
-      "name": "Casper Coxx",
-      "person_id": 15655
     }
   ],
   "release_date": "2008-06-06",

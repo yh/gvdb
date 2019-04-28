@@ -5,12 +5,12 @@
   "description": "Pure magic putting these two together. The chemistry is palpable!\nYou probably should join to see this movie.\nI'm just sayin'!\nIt's really time to join!",
   "models": [
     {
-      "name": "Glenn",
-      "person_id": 3480
-    },
-    {
       "name": "Cruz",
       "person_id": 3503
+    },
+    {
+      "name": "Glenn",
+      "person_id": 3480
     }
   ],
   "release_date": "2013-06-07",

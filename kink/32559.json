@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Danielle Delaunay",
-      "person_id": 51490
-    },
-    {
       "name": "Audrey Hollander",
       "person_id": 11450
+    },
+    {
+      "name": "Danielle Delaunay",
+      "person_id": 51490
     },
     {
       "name": "Layla Price",

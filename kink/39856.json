@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dresden",
-      "person_id": 58978
-    },
-    {
       "name": "Daisy Ducati",
       "person_id": 50939
+    },
+    {
+      "name": "Dresden",
+      "person_id": 58978
     }
   ],
   "release_date": "2016-03-24",

@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Sativa Rose",
-      "person_id": 8226
-    },
-    {
       "name": "Gwen Diamond",
       "person_id": 13343
     },
     {
       "name": "Nomad",
       "person_id": 11898
+    },
+    {
+      "name": "Sativa Rose",
+      "person_id": 8226
     }
   ],
   "release_date": "2012-02-06",

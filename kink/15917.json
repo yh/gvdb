@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Beretta James",
+      "person_id": 33659
+    },
+    {
       "name": "James Deen",
       "person_id": 8935
     },
     {
       "name": "Mr. Pete",
       "person_id": 16823
-    },
-    {
-      "name": "Beretta James",
-      "person_id": 33659
     }
   ],
   "release_date": "2011-11-04",

@@ -5,16 +5,16 @@
   "description": "Triumvirate: Sexual Instinct",
   "models": [
     {
-      "name": "Steeve Sanders",
-      "person_id": 29460
+      "name": "Lucky Smile",
+      "person_id": 29604
     },
     {
       "name": "Nicolas Dave",
       "person_id": 29600
     },
     {
-      "name": "Lucky Smile",
-      "person_id": 29604
+      "name": "Steeve Sanders",
+      "person_id": 29460
     }
   ],
   "release_date": "2003-10-01",

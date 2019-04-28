@@ -11,28 +11,28 @@
   ],
   "models": [
     {
-      "name": "Jasmine Jae",
-      "person_id": 59210
-    },
-    {
       "name": "Damon Dice",
       "person_id": 57051
     },
     {
-      "name": "Tommy Pistol",
-      "person_id": 12663
+      "name": "Jasmine Jae",
+      "person_id": 59210
     },
     {
       "name": "Jon Jon",
       "person_id": 35195
     },
     {
-      "name": "Will Havoc",
-      "person_id": 46285
-    },
-    {
       "name": "Steve Holmes",
       "person_id": 15810
+    },
+    {
+      "name": "Tommy Pistol",
+      "person_id": 12663
+    },
+    {
+      "name": "Will Havoc",
+      "person_id": 46285
     }
   ],
   "release_date": "2017-05-17",

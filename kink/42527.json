@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Nyssa Nevers",
-      "person_id": 34341
-    },
-    {
       "name": "David Lawrence",
       "person_id": 60352
+    },
+    {
+      "name": "Nyssa Nevers",
+      "person_id": 34341
     }
   ],
   "release_date": "2017-08-09",

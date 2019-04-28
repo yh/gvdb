@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nina",
-      "person_id": 762
-    },
-    {
       "name": "Jenya",
       "person_id": 6227
+    },
+    {
+      "name": "Nina",
+      "person_id": 762
     }
   ],
   "release_date": "2005-04-05",

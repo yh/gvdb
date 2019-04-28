@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Tavish Szabad",
-      "person_id": 20927
-    },
-    {
       "name": "Garcia Fecske",
       "person_id": 20928
+    },
+    {
+      "name": "Tavish Szabad",
+      "person_id": 20927
     }
   ],
   "release_date": "1998-04-18",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Otto Bauer",
-      "person_id": 11451
-    },
-    {
       "name": "Katja Kassin",
       "person_id": 11582
+    },
+    {
+      "name": "Otto Bauer",
+      "person_id": 11451
     }
   ],
   "release_date": "2011-05-30",

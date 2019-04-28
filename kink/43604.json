@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Madeline Blue",
-      "person_id": 61383
-    },
-    {
       "name": "Gee Richards",
       "person_id": 61382
+    },
+    {
+      "name": "Madeline Blue",
+      "person_id": 61383
     }
   ],
   "release_date": "2018-06-27",

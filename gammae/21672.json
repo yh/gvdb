@@ -5,16 +5,16 @@
   "description": "The pairing of the ultra-butch Joe Sport and Arpad Miklos as the two hyper-masculine men show how to get down, Scarborough style.",
   "models": [
     {
+      "name": "Dean Monroe",
+      "person_id": 11436
+    },
+    {
       "name": "Gus Mattox",
       "person_id": 11121
     },
     {
       "name": "Shane Rollins",
       "person_id": 11328
-    },
-    {
-      "name": "Dean Monroe",
-      "person_id": 11436
     }
   ],
   "release_date": "2005-04-01",

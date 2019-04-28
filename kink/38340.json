@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Steve Holmes",
-      "person_id": 15810
-    },
-    {
       "name": "Frank Gun",
       "person_id": 18068
     },
     {
       "name": "Isabella Clark",
       "person_id": 43015
+    },
+    {
+      "name": "Steve Holmes",
+      "person_id": 15810
     }
   ],
   "release_date": "2016-05-20",

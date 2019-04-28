@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Race Cooper",
-      "person_id": 19341
-    },
-    {
       "name": "Dak Ramsey",
       "person_id": 18805
+    },
+    {
+      "name": "Race Cooper",
+      "person_id": 19341
     }
   ],
   "release_date": "2012-07-10",

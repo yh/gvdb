@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Mickey Mod",
-      "person_id": 19623
-    },
-    {
       "name": "Kira Noir",
       "person_id": 58892
     },
     {
       "name": "Leigh Raven",
       "person_id": 59527
+    },
+    {
+      "name": "Mickey Mod",
+      "person_id": 19623
     }
   ],
   "release_date": "2018-05-25",

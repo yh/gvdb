@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Felony",
-      "person_id": 17502
-    },
-    {
       "name": "Adrianna Luna",
       "person_id": 35882
+    },
+    {
+      "name": "Felony",
+      "person_id": 17502
     }
   ],
   "release_date": "2012-01-06",

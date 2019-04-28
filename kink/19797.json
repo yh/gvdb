@@ -11,12 +11,8 @@
   ],
   "models": [
     {
-      "name": "Vivienne Del Rio",
-      "person_id": 22407
-    },
-    {
-      "name": "Ramon Nomar",
-      "person_id": 35412
+      "name": "Alex Gonz",
+      "person_id": 39154
     },
     {
       "name": "Karlo Karrera",
@@ -27,16 +23,20 @@
       "person_id": 22214
     },
     {
+      "name": "Prince Yahshua",
+      "person_id": 38513
+    },
+    {
+      "name": "Ramon Nomar",
+      "person_id": 35412
+    },
+    {
       "name": "Toni Ribas",
       "person_id": 38962
     },
     {
-      "name": "Alex Gonz",
-      "person_id": 39154
-    },
-    {
-      "name": "Prince Yahshua",
-      "person_id": 38513
+      "name": "Vivienne Del Rio",
+      "person_id": 22407
     }
   ],
   "release_date": "2012-04-25",

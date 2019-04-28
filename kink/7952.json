@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tia Ling",
-      "person_id": 17361
-    },
-    {
       "name": "Ashley Jane",
       "person_id": 19727
+    },
+    {
+      "name": "Tia Ling",
+      "person_id": 17361
     }
   ],
   "release_date": "2010-02-12",

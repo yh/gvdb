@@ -5,16 +5,16 @@
   "description": "Sean Preston, Mario Costa, Danny Taggart, Chase Evans, & Enrique Currero - The guys try to cool off in the pool, but things only gets hotter when they dive into extreme man-on-man horseplay.",
   "models": [
     {
+      "name": "Chase Evans",
+      "person_id": 12878
+    },
+    {
       "name": "Danny Taggart",
       "person_id": 11712
     },
     {
       "name": "Enrique Currero",
       "person_id": 12885
-    },
-    {
-      "name": "Chase Evans",
-      "person_id": 12878
     },
     {
       "name": "Mario Costa",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Wolf Hudson",
-      "person_id": 14471
-    },
-    {
       "name": "Lily LaBeau",
       "person_id": 25162
+    },
+    {
+      "name": "Wolf Hudson",
+      "person_id": 14471
     }
   ],
   "release_date": "2011-01-25",

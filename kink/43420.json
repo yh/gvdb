@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Mona Wales",
-      "person_id": 51511
-    },
-    {
       "name": "Jimmy Broadway",
       "person_id": 19688
+    },
+    {
+      "name": "Mona Wales",
+      "person_id": 51511
     }
   ],
   "release_date": "2018-04-27",

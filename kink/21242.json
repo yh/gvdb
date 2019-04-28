@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Troy Halston",
-      "person_id": 20879
-    },
-    {
       "name": "Chanel Preston",
       "person_id": 26542
+    },
+    {
+      "name": "Troy Halston",
+      "person_id": 20879
     }
   ],
   "release_date": "2012-04-18",

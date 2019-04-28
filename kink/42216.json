@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Valentina",
-      "person_id": 56659
-    },
-    {
       "name": "James Kickstand",
       "person_id": 48660
+    },
+    {
+      "name": "Valentina",
+      "person_id": 56659
     }
   ],
   "release_date": "2017-10-12",

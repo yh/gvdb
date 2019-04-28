@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Havana Ginger",
-      "person_id": 61214
-    },
-    {
       "name": "Angel Smalls",
       "person_id": 58658
+    },
+    {
+      "name": "Havana Ginger",
+      "person_id": 61214
     }
   ],
   "release_date": "2018-05-24",

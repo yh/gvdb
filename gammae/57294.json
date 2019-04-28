@@ -5,16 +5,16 @@
   "description": "Triumvirate: Can't Hide That Feeling Part 1",
   "models": [
     {
-      "name": "Ray Renfro",
-      "person_id": 29585
-    },
-    {
       "name": "Jude Lowe",
       "person_id": 29591
     },
     {
       "name": "Ken Fine",
       "person_id": 29621
+    },
+    {
+      "name": "Ray Renfro",
+      "person_id": 29585
     }
   ],
   "release_date": "2003-08-06",

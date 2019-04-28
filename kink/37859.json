@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Syren de Mer",
-      "person_id": 43807
-    },
-    {
       "name": "Bill Bailey",
       "person_id": 46601
     },
     {
       "name": "Katerina Kay",
       "person_id": 58184
+    },
+    {
+      "name": "Syren de Mer",
+      "person_id": 43807
     }
   ],
   "release_date": "2015-07-10",

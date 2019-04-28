@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Max Woods",
-      "person_id": 59214
-    },
-    {
       "name": "Dylan Strokes",
       "person_id": 55059
+    },
+    {
+      "name": "Max Woods",
+      "person_id": 59214
     }
   ],
   "release_date": "2016-10-07",

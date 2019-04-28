@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Toni Ribas",
-      "person_id": 38962
-    },
-    {
       "name": "John Strong",
       "person_id": 17050
+    },
+    {
+      "name": "Kiera Wilde",
+      "person_id": 53322
     },
     {
       "name": "Marco Banderas",
@@ -27,8 +27,8 @@
       "person_id": 38513
     },
     {
-      "name": "Kiera Wilde",
-      "person_id": 53322
+      "name": "Toni Ribas",
+      "person_id": 38962
     },
     {
       "name": "Xander Corvus",

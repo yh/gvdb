@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Francesca Le",
-      "person_id": 36526
-    },
-    {
       "name": "Bianca Breeze",
       "person_id": 53995
+    },
+    {
+      "name": "Francesca Le",
+      "person_id": 36526
     }
   ],
   "release_date": "2015-08-11",

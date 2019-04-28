@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mandy Mitchell",
-      "person_id": 15687
-    },
-    {
       "name": "Jasmeen LeFleur",
       "person_id": 59623
+    },
+    {
+      "name": "Mandy Mitchell",
+      "person_id": 15687
     }
   ],
   "release_date": "2017-10-09",

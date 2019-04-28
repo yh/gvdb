@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Luke Hass",
-      "person_id": 19616
-    },
-    {
       "name": "Dominic Sol",
       "person_id": 19677
+    },
+    {
+      "name": "Luke Hass",
+      "person_id": 19616
     },
     {
       "name": "Tyler Saint",

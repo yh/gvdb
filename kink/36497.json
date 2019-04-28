@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Owen Gray",
-      "person_id": 39181
-    },
-    {
       "name": "Gabriella Paltrova",
       "person_id": 41906
+    },
+    {
+      "name": "Owen Gray",
+      "person_id": 39181
     }
   ],
   "release_date": "2014-10-31",

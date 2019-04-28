@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Marco Banderas",
-      "person_id": 27958
-    },
-    {
       "name": "Kat Dior",
       "person_id": 48541
+    },
+    {
+      "name": "Marco Banderas",
+      "person_id": 27958
     }
   ],
   "release_date": "2016-09-16",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Charlotte Brooke",
-      "person_id": 1255
-    },
-    {
       "name": "Chanta-Rose",
       "person_id": 124
+    },
+    {
+      "name": "Charlotte Brooke",
+      "person_id": 1255
     }
   ],
   "release_date": "2003-04-29",

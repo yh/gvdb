@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Rod Barry",
-      "person_id": 17963
-    },
-    {
       "name": "Luka",
       "person_id": 17191
+    },
+    {
+      "name": "Rod Barry",
+      "person_id": 17963
     }
   ],
   "release_date": "2008-10-23",

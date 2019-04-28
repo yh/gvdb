@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nyobi Khan",
-      "person_id": 16415
-    },
-    {
       "name": "Diezel",
       "person_id": 13655
+    },
+    {
+      "name": "Nyobi Khan",
+      "person_id": 16415
     }
   ],
   "release_date": "2008-10-21",

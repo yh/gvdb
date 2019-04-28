@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Teddy Bryce",
-      "person_id": 59874
-    },
-    {
       "name": "Jessie Colter",
       "person_id": 34311
+    },
+    {
+      "name": "Teddy Bryce",
+      "person_id": 59874
     }
   ],
   "release_date": "2018-05-17",

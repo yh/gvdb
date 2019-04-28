@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Seda",
-      "person_id": 21745
-    },
-    {
       "name": "Bobbi Starr",
       "person_id": 11290
+    },
+    {
+      "name": "Seda",
+      "person_id": 21745
     },
     {
       "name": "Steve Holmes",

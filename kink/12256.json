@@ -11,24 +11,24 @@
   ],
   "models": [
     {
-      "name": "Isis Love",
-      "person_id": 6584
-    },
-    {
-      "name": "DragonLily",
-      "person_id": 3433
-    },
-    {
-      "name": "Tori Lux",
-      "person_id": 26264
-    },
-    {
       "name": "Ariel X",
       "person_id": 10464
     },
     {
       "name": "Chloe Camilla",
       "person_id": 22493
+    },
+    {
+      "name": "DragonLily",
+      "person_id": 3433
+    },
+    {
+      "name": "Isis Love",
+      "person_id": 6584
+    },
+    {
+      "name": "Tori Lux",
+      "person_id": 26264
     }
   ],
   "release_date": "2011-04-26",

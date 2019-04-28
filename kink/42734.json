@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Chubbs Locklear",
-      "person_id": 60412
-    },
-    {
       "name": "Christop",
       "person_id": 60411
+    },
+    {
+      "name": "Chubbs Locklear",
+      "person_id": 60412
     }
   ],
   "release_date": "2017-11-30",

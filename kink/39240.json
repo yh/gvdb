@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Salina Samone",
-      "person_id": 58797
-    },
-    {
       "name": "Celeste Summerz",
       "person_id": 58730
+    },
+    {
+      "name": "Salina Samone",
+      "person_id": 58797
     }
   ],
   "release_date": "2015-12-11",

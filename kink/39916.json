@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jason Maddox",
-      "person_id": 56973
-    },
-    {
       "name": "Eli Hunter",
       "person_id": 51998
+    },
+    {
+      "name": "Jason Maddox",
+      "person_id": 56973
     }
   ],
   "release_date": "2016-04-07",

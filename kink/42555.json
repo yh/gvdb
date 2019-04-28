@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Shayne Green",
-      "person_id": 60389
-    },
-    {
       "name": "Sean McKenzie",
       "person_id": 60386
+    },
+    {
+      "name": "Shayne Green",
+      "person_id": 60389
     }
   ],
   "release_date": "2017-07-20",

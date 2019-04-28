@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Shane Frost",
-      "person_id": 21091
-    },
-    {
       "name": "Nick Moretti",
       "person_id": 17516
+    },
+    {
+      "name": "Shane Frost",
+      "person_id": 21091
     }
   ],
   "release_date": "2010-01-07",

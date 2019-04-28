@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tory Lane",
-      "person_id": 8228
-    },
-    {
       "name": "Julie Night",
       "person_id": 11190
+    },
+    {
+      "name": "Tory Lane",
+      "person_id": 8228
     }
   ],
   "release_date": "2006-01-27",

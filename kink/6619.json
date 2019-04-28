@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Maestro",
-      "person_id": 11928
-    },
-    {
       "name": "Delilah Knight",
       "person_id": 19462
+    },
+    {
+      "name": "Maestro",
+      "person_id": 11928
     }
   ],
   "release_date": "2009-06-05",

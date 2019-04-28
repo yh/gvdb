@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
+      "name": "Ian Tate",
+      "person_id": 61175
+    },
+    {
       "name": "Karlie Simon",
       "person_id": 61193
     },
     {
       "name": "Omar",
       "person_id": 61173
-    },
-    {
-      "name": "Ian Tate",
-      "person_id": 61175
     }
   ],
   "release_date": "2018-09-21",

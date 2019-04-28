@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Rosie",
-      "person_id": 59439
-    },
-    {
       "name": "Angel Allwood",
       "person_id": 52348
     },
     {
       "name": "Audrey Holiday",
       "person_id": 57661
+    },
+    {
+      "name": "Rosie",
+      "person_id": 59439
     }
   ],
   "release_date": "2017-04-07",

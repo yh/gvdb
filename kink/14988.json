@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Holly Heart",
-      "person_id": 20472
-    },
-    {
       "name": "Audrey Rose",
       "person_id": 31792
+    },
+    {
+      "name": "Holly Heart",
+      "person_id": 20472
     }
   ],
   "release_date": "2011-10-21",

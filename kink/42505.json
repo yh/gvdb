@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Hunter Page",
-      "person_id": 51504
-    },
-    {
       "name": "Cameron Kincade",
       "person_id": 47006
+    },
+    {
+      "name": "Hunter Page",
+      "person_id": 51504
     }
   ],
   "release_date": "2017-08-08",

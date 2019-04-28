@@ -5,12 +5,12 @@
   "description": "Sean Davis heads off and starts looking for an apartment to rent. He wraps himself in a blond-on-blond duo with Jeff Hamilton landing him the lease.  They're soon discovered by the real landlord and Sean sets back again for the outdoors.",
   "models": [
     {
-      "name": "Sean Davis",
-      "person_id": 11905
-    },
-    {
       "name": "Jeff Hamilton",
       "person_id": 11909
+    },
+    {
+      "name": "Sean Davis",
+      "person_id": 11905
     }
   ],
   "release_date": "2005-09-01",

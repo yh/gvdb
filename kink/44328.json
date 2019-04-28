@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Queen Jennifer Carter",
-      "person_id": 61494
-    },
-    {
       "name": "Carmen Rivera",
       "person_id": 60339
     },
     {
       "name": "Colby Jansen",
       "person_id": 34457
+    },
+    {
+      "name": "Queen Jennifer Carter",
+      "person_id": 61494
     }
   ],
   "release_date": "2019-02-22",

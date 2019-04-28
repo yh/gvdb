@@ -11,6 +11,10 @@
   ],
   "models": [
     {
+      "name": "Dorian",
+      "person_id": 42882
+    },
+    {
       "name": "Markus Dupree",
       "person_id": 42128
     },
@@ -23,16 +27,12 @@
       "person_id": 42130
     },
     {
-      "name": "Steve Holmes",
-      "person_id": 15810
-    },
-    {
-      "name": "Dorian",
-      "person_id": 42882
-    },
-    {
       "name": "Roxy Bell",
       "person_id": 43016
+    },
+    {
+      "name": "Steve Holmes",
+      "person_id": 15810
     }
   ],
   "release_date": "2012-09-19",

@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Sam Dixon",
-      "person_id": 61280
-    },
-    {
       "name": "Matt Sizemore",
       "person_id": 61279
+    },
+    {
+      "name": "Sam Dixon",
+      "person_id": 61280
     },
     {
       "name": "Tony Santis",

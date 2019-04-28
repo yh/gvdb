@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jeremy Stevens",
-      "person_id": 40364
-    },
-    {
       "name": "Connor Maguire",
       "person_id": 46426
+    },
+    {
+      "name": "Jeremy Stevens",
+      "person_id": 40364
     }
   ],
   "release_date": "2013-07-25",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Evi Fox",
-      "person_id": 51098
-    },
-    {
       "name": "Dana DeArmond",
       "person_id": 4498
+    },
+    {
+      "name": "Evi Fox",
+      "person_id": 51098
     }
   ],
   "release_date": "2013-10-18",

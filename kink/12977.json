@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mark Davis",
-      "person_id": 8200
-    },
-    {
       "name": "Audrey Rose",
       "person_id": 31792
+    },
+    {
+      "name": "Mark Davis",
+      "person_id": 8200
     },
     {
       "name": "Princess Donna Dolore",

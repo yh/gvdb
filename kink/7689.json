@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Phenix Saint",
-      "person_id": 21202
-    },
-    {
       "name": "Patrick Rouge",
       "person_id": 18939
+    },
+    {
+      "name": "Phenix Saint",
+      "person_id": 21202
     }
   ],
   "release_date": "2012-10-10",

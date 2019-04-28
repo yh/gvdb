@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Katja Kassin",
-      "person_id": 11582
-    },
-    {
       "name": "Jayden Lee",
       "person_id": 39703
+    },
+    {
+      "name": "Katja Kassin",
+      "person_id": 11582
     },
     {
       "name": "Sammie Spades",

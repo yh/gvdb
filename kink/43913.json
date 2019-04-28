@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Vyxen Steel",
-      "person_id": 55234
-    },
-    {
       "name": "Richie Stone",
       "person_id": 60345
+    },
+    {
+      "name": "Vyxen Steel",
+      "person_id": 55234
     }
   ],
   "release_date": "2018-10-25",

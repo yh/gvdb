@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Ramon Nomar",
-      "person_id": 35412
-    },
-    {
       "name": "Dee Williams",
       "person_id": 4197
     },
     {
       "name": "Marica Hase",
       "person_id": 44408
+    },
+    {
+      "name": "Ramon Nomar",
+      "person_id": 35412
     }
   ],
   "release_date": "2014-06-13",

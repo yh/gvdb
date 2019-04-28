@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
+      "name": "Miguel Zayas",
+      "person_id": 58965
+    },
+    {
       "name": "Mona Wales",
       "person_id": 51511
     },
     {
       "name": "Nati Mellow",
       "person_id": 59335
-    },
-    {
-      "name": "Miguel Zayas",
-      "person_id": 58965
     }
   ],
   "release_date": "2016-03-25",

@@ -6,10 +6,6 @@
   "directors": [],
   "models": [
     {
-      "name": "Steve Holmes",
-      "person_id": 15810
-    },
-    {
       "name": "Antonio Ross",
       "person_id": 33540
     },
@@ -20,6 +16,10 @@
     {
       "name": "Stella Cox",
       "person_id": 59424
+    },
+    {
+      "name": "Steve Holmes",
+      "person_id": 15810
     }
   ],
   "release_date": "2017-03-06",

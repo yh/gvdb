@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Randall O'Reilly",
-      "person_id": 39427
-    },
-    {
       "name": "Bryan Cole",
       "person_id": 42298
+    },
+    {
+      "name": "Randall O'Reilly",
+      "person_id": 39427
     }
   ],
   "release_date": "2013-09-25",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Wenona",
-      "person_id": 4485
-    },
-    {
       "name": "Claire Dames",
       "person_id": 14027
+    },
+    {
+      "name": "Wenona",
+      "person_id": 4485
     }
   ],
   "release_date": "2009-07-11",

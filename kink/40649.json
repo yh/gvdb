@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Violet Monroe",
-      "person_id": 20284
-    },
-    {
       "name": "Owen Gray",
       "person_id": 39181
+    },
+    {
+      "name": "Violet Monroe",
+      "person_id": 20284
     }
   ],
   "release_date": "2016-08-05",

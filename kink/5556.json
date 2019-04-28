@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Raina Verene",
-      "person_id": 17161
-    },
-    {
       "name": "Claire Adams",
       "person_id": 378
+    },
+    {
+      "name": "Raina Verene",
+      "person_id": 17161
     }
   ],
   "release_date": "2008-08-15",

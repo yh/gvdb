@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Rob Piper",
-      "person_id": 54778
-    },
-    {
       "name": "Ava Devine",
       "person_id": 4345
+    },
+    {
+      "name": "Rob Piper",
+      "person_id": 54778
     }
   ],
   "release_date": "2018-05-29",

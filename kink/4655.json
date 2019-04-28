@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Steven St. Croix",
-      "person_id": 12188
-    },
-    {
       "name": "Sara Faye",
       "person_id": 12832
+    },
+    {
+      "name": "Steven St. Croix",
+      "person_id": 12188
     }
   ],
   "release_date": "2008-01-04",

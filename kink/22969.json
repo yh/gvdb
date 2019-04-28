@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Krysta Kaos",
-      "person_id": 25624
-    },
-    {
-      "name": "Odile",
-      "person_id": 33692
-    },
-    {
       "name": "Ariel X",
       "person_id": 10464
     },
     {
+      "name": "Krysta Kaos",
+      "person_id": 25624
+    },
+    {
       "name": "Maestro Stefanos",
       "person_id": 17148
+    },
+    {
+      "name": "Odile",
+      "person_id": 33692
     }
   ],
   "release_date": "2012-07-20",

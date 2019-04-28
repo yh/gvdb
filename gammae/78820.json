@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Trey Turner",
-      "person_id": 27927
-    },
-    {
       "name": "Dimitri Kane",
       "person_id": 36886
+    },
+    {
+      "name": "Trey Turner",
+      "person_id": 27927
     }
   ],
   "release_date": "2015-10-02",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Krist Cummings",
-      "person_id": 20991
-    },
-    {
       "name": "Drake Jaden",
       "person_id": 19522
+    },
+    {
+      "name": "Krist Cummings",
+      "person_id": 20991
     }
   ],
   "release_date": "2010-01-13",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Heaven Lee",
-      "person_id": 340
-    },
-    {
       "name": "Chanta-Rose",
       "person_id": 124
+    },
+    {
+      "name": "Heaven Lee",
+      "person_id": 340
     }
   ],
   "release_date": "2002-12-05",

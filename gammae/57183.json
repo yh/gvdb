@@ -5,16 +5,16 @@
   "description": "Just Teens: Gym Nasties",
   "models": [
     {
-      "name": "Paul Robbins",
-      "person_id": 29785
-    },
-    {
       "name": "Nathan Love",
       "person_id": 29794
     },
     {
       "name": "Norman Bradley",
       "person_id": 29795
+    },
+    {
+      "name": "Paul Robbins",
+      "person_id": 29785
     }
   ],
   "release_date": "2004-04-14",

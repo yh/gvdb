@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Lyla Storm",
-      "person_id": 33882
-    },
-    {
-      "name": "Yasmine Loven",
-      "person_id": 37660
-    },
-    {
       "name": "DragonLily",
       "person_id": 3433
     },
     {
+      "name": "Lyla Storm",
+      "person_id": 33882
+    },
+    {
       "name": "Rain DeGrey",
       "person_id": 16817
+    },
+    {
+      "name": "Yasmine Loven",
+      "person_id": 37660
     }
   ],
   "release_date": "2012-05-01",

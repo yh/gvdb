@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Rich",
-      "person_id": 60306
+      "name": "Connor Maguire",
+      "person_id": 46426
     },
     {
       "name": "Drake Jaden",
       "person_id": 19522
     },
     {
-      "name": "Connor Maguire",
-      "person_id": 46426
+      "name": "Rich",
+      "person_id": 60306
     }
   ],
   "release_date": "2017-07-05",

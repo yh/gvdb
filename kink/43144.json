@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
+      "name": "Arsch Krater",
+      "person_id": 60932
+    },
+    {
       "name": "Carmen Rivera",
       "person_id": 60339
     },
     {
       "name": "Lady Sahara",
       "person_id": 60475
-    },
-    {
-      "name": "Arsch Krater",
-      "person_id": 60932
     }
   ],
   "release_date": "2018-03-09",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Isaac Hardy",
-      "person_id": 49267
-    },
-    {
       "name": "Connor Patricks",
       "person_id": 47357
+    },
+    {
+      "name": "Isaac Hardy",
+      "person_id": 49267
     }
   ],
   "release_date": "2014-02-26",

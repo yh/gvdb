@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Skylar Snow",
-      "person_id": 60403
-    },
-    {
       "name": "Seth Gamble",
       "person_id": 57488
+    },
+    {
+      "name": "Skylar Snow",
+      "person_id": 60403
     }
   ],
   "release_date": "2018-07-18",

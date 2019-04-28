@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Camil Core",
-      "person_id": 56294
-    },
-    {
       "name": "Alejandro Mango",
       "person_id": 57871
+    },
+    {
+      "name": "Camil Core",
+      "person_id": 56294
     },
     {
       "name": "Satrina",

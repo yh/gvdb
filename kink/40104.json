@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "JJ Knight",
-      "person_id": 58863
-    },
-    {
       "name": "Brogan Reed",
       "person_id": 59217
+    },
+    {
+      "name": "JJ Knight",
+      "person_id": 58863
     },
     {
       "name": "Sebastian Keys",

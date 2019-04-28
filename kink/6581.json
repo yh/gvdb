@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lobo",
-      "person_id": 16229
-    },
-    {
       "name": "Daphne Rosen",
       "person_id": 13788
+    },
+    {
+      "name": "Lobo",
+      "person_id": 16229
     }
   ],
   "release_date": "2011-03-21",

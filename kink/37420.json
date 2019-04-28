@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sophia Locke",
-      "person_id": 53323
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
+    },
+    {
+      "name": "Sophia Locke",
+      "person_id": 53323
     }
   ],
   "release_date": "2015-03-20",

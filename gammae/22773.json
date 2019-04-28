@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Jake Andrews",
-      "person_id": 11431
-    },
-    {
       "name": "Anthony Gallo",
       "person_id": 12549
+    },
+    {
+      "name": "Jake Andrews",
+      "person_id": 11431
     }
   ],
   "release_date": "2009-09-20",

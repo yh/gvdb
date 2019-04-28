@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Janos Volt",
-      "person_id": 20756
-    },
-    {
       "name": "Fernando Lizalde",
       "person_id": 20759
+    },
+    {
+      "name": "Janos Volt",
+      "person_id": 20756
     }
   ],
   "release_date": "1998-03-14",

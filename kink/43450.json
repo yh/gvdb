@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dominic Pacifico",
-      "person_id": 14892
-    },
-    {
       "name": "Chance Summerlin",
       "person_id": 60103
+    },
+    {
+      "name": "Dominic Pacifico",
+      "person_id": 14892
     }
   ],
   "release_date": "2018-06-07",

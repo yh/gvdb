@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Simone Kross",
-      "person_id": 4932
-    },
-    {
       "name": "Kade",
       "person_id": 12580
+    },
+    {
+      "name": "Simone Kross",
+      "person_id": 4932
     }
   ],
   "release_date": "2011-02-21",

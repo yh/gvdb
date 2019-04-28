@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Kevin Williams",
-      "person_id": 10926
-    },
-    {
       "name": "Jim Pulver",
       "person_id": 12091
+    },
+    {
+      "name": "Kevin Williams",
+      "person_id": 10926
     }
   ],
   "release_date": "2006-01-01",

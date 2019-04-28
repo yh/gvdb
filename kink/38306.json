@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sabrina Banks",
-      "person_id": 55325
-    },
-    {
       "name": "Mr. Pete",
       "person_id": 16823
+    },
+    {
+      "name": "Sabrina Banks",
+      "person_id": 55325
     }
   ],
   "release_date": "2015-07-24",

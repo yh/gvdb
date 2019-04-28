@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Wolf Jenner",
-      "person_id": 47580
-    },
-    {
       "name": "Alani Pi",
       "person_id": 36290
+    },
+    {
+      "name": "Wolf Jenner",
+      "person_id": 47580
     }
   ],
   "release_date": "2013-09-06",

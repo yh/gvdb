@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Connor Maguire",
-      "person_id": 46426
-    },
-    {
       "name": "Cameron Kincade",
       "person_id": 47006
+    },
+    {
+      "name": "Connor Maguire",
+      "person_id": 46426
     },
     {
       "name": "Jessie Colter",

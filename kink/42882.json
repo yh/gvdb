@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Cameron Kincade",
-      "person_id": 47006
-    },
-    {
       "name": "Adam Bryant",
       "person_id": 60702
+    },
+    {
+      "name": "Cameron Kincade",
+      "person_id": 47006
     }
   ],
   "release_date": "2018-03-20",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tyler Alexander",
-      "person_id": 39382
-    },
-    {
       "name": "Gia DiMarco",
       "person_id": 21436
+    },
+    {
+      "name": "Tyler Alexander",
+      "person_id": 39382
     }
   ],
   "release_date": "2012-05-09",

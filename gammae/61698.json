@@ -5,16 +5,16 @@
   "description": "The 11th day of the 11th month of 2011 was Manuel Deboxer's lucky birthday ! For the occasion, I offered him a private dance from his favorite stripper.",
   "models": [
     {
-      "name": "Pascal",
-      "person_id": 32430
+      "name": "Adam",
+      "person_id": 32489
     },
     {
       "name": "Manuel Deboxer",
       "person_id": 32463
     },
     {
-      "name": "Adam",
-      "person_id": 32489
+      "name": "Pascal",
+      "person_id": 32430
     }
   ],
   "release_date": "2011-11-11",

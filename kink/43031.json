@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Penny Pax",
-      "person_id": 38571
-    },
-    {
-      "name": "Skylar Snow",
-      "person_id": 60403
-    },
-    {
       "name": "Michael Vegas",
       "person_id": 47624
     },
     {
       "name": "Mona Wales",
       "person_id": 51511
+    },
+    {
+      "name": "Penny Pax",
+      "person_id": 38571
+    },
+    {
+      "name": "Skylar Snow",
+      "person_id": 60403
     }
   ],
   "release_date": "2018-03-09",

@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Bob Bishop",
-      "person_id": 21855
-    },
-    {
       "name": "Barry",
       "person_id": 21864
+    },
+    {
+      "name": "Bob Bishop",
+      "person_id": 21855
     }
   ],
   "release_date": "2001-02-01",

@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Alice Frost",
+      "person_id": 33888
+    },
+    {
       "name": "Francesca Le",
       "person_id": 36526
     },
     {
       "name": "Miranda Miller",
       "person_id": 58770
-    },
-    {
-      "name": "Alice Frost",
-      "person_id": 33888
     }
   ],
   "release_date": "2015-12-29",

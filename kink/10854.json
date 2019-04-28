@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Cherry Torn",
+      "person_id": 11105
+    },
+    {
       "name": "Emma Haize",
       "person_id": 29618
     },
     {
       "name": "James Deen",
       "person_id": 8935
-    },
-    {
-      "name": "Cherry Torn",
-      "person_id": 11105
     }
   ],
   "release_date": "2010-11-19",

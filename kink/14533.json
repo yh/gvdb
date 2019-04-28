@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Josh West",
-      "person_id": 20861
-    },
-    {
       "name": "Cole Streets",
       "person_id": 18974
+    },
+    {
+      "name": "Josh West",
+      "person_id": 20861
     },
     {
       "name": "Lief Kaase",

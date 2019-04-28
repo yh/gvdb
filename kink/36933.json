@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Christie Stevens",
+      "person_id": 44270
+    },
+    {
       "name": "Dana DeArmond",
       "person_id": 4498
     },
     {
       "name": "Marica Hase",
       "person_id": 44408
-    },
-    {
-      "name": "Christie Stevens",
-      "person_id": 44270
     }
   ],
   "release_date": "2014-11-25",

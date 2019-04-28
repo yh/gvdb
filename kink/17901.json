@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Charisma Cappelli",
-      "person_id": 36230
-    },
-    {
       "name": "Beretta James",
       "person_id": 33659
+    },
+    {
+      "name": "Charisma Cappelli",
+      "person_id": 36230
     },
     {
       "name": "Isis Love",

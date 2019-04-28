@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Midori",
-      "person_id": 1792
-    },
-    {
       "name": "Mayan",
       "person_id": 60990
+    },
+    {
+      "name": "Midori",
+      "person_id": 1792
     }
   ],
   "release_date": "2013-08-03",

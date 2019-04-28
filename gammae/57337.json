@@ -5,12 +5,12 @@
   "description": "Triumvirate: Before They Were Stars 3",
   "models": [
     {
-      "name": "John Pepper",
-      "person_id": 29834
-    },
-    {
       "name": "Alex Ray",
       "person_id": 29856
+    },
+    {
+      "name": "John Pepper",
+      "person_id": 29834
     }
   ],
   "release_date": "2005-01-05",

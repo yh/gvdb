@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Pierce Paris",
-      "person_id": 56974
-    },
-    {
       "name": "Aubrey Kate",
       "person_id": 51491
+    },
+    {
+      "name": "Pierce Paris",
+      "person_id": 56974
     }
   ],
   "release_date": "2017-09-19",

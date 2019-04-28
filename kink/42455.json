@@ -6,28 +6,28 @@
   "directors": [],
   "models": [
     {
-      "name": "Nari Park",
-      "person_id": 60071
-    },
-    {
       "name": "Donny Sins",
       "person_id": 55693
-    },
-    {
-      "name": "Tommy Pistol",
-      "person_id": 12663
-    },
-    {
-      "name": "Jon Jon",
-      "person_id": 35195
     },
     {
       "name": "John Strong",
       "person_id": 17050
     },
     {
+      "name": "Jon Jon",
+      "person_id": 35195
+    },
+    {
+      "name": "Nari Park",
+      "person_id": 60071
+    },
+    {
       "name": "Tarzan",
       "person_id": 59796
+    },
+    {
+      "name": "Tommy Pistol",
+      "person_id": 12663
     }
   ],
   "release_date": "2017-07-26",

@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Trey Turner",
-      "person_id": 27927
-    },
-    {
       "name": "Jessie Colter",
       "person_id": 28064
+    },
+    {
+      "name": "Trey Turner",
+      "person_id": 27927
     }
   ],
   "release_date": "2012-07-17",

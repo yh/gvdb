@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Tory Lane",
-      "person_id": 8228
-    },
-    {
       "name": "Judass",
       "person_id": 10563
+    },
+    {
+      "name": "Tory Lane",
+      "person_id": 8228
     }
   ],
   "release_date": "2006-02-15",

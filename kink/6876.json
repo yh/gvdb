@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Sabrina Fox",
-      "person_id": 14055
-    },
-    {
       "name": "Lobo",
       "person_id": 16229
+    },
+    {
+      "name": "Sabrina Fox",
+      "person_id": 14055
     }
   ],
   "release_date": "2013-07-22",

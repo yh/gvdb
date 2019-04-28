@@ -6,24 +6,24 @@
   "directors": [],
   "models": [
     {
-      "name": "Steve Holmes",
-      "person_id": 15810
-    },
-    {
-      "name": "Tina Kay",
-      "person_id": 58964
-    },
-    {
-      "name": "RAM",
-      "person_id": 20259
-    },
-    {
       "name": "Laurita",
       "person_id": 60195
     },
     {
       "name": "Lia",
       "person_id": 60197
+    },
+    {
+      "name": "RAM",
+      "person_id": 20259
+    },
+    {
+      "name": "Steve Holmes",
+      "person_id": 15810
+    },
+    {
+      "name": "Tina Kay",
+      "person_id": 58964
     }
   ],
   "release_date": "2017-04-03",

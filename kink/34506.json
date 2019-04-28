@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Maestro",
+      "person_id": 11928
+    },
+    {
       "name": "Mia Little",
       "person_id": 51496
     },
     {
       "name": "Milcah Halili",
       "person_id": 45665
-    },
-    {
-      "name": "Maestro",
-      "person_id": 11928
     }
   ],
   "release_date": "2014-01-24",

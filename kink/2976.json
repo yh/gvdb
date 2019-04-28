@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Melissa Lauren",
-      "person_id": 8298
-    },
-    {
       "name": "Harmony",
       "person_id": 6341
+    },
+    {
+      "name": "Melissa Lauren",
+      "person_id": 8298
     }
   ],
   "release_date": "2005-07-01",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Phenix Saint",
-      "person_id": 21202
-    },
-    {
       "name": "Jason Miller",
       "person_id": 17619
+    },
+    {
+      "name": "Phenix Saint",
+      "person_id": 21202
     }
   ],
   "release_date": "2010-03-24",

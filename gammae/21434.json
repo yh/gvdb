@@ -9,12 +9,12 @@
       "person_id": 11221
     },
     {
-      "name": "Mike Nichols",
-      "person_id": 11280
-    },
-    {
       "name": "Drew Nolan",
       "person_id": 11406
+    },
+    {
+      "name": "Mike Nichols",
+      "person_id": 11280
     }
   ],
   "release_date": "2005-05-01",

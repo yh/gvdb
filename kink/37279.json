@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Carter Cruise",
-      "person_id": 54627
-    },
-    {
       "name": "Bill Bailey",
       "person_id": 46601
+    },
+    {
+      "name": "Carter Cruise",
+      "person_id": 54627
     }
   ],
   "release_date": "2015-03-06",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mika Tan",
-      "person_id": 236
-    },
-    {
       "name": "Danny Wylde",
       "person_id": 7790
+    },
+    {
+      "name": "Mika Tan",
+      "person_id": 236
     }
   ],
   "release_date": "2006-04-19",

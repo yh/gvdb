@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "James Deen",
-      "person_id": 8935
-    },
-    {
       "name": "Bobbi Brixton",
       "person_id": 28348
+    },
+    {
+      "name": "James Deen",
+      "person_id": 8935
     },
     {
       "name": "Princess Donna Dolore",

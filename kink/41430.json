@@ -19,24 +19,24 @@
       "person_id": 59034
     },
     {
+      "name": "Ember Stone",
+      "person_id": 58670
+    },
+    {
       "name": "John Strong",
       "person_id": 17050
-    },
-    {
-      "name": "Sadie Santana",
-      "person_id": 53272
-    },
-    {
-      "name": "Ramon Nomar",
-      "person_id": 35412
     },
     {
       "name": "Kasey Warner",
       "person_id": 56865
     },
     {
-      "name": "Ember Stone",
-      "person_id": 58670
+      "name": "Ramon Nomar",
+      "person_id": 35412
+    },
+    {
+      "name": "Sadie Santana",
+      "person_id": 53272
     }
   ],
   "release_date": "2017-02-03",

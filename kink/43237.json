@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Savannah Fox",
-      "person_id": 47440
-    },
-    {
       "name": "London River",
       "person_id": 56590
     },
     {
       "name": "Penny Barber",
       "person_id": 6664
+    },
+    {
+      "name": "Savannah Fox",
+      "person_id": 47440
     }
   ],
   "release_date": "2018-04-06",

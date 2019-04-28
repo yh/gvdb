@@ -9,12 +9,12 @@
       "person_id": 12426
     },
     {
-      "name": "Steve",
-      "person_id": 12429
-    },
-    {
       "name": "Rick",
       "person_id": 13065
+    },
+    {
+      "name": "Steve",
+      "person_id": 12429
     }
   ],
   "release_date": "2006-10-01",

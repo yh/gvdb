@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Juliette March",
-      "person_id": 22072
-    },
-    {
       "name": "Jason Steel",
       "person_id": 58490
+    },
+    {
+      "name": "Juliette March",
+      "person_id": 22072
     },
     {
       "name": "Lullu Gun",

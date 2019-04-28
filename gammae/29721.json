@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Vic Kovak",
-      "person_id": 13224
-    },
-    {
       "name": "Kyle King",
       "person_id": 23104
+    },
+    {
+      "name": "Vic Kovak",
+      "person_id": 13224
     }
   ],
   "release_date": "2010-01-27",

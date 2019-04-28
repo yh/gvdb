@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Johnny Gunn",
-      "person_id": 13255
-    },
-    {
       "name": "Andreas Cavalli",
       "person_id": 52356
+    },
+    {
+      "name": "Johnny Gunn",
+      "person_id": 13255
     }
   ],
   "release_date": "2009-11-25",

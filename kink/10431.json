@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Scout",
-      "person_id": 15993
-    },
-    {
       "name": "Christian Wilde",
       "person_id": 21037
     },
     {
       "name": "Cole Streets",
       "person_id": 18974
+    },
+    {
+      "name": "Scout",
+      "person_id": 15993
     }
   ],
   "release_date": "2010-10-22",

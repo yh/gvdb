@@ -11,24 +11,24 @@
   ],
   "models": [
     {
-      "name": "Brooklyn Lee",
-      "person_id": 25796
+      "name": "Alan Stafford",
+      "person_id": 20129
     },
     {
       "name": "Aleksa Nicole",
       "person_id": 36518
     },
     {
+      "name": "Anikka Albrite",
+      "person_id": 37246
+    },
+    {
       "name": "Anna Morna",
       "person_id": 47756
     },
     {
-      "name": "Alan Stafford",
-      "person_id": 20129
-    },
-    {
-      "name": "Anikka Albrite",
-      "person_id": 37246
+      "name": "Brooklyn Lee",
+      "person_id": 25796
     }
   ],
   "release_date": "2013-03-22",

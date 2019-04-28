@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Rave",
-      "person_id": 60424
-    },
-    {
       "name": "Dannii Devine",
       "person_id": 60423
+    },
+    {
+      "name": "Rave",
+      "person_id": 60424
     }
   ],
   "release_date": "2017-09-12",

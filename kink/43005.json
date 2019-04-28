@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Seth Gamble",
-      "person_id": 57488
-    },
-    {
       "name": "Angel Allwood",
       "person_id": 52348
+    },
+    {
+      "name": "Seth Gamble",
+      "person_id": 57488
     },
     {
       "name": "Zoey Monroe",

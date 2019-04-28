@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Stefan Toth",
-      "person_id": 20761
-    },
-    {
       "name": "Daniel Kriley",
       "person_id": 20786
+    },
+    {
+      "name": "Stefan Toth",
+      "person_id": 20761
     }
   ],
   "release_date": "1998-03-14",

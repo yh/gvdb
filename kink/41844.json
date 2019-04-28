@@ -11,24 +11,24 @@
   ],
   "models": [
     {
-      "name": "Siouxsie Q",
-      "person_id": 34821
-    },
-    {
-      "name": "Tommy Pistol",
-      "person_id": 12663
-    },
-    {
       "name": "Jon Jon",
       "person_id": 35195
+    },
+    {
+      "name": "Mark Wood",
+      "person_id": 31058
+    },
+    {
+      "name": "Siouxsie Q",
+      "person_id": 34821
     },
     {
       "name": "Small Hands",
       "person_id": 59499
     },
     {
-      "name": "Mark Wood",
-      "person_id": 31058
+      "name": "Tommy Pistol",
+      "person_id": 12663
     },
     {
       "name": "Will Havoc",

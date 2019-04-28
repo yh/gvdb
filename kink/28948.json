@@ -11,6 +11,10 @@
   ],
   "models": [
     {
+      "name": "Beretta James",
+      "person_id": 33659
+    },
+    {
       "name": "Coral Aorta",
       "person_id": 38216
     },
@@ -21,10 +25,6 @@
     {
       "name": "Veruca James",
       "person_id": 43570
-    },
-    {
-      "name": "Beretta James",
-      "person_id": 33659
     }
   ],
   "release_date": "2013-04-19",

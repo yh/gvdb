@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Proxy Paige",
-      "person_id": 24708
-    },
-    {
       "name": "Francesca Le",
       "person_id": 36526
+    },
+    {
+      "name": "Proxy Paige",
+      "person_id": 24708
     },
     {
       "name": "Sarah Shevon",

@@ -15,20 +15,16 @@
       "person_id": 11489
     },
     {
-      "name": "Veruca James",
-      "person_id": 43570
-    },
-    {
-      "name": "Mickey Mod",
-      "person_id": 19623
+      "name": "Bobbi Dylan",
+      "person_id": 59345
     },
     {
       "name": "Marco Banderas",
       "person_id": 27958
     },
     {
-      "name": "Bobbi Dylan",
-      "person_id": 59345
+      "name": "Mickey Mod",
+      "person_id": 19623
     },
     {
       "name": "Nora Riley",
@@ -37,6 +33,10 @@
     {
       "name": "Sydney Cole",
       "person_id": 57458
+    },
+    {
+      "name": "Veruca James",
+      "person_id": 43570
     }
   ],
   "release_date": "2016-04-29",

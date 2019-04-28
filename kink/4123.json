@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dana DeArmond",
-      "person_id": 4498
-    },
-    {
       "name": "Ariel X",
       "person_id": 10464
+    },
+    {
+      "name": "Dana DeArmond",
+      "person_id": 4498
     }
   ],
   "release_date": "2008-05-18",

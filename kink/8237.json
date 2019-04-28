@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Christian Wilde",
+      "person_id": 21037
+    },
+    {
       "name": "David Chase",
       "person_id": 20106
     },
     {
       "name": "Sativa Rose",
       "person_id": 8226
-    },
-    {
-      "name": "Christian Wilde",
-      "person_id": 21037
     }
   ],
   "release_date": "2010-04-07",

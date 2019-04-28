@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Rick Van Sant",
-      "person_id": 16230
-    },
-    {
       "name": "Diablo Fox",
       "person_id": 16925
+    },
+    {
+      "name": "Rick Van Sant",
+      "person_id": 16230
     }
   ],
   "release_date": "2011-08-08",

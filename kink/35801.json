@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Sydnee Capri",
-      "person_id": 6399
-    },
-    {
       "name": "Danny Wylde",
       "person_id": 7790
+    },
+    {
+      "name": "Sydnee Capri",
+      "person_id": 6399
     }
   ],
   "release_date": "2017-06-10",

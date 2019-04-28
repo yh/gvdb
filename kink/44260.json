@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jason Collins",
-      "person_id": 61577
-    },
-    {
       "name": "Brian Bonds",
       "person_id": 33737
+    },
+    {
+      "name": "Jason Collins",
+      "person_id": 61577
     }
   ],
   "release_date": "2019-02-28",

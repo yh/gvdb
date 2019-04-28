@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Connor Maguire",
-      "person_id": 46426
-    },
-    {
       "name": "Aarin Asker",
       "person_id": 58219
+    },
+    {
+      "name": "Connor Maguire",
+      "person_id": 46426
     }
   ],
   "release_date": "2015-09-10",

@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "TJ West",
-      "person_id": 52491
-    },
-    {
       "name": "DragonLily",
       "person_id": 3433
+    },
+    {
+      "name": "TJ West",
+      "person_id": 52491
     }
   ],
   "release_date": "2017-11-11",

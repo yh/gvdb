@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Connor Patricks",
-      "person_id": 47357
-    },
-    {
       "name": "Cameron Kincade",
       "person_id": 47006
+    },
+    {
+      "name": "Connor Patricks",
+      "person_id": 47357
     }
   ],
   "release_date": "2013-07-03",

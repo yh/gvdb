@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Ariel X",
-      "person_id": 10464
-    },
-    {
       "name": "Alexa Nova",
       "person_id": 57359
+    },
+    {
+      "name": "Ariel X",
+      "person_id": 10464
     },
     {
       "name": "Kimmy Lee",

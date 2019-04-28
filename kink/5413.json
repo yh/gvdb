@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "January Seraph",
-      "person_id": 15846
-    },
-    {
       "name": "Bobbi Starr",
       "person_id": 11290
+    },
+    {
+      "name": "January Seraph",
+      "person_id": 15846
     }
   ],
   "release_date": "2008-06-20",

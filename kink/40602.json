@@ -6,20 +6,20 @@
   "directors": [],
   "models": [
     {
-      "name": "Steve Holmes",
-      "person_id": 15810
-    },
-    {
-      "name": "Pablo Ferrari",
-      "person_id": 59621
+      "name": "Frida Sante",
+      "person_id": 59765
     },
     {
       "name": "Melody Petite",
       "person_id": 59695
     },
     {
-      "name": "Frida Sante",
-      "person_id": 59765
+      "name": "Pablo Ferrari",
+      "person_id": 59621
+    },
+    {
+      "name": "Steve Holmes",
+      "person_id": 15810
     }
   ],
   "release_date": "2016-10-03",

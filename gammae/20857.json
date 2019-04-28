@@ -5,12 +5,12 @@
   "description": "Watching the opening scene from afar are Jiri Lubov and Sebastian Bonnet, in an early role before he became a huge star. The two are inspired to put on their own show, with Bonnet-in rare top form-pounding Lubov before getting sucked.",
   "models": [
     {
-      "name": "Sebastian Bonnet",
-      "person_id": 10924
-    },
-    {
       "name": "Jiri Lubov",
       "person_id": 11311
+    },
+    {
+      "name": "Sebastian Bonnet",
+      "person_id": 10924
     }
   ],
   "release_date": "2010-07-01",

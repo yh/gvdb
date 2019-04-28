@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lisa Tiffian",
-      "person_id": 55478
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
+    },
+    {
+      "name": "Lisa Tiffian",
+      "person_id": 55478
     }
   ],
   "release_date": "2016-07-28",

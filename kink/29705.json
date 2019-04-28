@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Maitresse Madeline Marlowe",
-      "person_id": 17872
-    },
-    {
       "name": "Aria Arial",
       "person_id": 48365
+    },
+    {
+      "name": "Maitresse Madeline Marlowe",
+      "person_id": 17872
     },
     {
       "name": "Xander Corvus",

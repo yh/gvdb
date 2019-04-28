@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Tristan Sterling",
-      "person_id": 28071
-    },
-    {
       "name": "Brett Bradley",
       "person_id": 28087
+    },
+    {
+      "name": "Tristan Sterling",
+      "person_id": 28071
     }
   ],
   "release_date": "2013-06-06",

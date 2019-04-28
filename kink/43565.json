@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Vojenska Pani",
-      "person_id": 61366
-    },
-    {
       "name": "Viktor Burek",
       "person_id": 60791
+    },
+    {
+      "name": "Vojenska Pani",
+      "person_id": 61366
     }
   ],
   "release_date": "2018-06-20",

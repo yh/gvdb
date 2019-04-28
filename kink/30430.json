@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tanya Tate",
-      "person_id": 38529
-    },
-    {
       "name": "Casey More",
       "person_id": 47825
+    },
+    {
+      "name": "Tanya Tate",
+      "person_id": 38529
     }
   ],
   "release_date": "2013-05-01",

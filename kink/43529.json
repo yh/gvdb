@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Esmi Lee",
-      "person_id": 49417
-    },
-    {
       "name": "Charli Acacia",
       "person_id": 55348
+    },
+    {
+      "name": "Esmi Lee",
+      "person_id": 49417
     }
   ],
   "release_date": "2018-06-14",

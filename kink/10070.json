@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Vince Ferelli",
-      "person_id": 22769
-    },
-    {
       "name": "Tyler Saint",
       "person_id": 17416
+    },
+    {
+      "name": "Vince Ferelli",
+      "person_id": 22769
     }
   ],
   "release_date": "2010-09-02",

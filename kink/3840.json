@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Nomad",
-      "person_id": 11898
-    },
-    {
       "name": "Harmony",
       "person_id": 6341
     },
     {
       "name": "Isis Love",
       "person_id": 6584
+    },
+    {
+      "name": "Nomad",
+      "person_id": 11898
     }
   ],
   "release_date": "2006-10-04",

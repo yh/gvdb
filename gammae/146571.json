@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Spencer Laval",
-      "person_id": 51479
-    },
-    {
       "name": "Evan Landers",
       "person_id": 58024
+    },
+    {
+      "name": "Spencer Laval",
+      "person_id": 51479
     }
   ],
   "release_date": "2019-03-29",

@@ -5,11 +5,11 @@
   "description": "",
   "models": [
     {
-      "name": "David Robinson",
+      "name": "Anthony Clarke",
       "person_id": null
     },
     {
-      "name": "Matt Brooks",
+      "name": "David Robinson",
       "person_id": null
     },
     {
@@ -17,7 +17,7 @@
       "person_id": null
     },
     {
-      "name": "Anthony Clarke",
+      "name": "Matt Brooks",
       "person_id": null
     }
   ],

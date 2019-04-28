@@ -5,12 +5,12 @@
   "description": "Ambulance threeway.",
   "models": [
     {
-      "name": "Nicholas Babral",
-      "person_id": 20865
-    },
-    {
       "name": "Gabriel Galad",
       "person_id": 20898
+    },
+    {
+      "name": "Nicholas Babral",
+      "person_id": 20865
     },
     {
       "name": "Paul Kabit",

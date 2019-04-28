@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jet Setting Jasmine",
-      "person_id": 59795
-    },
-    {
       "name": "Daisy Ducati",
       "person_id": 50939
+    },
+    {
+      "name": "Jet Setting Jasmine",
+      "person_id": 59795
     }
   ],
   "release_date": "2017-04-05",

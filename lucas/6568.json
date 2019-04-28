@@ -5,11 +5,11 @@
   "description": "Go behind the scenes of \"Encounters 01: In the Heat of the Moment,\" and you might just see a very special guest appearance from the one and only RuPaul!",
   "models": [
     {
-      "name": "Wilson Vasquez",
+      "name": "Bruce Beckham",
       "person_id": null
     },
     {
-      "name": "Bruce Beckham",
+      "name": "Wilson Vasquez",
       "person_id": null
     }
   ],

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Keiko",
-      "person_id": 3123
-    },
-    {
       "name": "Chanta-Rose",
       "person_id": 124
+    },
+    {
+      "name": "Keiko",
+      "person_id": 3123
     }
   ],
   "release_date": "2004-04-13",

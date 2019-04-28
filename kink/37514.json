@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Ella Nova",
+      "person_id": 51866
+    },
+    {
       "name": "Mr. Pete",
       "person_id": 16823
     },
     {
       "name": "Phoenix Marie",
       "person_id": 17093
-    },
-    {
-      "name": "Ella Nova",
-      "person_id": 51866
     }
   ],
   "release_date": "2015-02-27",

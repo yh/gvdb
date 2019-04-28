@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nerine Mechanique",
-      "person_id": 19851
-    },
-    {
       "name": "Bill Bailey",
       "person_id": 46601
+    },
+    {
+      "name": "Nerine Mechanique",
+      "person_id": 19851
     }
   ],
   "release_date": "2014-03-07",

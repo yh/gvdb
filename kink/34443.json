@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lyla Storm",
-      "person_id": 33882
-    },
-    {
       "name": "Alexa Aimes",
       "person_id": 38867
+    },
+    {
+      "name": "Lyla Storm",
+      "person_id": 33882
     }
   ],
   "release_date": "2014-01-24",

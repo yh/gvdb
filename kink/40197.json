@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Siouxsie Q",
-      "person_id": 34821
-    },
-    {
       "name": "Kelli Lox",
       "person_id": 37743
+    },
+    {
+      "name": "Siouxsie Q",
+      "person_id": 34821
     }
   ],
   "release_date": "2016-06-24",

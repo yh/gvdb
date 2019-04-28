@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Eliza Jane",
-      "person_id": 59596
-    },
-    {
       "name": "Corbin Dallas",
       "person_id": 51921
+    },
+    {
+      "name": "Eliza Jane",
+      "person_id": 59596
     }
   ],
   "release_date": "2018-03-13",

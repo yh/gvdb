@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Felony",
-      "person_id": 17502
-    },
-    {
       "name": "Drake Temple",
       "person_id": 31831
+    },
+    {
+      "name": "Felony",
+      "person_id": 17502
     }
   ],
   "release_date": "2011-05-25",

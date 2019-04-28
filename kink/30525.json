@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jeremy Stevens",
-      "person_id": 40364
-    },
-    {
       "name": "Hayden Richards",
       "person_id": 47285
+    },
+    {
+      "name": "Jeremy Stevens",
+      "person_id": 40364
     }
   ],
   "release_date": "2013-04-17",

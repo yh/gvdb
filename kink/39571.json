@@ -11,6 +11,10 @@
   ],
   "models": [
     {
+      "name": "Lance Hart",
+      "person_id": 37346
+    },
+    {
       "name": "Lily Lovecraft",
       "person_id": 59026
     },
@@ -25,10 +29,6 @@
     {
       "name": "Wolf Hudson",
       "person_id": 14471
-    },
-    {
-      "name": "Lance Hart",
-      "person_id": 37346
     }
   ],
   "release_date": "2016-02-03",

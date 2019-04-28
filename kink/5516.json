@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Rico",
-      "person_id": 16001
-    },
-    {
       "name": "Daphne Rosen",
       "person_id": 13788
+    },
+    {
+      "name": "Rico",
+      "person_id": 16001
     }
   ],
   "release_date": "2010-11-15",

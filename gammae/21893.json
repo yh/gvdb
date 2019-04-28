@@ -5,12 +5,12 @@
   "description": "Post photo-shoot, Cliff Parker and Cougar Cash retire to the restroom...",
   "models": [
     {
-      "name": "Cougar Cash",
-      "person_id": 11872
-    },
-    {
       "name": "Cliff Parker",
       "person_id": 12194
+    },
+    {
+      "name": "Cougar Cash",
+      "person_id": 11872
     }
   ],
   "release_date": "2010-07-02",

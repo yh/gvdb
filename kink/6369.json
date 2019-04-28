@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nika Noire",
-      "person_id": 17418
-    },
-    {
       "name": "Lobo",
       "person_id": 16229
+    },
+    {
+      "name": "Nika Noire",
+      "person_id": 17418
     }
   ],
   "release_date": "2011-09-12",

@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "John Zorg",
-      "person_id": 20870
-    },
-    {
       "name": "Glen Santoro",
       "person_id": 20943
+    },
+    {
+      "name": "John Zorg",
+      "person_id": 20870
     },
     {
       "name": "Michael Kozec",

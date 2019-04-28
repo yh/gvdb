@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Branden Forrest",
+      "person_id": 29020
+    },
+    {
       "name": "Christian Wilde",
       "person_id": 21037
     },
     {
       "name": "Mike J",
       "person_id": 34474
-    },
-    {
-      "name": "Branden Forrest",
-      "person_id": 29020
     }
   ],
   "release_date": "2011-12-16",

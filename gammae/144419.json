@@ -5,36 +5,36 @@
   "description": "",
   "models": [
     {
-      "name": "Lance Hart",
-      "person_id": 35564
-    },
-    {
-      "name": "Nic Sahara",
-      "person_id": 52171
+      "name": "Austin Chapman",
+      "person_id": 52170
     },
     {
       "name": "Billy Santoro",
       "person_id": 35626
     },
     {
-      "name": "Dallas Steele",
-      "person_id": 57621
+      "name": "Brian Bonds",
+      "person_id": 57622
+    },
+    {
+      "name": "Brodie Ramirez",
+      "person_id": 57623
     },
     {
       "name": "Cade Maddox",
       "person_id": 52150
     },
     {
-      "name": "Brian Bonds",
-      "person_id": 57622
+      "name": "Dallas Steele",
+      "person_id": 57621
     },
     {
-      "name": "Austin Chapman",
-      "person_id": 52170
+      "name": "Lance Hart",
+      "person_id": 35564
     },
     {
-      "name": "Brodie Ramirez",
-      "person_id": 57623
+      "name": "Nic Sahara",
+      "person_id": 52171
     }
   ],
   "release_date": "2019-01-08",

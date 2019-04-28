@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Rob Yaeger",
-      "person_id": 45103
-    },
-    {
       "name": "Clayton Kent",
       "person_id": 41377
+    },
+    {
+      "name": "Rob Yaeger",
+      "person_id": 45103
     }
   ],
   "release_date": "2013-02-06",

@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Tom Vacarro",
-      "person_id": 19505
-    },
-    {
       "name": "Rik Jammer",
       "person_id": 19841
+    },
+    {
+      "name": "Tom Vacarro",
+      "person_id": 19505
     }
   ],
   "release_date": "2002-12-31",

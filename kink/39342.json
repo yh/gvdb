@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Alexa Nova",
+      "person_id": 57359
+    },
+    {
       "name": "Casey Calvert",
       "person_id": 36437
     },
     {
       "name": "Mandy Muse",
       "person_id": 54180
-    },
-    {
-      "name": "Alexa Nova",
-      "person_id": 57359
     }
   ],
   "release_date": "2016-02-09",

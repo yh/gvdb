@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "trixie kitten",
-      "person_id": 3369
-    },
-    {
       "name": "Audrey Leigh",
       "person_id": 1587
     },
     {
       "name": "Sonya",
       "person_id": 2180
+    },
+    {
+      "name": "trixie kitten",
+      "person_id": 3369
     }
   ],
   "release_date": "2004-01-23",

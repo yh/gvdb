@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tony Orlando",
-      "person_id": 48907
-    },
-    {
       "name": "Cliff Jensen",
       "person_id": 29792
+    },
+    {
+      "name": "Tony Orlando",
+      "person_id": 48907
     }
   ],
   "release_date": "2018-05-31",

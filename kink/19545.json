@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Taylor Vixen",
-      "person_id": 39062
-    },
-    {
       "name": "Bobbi Starr",
       "person_id": 11290
+    },
+    {
+      "name": "Taylor Vixen",
+      "person_id": 39062
     }
   ],
   "release_date": "2012-04-20",

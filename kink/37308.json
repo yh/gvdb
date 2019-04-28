@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Cyd St. Vincent",
-      "person_id": 54506
-    },
-    {
       "name": "Connor Maguire",
       "person_id": 46426
+    },
+    {
+      "name": "Cyd St. Vincent",
+      "person_id": 54506
     }
   ],
   "release_date": "2017-09-01",

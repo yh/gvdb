@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Tony Orlando",
-      "person_id": 48907
-    },
-    {
       "name": "Charlotte Sartre",
       "person_id": 57874
     },
     {
       "name": "Honey FoXXX",
       "person_id": 20864
+    },
+    {
+      "name": "Tony Orlando",
+      "person_id": 48907
     }
   ],
   "release_date": "2016-08-02",

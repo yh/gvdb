@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lance Hart",
-      "person_id": 37346
-    },
-    {
       "name": "Charlotte Sartre",
       "person_id": 57874
+    },
+    {
+      "name": "Lance Hart",
+      "person_id": 37346
     }
   ],
   "release_date": "2018-11-15",

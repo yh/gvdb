@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dirk Caber",
-      "person_id": 27341
-    },
-    {
       "name": "Damien Moreau",
       "person_id": 51956
+    },
+    {
+      "name": "Dirk Caber",
+      "person_id": 27341
     }
   ],
   "release_date": "2014-01-09",

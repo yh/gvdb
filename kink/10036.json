@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Zenza Raggi",
-      "person_id": 20195
-    },
-    {
       "name": "Sexy Susi",
       "person_id": 27100
+    },
+    {
+      "name": "Zenza Raggi",
+      "person_id": 20195
     }
   ],
   "release_date": "2010-11-26",

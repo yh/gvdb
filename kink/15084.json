@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Morgan Black",
-      "person_id": 34934
-    },
-    {
       "name": "Chad Brock",
       "person_id": 28723
+    },
+    {
+      "name": "Morgan Black",
+      "person_id": 34934
     }
   ],
   "release_date": "2011-11-23",

@@ -5,11 +5,11 @@
   "description": "",
   "models": [
     {
-      "name": "Steve Ross",
+      "name": "Alex Ross",
       "person_id": null
     },
     {
-      "name": "Alex Ross",
+      "name": "Steve Ross",
       "person_id": null
     }
   ],

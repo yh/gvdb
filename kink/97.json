@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mistress Kira Veritas",
-      "person_id": 57
-    },
-    {
       "name": "Eve",
       "person_id": 88
+    },
+    {
+      "name": "Mistress Kira Veritas",
+      "person_id": 57
     }
   ],
   "release_date": "2000-10-25",

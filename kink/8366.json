@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Felony",
+      "person_id": 17502
+    },
+    {
       "name": "Lorelei Lee",
       "person_id": 758
     },
     {
       "name": "Zak Tyler",
       "person_id": 21236
-    },
-    {
-      "name": "Felony",
-      "person_id": 17502
     }
   ],
   "release_date": "2010-03-17",

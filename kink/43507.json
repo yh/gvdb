@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Kaisey Dean",
-      "person_id": 55766
-    },
-    {
       "name": "Bruno Dickemz",
       "person_id": 54328
+    },
+    {
+      "name": "Kaisey Dean",
+      "person_id": 55766
     }
   ],
   "release_date": "2018-06-07",

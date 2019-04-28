@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Proxy Paige",
-      "person_id": 24708
-    },
-    {
       "name": "Orlando",
       "person_id": 16649
+    },
+    {
+      "name": "Proxy Paige",
+      "person_id": 24708
     }
   ],
   "release_date": "2013-04-26",

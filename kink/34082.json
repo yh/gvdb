@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Leo Forte",
-      "person_id": 22142
-    },
-    {
       "name": "Doug Acre",
       "person_id": 47153
+    },
+    {
+      "name": "Leo Forte",
+      "person_id": 22142
     },
     {
       "name": "Randall O'Reilly",

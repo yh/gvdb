@@ -5,12 +5,12 @@
   "description": "Jake Dakota's encounter with Tyler Saint is nothing like he expected; but did he object? Tyler ropes his wary friend into his covert and ominous world with the help of Andrew Justice.",
   "models": [
     {
-      "name": "Jake Dakota",
-      "person_id": 11605
-    },
-    {
       "name": "Andrew Justice",
       "person_id": 11679
+    },
+    {
+      "name": "Jake Dakota",
+      "person_id": 11605
     },
     {
       "name": "Tyler Saint",

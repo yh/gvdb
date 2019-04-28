@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Stirling Cooper",
-      "person_id": 61419
-    },
-    {
       "name": "Cadence Lux",
       "person_id": 51424
+    },
+    {
+      "name": "Stirling Cooper",
+      "person_id": 61419
     }
   ],
   "release_date": "2019-02-22",

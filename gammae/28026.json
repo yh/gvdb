@@ -5,12 +5,12 @@
   "description": "Rod Daily & Brad Star are pretty bored on a Tuesday afternoon. Not much going on. Just kicking it playing video games. So to make things a little more interesting, they decide to place a friendly wager on the outcome of their video contest. Well, as these things usually go, someone has to win & someone has to lose, and in this case, the loser has to suck the other one's dick. Actually, on second thought, this turns out to be one of those bets where everyone is a winner.Enjoy!",
   "models": [
     {
-      "name": "Rod Daily",
-      "person_id": 9574
-    },
-    {
       "name": "Brad Star",
       "person_id": 14324
+    },
+    {
+      "name": "Rod Daily",
+      "person_id": 9574
     }
   ],
   "release_date": "2011-02-18",

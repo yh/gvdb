@@ -5,32 +5,32 @@
   "description": "",
   "models": [
     {
-      "name": "Miguel Leonn",
-      "person_id": 19528
-    },
-    {
       "name": "Carlos Morales",
       "person_id": 19840
-    },
-    {
-      "name": "Manuel Torres",
-      "person_id": 19529
-    },
-    {
-      "name": "Pete Ross",
-      "person_id": 19856
-    },
-    {
-      "name": "Ivan Andros",
-      "person_id": 19561
     },
     {
       "name": "Enrico Vega",
       "person_id": 19865
     },
     {
+      "name": "Ivan Andros",
+      "person_id": 19561
+    },
+    {
+      "name": "Manuel Torres",
+      "person_id": 19529
+    },
+    {
       "name": "Mario Cruz",
       "person_id": 19625
+    },
+    {
+      "name": "Miguel Leonn",
+      "person_id": 19528
+    },
+    {
+      "name": "Pete Ross",
+      "person_id": 19856
     }
   ],
   "release_date": "2004-11-01",

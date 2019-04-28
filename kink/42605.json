@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Veruca James",
-      "person_id": 43570
-    },
-    {
       "name": "Tommy Pistol",
       "person_id": 12663
+    },
+    {
+      "name": "Veruca James",
+      "person_id": 43570
     }
   ],
   "release_date": "2017-09-15",

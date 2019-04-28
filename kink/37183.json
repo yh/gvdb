@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Derrick Pierce",
-      "person_id": 14403
-    },
-    {
       "name": "Dee Williams",
       "person_id": 4197
+    },
+    {
+      "name": "Derrick Pierce",
+      "person_id": 14403
     }
   ],
   "release_date": "2015-01-23",

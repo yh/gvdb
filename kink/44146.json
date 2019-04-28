@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Ondra Matej",
-      "person_id": 60758
-    },
-    {
       "name": "Alan Milek",
       "person_id": 61831
+    },
+    {
+      "name": "Ondra Matej",
+      "person_id": 60758
     }
   ],
   "release_date": "2019-01-02",

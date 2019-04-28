@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jeremy Stevens",
-      "person_id": 40364
-    },
-    {
       "name": "Dirk Caber",
       "person_id": 27341
+    },
+    {
+      "name": "Jeremy Stevens",
+      "person_id": 40364
     }
   ],
   "release_date": "2012-11-01",

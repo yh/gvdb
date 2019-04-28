@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Savannah West",
-      "person_id": 19581
-    },
-    {
       "name": "Maestro",
       "person_id": 11928
+    },
+    {
+      "name": "Savannah West",
+      "person_id": 19581
     }
   ],
   "release_date": "2009-09-25",

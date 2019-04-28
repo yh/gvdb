@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tyler Rush",
-      "person_id": 54465
-    },
-    {
       "name": "Brock Avery",
       "person_id": 53215
+    },
+    {
+      "name": "Tyler Rush",
+      "person_id": 54465
     }
   ],
   "release_date": "2015-06-10",

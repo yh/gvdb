@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jonah Fontana",
-      "person_id": 59550
-    },
-    {
       "name": "Brian Bonds",
       "person_id": 33737
+    },
+    {
+      "name": "Jonah Fontana",
+      "person_id": 59550
     }
   ],
   "release_date": "2018-02-01",

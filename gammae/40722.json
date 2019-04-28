@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Zeno Alexander",
-      "person_id": 20914
-    },
-    {
       "name": "Lucio Maverick",
       "person_id": 20921
+    },
+    {
+      "name": "Zeno Alexander",
+      "person_id": 20914
     }
   ],
   "release_date": "1998-05-27",

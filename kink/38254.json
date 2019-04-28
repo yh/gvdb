@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Chanel Preston",
-      "person_id": 26542
-    },
-    {
       "name": "Britney Amber",
       "person_id": 57340
+    },
+    {
+      "name": "Chanel Preston",
+      "person_id": 26542
     }
   ],
   "release_date": "2015-08-21",

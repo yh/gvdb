@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Zoey Portland",
-      "person_id": 49483
-    },
-    {
       "name": "Amber Rayne",
       "person_id": 12631
+    },
+    {
+      "name": "Zoey Portland",
+      "person_id": 49483
     }
   ],
   "release_date": "2013-12-17",

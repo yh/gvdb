@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jett Jax",
-      "person_id": 50996
-    },
-    {
       "name": "JJ Knight",
       "person_id": 58863
+    },
+    {
+      "name": "Jett Jax",
+      "person_id": 50996
     }
   ],
   "release_date": "2015-12-09",

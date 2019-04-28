@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
-      "name": "Tim Rusty",
-      "person_id": 26360
-    },
-    {
       "name": "Jacob Slader",
       "person_id": 27015
     },
     {
       "name": "Peter Mitchum",
       "person_id": 27017
+    },
+    {
+      "name": "Tim Rusty",
+      "person_id": 26360
     }
   ],
   "release_date": "2013-03-19",

@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Kaiya Lynn",
-      "person_id": 10107
-    },
-    {
       "name": "DragonLily",
       "person_id": 3433
+    },
+    {
+      "name": "Kaiya Lynn",
+      "person_id": 10107
     }
   ],
   "release_date": "2015-02-23",

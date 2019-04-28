@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lia Lor",
-      "person_id": 40629
-    },
-    {
       "name": "James Deen",
       "person_id": 8935
+    },
+    {
+      "name": "Lia Lor",
+      "person_id": 40629
     },
     {
       "name": "Lorelei Lee",

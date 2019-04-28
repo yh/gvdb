@@ -11,16 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tommy Pistol",
-      "person_id": 12663
+      "name": "Arabelle Raphael",
+      "person_id": 22128
     },
     {
       "name": "John Johnson",
       "person_id": 49204
-    },
-    {
-      "name": "Will Havoc",
-      "person_id": 46285
     },
     {
       "name": "Marco Banderas",
@@ -31,8 +27,12 @@
       "person_id": 59499
     },
     {
-      "name": "Arabelle Raphael",
-      "person_id": 22128
+      "name": "Tommy Pistol",
+      "person_id": 12663
+    },
+    {
+      "name": "Will Havoc",
+      "person_id": 46285
     }
   ],
   "release_date": "2016-08-24",

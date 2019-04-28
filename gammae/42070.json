@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Michael Ray",
-      "person_id": 19852
-    },
-    {
       "name": "Damien",
       "person_id": 21756
+    },
+    {
+      "name": "Michael Ray",
+      "person_id": 19852
     }
   ],
   "release_date": "2003-07-01",

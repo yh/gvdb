@@ -5,12 +5,12 @@
   "description": "Triumvirate: Sexual Instinct",
   "models": [
     {
-      "name": "Samuel Crecry",
-      "person_id": 29538
-    },
-    {
       "name": "Bruno Image",
       "person_id": 29541
+    },
+    {
+      "name": "Samuel Crecry",
+      "person_id": 29538
     }
   ],
   "release_date": "2003-10-01",

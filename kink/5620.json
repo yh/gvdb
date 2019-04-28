@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Cecilia Vega",
+      "person_id": 17926
+    },
+    {
       "name": "Princess Donna Dolore",
       "person_id": 5235
     },
     {
       "name": "Steve Holmes",
       "person_id": 15810
-    },
-    {
-      "name": "Cecilia Vega",
-      "person_id": 17926
     }
   ],
   "release_date": "2008-09-12",

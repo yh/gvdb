@@ -5,20 +5,20 @@
   "description": "Tom Chase is a nasty top who uses toys to fulfill Jerek and Bret Wolfe as Carlos Morales works himself and watches from the shadows.",
   "models": [
     {
-      "name": "Jerek",
-      "person_id": 10857
-    },
-    {
       "name": "Bret Wolfe",
       "person_id": 10877
     },
     {
-      "name": "Tom Chase",
-      "person_id": 11246
-    },
-    {
       "name": "Carlos Morales",
       "person_id": 11291
+    },
+    {
+      "name": "Jerek",
+      "person_id": 10857
+    },
+    {
+      "name": "Tom Chase",
+      "person_id": 11246
     }
   ],
   "release_date": "2003-02-01",

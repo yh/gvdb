@@ -6,20 +6,20 @@
   "directors": [],
   "models": [
     {
-      "name": "Steve Holmes",
-      "person_id": 15810
-    },
-    {
-      "name": "Yasmin Scott",
-      "person_id": 59872
-    },
-    {
       "name": "Kendo Ortiz",
       "person_id": 59895
     },
     {
       "name": "Rija Mae",
       "person_id": 59969
+    },
+    {
+      "name": "Steve Holmes",
+      "person_id": 15810
+    },
+    {
+      "name": "Yasmin Scott",
+      "person_id": 59872
     }
   ],
   "release_date": "2017-04-24",

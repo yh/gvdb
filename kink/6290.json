@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nyobi Khan",
-      "person_id": 16415
-    },
-    {
       "name": "Dean Strong",
       "person_id": 18291
+    },
+    {
+      "name": "Nyobi Khan",
+      "person_id": 16415
     }
   ],
   "release_date": "2009-04-08",

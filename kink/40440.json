@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kelli Provocateur",
-      "person_id": 39587
-    },
-    {
       "name": "Angel Allwood",
       "person_id": 52348
+    },
+    {
+      "name": "Kelli Provocateur",
+      "person_id": 39587
     }
   ],
   "release_date": "2016-07-29",

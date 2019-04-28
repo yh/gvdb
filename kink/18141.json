@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Felony",
-      "person_id": 17502
-    },
-    {
       "name": "Ashlynn Leigh",
       "person_id": 29568
     },
     {
-      "name": "Gia DiMarco",
-      "person_id": 21436
-    },
-    {
       "name": "Dylan Ryan",
       "person_id": 10069
+    },
+    {
+      "name": "Felony",
+      "person_id": 17502
+    },
+    {
+      "name": "Gia DiMarco",
+      "person_id": 21436
     }
   ],
   "release_date": "2012-02-03",

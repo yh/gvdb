@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Ginger",
-      "person_id": 2853
-    },
-    {
       "name": "Audrey Leigh",
       "person_id": 1587
+    },
+    {
+      "name": "Ginger",
+      "person_id": 2853
     },
     {
       "name": "Sonya",

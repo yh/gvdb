@@ -11,24 +11,24 @@
   ],
   "models": [
     {
-      "name": "Maestro",
-      "person_id": 11928
+      "name": "Charlotte Vale",
+      "person_id": 16865
     },
     {
       "name": "Kade",
       "person_id": 12580
     },
     {
-      "name": "Charlotte Vale",
-      "person_id": 16865
-    },
-    {
-      "name": "Sarah Shevon",
-      "person_id": 19605
+      "name": "Maestro",
+      "person_id": 11928
     },
     {
       "name": "Maggie Mayhem",
       "person_id": 19763
+    },
+    {
+      "name": "Sarah Shevon",
+      "person_id": 19605
     }
   ],
   "release_date": "2010-01-11",

@@ -15,20 +15,20 @@
       "person_id": 56507
     },
     {
-      "name": "Mr. Pete",
-      "person_id": 16823
-    },
-    {
       "name": "Gage Sin",
       "person_id": 53344
     },
     {
-      "name": "Tommy Pistol",
-      "person_id": 12663
-    },
-    {
       "name": "Mark Wood",
       "person_id": 31058
+    },
+    {
+      "name": "Mr. Pete",
+      "person_id": 16823
+    },
+    {
+      "name": "Tommy Pistol",
+      "person_id": 12663
     }
   ],
   "release_date": "2015-08-26",

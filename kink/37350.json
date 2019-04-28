@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "John Strong",
-      "person_id": 17050
-    },
-    {
       "name": "Aiden Starr",
       "person_id": 11489
     },
     {
       "name": "Audrey Holiday",
       "person_id": 57661
+    },
+    {
+      "name": "John Strong",
+      "person_id": 17050
     }
   ],
   "release_date": "2015-06-05",

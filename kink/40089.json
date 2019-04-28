@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Reed Jameson",
-      "person_id": 52382
-    },
-    {
       "name": "Aubrey Kate",
       "person_id": 51491
+    },
+    {
+      "name": "Reed Jameson",
+      "person_id": 52382
     }
   ],
   "release_date": "2016-05-04",

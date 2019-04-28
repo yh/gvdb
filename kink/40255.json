@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jason Styles",
-      "person_id": 59235
-    },
-    {
       "name": "Brian Bonds",
       "person_id": 33737
+    },
+    {
+      "name": "Jason Styles",
+      "person_id": 59235
     }
   ],
   "release_date": "2016-07-08",

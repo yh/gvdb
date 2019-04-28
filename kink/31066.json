@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Lorelei Lee",
-      "person_id": 758
-    },
-    {
-      "name": "Jesse Carl",
-      "person_id": 29074
+      "name": "Chad Rock",
+      "person_id": 14593
     },
     {
       "name": "Connor Patricks",
       "person_id": 47357
     },
     {
-      "name": "Chad Rock",
-      "person_id": 14593
+      "name": "Jesse Carl",
+      "person_id": 29074
+    },
+    {
+      "name": "Lorelei Lee",
+      "person_id": 758
     }
   ],
   "release_date": "2013-06-12",

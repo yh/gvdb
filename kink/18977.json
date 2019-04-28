@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nacho Vidal",
-      "person_id": 34792
-    },
-    {
       "name": "Brooklyn Lee",
       "person_id": 25796
+    },
+    {
+      "name": "Nacho Vidal",
+      "person_id": 34792
     }
   ],
   "release_date": "2012-03-16",

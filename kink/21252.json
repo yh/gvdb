@@ -11,28 +11,28 @@
   ],
   "models": [
     {
-      "name": "James Deen",
-      "person_id": 8935
+      "name": "Ashli Orion",
+      "person_id": 17155
     },
     {
-      "name": "Mickey Mod",
-      "person_id": 19623
+      "name": "James Deen",
+      "person_id": 8935
     },
     {
       "name": "Karlo Karrera",
       "person_id": 35221
     },
     {
-      "name": "Ramon Nomar",
-      "person_id": 35412
-    },
-    {
       "name": "Mark Davis",
       "person_id": 8200
     },
     {
-      "name": "Ashli Orion",
-      "person_id": 17155
+      "name": "Mickey Mod",
+      "person_id": 19623
+    },
+    {
+      "name": "Ramon Nomar",
+      "person_id": 35412
     }
   ],
   "release_date": "2012-07-04",

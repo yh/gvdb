@@ -6,10 +6,6 @@
   "directors": [],
   "models": [
     {
-      "name": "Kira Noir",
-      "person_id": 58892
-    },
-    {
       "name": "Alison Rey",
       "person_id": 59692
     },
@@ -18,32 +14,36 @@
       "person_id": 61556
     },
     {
-      "name": "Mistress Bella Bathory",
-      "person_id": 59846
+      "name": "Jimmy Broadway",
+      "person_id": 19688
     },
     {
       "name": "Karla Lane",
       "person_id": 61565
     },
     {
-      "name": "Sheena Ryder",
-      "person_id": 35620
-    },
-    {
-      "name": "Mistress Synful Pleasure",
-      "person_id": 61566
+      "name": "Kira Noir",
+      "person_id": 58892
     },
     {
       "name": "Marcelo",
       "person_id": 46090
     },
     {
+      "name": "Mistress Bella Bathory",
+      "person_id": 59846
+    },
+    {
+      "name": "Mistress Synful Pleasure",
+      "person_id": 61566
+    },
+    {
       "name": "Mo Reese",
       "person_id": 61567
     },
     {
-      "name": "Jimmy Broadway",
-      "person_id": 19688
+      "name": "Sheena Ryder",
+      "person_id": 35620
     }
   ],
   "release_date": "2018-09-28",

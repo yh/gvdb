@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dahlia Sky",
-      "person_id": 45819
-    },
-    {
       "name": "Claire Robbins",
       "person_id": 46978
+    },
+    {
+      "name": "Dahlia Sky",
+      "person_id": 45819
     },
     {
       "name": "Krissy Lynn",

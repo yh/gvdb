@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Zane Jacobs",
-      "person_id": 18776
-    },
-    {
       "name": "Nick Moretti",
       "person_id": 17516
+    },
+    {
+      "name": "Zane Jacobs",
+      "person_id": 18776
     }
   ],
   "release_date": "2009-07-02",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "The Pope",
-      "person_id": 27779
-    },
-    {
       "name": "Helena Locke",
       "person_id": 59793
+    },
+    {
+      "name": "The Pope",
+      "person_id": 27779
     }
   ],
   "release_date": "2017-10-12",

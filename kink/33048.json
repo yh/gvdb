@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Cherry Torn",
+      "person_id": 11105
+    },
+    {
       "name": "Phoenix Marie",
       "person_id": 17093
     },
     {
       "name": "Sarah Blake",
       "person_id": 7407
-    },
-    {
-      "name": "Cherry Torn",
-      "person_id": 11105
     }
   ],
   "release_date": "2013-08-23",

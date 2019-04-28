@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Fred Fele",
-      "person_id": 20848
-    },
-    {
       "name": "Andrew Moretti",
       "person_id": 20983
+    },
+    {
+      "name": "Fred Fele",
+      "person_id": 20848
     }
   ],
   "release_date": "1998-05-23",

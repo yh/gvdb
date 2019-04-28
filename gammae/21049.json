@@ -5,12 +5,12 @@
   "description": "'Ticket Home':  Footloose farmboy stranded in the big city without busfare, young Luke responds to a ride offer from handsome blond businessman John Carpenter.  The pair end up back at Carpenter's house for what promises to be a relaxing afternoon around the pool.  But Luke doesn't get much relaxing done, as he's initiated into the joys of heavy sex with another man, submitting to the abuse of Carpenter's manly passions.",
   "models": [
     {
-      "name": "Luke",
-      "person_id": 12051
-    },
-    {
       "name": "John Carpenter",
       "person_id": 12454
+    },
+    {
+      "name": "Luke",
+      "person_id": 12051
     }
   ],
   "release_date": "2007-03-01",

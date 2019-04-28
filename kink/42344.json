@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Penny Pax",
-      "person_id": 38571
-    },
-    {
       "name": "Carissa Montgomery",
       "person_id": 52000
+    },
+    {
+      "name": "Penny Pax",
+      "person_id": 38571
     }
   ],
   "release_date": "2017-11-09",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sabrina Sparx",
-      "person_id": 10988
-    },
-    {
       "name": "Princess Donna Dolore",
       "person_id": 5235
+    },
+    {
+      "name": "Sabrina Sparx",
+      "person_id": 10988
     }
   ],
   "release_date": "2006-02-23",

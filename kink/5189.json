@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Charley Chase",
-      "person_id": 16304
-    },
-    {
       "name": "Annette Schwarz",
       "person_id": 12488
+    },
+    {
+      "name": "Charley Chase",
+      "person_id": 16304
     }
   ],
   "release_date": "2008-03-28",

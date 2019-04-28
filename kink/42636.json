@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Samantha Joons",
-      "person_id": 60448
-    },
-    {
       "name": "Ar",
       "person_id": 60282
+    },
+    {
+      "name": "Samantha Joons",
+      "person_id": 60448
     }
   ],
   "release_date": "2017-08-30",

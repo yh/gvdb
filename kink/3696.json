@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Julie Night",
-      "person_id": 11190
-    },
-    {
       "name": "Dana DeArmond",
       "person_id": 4498
+    },
+    {
+      "name": "Julie Night",
+      "person_id": 11190
     }
   ],
   "release_date": "2006-06-20",

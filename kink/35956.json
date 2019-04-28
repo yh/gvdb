@@ -11,24 +11,24 @@
   ],
   "models": [
     {
-      "name": "Toni Ribas",
-      "person_id": 38962
-    },
-    {
-      "name": "Ramon Nomar",
-      "person_id": 35412
-    },
-    {
-      "name": "Jordan Ash",
-      "person_id": 42543
+      "name": "Astral Dust",
+      "person_id": 43670
     },
     {
       "name": "John Strong",
       "person_id": 17050
     },
     {
-      "name": "Astral Dust",
-      "person_id": 43670
+      "name": "Jordan Ash",
+      "person_id": 42543
+    },
+    {
+      "name": "Ramon Nomar",
+      "person_id": 35412
+    },
+    {
+      "name": "Toni Ribas",
+      "person_id": 38962
     },
     {
       "name": "Zoey Monroe",

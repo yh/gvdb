@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Sean Duran",
-      "person_id": 28079
-    },
-    {
       "name": "Nick Cross",
       "person_id": 28393
+    },
+    {
+      "name": "Sean Duran",
+      "person_id": 28079
     }
   ],
   "release_date": "2013-08-07",

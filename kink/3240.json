@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Harmony",
-      "person_id": 6341
-    },
-    {
       "name": "Barbara Summer",
       "person_id": 10379
+    },
+    {
+      "name": "Harmony",
+      "person_id": 6341
     },
     {
       "name": "Mark Davis",

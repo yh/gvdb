@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Sam Solo",
-      "person_id": 51395
-    },
-    {
       "name": "Daisy Ducati",
       "person_id": 50939
+    },
+    {
+      "name": "Sam Solo",
+      "person_id": 51395
     }
   ],
   "release_date": "2018-12-18",

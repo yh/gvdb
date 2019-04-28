@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kurt Lockwood",
-      "person_id": 5422
-    },
-    {
       "name": "Gia Paloma",
       "person_id": 8020
+    },
+    {
+      "name": "Kurt Lockwood",
+      "person_id": 5422
     }
   ],
   "release_date": "2005-07-20",

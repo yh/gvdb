@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Van Darkholme",
-      "person_id": 15862
-    },
-    {
       "name": "Nick Armani",
       "person_id": 17253
+    },
+    {
+      "name": "Van Darkholme",
+      "person_id": 15862
     }
   ],
   "release_date": "2008-06-19",

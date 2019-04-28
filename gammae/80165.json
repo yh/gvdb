@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Trey Turner",
-      "person_id": 27927
-    },
-    {
       "name": "Osiris Blade",
       "person_id": 35601
+    },
+    {
+      "name": "Trey Turner",
+      "person_id": 27927
     }
   ],
   "release_date": "2015-12-31",

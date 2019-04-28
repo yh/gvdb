@@ -5,16 +5,12 @@
   "description": "Submissive recruit Cade Devlin is back, taking on Gus Mattox again, but this time also Alex LeMonde, Jon Galt, Tyler Gunn, Chet Roberts and Bobby Williams, which quickly erupts into a sizzling orgy.",
   "models": [
     {
-      "name": "Jon Galt",
-      "person_id": 11010
+      "name": "Alex LeMonde",
+      "person_id": 11171
     },
     {
       "name": "Bobby Williams",
       "person_id": 11355
-    },
-    {
-      "name": "Gus Mattox",
-      "person_id": 11121
     },
     {
       "name": "Cade Devlin",
@@ -25,12 +21,16 @@
       "person_id": 11150
     },
     {
-      "name": "Tyler Gunn",
-      "person_id": 11452
+      "name": "Gus Mattox",
+      "person_id": 11121
     },
     {
-      "name": "Alex LeMonde",
-      "person_id": 11171
+      "name": "Jon Galt",
+      "person_id": 11010
+    },
+    {
+      "name": "Tyler Gunn",
+      "person_id": 11452
     }
   ],
   "release_date": "2004-03-01",

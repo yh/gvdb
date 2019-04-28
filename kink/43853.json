@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Lucas Knight",
-      "person_id": 45836
-    },
-    {
       "name": "Cyd St. Vincent",
       "person_id": 54506
+    },
+    {
+      "name": "Lucas Knight",
+      "person_id": 45836
     }
   ],
   "release_date": "2018-12-25",

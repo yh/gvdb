@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Salina Samone",
-      "person_id": 58797
-    },
-    {
       "name": "Jake Wilder",
       "person_id": 59100
+    },
+    {
+      "name": "Salina Samone",
+      "person_id": 58797
     }
   ],
   "release_date": "2016-01-27",

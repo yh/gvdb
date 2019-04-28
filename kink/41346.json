@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Lorelei Lee",
+      "person_id": 758
+    },
+    {
       "name": "Maitresse Madeline Marlowe",
       "person_id": 17872
     },
     {
       "name": "Tanner Tatum",
       "person_id": 59798
-    },
-    {
-      "name": "Lorelei Lee",
-      "person_id": 758
     }
   ],
   "release_date": "2016-11-11",

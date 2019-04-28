@@ -5,12 +5,12 @@
   "description": "Jason Hawke has been pining away over Jeremy Jordan for along time and he finally gets his wish when the two get away for a sex-charged and magical love fest on the Northern California coast.",
   "models": [
     {
-      "name": "Jeremy Jordan",
-      "person_id": 11225
-    },
-    {
       "name": "Jason Hawke",
       "person_id": 11348
+    },
+    {
+      "name": "Jeremy Jordan",
+      "person_id": 11225
     }
   ],
   "release_date": "2004-11-01",

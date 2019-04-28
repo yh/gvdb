@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "London Keyes",
-      "person_id": 21036
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
+    },
+    {
+      "name": "London Keyes",
+      "person_id": 21036
     },
     {
       "name": "Wolf Hudson",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Riley Mitchell",
-      "person_id": 61662
-    },
-    {
       "name": "Buck Wright",
       "person_id": 61329
+    },
+    {
+      "name": "Riley Mitchell",
+      "person_id": 61662
     }
   ],
   "release_date": "2018-11-29",

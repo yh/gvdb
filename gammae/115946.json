@@ -9,32 +9,32 @@
       "person_id": 26257
     },
     {
+      "name": "Bryce Pierce",
+      "person_id": 37705
+    },
+    {
       "name": "Jeff Allen",
       "person_id": 37566
     },
     {
-      "name": "Sky Donovan",
-      "person_id": 26259
+      "name": "Leif Gobo",
+      "person_id": 47022
     },
     {
       "name": "Matthew Green",
       "person_id": 37567
     },
     {
-      "name": "Rik Jammer",
-      "person_id": 26297
-    },
-    {
-      "name": "Bryce Pierce",
-      "person_id": 37705
-    },
-    {
       "name": "Michael Soldier",
       "person_id": 26380
     },
     {
-      "name": "Leif Gobo",
-      "person_id": 47022
+      "name": "Rik Jammer",
+      "person_id": 26297
+    },
+    {
+      "name": "Sky Donovan",
+      "person_id": 26259
     }
   ],
   "release_date": "2016-04-07",

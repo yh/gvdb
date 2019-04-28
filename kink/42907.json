@@ -10,28 +10,28 @@
       "person_id": 60490
     },
     {
-      "name": "Scott Lyons",
-      "person_id": 42309
-    },
-    {
-      "name": "Filthy Rich",
-      "person_id": 60738
-    },
-    {
       "name": "Dylan Snow",
       "person_id": 60739
-    },
-    {
-      "name": "Tommy Gunn",
-      "person_id": 6955
     },
     {
       "name": "Eric John",
       "person_id": 47359
     },
     {
+      "name": "Filthy Rich",
+      "person_id": 60738
+    },
+    {
       "name": "Leo Christiensen",
       "person_id": 60506
+    },
+    {
+      "name": "Scott Lyons",
+      "person_id": 42309
+    },
+    {
+      "name": "Tommy Gunn",
+      "person_id": 6955
     }
   ],
   "release_date": "2018-11-09",

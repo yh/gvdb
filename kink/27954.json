@@ -11,24 +11,24 @@
   ],
   "models": [
     {
-      "name": "Prince Yahshua",
-      "person_id": 38513
+      "name": "Bill Bailey",
+      "person_id": 46601
     },
     {
       "name": "James Deen",
       "person_id": 8935
     },
     {
-      "name": "Princess Donna Dolore",
-      "person_id": 5235
-    },
-    {
       "name": "Mark Wood",
       "person_id": 31058
     },
     {
-      "name": "Bill Bailey",
-      "person_id": 46601
+      "name": "Prince Yahshua",
+      "person_id": 38513
+    },
+    {
+      "name": "Princess Donna Dolore",
+      "person_id": 5235
     }
   ],
   "release_date": "2013-04-24",

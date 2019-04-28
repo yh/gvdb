@@ -11,56 +11,56 @@
   ],
   "models": [
     {
-      "name": "Penny Barber",
-      "person_id": 6664
-    },
-    {
-      "name": "Daisy Ducati",
-      "person_id": 50939
-    },
-    {
-      "name": "Serena Blair",
-      "person_id": 31165
-    },
-    {
-      "name": "DragonLily",
-      "person_id": 3433
-    },
-    {
-      "name": "Dee Williams",
-      "person_id": 4197
-    },
-    {
-      "name": "Izamar Gutierrez",
-      "person_id": 30590
+      "name": "Bella Rossi",
+      "person_id": 18418
     },
     {
       "name": "Bella Wilde",
       "person_id": 39990
     },
     {
+      "name": "Beretta James",
+      "person_id": 33659
+    },
+    {
       "name": "Cheyenne Jewel",
       "person_id": 22734
     },
     {
-      "name": "Bella Rossi",
-      "person_id": 18418
+      "name": "Daisy Ducati",
+      "person_id": 50939
+    },
+    {
+      "name": "Dee Williams",
+      "person_id": 4197
+    },
+    {
+      "name": "DragonLily",
+      "person_id": 3433
+    },
+    {
+      "name": "Isis Love",
+      "person_id": 6584
+    },
+    {
+      "name": "Izamar Gutierrez",
+      "person_id": 30590
     },
     {
       "name": "Jayogen",
       "person_id": 23291
     },
     {
-      "name": "Beretta James",
-      "person_id": 33659
+      "name": "Penny Barber",
+      "person_id": 6664
+    },
+    {
+      "name": "Serena Blair",
+      "person_id": 31165
     },
     {
       "name": "Sophia Fiore",
       "person_id": 47358
-    },
-    {
-      "name": "Isis Love",
-      "person_id": 6584
     }
   ],
   "release_date": "2013-08-13",

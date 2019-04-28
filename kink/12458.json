@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Violet Monroe",
-      "person_id": 20284
-    },
-    {
       "name": "Lorelei Lee",
       "person_id": 758
     },
     {
       "name": "Skin Diamond",
       "person_id": 31494
+    },
+    {
+      "name": "Violet Monroe",
+      "person_id": 20284
     }
   ],
   "release_date": "2011-04-08",

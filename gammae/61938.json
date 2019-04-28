@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Liam Harkmore",
-      "person_id": 31831
-    },
-    {
       "name": "Josh Pierce",
       "person_id": 32221
+    },
+    {
+      "name": "Liam Harkmore",
+      "person_id": 31831
     }
   ],
   "release_date": "2013-12-13",

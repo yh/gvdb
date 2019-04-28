@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tony Orlando",
-      "person_id": 48907
-    },
-    {
       "name": "Aubrey Kate",
       "person_id": 51491
+    },
+    {
+      "name": "Tony Orlando",
+      "person_id": 48907
     }
   ],
   "release_date": "2017-05-02",

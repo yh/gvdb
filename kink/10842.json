@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nick Moretti",
-      "person_id": 17516
-    },
-    {
       "name": "Mike Tanner",
       "person_id": 24692
+    },
+    {
+      "name": "Nick Moretti",
+      "person_id": 17516
     }
   ],
   "release_date": "2010-12-02",

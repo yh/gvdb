@@ -11,32 +11,32 @@
   ],
   "models": [
     {
-      "name": "Sophie Monroe",
-      "person_id": 20940
+      "name": "Iona Grace",
+      "person_id": 25204
     },
     {
       "name": "Jack Hammer",
       "person_id": 18499
     },
     {
+      "name": "Jessie Cox",
+      "person_id": 18739
+    },
+    {
       "name": "Maestro Stefanos",
       "person_id": 17148
-    },
-    {
-      "name": "Iona Grace",
-      "person_id": 25204
-    },
-    {
-      "name": "Sparky Sin Claire",
-      "person_id": 29494
     },
     {
       "name": "Nerine Mechanique",
       "person_id": 19851
     },
     {
-      "name": "Jessie Cox",
-      "person_id": 18739
+      "name": "Sophie Monroe",
+      "person_id": 20940
+    },
+    {
+      "name": "Sparky Sin Claire",
+      "person_id": 29494
     }
   ],
   "release_date": "2011-06-03",

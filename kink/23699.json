@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jenna Presley",
-      "person_id": 12178
-    },
-    {
       "name": "Anthony Rosano",
       "person_id": 24418
+    },
+    {
+      "name": "Jenna Presley",
+      "person_id": 12178
     }
   ],
   "release_date": "2012-11-09",

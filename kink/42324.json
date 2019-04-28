@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Natalie Mars",
-      "person_id": 60280
-    },
-    {
       "name": "Kacie Castle",
       "person_id": 59236
+    },
+    {
+      "name": "Natalie Mars",
+      "person_id": 60280
     }
   ],
   "release_date": "2017-07-17",

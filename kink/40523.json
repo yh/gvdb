@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Xander Corvus",
-      "person_id": 46000
-    },
-    {
       "name": "Arabelle Raphael",
       "person_id": 22128
     },
     {
       "name": "Violet Monroe",
       "person_id": 20284
+    },
+    {
+      "name": "Xander Corvus",
+      "person_id": 46000
     }
   ],
   "release_date": "2016-09-06",

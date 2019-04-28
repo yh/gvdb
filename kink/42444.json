@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Leyla Gold",
-      "person_id": 60302
-    },
-    {
       "name": "Ar",
       "person_id": 60282
+    },
+    {
+      "name": "Leyla Gold",
+      "person_id": 60302
     }
   ],
   "release_date": "2017-06-28",

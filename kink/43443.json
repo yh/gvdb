@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Honza Benek",
-      "person_id": 61285
-    },
-    {
       "name": "Arny Donan",
       "person_id": 60754
+    },
+    {
+      "name": "Honza Benek",
+      "person_id": 61285
     }
   ],
   "release_date": "2018-07-11",

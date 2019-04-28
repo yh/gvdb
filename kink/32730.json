@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Marcus Ruhl",
-      "person_id": 47823
-    },
-    {
       "name": "Jessie Colter",
       "person_id": 34311
+    },
+    {
+      "name": "Marcus Ruhl",
+      "person_id": 47823
     }
   ],
   "release_date": "2013-09-18",

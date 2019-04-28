@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Sam Dixon",
-      "person_id": 61280
-    },
-    {
       "name": "Bryan Manfield",
       "person_id": 61281
+    },
+    {
+      "name": "Sam Dixon",
+      "person_id": 61280
     }
   ],
   "release_date": "2018-07-03",

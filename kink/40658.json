@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Lilith Luxe",
-      "person_id": 55114
-    },
-    {
-      "name": "Veruca James",
-      "person_id": 43570
-    },
-    {
       "name": "Charlotte Cross",
       "person_id": 58806
     },
     {
+      "name": "Lilith Luxe",
+      "person_id": 55114
+    },
+    {
       "name": "The Pope",
       "person_id": 27779
+    },
+    {
+      "name": "Veruca James",
+      "person_id": 43570
     }
   ],
   "release_date": "2016-07-22",

@@ -11,28 +11,28 @@
   ],
   "models": [
     {
-      "name": "James Deen",
-      "person_id": 8935
-    },
-    {
-      "name": "Mickey Mod",
-      "person_id": 19623
+      "name": "Bobby Bends",
+      "person_id": 22578
     },
     {
       "name": "Calixto",
       "person_id": 27601
     },
     {
-      "name": "Seda",
-      "person_id": 21745
-    },
-    {
-      "name": "Bobby Bends",
-      "person_id": 22578
+      "name": "James Deen",
+      "person_id": 8935
     },
     {
       "name": "Lou Davis",
       "person_id": 27165
+    },
+    {
+      "name": "Mickey Mod",
+      "person_id": 19623
+    },
+    {
+      "name": "Seda",
+      "person_id": 21745
     }
   ],
   "release_date": "2010-12-17",

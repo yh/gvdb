@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Pason",
-      "person_id": 5684
-    },
-    {
       "name": "Jackie Moore",
       "person_id": 4731
+    },
+    {
+      "name": "Pason",
+      "person_id": 5684
     }
   ],
   "release_date": "2004-09-24",

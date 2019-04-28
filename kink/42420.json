@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Ramon Nomar",
-      "person_id": 35412
-    },
-    {
       "name": "Giselle Palmer",
       "person_id": 60276
+    },
+    {
+      "name": "Ramon Nomar",
+      "person_id": 35412
     }
   ],
   "release_date": "2017-08-25",

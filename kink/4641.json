@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Roma",
-      "person_id": 14844
-    },
-    {
       "name": "Claire Adams",
       "person_id": 378
+    },
+    {
+      "name": "Roma",
+      "person_id": 14844
     }
   ],
   "release_date": "2007-09-12",

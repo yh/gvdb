@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Sally",
-      "person_id": 60529
-    },
-    {
       "name": "Lutro",
       "person_id": 60289
+    },
+    {
+      "name": "Sally",
+      "person_id": 60529
     }
   ],
   "release_date": "2018-06-21",

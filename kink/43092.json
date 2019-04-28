@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "D. Arclyte",
-      "person_id": 59025
-    },
-    {
       "name": "Allysa Etain",
       "person_id": 61050
+    },
+    {
+      "name": "D. Arclyte",
+      "person_id": 59025
     }
   ],
   "release_date": "2018-03-20",

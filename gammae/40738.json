@@ -5,12 +5,8 @@
   "description": "",
   "models": [
     {
-      "name": "Isidore Nadas",
-      "person_id": 20762
-    },
-    {
-      "name": "Garcia Udulo",
-      "person_id": 20962
+      "name": "Andrew Moretti",
+      "person_id": 20983
     },
     {
       "name": "Chris Sparrow",
@@ -21,6 +17,18 @@
       "person_id": 20841
     },
     {
+      "name": "Garcia Udulo",
+      "person_id": 20962
+    },
+    {
+      "name": "Greg Orson",
+      "person_id": 20981
+    },
+    {
+      "name": "Isidore Nadas",
+      "person_id": 20762
+    },
+    {
       "name": "Jack Dragon",
       "person_id": 20979
     },
@@ -29,16 +37,8 @@
       "person_id": 20920
     },
     {
-      "name": "Greg Orson",
-      "person_id": 20981
-    },
-    {
       "name": "Steve Hunt",
       "person_id": 20940
-    },
-    {
-      "name": "Andrew Moretti",
-      "person_id": 20983
     }
   ],
   "release_date": "1998-06-01",

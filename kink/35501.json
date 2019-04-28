@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jeze Belle",
-      "person_id": 52164
-    },
-    {
       "name": "Christian Wilde",
       "person_id": 21037
+    },
+    {
+      "name": "Jeze Belle",
+      "person_id": 52164
     }
   ],
   "release_date": "2014-05-24",

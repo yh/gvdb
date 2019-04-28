@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jasmine Jolie",
-      "person_id": 20480
-    },
-    {
       "name": "Felony",
       "person_id": 17502
+    },
+    {
+      "name": "Jasmine Jolie",
+      "person_id": 20480
     }
   ],
   "release_date": "2009-09-25",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nadia Styles",
-      "person_id": 10823
-    },
-    {
       "name": "Ariel X",
       "person_id": 10464
+    },
+    {
+      "name": "Nadia Styles",
+      "person_id": 10823
     }
   ],
   "release_date": "2014-10-24",

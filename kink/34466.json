@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "DragonLily",
-      "person_id": 3433
-    },
-    {
       "name": "David",
       "person_id": 52334
+    },
+    {
+      "name": "DragonLily",
+      "person_id": 3433
     }
   ],
   "release_date": "2015-02-06",

@@ -5,12 +5,12 @@
   "description": "DJK Productions: The River Through Time",
   "models": [
     {
-      "name": "Samuel Dolce",
-      "person_id": 29593
-    },
-    {
       "name": "Alexander Steel",
       "person_id": 29648
+    },
+    {
+      "name": "Samuel Dolce",
+      "person_id": 29593
     }
   ],
   "release_date": "2004-09-29",

@@ -5,16 +5,16 @@
   "description": "Triumvirate: Up Up And Away",
   "models": [
     {
-      "name": "Mark Reeves",
-      "person_id": 29469
+      "name": "Daniel Avedon",
+      "person_id": 29497
     },
     {
       "name": "Erik Finnegan",
       "person_id": 29488
     },
     {
-      "name": "Daniel Avedon",
-      "person_id": 29497
+      "name": "Mark Reeves",
+      "person_id": 29469
     },
     {
       "name": "Robert Kee",

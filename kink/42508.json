@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Ricky Larkin",
-      "person_id": 35556
-    },
-    {
       "name": "Johnny Hazzard",
       "person_id": 60311
+    },
+    {
+      "name": "Ricky Larkin",
+      "person_id": 35556
     }
   ],
   "release_date": "2017-09-19",

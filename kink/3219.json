@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mika Tan",
-      "person_id": 236
-    },
-    {
       "name": "Mark Davis",
       "person_id": 8200
+    },
+    {
+      "name": "Mika Tan",
+      "person_id": 236
     }
   ],
   "release_date": "2005-10-19",

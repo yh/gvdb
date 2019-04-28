@@ -11,10 +11,6 @@
   ],
   "models": [
     {
-      "name": "Lorelei Lee",
-      "person_id": 758
-    },
-    {
       "name": "DragonLily",
       "person_id": 3433
     },
@@ -23,12 +19,16 @@
       "person_id": 16909
     },
     {
-      "name": "Wenona",
-      "person_id": 4485
+      "name": "Lorelei Lee",
+      "person_id": 758
     },
     {
       "name": "Milcah Halili",
       "person_id": 45665
+    },
+    {
+      "name": "Wenona",
+      "person_id": 4485
     }
   ],
   "release_date": "2014-04-01",

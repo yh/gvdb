@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Rod Daily",
-      "person_id": 47872
-    },
-    {
       "name": "Chase",
       "person_id": 60697
+    },
+    {
+      "name": "Rod Daily",
+      "person_id": 47872
     }
   ],
   "release_date": "2017-11-14",

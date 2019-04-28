@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Hollie Stevens",
-      "person_id": 1572
-    },
-    {
       "name": "Crimson Ninja",
       "person_id": 6346
+    },
+    {
+      "name": "Hollie Stevens",
+      "person_id": 1572
     }
   ],
   "release_date": "2005-04-26",

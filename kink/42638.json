@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
+      "name": "Bagman Lorenso van Vacuum",
+      "person_id": 60455
+    },
+    {
       "name": "Carmen Rivera",
       "person_id": 60339
     },
     {
       "name": "Miss Emelie Bentley",
       "person_id": 60476
-    },
-    {
-      "name": "Bagman Lorenso van Vacuum",
-      "person_id": 60455
     },
     {
       "name": "Pfeifenkopf",

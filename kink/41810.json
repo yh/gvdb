@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Toni Ribas",
-      "person_id": 38962
-    },
-    {
       "name": "Luna Star",
       "person_id": 58678
+    },
+    {
+      "name": "Toni Ribas",
+      "person_id": 38962
     }
   ],
   "release_date": "2017-02-14",

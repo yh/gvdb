@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Moka Mora",
-      "person_id": 59853
-    },
-    {
       "name": "Chelsea Marie",
       "person_id": 40544
+    },
+    {
+      "name": "Moka Mora",
+      "person_id": 59853
     }
   ],
   "release_date": "2017-08-28",

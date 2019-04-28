@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Randall O'Reilly",
-      "person_id": 39427
-    },
-    {
       "name": "Phenix Saint",
       "person_id": 21202
+    },
+    {
+      "name": "Randall O'Reilly",
+      "person_id": 39427
     }
   ],
   "release_date": "2012-10-18",

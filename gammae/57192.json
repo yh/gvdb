@@ -5,12 +5,12 @@
   "description": "George and Jay have been friends for one year. Both of them have girlfriends, but lately they seem to spend more time with each other and less time with the girls...",
   "models": [
     {
-      "name": "Jay Renfro",
-      "person_id": 29816
-    },
-    {
       "name": "George Plozen",
       "person_id": 29818
+    },
+    {
+      "name": "Jay Renfro",
+      "person_id": 29816
     }
   ],
   "release_date": "2004-08-25",

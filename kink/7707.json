@@ -11,16 +11,40 @@
   ],
   "models": [
     {
-      "name": "Tripod Man",
-      "person_id": 17558
+      "name": "Amber Keen",
+      "person_id": 18730
+    },
+    {
+      "name": "Bella Rossi",
+      "person_id": 18418
     },
     {
       "name": "Curt Wooster",
       "person_id": 18252
     },
     {
-      "name": "Bella Rossi",
-      "person_id": 18418
+      "name": "Dia Zerva",
+      "person_id": 16038
+    },
+    {
+      "name": "Madison Young",
+      "person_id": 2674
+    },
+    {
+      "name": "Maestro",
+      "person_id": 11928
+    },
+    {
+      "name": "Maggie Mayhem",
+      "person_id": 19763
+    },
+    {
+      "name": "Maitresse Madeline Marlowe",
+      "person_id": 17872
+    },
+    {
+      "name": "Nina No",
+      "person_id": 19634
     },
     {
       "name": "Orlando",
@@ -31,32 +55,8 @@
       "person_id": 19605
     },
     {
-      "name": "Maestro",
-      "person_id": 11928
-    },
-    {
-      "name": "Amber Keen",
-      "person_id": 18730
-    },
-    {
-      "name": "Nina No",
-      "person_id": 19634
-    },
-    {
-      "name": "Madison Young",
-      "person_id": 2674
-    },
-    {
-      "name": "Maggie Mayhem",
-      "person_id": 19763
-    },
-    {
-      "name": "Dia Zerva",
-      "person_id": 16038
-    },
-    {
-      "name": "Maitresse Madeline Marlowe",
-      "person_id": 17872
+      "name": "Tripod Man",
+      "person_id": 17558
     }
   ],
   "release_date": "2009-11-29",

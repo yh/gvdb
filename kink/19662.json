@@ -11,20 +11,12 @@
   ],
   "models": [
     {
-      "name": "James Deen",
-      "person_id": 8935
-    },
-    {
       "name": "Anissa Kate",
       "person_id": 39140
     },
     {
-      "name": "Rob Blu",
-      "person_id": 39067
-    },
-    {
-      "name": "Mickey Mod",
-      "person_id": 19623
+      "name": "James Deen",
+      "person_id": 8935
     },
     {
       "name": "Karlo Karrera",
@@ -33,6 +25,14 @@
     {
       "name": "Mark Davis",
       "person_id": 8200
+    },
+    {
+      "name": "Mickey Mod",
+      "person_id": 19623
+    },
+    {
+      "name": "Rob Blu",
+      "person_id": 39067
     }
   ],
   "release_date": "2013-01-02",

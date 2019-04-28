@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lance Hart",
-      "person_id": 37346
-    },
-    {
       "name": "Casey Kisses",
       "person_id": 59560
+    },
+    {
+      "name": "Lance Hart",
+      "person_id": 37346
     }
   ],
   "release_date": "2017-07-18",

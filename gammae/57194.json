@@ -5,16 +5,16 @@
   "description": "Taylor and Christopher play ping pong as their friend, Miky, works out with the weights. Taylor cannot hide his desire for Miky and mentions the attraction to Christopher...",
   "models": [
     {
+      "name": "Christopher Mate",
+      "person_id": 29879
+    },
+    {
       "name": "Miky Sem",
       "person_id": 29678
     },
     {
       "name": "Taylor Hill",
       "person_id": 29819
-    },
-    {
-      "name": "Christopher Mate",
-      "person_id": 29879
     }
   ],
   "release_date": "2004-08-25",

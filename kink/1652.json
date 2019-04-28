@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Maria Shadoes",
-      "person_id": 363
-    },
-    {
       "name": "Bridgett Harrington",
       "person_id": 4554
+    },
+    {
+      "name": "Maria Shadoes",
+      "person_id": 363
     },
     {
       "name": "Teager",

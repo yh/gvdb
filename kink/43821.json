@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Mistress Irony",
-      "person_id": 60344
-    },
-    {
       "name": "Giselle Humes",
       "person_id": 60343
+    },
+    {
+      "name": "Mistress Irony",
+      "person_id": 60344
     }
   ],
   "release_date": "2018-09-20",

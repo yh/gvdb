@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Wild Bill",
-      "person_id": 225
-    },
-    {
       "name": "Mistress Soleli",
       "person_id": 12355
+    },
+    {
+      "name": "Wild Bill",
+      "person_id": 225
     }
   ],
   "release_date": "2007-04-15",

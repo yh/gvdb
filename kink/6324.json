@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Vendetta",
-      "person_id": 8300
-    },
-    {
-      "name": "Isis Love",
-      "person_id": 6584
+      "name": "Calico",
+      "person_id": 11592
     },
     {
       "name": "Claire Dames",
       "person_id": 14027
     },
     {
-      "name": "Calico",
-      "person_id": 11592
+      "name": "Isis Love",
+      "person_id": 6584
+    },
+    {
+      "name": "Vendetta",
+      "person_id": 8300
     }
   ],
   "release_date": "2009-05-29",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jordan Foster",
-      "person_id": 43867
-    },
-    {
       "name": "Chris Tyler",
       "person_id": 27947
+    },
+    {
+      "name": "Jordan Foster",
+      "person_id": 43867
     },
     {
       "name": "Leo Forte",

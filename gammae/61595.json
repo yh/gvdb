@@ -5,12 +5,12 @@
   "description": "Alessandro wrote me a letter saying that he wanted to join Enrike's fanclub. We staged a fake muscle worship video that I was suppose to perform on him. Once blindfolded, I asked Enrike to take over. Alessandro never expected what was about to happen...",
   "models": [
     {
-      "name": "Enrike",
-      "person_id": 32449
-    },
-    {
       "name": "Alessandro",
       "person_id": 32457
+    },
+    {
+      "name": "Enrike",
+      "person_id": 32449
     }
   ],
   "release_date": "2007-03-29",

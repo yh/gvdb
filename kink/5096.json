@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "TJ Cummings",
-      "person_id": 12891
-    },
-    {
       "name": "Carly Parker",
       "person_id": 12812
+    },
+    {
+      "name": "TJ Cummings",
+      "person_id": 12891
     }
   ],
   "release_date": "2008-02-08",

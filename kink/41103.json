@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Ruckus",
-      "person_id": 48209
-    },
-    {
       "name": "Cody Winter",
       "person_id": 59548
+    },
+    {
+      "name": "Ruckus",
+      "person_id": 48209
     }
   ],
   "release_date": "2016-11-10",

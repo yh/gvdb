@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Slave",
-      "person_id": 61716
-    },
-    {
       "name": "Mistress Ezada",
       "person_id": 61717
+    },
+    {
+      "name": "Slave",
+      "person_id": 61716
     }
   ],
   "release_date": "2018-11-14",

@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Garrett Felado",
-      "person_id": 20824
-    },
-    {
       "name": "Enrique Gardinelli",
       "person_id": 20915
+    },
+    {
+      "name": "Garrett Felado",
+      "person_id": 20824
     },
     {
       "name": "Percy Kirk",

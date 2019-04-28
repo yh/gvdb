@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Bella Rossi",
-      "person_id": 18418
+      "name": "Ariel X",
+      "person_id": 10464
     },
     {
-      "name": "Rilynn Rae",
-      "person_id": 39210
+      "name": "Bella Rossi",
+      "person_id": 18418
     },
     {
       "name": "Daisy Ducati",
@@ -27,8 +27,8 @@
       "person_id": 40429
     },
     {
-      "name": "Ariel X",
-      "person_id": 10464
+      "name": "Rilynn Rae",
+      "person_id": 39210
     }
   ],
   "release_date": "2014-05-20",

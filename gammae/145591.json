@@ -5,44 +5,44 @@
   "description": "",
   "models": [
     {
-      "name": "Zak Bishop",
-      "person_id": 47446
+      "name": "Adonis Cole",
+      "person_id": 58025
     },
     {
       "name": "Dante Martin",
       "person_id": 31241
     },
     {
-      "name": "Ryan Jordan",
-      "person_id": 51208
+      "name": "Donte Thick",
+      "person_id": 51050
     },
     {
       "name": "Evan Landers",
       "person_id": 58024
     },
     {
-      "name": "Spencer Laval",
-      "person_id": 51479
+      "name": "Michael Boston",
+      "person_id": 58023
     },
     {
-      "name": "Adonis Cole",
-      "person_id": 58025
+      "name": "Ryan Jordan",
+      "person_id": 51208
     },
     {
       "name": "Scott Finn",
       "person_id": 50329
     },
     {
+      "name": "Spencer Laval",
+      "person_id": 51479
+    },
+    {
+      "name": "Zak Bishop",
+      "person_id": 47446
+    },
+    {
       "name": "Zion Nicholas",
       "person_id": 58022
-    },
-    {
-      "name": "Donte Thick",
-      "person_id": 51050
-    },
-    {
-      "name": "Michael Boston",
-      "person_id": 58023
     }
   ],
   "release_date": "2019-02-24",

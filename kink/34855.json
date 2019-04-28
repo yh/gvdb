@@ -11,28 +11,28 @@
   ],
   "models": [
     {
-      "name": "Tommy Pistol",
-      "person_id": 12663
+      "name": "Astral Dust",
+      "person_id": 43670
+    },
+    {
+      "name": "Emma Haize",
+      "person_id": 29618
     },
     {
       "name": "Karlo Karrera",
       "person_id": 35221
     },
     {
-      "name": "Xander Corvus",
-      "person_id": 46000
-    },
-    {
-      "name": "Astral Dust",
-      "person_id": 43670
-    },
-    {
       "name": "Kris Slater",
       "person_id": 31068
     },
     {
-      "name": "Emma Haize",
-      "person_id": 29618
+      "name": "Tommy Pistol",
+      "person_id": 12663
+    },
+    {
+      "name": "Xander Corvus",
+      "person_id": 46000
     }
   ],
   "release_date": "2014-03-26",

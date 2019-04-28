@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kym Wilde",
-      "person_id": 99
-    },
-    {
       "name": "Katia Cove",
       "person_id": 3699
+    },
+    {
+      "name": "Kym Wilde",
+      "person_id": 99
     }
   ],
   "release_date": "2004-02-06",

@@ -3,20 +3,15 @@
     "The Upper Floor"
   ],
   "description": "Wolf Hudson visits the Upper Floor to sample the House slaves' skills.",
-  "directors": [
-    {
-      "name": "Maestro",
-      "person_id": 11928
-    }
-  ],
+  "directors": [],
   "models": [
-    {
-      "name": "Cherry Torn",
-      "person_id": 11105
-    },
     {
       "name": "Bella Rossi",
       "person_id": 18418
+    },
+    {
+      "name": "Cherry Torn",
+      "person_id": 11105
     },
     {
       "name": "Wolf Hudson",

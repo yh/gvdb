@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mandy Muse",
-      "person_id": 54180
-    },
-    {
       "name": "Chanel Preston",
       "person_id": 26542
+    },
+    {
+      "name": "Mandy Muse",
+      "person_id": 54180
     }
   ],
   "release_date": "2017-07-06",

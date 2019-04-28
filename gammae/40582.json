@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
-      "name": "Mihal Laszlo",
-      "person_id": 20851
-    },
-    {
       "name": "Daniel Halasz",
       "person_id": 20852
     },
     {
       "name": "Luis Landzsa",
       "person_id": 20893
+    },
+    {
+      "name": "Mihal Laszlo",
+      "person_id": 20851
     }
   ],
   "release_date": "1998-04-04",

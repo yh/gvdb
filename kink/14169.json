@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Mike Rivers",
-      "person_id": 31789
-    },
-    {
       "name": "Branden Forrest",
       "person_id": 29020
     },
     {
       "name": "Dutch Bardoux",
       "person_id": 30063
+    },
+    {
+      "name": "Mike Rivers",
+      "person_id": 31789
     }
   ],
   "release_date": "2011-08-26",

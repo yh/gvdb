@@ -5,20 +5,20 @@
   "description": "",
   "models": [
     {
-      "name": "Miklos Orosz",
-      "person_id": 20785
-    },
-    {
       "name": "Daniel Kriley",
       "person_id": 20786
     },
     {
-      "name": "Otto H",
-      "person_id": 20787
-    },
-    {
       "name": "David Moretti",
       "person_id": 20788
+    },
+    {
+      "name": "Miklos Orosz",
+      "person_id": 20785
+    },
+    {
+      "name": "Otto H",
+      "person_id": 20787
     }
   ],
   "release_date": "1998-03-07",

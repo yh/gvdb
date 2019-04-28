@@ -11,6 +11,18 @@
   ],
   "models": [
     {
+      "name": "Gage Sin",
+      "person_id": 53344
+    },
+    {
+      "name": "John Johnson",
+      "person_id": 49204
+    },
+    {
+      "name": "Jon Jon",
+      "person_id": 35195
+    },
+    {
       "name": "Maci May",
       "person_id": 59540
     },
@@ -21,18 +33,6 @@
     {
       "name": "Mr. Pete",
       "person_id": 16823
-    },
-    {
-      "name": "Jon Jon",
-      "person_id": 35195
-    },
-    {
-      "name": "John Johnson",
-      "person_id": 49204
-    },
-    {
-      "name": "Gage Sin",
-      "person_id": 53344
     }
   ],
   "release_date": "2016-06-23",

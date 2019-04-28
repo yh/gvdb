@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "DragonLily",
-      "person_id": 3433
-    },
-    {
       "name": "Claire Adams",
       "person_id": 378
+    },
+    {
+      "name": "DragonLily",
+      "person_id": 3433
     }
   ],
   "release_date": "2007-01-02",

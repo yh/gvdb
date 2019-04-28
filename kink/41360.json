@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Sheena Rose",
-      "person_id": 52312
-    },
-    {
       "name": "Brooklyn Daniels",
       "person_id": 53927
     },
     {
       "name": "Mila Blaze",
       "person_id": 53894
+    },
+    {
+      "name": "Sheena Rose",
+      "person_id": 52312
     }
   ],
   "release_date": "2017-08-08",

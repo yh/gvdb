@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Leigh Raven",
-      "person_id": 59527
-    },
-    {
       "name": "Lance Hart",
       "person_id": 37346
+    },
+    {
+      "name": "Leigh Raven",
+      "person_id": 59527
     }
   ],
   "release_date": "2018-09-11",

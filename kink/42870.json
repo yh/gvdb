@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Tina Kay",
-      "person_id": 58964
+      "name": "Andy Baxter",
+      "person_id": 60614
     },
     {
       "name": "Pascal White",
       "person_id": 60611
     },
     {
-      "name": "Andy Baxter",
-      "person_id": 60614
+      "name": "Tina Kay",
+      "person_id": 58964
     }
   ],
   "release_date": "2018-05-01",

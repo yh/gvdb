@@ -9,10 +9,6 @@
       "person_id": 35020
     },
     {
-      "name": "Trevor",
-      "person_id": 35160
-    },
-    {
       "name": "Colin",
       "person_id": 35064
     },
@@ -23,6 +19,10 @@
     {
       "name": "Tony",
       "person_id": 35157
+    },
+    {
+      "name": "Trevor",
+      "person_id": 35160
     }
   ],
   "release_date": "2005-11-30",

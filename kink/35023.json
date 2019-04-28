@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Roma",
-      "person_id": 14844
-    },
-    {
       "name": "Marcus London",
       "person_id": 53021
+    },
+    {
+      "name": "Roma",
+      "person_id": 14844
     }
   ],
   "release_date": "2010-03-29",

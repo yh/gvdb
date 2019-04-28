@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Casey Calvert",
-      "person_id": 36437
-    },
-    {
       "name": "Bill Bailey",
       "person_id": 46601
+    },
+    {
+      "name": "Casey Calvert",
+      "person_id": 36437
     },
     {
       "name": "Veruca James",

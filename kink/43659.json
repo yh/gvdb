@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Pascal White",
-      "person_id": 60611
+      "name": "Amber Deen",
+      "person_id": 60408
     },
     {
       "name": "Andy Baxter",
       "person_id": 60614
     },
     {
-      "name": "Amber Deen",
-      "person_id": 60408
+      "name": "Pascal White",
+      "person_id": 60611
     }
   ],
   "release_date": "2018-07-10",

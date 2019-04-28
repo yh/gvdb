@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nick Jacobs",
-      "person_id": 7833
-    },
-    {
       "name": "Hollie Stevens",
       "person_id": 1572
+    },
+    {
+      "name": "Nick Jacobs",
+      "person_id": 7833
     }
   ],
   "release_date": "2005-10-17",

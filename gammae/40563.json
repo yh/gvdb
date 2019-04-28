@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
+      "name": "Brandon Babos",
+      "person_id": 20850
+    },
+    {
       "name": "Sandor Sablon",
       "person_id": 20832
     },
     {
       "name": "Terence Kiadas",
       "person_id": 20849
-    },
-    {
-      "name": "Brandon Babos",
-      "person_id": 20850
     }
   ],
   "release_date": "1998-03-28",

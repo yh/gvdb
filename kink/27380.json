@@ -11,28 +11,28 @@
   ],
   "models": [
     {
-      "name": "Cece Stone",
-      "person_id": 18495
+      "name": "Alex Gonz",
+      "person_id": 39154
     },
     {
-      "name": "Mr. Pete",
-      "person_id": 16823
+      "name": "Cece Stone",
+      "person_id": 18495
     },
     {
       "name": "John Strong",
       "person_id": 17050
     },
     {
-      "name": "Mark Davis",
-      "person_id": 8200
-    },
-    {
       "name": "Marco Banderas",
       "person_id": 27958
     },
     {
-      "name": "Alex Gonz",
-      "person_id": 39154
+      "name": "Mark Davis",
+      "person_id": 8200
+    },
+    {
+      "name": "Mr. Pete",
+      "person_id": 16823
     }
   ],
   "release_date": "2013-01-09",

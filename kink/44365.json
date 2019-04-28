@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Jessica Ryan",
-      "person_id": 51474
-    },
-    {
       "name": "Dirk Huge",
       "person_id": 35068
+    },
+    {
+      "name": "Jessica Ryan",
+      "person_id": 51474
     }
   ],
   "release_date": "2019-03-13",

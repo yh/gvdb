@@ -5,12 +5,12 @@
   "description": "Joey Hard is known to be quite the hornball. Even amongst pretty rowdy company, Joey goes above and beyond what you would call normal. He sort of has a one track mind. Johnny Torque is not much of a pool player, and even though sexually he's always down for a good time, truth be told, today he's really just lookin' to hang out, drink some beers, shoot the shit, and smack some balls around a little. Joey is thinking the exact same thing, only his mind couldn't be further from pool. What he's thinking is about letting Johnny work his stick into his personal pocket.Game on!",
   "models": [
     {
-      "name": "Johnny Torque",
-      "person_id": 8927
-    },
-    {
       "name": "Joey Hard",
       "person_id": 16699
+    },
+    {
+      "name": "Johnny Torque",
+      "person_id": 8927
     }
   ],
   "release_date": "2011-05-26",

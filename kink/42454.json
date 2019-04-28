@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Lexi Belle",
-      "person_id": 12510
-    },
-    {
       "name": "Derrick Pierce",
       "person_id": 14403
+    },
+    {
+      "name": "Lexi Belle",
+      "person_id": 12510
     }
   ],
   "release_date": "2017-07-08",

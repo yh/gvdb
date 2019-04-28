@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Casey Calvert",
+      "person_id": 36437
+    },
+    {
       "name": "Karlo Karrera",
       "person_id": 35221
     },
     {
       "name": "Sophia Locke",
       "person_id": 53323
-    },
-    {
-      "name": "Casey Calvert",
-      "person_id": 36437
     }
   ],
   "release_date": "2015-01-16",

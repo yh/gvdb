@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Will Havoc",
-      "person_id": 46285
-    },
-    {
       "name": "Jonelle Brooks",
       "person_id": 57713
+    },
+    {
+      "name": "Will Havoc",
+      "person_id": 46285
     }
   ],
   "release_date": "2015-07-15",

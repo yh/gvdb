@@ -5,10 +5,6 @@
   "description": "Captives Thom Barron (that massively hung German star) and Chris Rock get an enema cleaning to prepare themselves for life above, and are soon on the receiving end of punishment from stockyard keeper Ross Vincent and hung fellow-captive Lorenzo Donado.",
   "models": [
     {
-      "name": "Thom Barron",
-      "person_id": 11133
-    },
-    {
       "name": "Chris Rock",
       "person_id": 11141
     },
@@ -19,6 +15,10 @@
     {
       "name": "Ross Vincent",
       "person_id": 11496
+    },
+    {
+      "name": "Thom Barron",
+      "person_id": 11133
     }
   ],
   "release_date": "2002-11-01",

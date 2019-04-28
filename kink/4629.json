@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Ben English",
-      "person_id": 12667
-    },
-    {
       "name": "August",
       "person_id": 14792
+    },
+    {
+      "name": "Ben English",
+      "person_id": 12667
     }
   ],
   "release_date": "2008-01-08",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Rico Romero",
-      "person_id": 52064
-    },
-    {
       "name": "John Jammen",
       "person_id": 22596
+    },
+    {
+      "name": "Rico Romero",
+      "person_id": 52064
     }
   ],
   "release_date": "2014-02-25",

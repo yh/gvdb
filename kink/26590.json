@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Wolf Hudson",
-      "person_id": 14471
-    },
-    {
       "name": "Penny Flame",
       "person_id": 6345
+    },
+    {
+      "name": "Wolf Hudson",
+      "person_id": 14471
     }
   ],
   "release_date": "2017-05-15",

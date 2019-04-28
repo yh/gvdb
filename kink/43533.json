@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Halle Von",
-      "person_id": 55338
-    },
-    {
       "name": "Bruno Dickemz",
       "person_id": 54328
+    },
+    {
+      "name": "Halle Von",
+      "person_id": 55338
     }
   ],
   "release_date": "2018-06-14",

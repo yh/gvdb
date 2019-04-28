@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Moxxie Maddron",
-      "person_id": 19374
-    },
-    {
       "name": "Isis Love",
       "person_id": 6584
+    },
+    {
+      "name": "Moxxie Maddron",
+      "person_id": 19374
     }
   ],
   "release_date": "2005-06-03",

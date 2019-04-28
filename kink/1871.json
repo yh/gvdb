@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Veronika",
-      "person_id": 2858
-    },
-    {
       "name": "Sasha Monet",
       "person_id": 2348
+    },
+    {
+      "name": "Veronika",
+      "person_id": 2858
     }
   ],
   "release_date": "2004-06-08",

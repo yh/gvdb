@@ -11,28 +11,28 @@
   ],
   "models": [
     {
-      "name": "Xander Corvus",
-      "person_id": 46000
-    },
-    {
-      "name": "Dane Cross",
-      "person_id": 21442
-    },
-    {
-      "name": "Mr. Pete",
-      "person_id": 16823
+      "name": "Aleksa Nicole",
+      "person_id": 36518
     },
     {
       "name": "Astral Dust",
       "person_id": 43670
     },
     {
-      "name": "Aleksa Nicole",
-      "person_id": 36518
+      "name": "Dane Cross",
+      "person_id": 21442
     },
     {
       "name": "John Strong",
       "person_id": 17050
+    },
+    {
+      "name": "Mr. Pete",
+      "person_id": 16823
+    },
+    {
+      "name": "Xander Corvus",
+      "person_id": 46000
     }
   ],
   "release_date": "2014-01-01",

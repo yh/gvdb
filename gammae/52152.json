@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Dean Monroe",
-      "person_id": 28040
-    },
-    {
       "name": "Brad Kalvo",
       "person_id": 32562
+    },
+    {
+      "name": "Dean Monroe",
+      "person_id": 28040
     }
   ],
   "release_date": "2013-03-19",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sophia Locke",
-      "person_id": 53323
-    },
-    {
       "name": "Mickey Mod",
       "person_id": 19623
+    },
+    {
+      "name": "Sophia Locke",
+      "person_id": 53323
     }
   ],
   "release_date": "2014-11-14",

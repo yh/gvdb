@@ -11,10 +11,6 @@
   ],
   "models": [
     {
-      "name": "Phoenix Marie",
-      "person_id": 17093
-    },
-    {
       "name": "Dana DeArmond",
       "person_id": 4498
     },
@@ -25,6 +21,10 @@
     {
       "name": "Mia Lelani",
       "person_id": 21648
+    },
+    {
+      "name": "Phoenix Marie",
+      "person_id": 17093
     },
     {
       "name": "Sarah Shevon",

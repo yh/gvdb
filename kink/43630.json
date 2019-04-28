@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Teddy Bryce",
-      "person_id": 59874
-    },
-    {
       "name": "Arad Winwin",
       "person_id": 61417
+    },
+    {
+      "name": "Teddy Bryce",
+      "person_id": 59874
     }
   ],
   "release_date": "2018-08-16",

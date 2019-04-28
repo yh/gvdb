@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mika Tan",
-      "person_id": 236
-    },
-    {
       "name": "Hollie Stevens",
       "person_id": 1572
+    },
+    {
+      "name": "Mika Tan",
+      "person_id": 236
     }
   ],
   "release_date": "2005-06-07",

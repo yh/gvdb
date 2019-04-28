@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Matt McGrath",
-      "person_id": 21704
-    },
-    {
       "name": "Dean Coulter",
       "person_id": 32037
+    },
+    {
+      "name": "Matt McGrath",
+      "person_id": 21704
     }
   ],
   "release_date": "2000-02-01",

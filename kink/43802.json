@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Ryan Keely",
-      "person_id": 15370
-    },
-    {
       "name": "Kira Noir",
       "person_id": 58892
+    },
+    {
+      "name": "Ryan Keely",
+      "person_id": 15370
     }
   ],
   "release_date": "2018-11-22",

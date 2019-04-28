@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Gia DiMarco",
-      "person_id": 21436
-    },
-    {
       "name": "Cody Allen",
       "person_id": 35162
     },
     {
       "name": "Felony",
       "person_id": 17502
+    },
+    {
+      "name": "Gia DiMarco",
+      "person_id": 21436
     }
   ],
   "release_date": "2011-11-30",

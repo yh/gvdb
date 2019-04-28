@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Michael",
-      "person_id": 11256
-    },
-    {
       "name": "Deja Daire",
       "person_id": 11590
+    },
+    {
+      "name": "Michael",
+      "person_id": 11256
     }
   ],
   "release_date": "2006-04-14",

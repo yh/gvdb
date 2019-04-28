@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Evi Fox",
-      "person_id": 51098
-    },
-    {
       "name": "Danny Wylde",
       "person_id": 7790
+    },
+    {
+      "name": "Evi Fox",
+      "person_id": 51098
     }
   ],
   "release_date": "2013-08-23",

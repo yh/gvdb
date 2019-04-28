@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Bella Rossi",
-      "person_id": 18418
-    },
-    {
       "name": "Anna De Ville",
       "person_id": 59053
+    },
+    {
+      "name": "Bella Rossi",
+      "person_id": 18418
     }
   ],
   "release_date": "2016-03-17",

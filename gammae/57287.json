@@ -5,12 +5,12 @@
   "description": "Triumvirate: Before They Were Stars 2",
   "models": [
     {
-      "name": "Vitek",
-      "person_id": 29781
-    },
-    {
       "name": "Petr",
       "person_id": 30212
+    },
+    {
+      "name": "Vitek",
+      "person_id": 29781
     }
   ],
   "release_date": "2004-03-31",

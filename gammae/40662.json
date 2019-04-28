@@ -5,24 +5,24 @@
   "description": "",
   "models": [
     {
-      "name": "Julian Vincenzo",
-      "person_id": 20918
-    },
-    {
-      "name": "Joe Donovan",
-      "person_id": 21545
+      "name": "Adam Kubick",
+      "person_id": 21030
     },
     {
       "name": "Glen Santoro",
       "person_id": 20943
     },
     {
+      "name": "Joe Donovan",
+      "person_id": 21545
+    },
+    {
       "name": "Jose Scott",
       "person_id": 20992
     },
     {
-      "name": "Adam Kubick",
-      "person_id": 21030
+      "name": "Julian Vincenzo",
+      "person_id": 20918
     }
   ],
   "release_date": "1998-05-04",

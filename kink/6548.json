@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Harmony",
-      "person_id": 6341
-    },
-    {
       "name": "Calico",
       "person_id": 11592
+    },
+    {
+      "name": "Harmony",
+      "person_id": 6341
     },
     {
       "name": "Lorelei Lee",

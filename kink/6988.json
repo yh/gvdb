@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Angelica Heart",
+      "person_id": 20417
+    },
+    {
       "name": "Harmony",
       "person_id": 6341
     },
     {
       "name": "Zenza Raggi",
       "person_id": 20195
-    },
-    {
-      "name": "Angelica Heart",
-      "person_id": 20417
     }
   ],
   "release_date": "2015-01-09",

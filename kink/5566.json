@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tober Brandt",
-      "person_id": 17152
-    },
-    {
       "name": "Park Wiley",
       "person_id": 17703
+    },
+    {
+      "name": "Tober Brandt",
+      "person_id": 17152
     }
   ],
   "release_date": "2008-09-11",

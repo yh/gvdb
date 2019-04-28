@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Ryan Patrix",
-      "person_id": 58478
-    },
-    {
       "name": "Lorelei Lee",
       "person_id": 758
     },
     {
       "name": "Morgan Bailey",
       "person_id": 19660
+    },
+    {
+      "name": "Ryan Patrix",
+      "person_id": 58478
     }
   ],
   "release_date": "2016-03-02",

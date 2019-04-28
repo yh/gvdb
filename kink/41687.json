@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Lydia Black",
-      "person_id": 60714
-    },
-    {
       "name": "Bruno Dickemz",
       "person_id": 54328
+    },
+    {
+      "name": "Lydia Black",
+      "person_id": 60714
     }
   ],
   "release_date": "2017-11-23",

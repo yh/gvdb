@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Simone Sonay",
-      "person_id": 34687
-    },
-    {
       "name": "Jenna Ashley",
       "person_id": 53387
+    },
+    {
+      "name": "Simone Sonay",
+      "person_id": 34687
     }
   ],
   "release_date": "2015-05-05",

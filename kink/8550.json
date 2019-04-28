@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Matthew Singer",
+      "person_id": 21729
+    },
+    {
       "name": "Tristan Jaxx",
       "person_id": 20786
     },
     {
       "name": "Van Darkholme",
       "person_id": 15862
-    },
-    {
-      "name": "Matthew Singer",
-      "person_id": 21729
     }
   ],
   "release_date": "2010-04-29",

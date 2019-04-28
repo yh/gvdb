@@ -11,10 +11,6 @@
   ],
   "models": [
     {
-      "name": "Dylan Ryan",
-      "person_id": 10069
-    },
-    {
       "name": "Beretta James",
       "person_id": 33659
     },
@@ -23,8 +19,8 @@
       "person_id": 14403
     },
     {
-      "name": "Sparky Sin Claire",
-      "person_id": 29494
+      "name": "Dylan Ryan",
+      "person_id": 10069
     },
     {
       "name": "Iona Grace",
@@ -33,6 +29,10 @@
     {
       "name": "Jack Hammer",
       "person_id": 18499
+    },
+    {
+      "name": "Sparky Sin Claire",
+      "person_id": 29494
     }
   ],
   "release_date": "2012-06-08",

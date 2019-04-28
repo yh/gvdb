@@ -11,28 +11,28 @@
   ],
   "models": [
     {
-      "name": "Mandy Muse",
-      "person_id": 54180
+      "name": "Dane Cross",
+      "person_id": 21442
     },
     {
-      "name": "Tony Martinez",
-      "person_id": 43482
+      "name": "Mandy Muse",
+      "person_id": 54180
     },
     {
       "name": "Marco Banderas",
       "person_id": 27958
     },
     {
-      "name": "Xander Corvus",
-      "person_id": 46000
-    },
-    {
-      "name": "Dane Cross",
-      "person_id": 21442
-    },
-    {
       "name": "Owen Gray",
       "person_id": 39181
+    },
+    {
+      "name": "Tony Martinez",
+      "person_id": 43482
+    },
+    {
+      "name": "Xander Corvus",
+      "person_id": 46000
     }
   ],
   "release_date": "2014-06-18",

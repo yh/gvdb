@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Joshua Armstrong",
-      "person_id": 60308
-    },
-    {
       "name": "Cameron Kincade",
       "person_id": 47006
+    },
+    {
+      "name": "Joshua Armstrong",
+      "person_id": 60308
     }
   ],
   "release_date": "2017-06-29",

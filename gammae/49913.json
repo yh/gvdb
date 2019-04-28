@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Rick Powers",
-      "person_id": 23182
-    },
-    {
       "name": "Danny Fox",
       "person_id": 27063
+    },
+    {
+      "name": "Rick Powers",
+      "person_id": 23182
     }
   ],
   "release_date": "2013-09-05",

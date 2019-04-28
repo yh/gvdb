@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Rick Bauer",
-      "person_id": 20931
-    },
-    {
       "name": "Agustin Agar",
       "person_id": 20975
+    },
+    {
+      "name": "Rick Bauer",
+      "person_id": 20931
     },
     {
       "name": "Tyrone Heccel",

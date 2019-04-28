@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
-      "name": "Terence Kiadas",
-      "person_id": 20849
+      "name": "Andrew Kabat",
+      "person_id": 20965
     },
     {
       "name": "Garcia Udulo",
       "person_id": 20962
     },
     {
-      "name": "Andrew Kabat",
-      "person_id": 20965
+      "name": "Terence Kiadas",
+      "person_id": 20849
     }
   ],
   "release_date": "1998-04-06",

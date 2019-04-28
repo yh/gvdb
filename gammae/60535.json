@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Eric Evans",
-      "person_id": 19558
-    },
-    {
       "name": "Brent Banes",
       "person_id": 32040
+    },
+    {
+      "name": "Eric Evans",
+      "person_id": 19558
     }
   ],
   "release_date": "2000-02-01",

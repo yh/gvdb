@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sarah Shevon",
-      "person_id": 19605
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
+    },
+    {
+      "name": "Sarah Shevon",
+      "person_id": 19605
     }
   ],
   "release_date": "2009-12-31",

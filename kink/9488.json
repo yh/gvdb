@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jack Hammer",
-      "person_id": 18499
-    },
-    {
       "name": "Brenn Wyson",
       "person_id": 19912
+    },
+    {
+      "name": "Jack Hammer",
+      "person_id": 18499
     }
   ],
   "release_date": "2010-08-11",

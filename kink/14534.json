@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Ethan Ayers",
-      "person_id": 33673
-    },
-    {
       "name": "Alexander Garrett",
       "person_id": 33725
+    },
+    {
+      "name": "Ethan Ayers",
+      "person_id": 33673
     }
   ],
   "release_date": "2011-09-30",

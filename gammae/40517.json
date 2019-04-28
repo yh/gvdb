@@ -9,24 +9,24 @@
       "person_id": 20789
     },
     {
-      "name": "Stefan Toth",
-      "person_id": 20761
-    },
-    {
       "name": "Peter Krisztia",
       "person_id": 20790
+    },
+    {
+      "name": "Stefan Toth",
+      "person_id": 20761
     },
     {
       "name": "Thomas Williams",
       "person_id": 20765
     },
     {
-      "name": "Zoltan Kopre",
-      "person_id": 20791
-    },
-    {
       "name": "Tomas Dombai",
       "person_id": 20767
+    },
+    {
+      "name": "Zoltan Kopre",
+      "person_id": 20791
     }
   ],
   "release_date": "1998-03-07",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Bella Rossi",
-      "person_id": 18418
-    },
-    {
       "name": "Angel Allwood",
       "person_id": 52348
+    },
+    {
+      "name": "Bella Rossi",
+      "person_id": 18418
     }
   ],
   "release_date": "2017-03-22",

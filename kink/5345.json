@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Lobo",
-      "person_id": 16229
-    },
-    {
-      "name": "Sara Faye",
-      "person_id": 12832
+      "name": "Billy",
+      "person_id": 13720
     },
     {
       "name": "Claire Dames",
       "person_id": 14027
     },
     {
-      "name": "Billy",
-      "person_id": 13720
+      "name": "Lobo",
+      "person_id": 16229
+    },
+    {
+      "name": "Sara Faye",
+      "person_id": 12832
     }
   ],
   "release_date": "2008-10-31",

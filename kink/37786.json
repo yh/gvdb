@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
+      "name": "Klara Gold",
+      "person_id": 58014
+    },
+    {
       "name": "Mona Wales",
       "person_id": 51511
     },
     {
       "name": "Xavi Tralla",
       "person_id": 57764
-    },
-    {
-      "name": "Klara Gold",
-      "person_id": 58014
     }
   ],
   "release_date": "2015-06-19",

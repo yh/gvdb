@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "La Cherry Spice",
-      "person_id": 14748
-    },
-    {
       "name": "Jason Miller",
       "person_id": 17619
+    },
+    {
+      "name": "La Cherry Spice",
+      "person_id": 14748
     }
   ],
   "release_date": "2009-02-17",

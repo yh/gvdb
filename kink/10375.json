@@ -11,24 +11,24 @@
   ],
   "models": [
     {
-      "name": "Holly Heart",
-      "person_id": 20472
+      "name": "Ariel X",
+      "person_id": 10464
     },
     {
       "name": "DragonLily",
       "person_id": 3433
     },
     {
-      "name": "Ariel X",
-      "person_id": 10464
-    },
-    {
-      "name": "Mellanie Monroe",
-      "person_id": 20280
+      "name": "Holly Heart",
+      "person_id": 20472
     },
     {
       "name": "Isis Love",
       "person_id": 6584
+    },
+    {
+      "name": "Mellanie Monroe",
+      "person_id": 20280
     }
   ],
   "release_date": "2010-09-14",

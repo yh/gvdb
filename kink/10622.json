@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Ned Mayhem",
-      "person_id": 22135
-    },
-    {
       "name": "Christian Wilde",
       "person_id": 21037
+    },
+    {
+      "name": "Ned Mayhem",
+      "person_id": 22135
     }
   ],
   "release_date": "2010-11-12",

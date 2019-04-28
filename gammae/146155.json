@@ -5,6 +5,18 @@
   "description": "",
   "models": [
     {
+      "name": "Alex James",
+      "person_id": 57926
+    },
+    {
+      "name": "Carter Woods",
+      "person_id": 51510
+    },
+    {
+      "name": "Chris Blades",
+      "person_id": 48683
+    },
+    {
       "name": "Jackson Cooper",
       "person_id": 38267
     },
@@ -13,32 +25,20 @@
       "person_id": 49349
     },
     {
-      "name": "Alex James",
-      "person_id": 57926
+      "name": "Johnny B",
+      "person_id": 51716
     },
     {
-      "name": "Roman Todd",
-      "person_id": 46827
-    },
-    {
-      "name": "Carter Woods",
-      "person_id": 51510
+      "name": "Justin Matthews",
+      "person_id": 52245
     },
     {
       "name": "Lance Ford",
       "person_id": 47871
     },
     {
-      "name": "Johnny B",
-      "person_id": 51716
-    },
-    {
-      "name": "Chris Blades",
-      "person_id": 48683
-    },
-    {
-      "name": "Justin Matthews",
-      "person_id": 52245
+      "name": "Roman Todd",
+      "person_id": 46827
     }
   ],
   "release_date": "2019-03-07",

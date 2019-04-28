@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Cheyenne Jewel",
-      "person_id": 22734
-    },
-    {
       "name": "Ariel X",
       "person_id": 10464
+    },
+    {
+      "name": "Cheyenne Jewel",
+      "person_id": 22734
     }
   ],
   "release_date": "2019-02-19",

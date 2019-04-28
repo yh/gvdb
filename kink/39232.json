@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Yhivi",
-      "person_id": 53649
-    },
-    {
       "name": "Angel Allwood",
       "person_id": 52348
+    },
+    {
+      "name": "Yhivi",
+      "person_id": 53649
     }
   ],
   "release_date": "2016-01-05",

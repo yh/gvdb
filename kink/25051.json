@@ -11,6 +11,10 @@
   ],
   "models": [
     {
+      "name": "Alex Gonz",
+      "person_id": 39154
+    },
+    {
       "name": "Eva Angelina",
       "person_id": 13344
     },
@@ -21,10 +25,6 @@
     {
       "name": "Karlo Karrera",
       "person_id": 35221
-    },
-    {
-      "name": "Alex Gonz",
-      "person_id": 39154
     },
     {
       "name": "Marco Banderas",

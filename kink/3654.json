@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Lorelei Lee",
-      "person_id": 758
-    },
-    {
       "name": "Elliot Skellington",
       "person_id": 10045
     },
     {
-      "name": "Mika Tan",
-      "person_id": 236
-    },
-    {
       "name": "Judass",
       "person_id": 10563
+    },
+    {
+      "name": "Lorelei Lee",
+      "person_id": 758
+    },
+    {
+      "name": "Mika Tan",
+      "person_id": 236
     }
   ],
   "release_date": "2006-07-12",

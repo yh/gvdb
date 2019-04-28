@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Eveline Delay",
-      "person_id": 60431
-    },
-    {
       "name": "Ar",
       "person_id": 60282
+    },
+    {
+      "name": "Eveline Delay",
+      "person_id": 60431
     }
   ],
   "release_date": "2018-10-24",

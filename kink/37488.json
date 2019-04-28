@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Alejandro",
+      "person_id": 56628
+    },
+    {
       "name": "Daisy Ducati",
       "person_id": 50939
     },
     {
       "name": "Mona Wales",
       "person_id": 51511
-    },
-    {
-      "name": "Alejandro",
-      "person_id": 56628
     }
   ],
   "release_date": "2015-03-27",

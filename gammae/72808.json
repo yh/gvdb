@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Dillon Anderson",
-      "person_id": 35862
-    },
-    {
       "name": "Andres Moreno",
       "person_id": 35929
+    },
+    {
+      "name": "Dillon Anderson",
+      "person_id": 35862
     }
   ],
   "release_date": "2015-03-09",

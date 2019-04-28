@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Steve Trevor",
-      "person_id": 18625
-    },
-    {
       "name": "Chad Manning",
       "person_id": 18618
+    },
+    {
+      "name": "Steve Trevor",
+      "person_id": 18625
     }
   ],
   "release_date": "2008-12-25",

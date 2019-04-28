@@ -11,28 +11,28 @@
   ],
   "models": [
     {
-      "name": "Dylan Ryan",
-      "person_id": 10069
-    },
-    {
       "name": "Derrick Pierce",
       "person_id": 14403
     },
     {
-      "name": "Lyla Storm",
-      "person_id": 33882
+      "name": "Dylan Ryan",
+      "person_id": 10069
     },
     {
       "name": "Krysta Kaos",
       "person_id": 25624
     },
     {
-      "name": "The Pope",
-      "person_id": 27779
+      "name": "Lyla Storm",
+      "person_id": 33882
     },
     {
       "name": "Maestro Stefanos",
       "person_id": 17148
+    },
+    {
+      "name": "The Pope",
+      "person_id": 27779
     }
   ],
   "release_date": "2012-06-29",

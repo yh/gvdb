@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Armando De Armas",
-      "person_id": 37456
-    },
-    {
       "name": "Alex Torres",
       "person_id": 37584
+    },
+    {
+      "name": "Armando De Armas",
+      "person_id": 37456
     }
   ],
   "release_date": "2015-12-11",

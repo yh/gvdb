@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Derrick Pierce",
-      "person_id": 14403
-    },
-    {
       "name": "Carmen Caliente",
       "person_id": 54927
+    },
+    {
+      "name": "Derrick Pierce",
+      "person_id": 14403
     }
   ],
   "release_date": "2018-05-03",

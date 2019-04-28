@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Julian Vincenzo",
-      "person_id": 20918
-    },
-    {
       "name": "Gamal Simon",
       "person_id": 20922
+    },
+    {
+      "name": "Julian Vincenzo",
+      "person_id": 20918
     }
   ],
   "release_date": "1998-04-27",

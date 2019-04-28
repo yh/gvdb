@@ -5,8 +5,8 @@
   "description": "David Montana finds Ted Matthews and Cameron Taylor enjoying a 3-way with Steve Vega, a bartender at the old San Francisco Pit.",
   "models": [
     {
-      "name": "Ted Matthews",
-      "person_id": 11214
+      "name": "Cameron Taylor",
+      "person_id": 12366
     },
     {
       "name": "David Montana",
@@ -17,8 +17,8 @@
       "person_id": 11837
     },
     {
-      "name": "Cameron Taylor",
-      "person_id": 12366
+      "name": "Ted Matthews",
+      "person_id": 11214
     }
   ],
   "release_date": "2010-07-01",

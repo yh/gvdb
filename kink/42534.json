@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Ramon Nomar",
-      "person_id": 35412
-    },
-    {
       "name": "Moka Mora",
       "person_id": 59853
     },
     {
       "name": "Penny Barber",
       "person_id": 6664
+    },
+    {
+      "name": "Ramon Nomar",
+      "person_id": 35412
     }
   ],
   "release_date": "2017-10-17",

@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Leo Forte",
-      "person_id": 19775
-    },
-    {
       "name": "Brian Bonds",
       "person_id": 22695
+    },
+    {
+      "name": "Leo Forte",
+      "person_id": 19775
     }
   ],
   "release_date": "2012-01-01",

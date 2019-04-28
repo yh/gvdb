@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mark Davis",
-      "person_id": 8200
-    },
-    {
       "name": "Maia Davis",
       "person_id": 43599
+    },
+    {
+      "name": "Mark Davis",
+      "person_id": 8200
     },
     {
       "name": "Princess Donna Dolore",

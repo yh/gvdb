@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Roxanne Rae",
-      "person_id": 50987
-    },
-    {
       "name": "Ramon Nomar",
       "person_id": 35412
+    },
+    {
+      "name": "Roxanne Rae",
+      "person_id": 50987
     }
   ],
   "release_date": "2015-10-09",

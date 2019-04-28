@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Cherry Torn",
-      "person_id": 11105
-    },
-    {
       "name": "Artemis Faux",
       "person_id": 55021
+    },
+    {
+      "name": "Cherry Torn",
+      "person_id": 11105
     }
   ],
   "release_date": "2017-01-06",

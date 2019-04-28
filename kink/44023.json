@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Sklave",
-      "person_id": 61756
-    },
-    {
       "name": "Lady Isis",
       "person_id": 61755
+    },
+    {
+      "name": "Sklave",
+      "person_id": 61756
     }
   ],
   "release_date": "2018-11-29",

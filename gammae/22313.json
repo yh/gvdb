@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Zak Spears",
-      "person_id": 11382
-    },
-    {
       "name": "Dexter Crews",
       "person_id": 12278
+    },
+    {
+      "name": "Zak Spears",
+      "person_id": 11382
     }
   ],
   "release_date": "2006-02-01",

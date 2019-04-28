@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "James",
-      "person_id": 10539
-    },
-    {
       "name": "Adrianna Nicole",
       "person_id": 301
+    },
+    {
+      "name": "James",
+      "person_id": 10539
     }
   ],
   "release_date": "2005-10-13",

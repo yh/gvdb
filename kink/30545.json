@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mia Gold",
-      "person_id": 46816
-    },
-    {
       "name": "Maestro",
       "person_id": 11928
+    },
+    {
+      "name": "Mia Gold",
+      "person_id": 46816
     }
   ],
   "release_date": "2013-08-01",

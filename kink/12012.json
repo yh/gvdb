@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Scout",
-      "person_id": 15993
-    },
-    {
       "name": "Aiden Starr",
       "person_id": 11489
+    },
+    {
+      "name": "Scout",
+      "person_id": 15993
     }
   ],
   "release_date": "2011-03-09",

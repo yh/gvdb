@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nikki Delano",
-      "person_id": 45587
-    },
-    {
       "name": "Adley Rose",
       "person_id": 57261
+    },
+    {
+      "name": "Nikki Delano",
+      "person_id": 45587
     }
   ],
   "release_date": "2016-06-24",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kelly Wells",
-      "person_id": 6381
-    },
-    {
       "name": "Audrey Leigh",
       "person_id": 1587
+    },
+    {
+      "name": "Kelly Wells",
+      "person_id": 6381
     }
   ],
   "release_date": "2004-12-02",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Leigh Raven",
-      "person_id": 59527
-    },
-    {
       "name": "Delirious Hunter",
       "person_id": 56555
+    },
+    {
+      "name": "Leigh Raven",
+      "person_id": 59527
     }
   ],
   "release_date": "2019-02-14",

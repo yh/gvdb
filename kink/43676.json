@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Raven Bay",
-      "person_id": 49451
-    },
-    {
       "name": "Amy Brooke",
       "person_id": 24422
     },
     {
       "name": "Marcus London",
       "person_id": 53021
+    },
+    {
+      "name": "Raven Bay",
+      "person_id": 49451
     }
   ],
   "release_date": "2018-07-19",

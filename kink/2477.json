@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Faith Leon",
-      "person_id": 5581
-    },
-    {
       "name": "DragonLily",
       "person_id": 3433
+    },
+    {
+      "name": "Faith Leon",
+      "person_id": 5581
     }
   ],
   "release_date": "2005-01-04",

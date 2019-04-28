@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Ken",
-      "person_id": 12428
-    },
-    {
       "name": "Davy",
       "person_id": 12553
+    },
+    {
+      "name": "Ken",
+      "person_id": 12428
     }
   ],
   "release_date": "2010-07-03",

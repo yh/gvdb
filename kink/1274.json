@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Velvet Rose",
-      "person_id": 2206
-    },
-    {
       "name": "Kym Wilde",
       "person_id": 99
+    },
+    {
+      "name": "Velvet Rose",
+      "person_id": 2206
     }
   ],
   "release_date": "2003-07-22",

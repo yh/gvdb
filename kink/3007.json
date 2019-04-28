@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Wild Bill",
-      "person_id": 225
-    },
-    {
       "name": "Jasmine Byrne",
       "person_id": 6322
     },
     {
       "name": "Mistress Aradia",
       "person_id": 8519
+    },
+    {
+      "name": "Wild Bill",
+      "person_id": 225
     }
   ],
   "release_date": "2005-09-01",

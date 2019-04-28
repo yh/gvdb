@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Tristan Sterling",
-      "person_id": 28071
-    },
-    {
       "name": "Max Sargent",
       "person_id": 35576
+    },
+    {
+      "name": "Tristan Sterling",
+      "person_id": 28071
     }
   ],
   "release_date": "2015-05-21",

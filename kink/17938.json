@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Lily LaBeau",
-      "person_id": 25162
+      "name": "Bobbi Starr",
+      "person_id": 11290
     },
     {
-      "name": "Mallory Mallone",
-      "person_id": 32943
+      "name": "Lily LaBeau",
+      "person_id": 25162
     },
     {
       "name": "Maitresse Madeline Marlowe",
       "person_id": 17872
     },
     {
-      "name": "Bobbi Starr",
-      "person_id": 11290
+      "name": "Mallory Mallone",
+      "person_id": 32943
     }
   ],
   "release_date": "2012-02-10",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Janay",
-      "person_id": 59
-    },
-    {
       "name": "Angela Stone",
       "person_id": 6478
+    },
+    {
+      "name": "Janay",
+      "person_id": 59
     }
   ],
   "release_date": "2005-01-24",

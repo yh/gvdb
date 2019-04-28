@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tommy Pistol",
-      "person_id": 12663
-    },
-    {
       "name": "Casey Calvert",
       "person_id": 36437
+    },
+    {
+      "name": "Tommy Pistol",
+      "person_id": 12663
     },
     {
       "name": "Zoey Monroe",

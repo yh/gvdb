@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jennifer Dark",
-      "person_id": 17309
-    },
-    {
       "name": "Alexa Von Tess",
       "person_id": 12340
+    },
+    {
+      "name": "Jennifer Dark",
+      "person_id": 17309
     }
   ],
   "release_date": "2008-10-28",

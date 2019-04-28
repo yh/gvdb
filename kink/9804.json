@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Felony",
-      "person_id": 17502
-    },
-    {
       "name": "Curt Wooster",
       "person_id": 18252
+    },
+    {
+      "name": "Felony",
+      "person_id": 17502
     }
   ],
   "release_date": "2010-07-21",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jimmy Bullet",
-      "person_id": 52624
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
+    },
+    {
+      "name": "Jimmy Bullet",
+      "person_id": 52624
     }
   ],
   "release_date": "2015-01-07",

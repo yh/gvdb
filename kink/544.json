@@ -3,20 +3,15 @@
     "Fucking Machines"
   ],
   "description": "Phoenix and Kylie squirt bucketloads of warm giz, so much we were worried they would get electrocuted by the machines.",
-  "directors": [
-    {
-      "name": "Pirelli",
-      "person_id": 7016
-    }
-  ],
+  "directors": [],
   "models": [
-    {
-      "name": "Phoenix",
-      "person_id": 284
-    },
     {
       "name": "Kylie Wilde",
       "person_id": 297
+    },
+    {
+      "name": "Phoenix",
+      "person_id": 284
     }
   ],
   "release_date": "2002-10-09",

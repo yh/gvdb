@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Master Avery",
-      "person_id": 24956
-    },
-    {
       "name": "Jason Miller",
       "person_id": 17619
+    },
+    {
+      "name": "Master Avery",
+      "person_id": 24956
     }
   ],
   "release_date": "2011-06-30",

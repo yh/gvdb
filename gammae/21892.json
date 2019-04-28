@@ -5,12 +5,12 @@
   "description": "Cliff Parker and Steve Vega release some tension after Rob's solo.",
   "models": [
     {
-      "name": "Steve Vega",
-      "person_id": 11837
-    },
-    {
       "name": "Cliff Parker",
       "person_id": 12194
+    },
+    {
+      "name": "Steve Vega",
+      "person_id": 11837
     }
   ],
   "release_date": "2010-07-02",

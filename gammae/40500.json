@@ -5,20 +5,20 @@
   "description": "Scene also includes Gaston Vihar. (Isidore Nadas aka Zoltan Sapkaaka Renato Bellagio)(George Vidanov aka Mihaly Hurok)",
   "models": [
     {
-      "name": "George Vidanov",
-      "person_id": 20757
+      "name": "Gaston Vihar",
+      "person_id": 20823
     },
     {
-      "name": "Stefan Toth",
-      "person_id": 20761
+      "name": "George Vidanov",
+      "person_id": 20757
     },
     {
       "name": "Isidore Nadas",
       "person_id": 20762
     },
     {
-      "name": "Gaston Vihar",
-      "person_id": 20823
+      "name": "Stefan Toth",
+      "person_id": 20761
     }
   ],
   "release_date": "1998-02-28",

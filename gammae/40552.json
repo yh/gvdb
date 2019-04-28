@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Fernando Lizalde",
-      "person_id": 20759
+      "name": "Danno Alecs",
+      "person_id": 20835
     },
     {
-      "name": "Zoly Mirlos",
-      "person_id": 20885
+      "name": "Fernando Lizalde",
+      "person_id": 20759
     },
     {
       "name": "Mihaly Tombor",
@@ -21,8 +21,8 @@
       "person_id": 20773
     },
     {
-      "name": "Danno Alecs",
-      "person_id": 20835
+      "name": "Zoly Mirlos",
+      "person_id": 20885
     }
   ],
   "release_date": "1998-03-21",

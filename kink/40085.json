@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Alexa Nova",
+      "person_id": 57359
+    },
+    {
       "name": "Angel Allwood",
       "person_id": 52348
     },
     {
       "name": "Roxy Raye",
       "person_id": 35595
-    },
-    {
-      "name": "Alexa Nova",
-      "person_id": 57359
     }
   ],
   "release_date": "2016-10-21",

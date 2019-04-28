@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
+      "name": "August Habarcs",
+      "person_id": 20963
+    },
+    {
       "name": "Fred Fele",
       "person_id": 20848
     },
     {
       "name": "Rick Bauer",
       "person_id": 20931
-    },
-    {
-      "name": "August Habarcs",
-      "person_id": 20963
     }
   ],
   "release_date": "1998-05-06",

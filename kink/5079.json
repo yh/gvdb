@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Devi Lynne",
-      "person_id": 13394
-    },
-    {
       "name": "Adrianna Nicole",
       "person_id": 301
+    },
+    {
+      "name": "Devi Lynne",
+      "person_id": 13394
     }
   ],
   "release_date": "2008-02-26",

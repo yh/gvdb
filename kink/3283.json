@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sahara Knite",
-      "person_id": 10934
-    },
-    {
       "name": "Mark Davis",
       "person_id": 8200
+    },
+    {
+      "name": "Sahara Knite",
+      "person_id": 10934
     }
   ],
   "release_date": "2005-11-18",

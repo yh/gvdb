@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dirk Caber",
-      "person_id": 27341
-    },
-    {
       "name": "Chad Brock",
       "person_id": 28723
+    },
+    {
+      "name": "Dirk Caber",
+      "person_id": 27341
     }
   ],
   "release_date": "2013-01-24",

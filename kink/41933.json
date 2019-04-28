@@ -11,10 +11,6 @@
   ],
   "models": [
     {
-      "name": "Ramon Nomar",
-      "person_id": 35412
-    },
-    {
       "name": "Aiden Starr",
       "person_id": 11489
     },
@@ -25,6 +21,10 @@
     {
       "name": "Nora Riley",
       "person_id": 58748
+    },
+    {
+      "name": "Ramon Nomar",
+      "person_id": 35412
     }
   ],
   "release_date": "2017-06-27",

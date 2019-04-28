@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Derrick Pierce",
-      "person_id": 14403
-    },
-    {
       "name": "Candice Nicole",
       "person_id": 16458
+    },
+    {
+      "name": "Derrick Pierce",
+      "person_id": 14403
     }
   ],
   "release_date": "2008-04-16",

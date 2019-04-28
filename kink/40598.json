@@ -6,20 +6,20 @@
   "directors": [],
   "models": [
     {
-      "name": "Steve Holmes",
-      "person_id": 15810
-    },
-    {
-      "name": "Silvia Rubi",
-      "person_id": 57227
+      "name": "Julia Roca",
+      "person_id": 59624
     },
     {
       "name": "Pablo Ferrari",
       "person_id": 59621
     },
     {
-      "name": "Julia Roca",
-      "person_id": 59624
+      "name": "Silvia Rubi",
+      "person_id": 57227
+    },
+    {
+      "name": "Steve Holmes",
+      "person_id": 15810
     }
   ],
   "release_date": "2016-07-29",

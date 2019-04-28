@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Alex Adams",
-      "person_id": 46014
-    },
-    {
       "name": "Adam Herst",
       "person_id": 39639
+    },
+    {
+      "name": "Alex Adams",
+      "person_id": 46014
     }
   ],
   "release_date": "2014-07-17",

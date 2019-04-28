@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Kevin Cage",
-      "person_id": 20944
-    },
-    {
       "name": "Evan Rochelle",
       "person_id": 20945
+    },
+    {
+      "name": "Kevin Cage",
+      "person_id": 20944
     },
     {
       "name": "Randy Jones",

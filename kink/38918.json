@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lisa Tiffian",
-      "person_id": 55478
-    },
-    {
       "name": "Cherry Torn",
       "person_id": 11105
+    },
+    {
+      "name": "Lisa Tiffian",
+      "person_id": 55478
     }
   ],
   "release_date": "2015-09-24",

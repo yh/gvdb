@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Leo Forte",
-      "person_id": 22142
-    },
-    {
       "name": "Josh West",
       "person_id": 20861
+    },
+    {
+      "name": "Leo Forte",
+      "person_id": 22142
     },
     {
       "name": "Trent Diesel",

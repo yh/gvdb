@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Bella Rossi",
+      "person_id": 18418
+    },
+    {
       "name": "Ela Darling",
       "person_id": 21149
     },
     {
       "name": "John Strong",
       "person_id": 17050
-    },
-    {
-      "name": "Bella Rossi",
-      "person_id": 18418
     }
   ],
   "release_date": "2014-10-03",

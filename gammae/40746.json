@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Logan McCree",
-      "person_id": 19752
-    },
-    {
       "name": "Jack Dragon",
       "person_id": 20979
+    },
+    {
+      "name": "Logan McCree",
+      "person_id": 19752
     }
   ],
   "release_date": "1998-06-06",

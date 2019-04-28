@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Pierce Paris",
-      "person_id": 56974
-    },
-    {
       "name": "Kip Johnson",
       "person_id": 51603
+    },
+    {
+      "name": "Pierce Paris",
+      "person_id": 56974
     }
   ],
   "release_date": "2018-12-27",

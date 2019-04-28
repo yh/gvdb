@@ -11,32 +11,32 @@
   ],
   "models": [
     {
-      "name": "John Jammen",
-      "person_id": 22596
-    },
-    {
-      "name": "Maitresse Madeline Marlowe",
-      "person_id": 17872
-    },
-    {
-      "name": "Odile",
-      "person_id": 33692
-    },
-    {
-      "name": "Nerine Mechanique",
-      "person_id": 19851
+      "name": "Arabelle Raphael",
+      "person_id": 22128
     },
     {
       "name": "Elizabeth Thorn",
       "person_id": 40429
     },
     {
-      "name": "Arabelle Raphael",
-      "person_id": 22128
+      "name": "John Jammen",
+      "person_id": 22596
     },
     {
       "name": "Keira Quinn",
       "person_id": 38494
+    },
+    {
+      "name": "Maitresse Madeline Marlowe",
+      "person_id": 17872
+    },
+    {
+      "name": "Nerine Mechanique",
+      "person_id": 19851
+    },
+    {
+      "name": "Odile",
+      "person_id": 33692
     }
   ],
   "release_date": "2013-06-05",

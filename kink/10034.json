@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Zenza Raggi",
-      "person_id": 20195
-    },
-    {
       "name": "Blanche",
       "person_id": 27098
+    },
+    {
+      "name": "Zenza Raggi",
+      "person_id": 20195
     }
   ],
   "release_date": "2011-04-01",

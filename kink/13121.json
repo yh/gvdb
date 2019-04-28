@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Tristan Jaxx",
-      "person_id": 20786
-    },
-    {
       "name": "Kyle Braun",
       "person_id": 27182
     },
     {
       "name": "Royce",
       "person_id": 29212
+    },
+    {
+      "name": "Tristan Jaxx",
+      "person_id": 20786
     }
   ],
   "release_date": "2011-07-01",

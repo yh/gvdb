@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Whitney Wright",
-      "person_id": 61018
-    },
-    {
       "name": "Mr. Pete",
       "person_id": 16823
+    },
+    {
+      "name": "Whitney Wright",
+      "person_id": 61018
     }
   ],
   "release_date": "2018-11-30",

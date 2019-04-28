@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Eli Hunter",
-      "person_id": 51998
-    },
-    {
       "name": "Billy Santoro",
       "person_id": 52181
+    },
+    {
+      "name": "Eli Hunter",
+      "person_id": 51998
     }
   ],
   "release_date": "2014-10-08",

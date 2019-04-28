@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Lilla Katt",
+      "person_id": 18701
+    },
+    {
       "name": "Maestro Stefanos",
       "person_id": 17148
     },
     {
       "name": "Nerine Mechanique",
       "person_id": 19851
-    },
-    {
-      "name": "Lilla Katt",
-      "person_id": 18701
     },
     {
       "name": "Nicki Blue",

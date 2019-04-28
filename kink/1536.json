@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Venus",
-      "person_id": 2302
-    },
-    {
       "name": "Audrey Leigh",
       "person_id": 1587
+    },
+    {
+      "name": "Venus",
+      "person_id": 2302
     }
   ],
   "release_date": "2004-06-24",

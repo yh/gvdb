@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Marcus London",
-      "person_id": 53021
-    },
-    {
       "name": "Gianna Lynn",
       "person_id": 14081
+    },
+    {
+      "name": "Marcus London",
+      "person_id": 53021
     }
   ],
   "release_date": "2010-03-15",

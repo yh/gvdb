@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Brix",
-      "person_id": 16158
-    },
-    {
       "name": "Amber Rayne",
       "person_id": 12631
+    },
+    {
+      "name": "Brix",
+      "person_id": 16158
     }
   ],
   "release_date": "2008-04-29",

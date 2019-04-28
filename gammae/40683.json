@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
-      "name": "Solten Talton",
-      "person_id": 20941
-    },
-    {
       "name": "Glen Santoro",
       "person_id": 20943
     },
     {
       "name": "Jack Wright",
       "person_id": 20947
+    },
+    {
+      "name": "Solten Talton",
+      "person_id": 20941
     }
   ],
   "release_date": "1998-05-13",

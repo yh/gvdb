@@ -11,24 +11,24 @@
   ],
   "models": [
     {
-      "name": "Lyla Storm",
-      "person_id": 33882
-    },
-    {
       "name": "Katharine Cane",
       "person_id": 35830
     },
     {
-      "name": "Odile",
-      "person_id": 33692
+      "name": "Lyla Storm",
+      "person_id": 33882
+    },
+    {
+      "name": "Maestro Stefanos",
+      "person_id": 17148
     },
     {
       "name": "Mickey Mod",
       "person_id": 19623
     },
     {
-      "name": "Maestro Stefanos",
-      "person_id": 17148
+      "name": "Odile",
+      "person_id": 33692
     }
   ],
   "release_date": "2012-11-16",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Aubrey Kate",
-      "person_id": 51491
-    },
-    {
       "name": "Alexander Gustavo",
       "person_id": 55166
+    },
+    {
+      "name": "Aubrey Kate",
+      "person_id": 51491
     }
   ],
   "release_date": "2016-08-30",

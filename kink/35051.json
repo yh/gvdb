@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jeze Belle",
-      "person_id": 52164
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
+    },
+    {
+      "name": "Jeze Belle",
+      "person_id": 52164
     }
   ],
   "release_date": "2014-05-16",

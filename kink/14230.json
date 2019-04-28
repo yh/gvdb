@@ -11,8 +11,16 @@
   ],
   "models": [
     {
-      "name": "Skin Diamond",
-      "person_id": 31494
+      "name": "Bruce Venture",
+      "person_id": 22904
+    },
+    {
+      "name": "Dietrich Cyrus",
+      "person_id": 17649
+    },
+    {
+      "name": "Drake Temple",
+      "person_id": 31831
     },
     {
       "name": "James Deen",
@@ -23,20 +31,12 @@
       "person_id": 17050
     },
     {
-      "name": "Dietrich Cyrus",
-      "person_id": 17649
-    },
-    {
-      "name": "Bruce Venture",
-      "person_id": 22904
+      "name": "Skin Diamond",
+      "person_id": 31494
     },
     {
       "name": "Will Jasper",
       "person_id": 28968
-    },
-    {
-      "name": "Drake Temple",
-      "person_id": 31831
     }
   ],
   "release_date": "2011-08-17",

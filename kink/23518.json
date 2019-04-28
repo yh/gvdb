@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Dylan Ryan",
-      "person_id": 10069
-    },
-    {
-      "name": "Lyla Storm",
-      "person_id": 33882
-    },
-    {
       "name": "Derrick Pierce",
       "person_id": 14403
     },
     {
+      "name": "Dylan Ryan",
+      "person_id": 10069
+    },
+    {
       "name": "Krysta Kaos",
       "person_id": 25624
+    },
+    {
+      "name": "Lyla Storm",
+      "person_id": 33882
     },
     {
       "name": "Maestro Stefanos",

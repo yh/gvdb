@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Wenona",
-      "person_id": 4485
-    },
-    {
       "name": "Maitresse Madeline Marlowe",
       "person_id": 17872
     },
     {
       "name": "Sasha Lexing",
       "person_id": 17850
+    },
+    {
+      "name": "Wenona",
+      "person_id": 4485
     }
   ],
   "release_date": "2009-03-27",

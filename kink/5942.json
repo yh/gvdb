@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Satine Phoenix",
-      "person_id": 11425
-    },
-    {
       "name": "Aiden Starr",
       "person_id": 11489
     },
     {
       "name": "Maestro",
       "person_id": 11928
+    },
+    {
+      "name": "Satine Phoenix",
+      "person_id": 11425
     }
   ],
   "release_date": "2009-04-03",

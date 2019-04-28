@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Phantom",
-      "person_id": 11509
-    },
-    {
       "name": "Jasmine Byrne",
       "person_id": 6322
+    },
+    {
+      "name": "Phantom",
+      "person_id": 11509
     }
   ],
   "release_date": "2006-05-10",

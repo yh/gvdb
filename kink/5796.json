@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kirra Lynne",
-      "person_id": 18123
-    },
-    {
       "name": "Ariel X",
       "person_id": 10464
+    },
+    {
+      "name": "Kirra Lynne",
+      "person_id": 18123
     }
   ],
   "release_date": "2008-09-23",

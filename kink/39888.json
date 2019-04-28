@@ -11,28 +11,28 @@
   ],
   "models": [
     {
-      "name": "Yhivi",
-      "person_id": 53649
+      "name": "Astral Dust",
+      "person_id": 43670
     },
     {
       "name": "John Strong",
       "person_id": 17050
     },
     {
-      "name": "Tommy Pistol",
-      "person_id": 12663
+      "name": "Mark Wood",
+      "person_id": 31058
     },
     {
       "name": "Mr. Pete",
       "person_id": 16823
     },
     {
-      "name": "Mark Wood",
-      "person_id": 31058
+      "name": "Tommy Pistol",
+      "person_id": 12663
     },
     {
-      "name": "Astral Dust",
-      "person_id": 43670
+      "name": "Yhivi",
+      "person_id": 53649
     }
   ],
   "release_date": "2016-03-30",

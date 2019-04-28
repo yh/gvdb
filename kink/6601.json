@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Drake Jaden",
-      "person_id": 19522
-    },
-    {
       "name": "Dominic Pacifico",
       "person_id": 14892
+    },
+    {
+      "name": "Drake Jaden",
+      "person_id": 19522
     }
   ],
   "release_date": "2009-07-01",

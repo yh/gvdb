@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Daisy Ducati",
-      "person_id": 50939
-    },
-    {
       "name": "Chanel Santini",
       "person_id": 59709
+    },
+    {
+      "name": "Daisy Ducati",
+      "person_id": 50939
     }
   ],
   "release_date": "2017-09-25",

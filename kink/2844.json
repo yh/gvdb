@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sarah Blake",
-      "person_id": 7407
-    },
-    {
       "name": "Crimson Ninja",
       "person_id": 6346
+    },
+    {
+      "name": "Sarah Blake",
+      "person_id": 7407
     }
   ],
   "release_date": "2005-06-28",

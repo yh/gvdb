@@ -11,24 +11,24 @@
   ],
   "models": [
     {
-      "name": "Wenona",
-      "person_id": 4485
-    },
-    {
-      "name": "Tia Ling",
-      "person_id": 17361
-    },
-    {
       "name": "Ariel X",
       "person_id": 10464
+    },
+    {
+      "name": "Hollie Stevens",
+      "person_id": 1572
     },
     {
       "name": "Princess Donna Dolore",
       "person_id": 5235
     },
     {
-      "name": "Hollie Stevens",
-      "person_id": 1572
+      "name": "Tia Ling",
+      "person_id": 17361
+    },
+    {
+      "name": "Wenona",
+      "person_id": 4485
     }
   ],
   "release_date": "2010-12-14",

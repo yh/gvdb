@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sasha Sparks",
-      "person_id": 4139
-    },
-    {
       "name": "Holly Morgan",
       "person_id": 11123
+    },
+    {
+      "name": "Sasha Sparks",
+      "person_id": 4139
     }
   ],
   "release_date": "2006-05-24",

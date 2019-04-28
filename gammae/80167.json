@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Sean Duran",
-      "person_id": 28079
-    },
-    {
       "name": "Christian Wilde",
       "person_id": 28481
+    },
+    {
+      "name": "Sean Duran",
+      "person_id": 28079
     }
   ],
   "release_date": "2016-01-28",

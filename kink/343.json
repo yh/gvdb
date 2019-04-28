@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kym Wilde",
-      "person_id": 99
-    },
-    {
       "name": "Clarity",
       "person_id": 164
+    },
+    {
+      "name": "Kym Wilde",
+      "person_id": 99
     }
   ],
   "release_date": "2002-02-23",

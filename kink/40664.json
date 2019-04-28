@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Ingrid Mouth",
-      "person_id": 53766
-    },
-    {
       "name": "Daisy Ducati",
       "person_id": 50939
+    },
+    {
+      "name": "Ingrid Mouth",
+      "person_id": 53766
     },
     {
       "name": "The Pope",

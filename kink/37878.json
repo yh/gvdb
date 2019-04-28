@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lisa Tiffian",
-      "person_id": 55478
-    },
-    {
       "name": "Francesca Le",
       "person_id": 36526
+    },
+    {
+      "name": "Lisa Tiffian",
+      "person_id": 55478
     }
   ],
   "release_date": "2015-06-02",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sandra Romain",
-      "person_id": 10239
-    },
-    {
       "name": "Kelly Wells",
       "person_id": 6381
+    },
+    {
+      "name": "Sandra Romain",
+      "person_id": 10239
     },
     {
       "name": "Victoria Sin",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Rilynn Rae",
-      "person_id": 39210
-    },
-    {
       "name": "Holly Heart",
       "person_id": 20472
+    },
+    {
+      "name": "Rilynn Rae",
+      "person_id": 39210
     }
   ],
   "release_date": "2013-09-20",

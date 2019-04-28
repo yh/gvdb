@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
-      "name": "Shane Jacobs",
-      "person_id": 31046
-    },
-    {
       "name": "Aaron Slate",
       "person_id": 31657
     },
     {
       "name": "Jake Zackery",
       "person_id": 32647
+    },
+    {
+      "name": "Shane Jacobs",
+      "person_id": 31046
     },
     {
       "name": "Zach Riley",

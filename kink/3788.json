@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Harmony",
-      "person_id": 6341
-    },
-    {
       "name": "Alexa Von Tess",
       "person_id": 12340
+    },
+    {
+      "name": "Harmony",
+      "person_id": 6341
     },
     {
       "name": "Hollie Stevens",

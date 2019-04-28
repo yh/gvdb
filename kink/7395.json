@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dia Zerva",
-      "person_id": 16038
-    },
-    {
       "name": "Angelica Saige",
       "person_id": 20813
+    },
+    {
+      "name": "Dia Zerva",
+      "person_id": 16038
     }
   ],
   "release_date": "2009-11-03",

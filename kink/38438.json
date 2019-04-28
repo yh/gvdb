@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dylan Strokes",
-      "person_id": 55059
-    },
-    {
       "name": "Dylan Knight",
       "person_id": 52002
+    },
+    {
+      "name": "Dylan Strokes",
+      "person_id": 55059
     }
   ],
   "release_date": "2015-06-24",

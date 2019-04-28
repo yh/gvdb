@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Nina",
-      "person_id": 762
-    },
-    {
       "name": "DragonLily",
       "person_id": 3433
     },
     {
-      "name": "Sexcetera Crew #2",
-      "person_id": 7780
+      "name": "Nina",
+      "person_id": 762
     },
     {
       "name": "Sexcetera Crew #1",
       "person_id": 7778
+    },
+    {
+      "name": "Sexcetera Crew #2",
+      "person_id": 7780
     },
     {
       "name": "Sexcetera Crew #4",

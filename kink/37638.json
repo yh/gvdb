@@ -11,18 +11,6 @@
   ],
   "models": [
     {
-      "name": "Casey Calvert",
-      "person_id": 36437
-    },
-    {
-      "name": "John Strong",
-      "person_id": 17050
-    },
-    {
-      "name": "Owen Gray",
-      "person_id": 39181
-    },
-    {
       "name": "Astral Dust",
       "person_id": 43670
     },
@@ -31,8 +19,20 @@
       "person_id": 46601
     },
     {
+      "name": "Casey Calvert",
+      "person_id": 36437
+    },
+    {
       "name": "Gage Sin",
       "person_id": 53344
+    },
+    {
+      "name": "John Strong",
+      "person_id": 17050
+    },
+    {
+      "name": "Owen Gray",
+      "person_id": 39181
     }
   ],
   "release_date": "2015-06-17",

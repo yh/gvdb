@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Rebecca Black",
-      "person_id": 61762
-    },
-    {
       "name": "Ar",
       "person_id": 60282
+    },
+    {
+      "name": "Rebecca Black",
+      "person_id": 61762
     }
   ],
   "release_date": "2018-12-26",

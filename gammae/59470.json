@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Ricky Larkin",
-      "person_id": 28464
-    },
-    {
       "name": "Kevin Grover",
       "person_id": 31625
+    },
+    {
+      "name": "Ricky Larkin",
+      "person_id": 28464
     }
   ],
   "release_date": "2013-08-28",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sasha Knox",
-      "person_id": 21127
-    },
-    {
       "name": "Mark Davis",
       "person_id": 8200
+    },
+    {
+      "name": "Sasha Knox",
+      "person_id": 21127
     }
   ],
   "release_date": "2009-12-11",

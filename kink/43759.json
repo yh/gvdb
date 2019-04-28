@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Sheena Rose",
-      "person_id": 52312
-    },
-    {
       "name": "James Kickstand",
       "person_id": 48660
+    },
+    {
+      "name": "Sheena Rose",
+      "person_id": 52312
     }
   ],
   "release_date": "2018-08-23",

@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
-      "name": "Martin Hubai",
-      "person_id": 20804
+      "name": "Claudio Antonelli",
+      "person_id": 20919
     },
     {
       "name": "Fredy Costa",
       "person_id": 20916
     },
     {
-      "name": "Claudio Antonelli",
-      "person_id": 20919
+      "name": "Martin Hubai",
+      "person_id": 20804
     }
   ],
   "release_date": "1998-04-27",

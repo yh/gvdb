@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Dirk Willis",
-      "person_id": 28088
-    },
-    {
       "name": "CJ Parker",
       "person_id": 31291
+    },
+    {
+      "name": "Dirk Willis",
+      "person_id": 28088
     }
   ],
   "release_date": "2013-02-12",

@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
+      "name": "Gary Brickman",
+      "person_id": 21081
+    },
+    {
       "name": "Jake Butler",
       "person_id": 21079
     },
     {
       "name": "Martin Nehmet",
       "person_id": 21080
-    },
-    {
-      "name": "Gary Brickman",
-      "person_id": 21081
     }
   ],
   "release_date": "1998-05-16",

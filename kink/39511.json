@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dirk Caber",
-      "person_id": 27341
-    },
-    {
       "name": "Dale Cooper",
       "person_id": 58718
+    },
+    {
+      "name": "Dirk Caber",
+      "person_id": 27341
     }
   ],
   "release_date": "2016-02-04",

@@ -13,10 +13,6 @@
       "person_id": 35071
     },
     {
-      "name": "Spencer",
-      "person_id": 35021
-    },
-    {
       "name": "Domenic",
       "person_id": 35080
     },
@@ -25,12 +21,16 @@
       "person_id": 35022
     },
     {
+      "name": "Kasey",
+      "person_id": 35026
+    },
+    {
       "name": "Reese",
       "person_id": 35134
     },
     {
-      "name": "Kasey",
-      "person_id": 35026
+      "name": "Spencer",
+      "person_id": 35021
     }
   ],
   "release_date": "2008-08-15",

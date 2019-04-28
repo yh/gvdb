@@ -15,20 +15,24 @@
       "person_id": 10069
     },
     {
-      "name": "Krysta Kaos",
-      "person_id": 25624
-    },
-    {
-      "name": "Skin Diamond",
-      "person_id": 31494
-    },
-    {
       "name": "Juliette March",
       "person_id": 22072
     },
     {
+      "name": "Krysta Kaos",
+      "person_id": 25624
+    },
+    {
+      "name": "Maestro Stefanos",
+      "person_id": 17148
+    },
+    {
       "name": "Mark Davis",
       "person_id": 8200
+    },
+    {
+      "name": "Skin Diamond",
+      "person_id": 31494
     },
     {
       "name": "Sparky Sin Claire",
@@ -37,10 +41,6 @@
     {
       "name": "The Pope",
       "person_id": 27779
-    },
-    {
-      "name": "Maestro Stefanos",
-      "person_id": 17148
     }
   ],
   "release_date": "2012-01-06",

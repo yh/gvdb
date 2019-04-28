@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Mick Blue",
-      "person_id": 35591
-    },
-    {
       "name": "Bridgette B",
       "person_id": 18041
+    },
+    {
+      "name": "Mick Blue",
+      "person_id": 35591
     }
   ],
   "release_date": "2018-03-30",

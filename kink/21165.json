@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "London Keyes",
-      "person_id": 21036
-    },
-    {
       "name": "Karlo Karrera",
       "person_id": 35221
+    },
+    {
+      "name": "London Keyes",
+      "person_id": 21036
     }
   ],
   "release_date": "2012-06-29",

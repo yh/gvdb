@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kelli Provocateur",
-      "person_id": 39587
-    },
-    {
       "name": "Jonah Marx",
       "person_id": 51893
+    },
+    {
+      "name": "Kelli Provocateur",
+      "person_id": 39587
     }
   ],
   "release_date": "2017-06-23",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mistress Kara",
-      "person_id": 19043
-    },
-    {
       "name": "Mike Panic",
       "person_id": 41034
+    },
+    {
+      "name": "Mistress Kara",
+      "person_id": 19043
     }
   ],
   "release_date": "2015-04-24",

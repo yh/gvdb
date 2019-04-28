@@ -11,8 +11,20 @@
   ],
   "models": [
     {
+      "name": "Alan Stafford",
+      "person_id": 20129
+    },
+    {
+      "name": "Audrey Hollander",
+      "person_id": 11450
+    },
+    {
       "name": "Karlo Karrera",
       "person_id": 35221
+    },
+    {
+      "name": "Mark Davis",
+      "person_id": 8200
     },
     {
       "name": "Ramon Nomar",
@@ -21,18 +33,6 @@
     {
       "name": "Toni Ribas",
       "person_id": 38962
-    },
-    {
-      "name": "Audrey Hollander",
-      "person_id": 11450
-    },
-    {
-      "name": "Mark Davis",
-      "person_id": 8200
-    },
-    {
-      "name": "Alan Stafford",
-      "person_id": 20129
     }
   ],
   "release_date": "2012-02-22",

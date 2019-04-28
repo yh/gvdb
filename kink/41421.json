@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jordan Boss",
-      "person_id": 59434
-    },
-    {
       "name": "Jacob Durham",
       "person_id": 33772
+    },
+    {
+      "name": "Jordan Boss",
+      "person_id": 59434
     }
   ],
   "release_date": "2017-03-10",

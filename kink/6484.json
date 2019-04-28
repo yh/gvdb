@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Rusty Stevens",
-      "person_id": 19600
-    },
-    {
       "name": "Dean Tucker",
       "person_id": 18800
+    },
+    {
+      "name": "Rusty Stevens",
+      "person_id": 19600
     },
     {
       "name": "Van Darkholme",

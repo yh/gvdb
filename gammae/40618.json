@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
+      "name": "Cole Powers",
+      "person_id": 21056
+    },
+    {
       "name": "Fergus Smart",
       "person_id": 20879
     },
     {
       "name": "Peer Gomez",
       "person_id": 21055
-    },
-    {
-      "name": "Cole Powers",
-      "person_id": 21056
     }
   ],
   "release_date": "1998-04-20",

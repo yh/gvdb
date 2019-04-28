@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dominic Pacifico",
-      "person_id": 14892
-    },
-    {
       "name": "Alson Caramel",
       "person_id": 60960
+    },
+    {
+      "name": "Dominic Pacifico",
+      "person_id": 14892
     }
   ],
   "release_date": "2018-03-01",

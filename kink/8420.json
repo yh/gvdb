@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sasha Knox",
-      "person_id": 21127
-    },
-    {
       "name": "Maestro",
       "person_id": 11928
+    },
+    {
+      "name": "Sasha Knox",
+      "person_id": 21127
     }
   ],
   "release_date": "2010-04-30",

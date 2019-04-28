@@ -5,12 +5,12 @@
   "description": "Biggest Catch Part 1",
   "models": [
     {
-      "name": "Jackson Fillmore",
-      "person_id": 1971
-    },
-    {
       "name": "JD Phoenix",
       "person_id": 305
+    },
+    {
+      "name": "Jackson Fillmore",
+      "person_id": 1971
     }
   ],
   "release_date": "2015-07-22",

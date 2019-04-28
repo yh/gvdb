@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Natalie Mars",
-      "person_id": 60280
-    },
-    {
       "name": "Gabriel Dalessandro",
       "person_id": 20692
+    },
+    {
+      "name": "Natalie Mars",
+      "person_id": 60280
     }
   ],
   "release_date": "2017-11-14",

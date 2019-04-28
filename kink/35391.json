@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Lily LaBeau",
-      "person_id": 25162
-    },
-    {
       "name": "Bill Bailey",
       "person_id": 46601
     },
     {
       "name": "Isis Love",
       "person_id": 6584
+    },
+    {
+      "name": "Lily LaBeau",
+      "person_id": 25162
     }
   ],
   "release_date": "2014-04-29",

@@ -5,14 +5,6 @@
   "description": "Behind The Scenes ... There's a ton of behind-the-scenes footage on this video---nearly thirty full minutes and it's some of the best behind-the-scenes we've captured to date. You'll laugh your ass off as you get to see how things go when the camera usually isn't recording. I'm glad we've started capturing these moments. I'll be getting into more detail in the coming weeks in the update letter about all the antics you get to see here. Trust me, you're gonna love it.",
   "models": [
     {
-      "name": "Spencer",
-      "person_id": 35021
-    },
-    {
-      "name": "Gage",
-      "person_id": 35084
-    },
-    {
       "name": "Chance",
       "person_id": 35057
     },
@@ -23,6 +15,14 @@
     {
       "name": "Elijah",
       "person_id": 35081
+    },
+    {
+      "name": "Gage",
+      "person_id": 35084
+    },
+    {
+      "name": "Spencer",
+      "person_id": 35021
     }
   ],
   "release_date": "2008-08-15",

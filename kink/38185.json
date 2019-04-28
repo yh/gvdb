@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Riley Jenner",
-      "person_id": 56502
-    },
-    {
       "name": "Kate England",
       "person_id": 56948
     },
     {
       "name": "Phoenix Marie",
       "person_id": 17093
+    },
+    {
+      "name": "Riley Jenner",
+      "person_id": 56502
     }
   ],
   "release_date": "2015-05-11",

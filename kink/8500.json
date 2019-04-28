@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Amber Rayne",
-      "person_id": 12631
-    },
-    {
       "name": "Amai Liu",
       "person_id": 20629
+    },
+    {
+      "name": "Amber Rayne",
+      "person_id": 12631
     }
   ],
   "release_date": "2010-03-26",

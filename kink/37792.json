@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
+      "name": "Brenda Boop",
+      "person_id": 58069
+    },
+    {
       "name": "Mona Wales",
       "person_id": 51511
     },
     {
       "name": "Xavi Tralla",
       "person_id": 57764
-    },
-    {
-      "name": "Brenda Boop",
-      "person_id": 58069
     }
   ],
   "release_date": "2015-10-30",

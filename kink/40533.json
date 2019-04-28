@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Gina Valentina",
-      "person_id": 58814
-    },
-    {
       "name": "Ella Nova",
       "person_id": 51866
+    },
+    {
+      "name": "Gina Valentina",
+      "person_id": 58814
     },
     {
       "name": "Marco Banderas",

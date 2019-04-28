@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Josh West",
-      "person_id": 20861
-    },
-    {
       "name": "Dominic Pacifico",
       "person_id": 14892
+    },
+    {
+      "name": "Josh West",
+      "person_id": 20861
     }
   ],
   "release_date": "2009-10-29",

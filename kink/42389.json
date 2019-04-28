@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lance Hart",
-      "person_id": 37346
-    },
-    {
       "name": "DJ",
       "person_id": 20225
+    },
+    {
+      "name": "Lance Hart",
+      "person_id": 37346
     }
   ],
   "release_date": "2017-06-16",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nacho Vidal",
-      "person_id": 34792
-    },
-    {
       "name": "Bobbi Starr",
       "person_id": 11290
+    },
+    {
+      "name": "Nacho Vidal",
+      "person_id": 34792
     }
   ],
   "release_date": "2011-09-23",

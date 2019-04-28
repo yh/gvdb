@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Siri",
-      "person_id": 42679
-    },
-    {
       "name": "Danny Mountain",
       "person_id": 43091
+    },
+    {
+      "name": "Siri",
+      "person_id": 42679
     }
   ],
   "release_date": "2012-10-05",

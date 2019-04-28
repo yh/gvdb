@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Michael Soldier",
-      "person_id": 19510
-    },
-    {
       "name": "Buck Phillips",
       "person_id": 32060
+    },
+    {
+      "name": "Michael Soldier",
+      "person_id": 19510
     }
   ],
   "release_date": "2010-01-01",

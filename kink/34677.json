@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mia Gold",
-      "person_id": 46816
-    },
-    {
       "name": "Cherry Torn",
       "person_id": 11105
+    },
+    {
+      "name": "Mia Gold",
+      "person_id": 46816
     }
   ],
   "release_date": "2014-02-18",

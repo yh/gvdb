@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Nick Capra",
-      "person_id": 54751
-    },
-    {
       "name": "Derrick Collins",
       "person_id": 60591
+    },
+    {
+      "name": "Nick Capra",
+      "person_id": 54751
     }
   ],
   "release_date": "2018-08-22",

@@ -5,12 +5,12 @@
   "description": "Antal Posza's and Jacob Kormos' quick thinking extinguishes the flames caused by a burning cigarette and the excitement fires them up for more agressive hands-on maneuvers and exercise.",
   "models": [
     {
-      "name": "Jakob Kormos",
-      "person_id": 11039
-    },
-    {
       "name": "Antal Posza",
       "person_id": 11460
+    },
+    {
+      "name": "Jakob Kormos",
+      "person_id": 11039
     }
   ],
   "release_date": "2005-03-01",

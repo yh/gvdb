@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Rod Stevans",
-      "person_id": 20920
-    },
-    {
       "name": "Jonathan Collins",
       "person_id": 20955
+    },
+    {
+      "name": "Rod Stevans",
+      "person_id": 20920
     }
   ],
   "release_date": "1998-05-27",

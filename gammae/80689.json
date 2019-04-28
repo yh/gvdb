@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Dolf Dietrich",
-      "person_id": 38159
-    },
-    {
       "name": "Daniel Duress",
       "person_id": 38160
+    },
+    {
+      "name": "Dolf Dietrich",
+      "person_id": 38159
     }
   ],
   "release_date": "2016-01-08",

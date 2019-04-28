@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Josh West",
-      "person_id": 20861
-    },
-    {
       "name": "CJ",
       "person_id": 12677
+    },
+    {
+      "name": "Josh West",
+      "person_id": 20861
     }
   ],
   "release_date": "2011-03-25",

@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Michael Lance",
-      "person_id": 61865
-    },
-    {
       "name": "Gabe Rivers",
       "person_id": 61872
+    },
+    {
+      "name": "Michael Lance",
+      "person_id": 61865
     }
   ],
   "release_date": "2019-02-19",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Claire Adams",
-      "person_id": 378
-    },
-    {
       "name": "Billy",
       "person_id": 13720
+    },
+    {
+      "name": "Claire Adams",
+      "person_id": 378
     },
     {
       "name": "Sarah Jane Ceylon",

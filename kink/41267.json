@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Max Cameron",
-      "person_id": 57500
-    },
-    {
       "name": "Cameron Kincade",
       "person_id": 47006
+    },
+    {
+      "name": "Max Cameron",
+      "person_id": 57500
     }
   ],
   "release_date": "2016-12-01",

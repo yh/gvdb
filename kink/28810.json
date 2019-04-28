@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Marica Hase",
-      "person_id": 44408
-    },
-    {
       "name": "Astral Dust",
       "person_id": 43670
+    },
+    {
+      "name": "Marica Hase",
+      "person_id": 44408
     }
   ],
   "release_date": "2013-03-08",

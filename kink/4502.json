@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Naudia Nyce",
-      "person_id": 5552
-    },
-    {
       "name": "Ariel X",
       "person_id": 10464
+    },
+    {
+      "name": "Naudia Nyce",
+      "person_id": 5552
     }
   ],
   "release_date": "2007-06-12",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dana DeArmond",
-      "person_id": 4498
-    },
-    {
       "name": "Carter Cruise",
       "person_id": 54627
+    },
+    {
+      "name": "Dana DeArmond",
+      "person_id": 4498
     }
   ],
   "release_date": "2014-10-07",

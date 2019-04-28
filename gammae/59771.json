@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Cameron Kincade",
-      "person_id": 28035
-    },
-    {
       "name": "Brian Bonds",
       "person_id": 28078
+    },
+    {
+      "name": "Cameron Kincade",
+      "person_id": 28035
     }
   ],
   "release_date": "2013-01-17",

@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Marica Hase",
-      "person_id": 44408
-    },
-    {
       "name": "John Strong",
       "person_id": 17050
+    },
+    {
+      "name": "Marica Hase",
+      "person_id": 44408
     }
   ],
   "release_date": "2015-04-24",

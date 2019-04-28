@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kirsten Price",
-      "person_id": 42134
-    },
-    {
       "name": "Cassidy Klein",
       "person_id": 54867
+    },
+    {
+      "name": "Kirsten Price",
+      "person_id": 42134
     }
   ],
   "release_date": "2015-11-20",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Rob Yaeger",
-      "person_id": 45103
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
+    },
+    {
+      "name": "Rob Yaeger",
+      "person_id": 45103
     }
   ],
   "release_date": "2014-05-07",

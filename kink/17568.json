@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Krissy Lynn",
-      "person_id": 19730
-    },
-    {
       "name": "Angela Attison",
       "person_id": 37493
+    },
+    {
+      "name": "Krissy Lynn",
+      "person_id": 19730
     },
     {
       "name": "Mickey Mod",

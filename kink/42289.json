@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Izamar Gutierrez",
-      "person_id": 30590
-    },
-    {
       "name": "Alexa Nova",
       "person_id": 57359
     },
     {
       "name": "Charlotte Sartre",
       "person_id": 57874
+    },
+    {
+      "name": "Izamar Gutierrez",
+      "person_id": 30590
     }
   ],
   "release_date": "2017-06-30",

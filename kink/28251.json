@@ -11,6 +11,10 @@
   ],
   "models": [
     {
+      "name": "Brandon Fox",
+      "person_id": 47142
+    },
+    {
       "name": "Dana Vespoli",
       "person_id": 3321
     },
@@ -29,10 +33,6 @@
     {
       "name": "Mark Wood",
       "person_id": 31058
-    },
-    {
-      "name": "Brandon Fox",
-      "person_id": 47142
     }
   ],
   "release_date": "2013-01-23",

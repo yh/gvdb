@@ -5,16 +5,16 @@
   "description": "A hot and hungry poolside threesome featuring Peter Wilder, Rod Barry, and Jake Armstrong will leave you begging for more.",
   "models": [
     {
+      "name": "Jake Armstrong",
+      "person_id": 11245
+    },
+    {
       "name": "Peter Wilder",
       "person_id": 10858
     },
     {
       "name": "Rod Barry",
       "person_id": 10929
-    },
-    {
-      "name": "Jake Armstrong",
-      "person_id": 11245
     }
   ],
   "release_date": "2007-07-01",

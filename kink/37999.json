@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Owen Gray",
-      "person_id": 39181
+      "name": "AJ Applegate",
+      "person_id": 45997
+    },
+    {
+      "name": "Astral Dust",
+      "person_id": 43670
     },
     {
       "name": "Gage Sin",
       "person_id": 53344
-    },
-    {
-      "name": "AJ Applegate",
-      "person_id": 45997
     },
     {
       "name": "John Strong",
@@ -31,8 +31,8 @@
       "person_id": 16823
     },
     {
-      "name": "Astral Dust",
-      "person_id": 43670
+      "name": "Owen Gray",
+      "person_id": 39181
     }
   ],
   "release_date": "2015-05-27",

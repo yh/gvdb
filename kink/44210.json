@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
+      "name": "Christina Shine",
+      "person_id": 61845
+    },
+    {
       "name": "David Perry",
       "person_id": 33542
     },
     {
       "name": "Mugur",
       "person_id": 33526
-    },
-    {
-      "name": "Christina Shine",
-      "person_id": 61845
     }
   ],
   "release_date": "2019-01-15",

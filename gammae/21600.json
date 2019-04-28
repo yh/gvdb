@@ -5,16 +5,24 @@
   "description": "Jeremy Jordan is the Senator's son and a prodigal golden boy who sits at the center of a secret society dedicated to worship of the male form.  Studly socialites Chad Hunt, Adam Wolfe, Jason Tyler, Derek Cameron, Clay Maverick and Sebatian Cole take turns feeding and filling Jeremy's unquenched desires.",
   "models": [
     {
+      "name": "Adam Wolfe",
+      "person_id": 10992
+    },
+    {
       "name": "Chad Hunt",
       "person_id": 10830
+    },
+    {
+      "name": "Clay Maverick",
+      "person_id": 11363
     },
     {
       "name": "Derek Cameron",
       "person_id": 11223
     },
     {
-      "name": "Adam Wolfe",
-      "person_id": 10992
+      "name": "Jason Tyler",
+      "person_id": 11048
     },
     {
       "name": "Jeremy Jordan",
@@ -23,14 +31,6 @@
     {
       "name": "Sebastian Cole",
       "person_id": 11008
-    },
-    {
-      "name": "Clay Maverick",
-      "person_id": 11363
-    },
-    {
-      "name": "Jason Tyler",
-      "person_id": 11048
     }
   ],
   "release_date": "2003-07-01",

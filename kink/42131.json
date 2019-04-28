@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jessica Fox",
-      "person_id": 17013
-    },
-    {
       "name": "Corbin Dallas",
       "person_id": 51921
+    },
+    {
+      "name": "Jessica Fox",
+      "person_id": 17013
     }
   ],
   "release_date": "2017-05-30",

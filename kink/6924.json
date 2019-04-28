@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Beverly Hills",
+      "person_id": 17432
+    },
+    {
       "name": "Harmony",
       "person_id": 6341
     },
     {
       "name": "Mark Davis",
       "person_id": 8200
-    },
-    {
-      "name": "Beverly Hills",
-      "person_id": 17432
     },
     {
       "name": "Mr. Pete",

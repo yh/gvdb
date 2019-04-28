@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Leon",
-      "person_id": 60597
-    },
-    {
       "name": "Hans Berlin",
       "person_id": 52111
+    },
+    {
+      "name": "Leon",
+      "person_id": 60597
     }
   ],
   "release_date": "2018-01-24",

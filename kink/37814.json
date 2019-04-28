@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sabrina Banks",
-      "person_id": 55325
-    },
-    {
       "name": "John Strong",
       "person_id": 17050
+    },
+    {
+      "name": "Sabrina Banks",
+      "person_id": 55325
     }
   ],
   "release_date": "2015-04-17",

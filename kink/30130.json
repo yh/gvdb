@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Troy Sparks",
-      "person_id": 43589
-    },
-    {
       "name": "Sebastian Keys",
       "person_id": 20316
+    },
+    {
+      "name": "Troy Sparks",
+      "person_id": 43589
     }
   ],
   "release_date": "2013-05-29",

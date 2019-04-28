@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Chloie Madison",
-      "person_id": 3376
-    },
-    {
       "name": "Audrey Leigh",
       "person_id": 1587
+    },
+    {
+      "name": "Chloie Madison",
+      "person_id": 3376
     }
   ],
   "release_date": "2004-01-09",

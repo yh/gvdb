@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Sparky Sin Claire",
-      "person_id": 29494
-    },
-    {
-      "name": "Kait Snow",
-      "person_id": 25825
+      "name": "Jack Hammer",
+      "person_id": 18499
     },
     {
       "name": "Jessie Cox",
       "person_id": 18739
     },
     {
-      "name": "Jack Hammer",
-      "person_id": 18499
+      "name": "Kait Snow",
+      "person_id": 25825
+    },
+    {
+      "name": "Sparky Sin Claire",
+      "person_id": 29494
     }
   ],
   "release_date": "2011-02-18",

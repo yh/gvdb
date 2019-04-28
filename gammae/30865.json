@@ -5,16 +5,16 @@
   "description": "For Noah Brooks and Landon Terry, spreading the Word is an everyday way of life. Patience, virtue and nobility are the characteristics that govern their actions. However, when they knock on Jay Dubbs' door, all that is about to change. Seems Jay has something he wants to spread too, and it has nothing to do with the Bible. Before too long, Jay has convinced these two religious pushers to try something else to ease the doubt and worry: his Fleshlight. Skeptical at first, once Landon & Noah have tried it, Jay knows they'll both be converted into believers.Enjoy!",
   "models": [
     {
-      "name": "Noah Brooks",
-      "person_id": 16700
-    },
-    {
       "name": "Jay Dubbs",
       "person_id": 16701
     },
     {
       "name": "Landon Terry",
       "person_id": 16702
+    },
+    {
+      "name": "Noah Brooks",
+      "person_id": 16700
     }
   ],
   "release_date": "2011-06-28",

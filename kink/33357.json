@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Vicki Chase",
-      "person_id": 22412
-    },
-    {
       "name": "Mr. Pete",
       "person_id": 16823
+    },
+    {
+      "name": "Vicki Chase",
+      "person_id": 22412
     }
   ],
   "release_date": "2013-09-20",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kym Wilde",
-      "person_id": 99
-    },
-    {
       "name": "Kendra James",
       "person_id": 247
+    },
+    {
+      "name": "Kym Wilde",
+      "person_id": 99
     }
   ],
   "release_date": "2003-07-25",

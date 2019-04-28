@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mindy Main",
-      "person_id": 12904
-    },
-    {
       "name": "Mark Davis",
       "person_id": 8200
+    },
+    {
+      "name": "Mindy Main",
+      "person_id": 12904
     }
   ],
   "release_date": "2007-04-12",

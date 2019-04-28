@@ -11,28 +11,28 @@
   ],
   "models": [
     {
-      "name": "Mckenzie Lee",
-      "person_id": 24610
+      "name": "Jon Jon",
+      "person_id": 35195
     },
     {
-      "name": "Rico Strong",
-      "person_id": 30846
+      "name": "Mckenzie Lee",
+      "person_id": 24610
     },
     {
       "name": "Mickey Mod",
       "person_id": 19623
     },
     {
-      "name": "Jon Jon",
-      "person_id": 35195
+      "name": "Mr. Marcus",
+      "person_id": 36574
+    },
+    {
+      "name": "Rico Strong",
+      "person_id": 30846
     },
     {
       "name": "Shane Diesel",
       "person_id": 36520
-    },
-    {
-      "name": "Mr. Marcus",
-      "person_id": 36574
     }
   ],
   "release_date": "2011-12-21",

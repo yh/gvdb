@@ -5,20 +5,20 @@
   "description": "",
   "models": [
     {
-      "name": "Sandor Sablon",
-      "person_id": 20832
-    },
-    {
-      "name": "Ron Strand",
-      "person_id": 20846
+      "name": "Austin Macska",
+      "person_id": 20897
     },
     {
       "name": "Daniel Halasz",
       "person_id": 20852
     },
     {
-      "name": "Austin Macska",
-      "person_id": 20897
+      "name": "Ron Strand",
+      "person_id": 20846
+    },
+    {
+      "name": "Sandor Sablon",
+      "person_id": 20832
     }
   ],
   "release_date": "1998-03-25",

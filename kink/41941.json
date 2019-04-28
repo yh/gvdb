@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Mia Little",
-      "person_id": 51496
-    },
-    {
       "name": "John Pepe",
       "person_id": 61343
+    },
+    {
+      "name": "Mia Little",
+      "person_id": 51496
     }
   ],
   "release_date": "2017-12-28",

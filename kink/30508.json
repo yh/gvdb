@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Phoenix Marie",
-      "person_id": 17093
-    },
-    {
       "name": "Derrick Pierce",
       "person_id": 14403
+    },
+    {
+      "name": "Phoenix Marie",
+      "person_id": 17093
     }
   ],
   "release_date": "2013-10-06",

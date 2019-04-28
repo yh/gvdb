@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Nash Lawler",
-      "person_id": 12933
-    },
-    {
       "name": "Derrek Diamond",
       "person_id": 13261
+    },
+    {
+      "name": "Nash Lawler",
+      "person_id": 12933
     }
   ],
   "release_date": "2009-10-14",

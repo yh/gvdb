@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sadie West",
-      "person_id": 21051
-    },
-    {
       "name": "Mark Davis",
       "person_id": 8200
+    },
+    {
+      "name": "Sadie West",
+      "person_id": 21051
     }
   ],
   "release_date": "2009-12-25",

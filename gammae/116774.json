@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Rik Jammer",
-      "person_id": 26297
-    },
-    {
       "name": "Bryan Wyatt",
       "person_id": 47285
+    },
+    {
+      "name": "Rik Jammer",
+      "person_id": 26297
     }
   ],
   "release_date": "2016-05-05",

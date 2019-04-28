@@ -5,12 +5,12 @@
   "description": "How about a little Irish boy with red pubes, sitting in the Edge chair in honor of St. Patrick's Day?\nAll I can say is that Bastian sure has bouncy balls! Enjoy...",
   "models": [
     {
-      "name": "Bryan",
-      "person_id": 3120
-    },
-    {
       "name": "Bastian",
       "person_id": 3361
+    },
+    {
+      "name": "Bryan",
+      "person_id": 3120
     }
   ],
   "release_date": "2010-03-17",

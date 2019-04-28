@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Piercedangel",
-      "person_id": 292
-    },
-    {
       "name": "Kym Wilde",
       "person_id": 99
+    },
+    {
+      "name": "Piercedangel",
+      "person_id": 292
     }
   ],
   "release_date": "2002-08-23",

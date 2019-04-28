@@ -11,6 +11,10 @@
   ],
   "models": [
     {
+      "name": "Annie Cruz",
+      "person_id": 7776
+    },
+    {
       "name": "Master Avery",
       "person_id": 24956
     },
@@ -19,20 +23,16 @@
       "person_id": 19623
     },
     {
-      "name": "Annie Cruz",
-      "person_id": 7776
-    },
-    {
       "name": "Parker London",
       "person_id": 22006
     },
     {
-      "name": "Wolf Hudson",
-      "person_id": 14471
-    },
-    {
       "name": "Sebastian Keys",
       "person_id": 20316
+    },
+    {
+      "name": "Wolf Hudson",
+      "person_id": 14471
     }
   ],
   "release_date": "2011-10-05",

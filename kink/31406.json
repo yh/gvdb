@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jack Hammer",
-      "person_id": 18499
-    },
-    {
       "name": "Chastity Lynn",
       "person_id": 38673
+    },
+    {
+      "name": "Jack Hammer",
+      "person_id": 18499
     }
   ],
   "release_date": "2013-08-02",

@@ -9,10 +9,6 @@
       "person_id": 15191
     },
     {
-      "name": "Nick Nicaste",
-      "person_id": 16105
-    },
-    {
       "name": "Giovanni Bellini",
       "person_id": 15533
     },
@@ -23,6 +19,10 @@
     {
       "name": "Mark Evrett",
       "person_id": 15967
+    },
+    {
+      "name": "Nick Nicaste",
+      "person_id": 16105
     }
   ],
   "release_date": "2008-06-30",

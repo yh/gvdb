@@ -11,14 +11,6 @@
   ],
   "models": [
     {
-      "name": "Sheena Ryder",
-      "person_id": 35620
-    },
-    {
-      "name": "Prince Yahshua",
-      "person_id": 38513
-    },
-    {
       "name": "Karlo Karrera",
       "person_id": 35221
     },
@@ -31,8 +23,16 @@
       "person_id": 16823
     },
     {
+      "name": "Prince Yahshua",
+      "person_id": 38513
+    },
+    {
       "name": "Shades",
       "person_id": 44075
+    },
+    {
+      "name": "Sheena Ryder",
+      "person_id": 35620
     }
   ],
   "release_date": "2013-01-16",

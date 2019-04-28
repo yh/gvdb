@@ -11,20 +11,16 @@
   ],
   "models": [
     {
-      "name": "Lyla Storm",
-      "person_id": 33882
+      "name": "Astral Dust",
+      "person_id": 43670
     },
     {
       "name": "John Strong",
       "person_id": 17050
     },
     {
-      "name": "Toni Ribas",
-      "person_id": 38962
-    },
-    {
-      "name": "Astral Dust",
-      "person_id": 43670
+      "name": "Lyla Storm",
+      "person_id": 33882
     },
     {
       "name": "Marco Banderas",
@@ -33,6 +29,10 @@
     {
       "name": "Tommy Pistol",
       "person_id": 12663
+    },
+    {
+      "name": "Toni Ribas",
+      "person_id": 38962
     }
   ],
   "release_date": "2014-09-24",

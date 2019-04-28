@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Scott Harbor",
-      "person_id": 54292
-    },
-    {
       "name": "Eli Hunter",
       "person_id": 51998
+    },
+    {
+      "name": "Scott Harbor",
+      "person_id": 54292
     }
   ],
   "release_date": "2015-01-14",

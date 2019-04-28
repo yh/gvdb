@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "TJ Cummings",
-      "person_id": 12891
-    },
-    {
       "name": "Emma Heart",
       "person_id": 18993
+    },
+    {
+      "name": "TJ Cummings",
+      "person_id": 12891
     }
   ],
   "release_date": "2010-12-09",

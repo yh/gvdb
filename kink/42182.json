@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
+      "name": "Esmi Lee",
+      "person_id": 49417
+    },
+    {
       "name": "Kaisey Dean",
       "person_id": 55766
     },
     {
       "name": "Marina Angel",
       "person_id": 53889
-    },
-    {
-      "name": "Esmi Lee",
-      "person_id": 49417
     }
   ],
   "release_date": "2017-11-02",

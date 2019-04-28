@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Wilfried Knight",
-      "person_id": 35983
-    },
-    {
       "name": "Leo Forte",
       "person_id": 22142
+    },
+    {
+      "name": "Wilfried Knight",
+      "person_id": 35983
     }
   ],
   "release_date": "2012-09-20",

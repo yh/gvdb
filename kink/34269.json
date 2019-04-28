@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Christian Wilde",
-      "person_id": 21037
+      "name": "Big Red",
+      "person_id": 29981
     },
     {
-      "name": "Jason Miller",
-      "person_id": 17619
+      "name": "Christian Wilde",
+      "person_id": 21037
     },
     {
       "name": "Connor Maguire",
       "person_id": 46426
     },
     {
-      "name": "Big Red",
-      "person_id": 29981
+      "name": "Jason Miller",
+      "person_id": 17619
     }
   ],
   "release_date": "2013-12-13",

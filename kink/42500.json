@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
+      "name": "Ava Mir-Ausziehen",
+      "person_id": 60346
+    },
+    {
       "name": "Bella Vendetta",
       "person_id": 60348
     },
     {
       "name": "Shiva",
       "person_id": 60347
-    },
-    {
-      "name": "Ava Mir-Ausziehen",
-      "person_id": 60346
     }
   ],
   "release_date": "2017-07-17",

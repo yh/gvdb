@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Omar Galanti",
-      "person_id": 42129
-    },
-    {
       "name": "Cristal Cherry",
       "person_id": 44485
+    },
+    {
+      "name": "Omar Galanti",
+      "person_id": 42129
     }
   ],
   "release_date": "2012-10-12",

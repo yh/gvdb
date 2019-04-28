@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nadia Styles",
-      "person_id": 10823
-    },
-    {
       "name": "Astral Dust",
       "person_id": 43670
+    },
+    {
+      "name": "Nadia Styles",
+      "person_id": 10823
     }
   ],
   "release_date": "2014-08-29",

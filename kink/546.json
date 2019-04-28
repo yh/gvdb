@@ -3,20 +3,15 @@
     "Wired Pussy"
   ],
   "description": "Kylie and Chanta-Rose will have an \"electrifying\" slumber party at their friend Liz's house.",
-  "directors": [
-    {
-      "name": "Cowgirl",
-      "person_id": 110
-    }
-  ],
+  "directors": [],
   "models": [
-    {
-      "name": "Kylie Wilde",
-      "person_id": 297
-    },
     {
       "name": "Chanta-Rose",
       "person_id": 124
+    },
+    {
+      "name": "Kylie Wilde",
+      "person_id": 297
     }
   ],
   "release_date": "2002-09-24",

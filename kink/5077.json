@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Gianna Lynn",
-      "person_id": 14081
-    },
-    {
       "name": "Claire Dames",
       "person_id": 14027
+    },
+    {
+      "name": "Gianna Lynn",
+      "person_id": 14081
     }
   ],
   "release_date": "2008-01-25",

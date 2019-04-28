@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Nick Capra",
-      "person_id": 35574
-    },
-    {
       "name": "Brendan Patrick",
       "person_id": 36118
+    },
+    {
+      "name": "Nick Capra",
+      "person_id": 35574
     }
   ],
   "release_date": "2015-07-30",

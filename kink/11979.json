@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Chloe Camilla",
+      "person_id": 22493
+    },
+    {
       "name": "Lily LaBeau",
       "person_id": 25162
     },
     {
       "name": "Lorelei Lee",
       "person_id": 758
-    },
-    {
-      "name": "Chloe Camilla",
-      "person_id": 22493
     }
   ],
   "release_date": "2011-03-17",

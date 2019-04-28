@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Yasmine de Leon",
-      "person_id": 21595
-    },
-    {
       "name": "Cherry Torn",
       "person_id": 11105
+    },
+    {
+      "name": "Yasmine de Leon",
+      "person_id": 21595
     }
   ],
   "release_date": "2015-04-16",

@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Mike Chambers",
-      "person_id": 34180
-    },
-    {
       "name": "Jacob Ladder",
       "person_id": 35747
+    },
+    {
+      "name": "Mike Chambers",
+      "person_id": 34180
     }
   ],
   "release_date": "2015-02-23",

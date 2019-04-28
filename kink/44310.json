@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Valentina Nappi",
-      "person_id": 58888
+      "name": "Mick Blue",
+      "person_id": 35591
     },
     {
       "name": "Tommy Pistol",
       "person_id": 12663
     },
     {
-      "name": "Mick Blue",
-      "person_id": 35591
+      "name": "Valentina Nappi",
+      "person_id": 58888
     }
   ],
   "release_date": "2019-02-15",

@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Elise Graves",
+      "person_id": 28827
+    },
+    {
       "name": "Mickey Mod",
       "person_id": 19623
     },
     {
       "name": "Owen Gray",
       "person_id": 39181
-    },
-    {
-      "name": "Elise Graves",
-      "person_id": 28827
     }
   ],
   "release_date": "2014-01-26",

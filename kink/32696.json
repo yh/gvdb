@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Serena Blair",
-      "person_id": 31165
-    },
-    {
       "name": "Luna Light",
       "person_id": 50848
+    },
+    {
+      "name": "Serena Blair",
+      "person_id": 31165
     }
   ],
   "release_date": "2013-09-27",

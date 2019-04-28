@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Melody Jordan",
-      "person_id": 42188
-    },
-    {
       "name": "Maestro",
       "person_id": 11928
+    },
+    {
+      "name": "Melody Jordan",
+      "person_id": 42188
     }
   ],
   "release_date": "2012-10-05",

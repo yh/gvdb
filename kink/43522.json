@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Natalie Mars",
-      "person_id": 60280
-    },
-    {
       "name": "Cherry Torn",
       "person_id": 11105
+    },
+    {
+      "name": "Natalie Mars",
+      "person_id": 60280
     }
   ],
   "release_date": "2018-09-24",

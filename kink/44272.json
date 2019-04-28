@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
+      "name": "Alex More",
+      "person_id": 61857
+    },
+    {
       "name": "Charlotte Cross",
       "person_id": 58806
     },
     {
       "name": "D. Arclyte",
       "person_id": 59025
-    },
-    {
-      "name": "Alex More",
-      "person_id": 61857
     }
   ],
   "release_date": "2019-02-08",

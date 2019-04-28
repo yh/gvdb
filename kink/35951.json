@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Maestro",
-      "person_id": 11928
+      "name": "Amy Faye",
+      "person_id": 52578
     },
     {
       "name": "Cherry Torn",
       "person_id": 11105
     },
     {
-      "name": "Amy Faye",
-      "person_id": 52578
+      "name": "Maestro",
+      "person_id": 11928
     }
   ],
   "release_date": "2014-09-13",

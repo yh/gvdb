@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Simone Sonay",
-      "person_id": 34687
-    },
-    {
       "name": "Charli Piper",
       "person_id": 52294
+    },
+    {
+      "name": "Simone Sonay",
+      "person_id": 34687
     }
   ],
   "release_date": "2015-05-15",

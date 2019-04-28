@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nora Riley",
-      "person_id": 58748
-    },
-    {
       "name": "Derrick Pierce",
       "person_id": 14403
+    },
+    {
+      "name": "Nora Riley",
+      "person_id": 58748
     }
   ],
   "release_date": "2016-08-19",

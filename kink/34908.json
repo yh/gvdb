@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Maria Bellucci",
-      "person_id": 16293
-    },
-    {
       "name": "Kurt Lockwood",
       "person_id": 5422
+    },
+    {
+      "name": "Maria Bellucci",
+      "person_id": 16293
     }
   ],
   "release_date": "2010-02-08",

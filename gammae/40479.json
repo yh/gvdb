@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Sandor Lenart",
-      "person_id": 20734
-    },
-    {
       "name": "Martin Sandor",
       "person_id": 20741
+    },
+    {
+      "name": "Sandor Lenart",
+      "person_id": 20734
     }
   ],
   "release_date": "1998-02-18",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kip Johnson",
-      "person_id": 51603
-    },
-    {
       "name": "Christian Wilde",
       "person_id": 21037
+    },
+    {
+      "name": "Kip Johnson",
+      "person_id": 51603
     }
   ],
   "release_date": "2015-09-03",

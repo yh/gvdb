@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Maestro Stefanos",
-      "person_id": 17148
-    },
-    {
       "name": "Krysta Kaos",
       "person_id": 25624
+    },
+    {
+      "name": "Maestro Stefanos",
+      "person_id": 17148
     },
     {
       "name": "Nerine Mechanique",

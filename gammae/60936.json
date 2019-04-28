@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
-      "name": "Nick Decker",
-      "person_id": 31387
+      "name": "Caleb Jones",
+      "person_id": 32095
     },
     {
       "name": "Isaac Conn",
       "person_id": 31994
     },
     {
-      "name": "Caleb Jones",
-      "person_id": 32095
+      "name": "Nick Decker",
+      "person_id": 31387
     }
   ],
   "release_date": "2013-11-01",

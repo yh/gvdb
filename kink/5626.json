@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Samantha Sin",
-      "person_id": 14640
-    },
-    {
       "name": "Lorelei Lee",
       "person_id": 758
+    },
+    {
+      "name": "Samantha Sin",
+      "person_id": 14640
     }
   ],
   "release_date": "2008-10-24",

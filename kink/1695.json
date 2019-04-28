@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Chanta-Rose",
-      "person_id": 124
-    },
-    {
       "name": "Audrey Leigh",
       "person_id": 1587
+    },
+    {
+      "name": "Chanta-Rose",
+      "person_id": 124
     }
   ],
   "release_date": "2004-01-22",

@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Lea Lexis",
-      "person_id": 17836
-    },
-    {
       "name": "AJ Applegate",
       "person_id": 45997
     },
     {
       "name": "Alex Chance",
       "person_id": 42476
+    },
+    {
+      "name": "Lea Lexis",
+      "person_id": 17836
     }
   ],
   "release_date": "2014-12-16",

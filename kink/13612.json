@@ -11,12 +11,20 @@
   ],
   "models": [
     {
-      "name": "James Deen",
-      "person_id": 8935
+      "name": "David Perry",
+      "person_id": 33542
     },
     {
       "name": "Frank Gun",
       "person_id": 18068
+    },
+    {
+      "name": "James Deen",
+      "person_id": 8935
+    },
+    {
+      "name": "Sasha Rose",
+      "person_id": 33541
     },
     {
       "name": "Steve Holmes",
@@ -25,14 +33,6 @@
     {
       "name": "Zenza Raggi",
       "person_id": 20195
-    },
-    {
-      "name": "Sasha Rose",
-      "person_id": 33541
-    },
-    {
-      "name": "David Perry",
-      "person_id": 33542
     }
   ],
   "release_date": "2011-08-03",

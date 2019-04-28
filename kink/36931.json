@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jaxton Wheeler",
-      "person_id": 53352
-    },
-    {
       "name": "Connor Halsted",
       "person_id": 55956
+    },
+    {
+      "name": "Jaxton Wheeler",
+      "person_id": 53352
     }
   ],
   "release_date": "2014-11-27",

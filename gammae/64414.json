@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Toby Springs",
-      "person_id": 32948
-    },
-    {
       "name": "Colt Rivers",
       "person_id": 33422
+    },
+    {
+      "name": "Toby Springs",
+      "person_id": 32948
     }
   ],
   "release_date": "2014-05-01",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Madeleine Rose",
-      "person_id": 5196
-    },
-    {
       "name": "Kym Wilde",
       "person_id": 99
+    },
+    {
+      "name": "Madeleine Rose",
+      "person_id": 5196
     }
   ],
   "release_date": "2004-05-21",

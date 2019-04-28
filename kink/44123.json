@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Sean Patrick",
-      "person_id": 61551
-    },
-    {
       "name": "Doug Jeffries",
       "person_id": 61819
     },
     {
       "name": "Mario Ortiz",
       "person_id": 61820
+    },
+    {
+      "name": "Sean Patrick",
+      "person_id": 61551
     }
   ],
   "release_date": "2018-12-25",

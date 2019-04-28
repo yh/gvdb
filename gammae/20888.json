@@ -9,10 +9,6 @@
       "person_id": 10806
     },
     {
-      "name": "Petr Halasz",
-      "person_id": 11554
-    },
-    {
       "name": "Janos Volt",
       "person_id": 11077
     },
@@ -23,6 +19,10 @@
     {
       "name": "Mihal Laszlo",
       "person_id": 11454
+    },
+    {
+      "name": "Petr Halasz",
+      "person_id": 11554
     }
   ],
   "release_date": "2010-07-04",

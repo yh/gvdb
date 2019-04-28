@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "John Johnson",
+      "person_id": 49204
+    },
+    {
       "name": "John Strong",
       "person_id": 17050
     },
     {
       "name": "Karlo Karrera",
       "person_id": 35221
-    },
-    {
-      "name": "John Johnson",
-      "person_id": 49204
     },
     {
       "name": "Kat Dior",

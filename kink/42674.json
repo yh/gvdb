@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Luca Finn",
-      "person_id": 60380
-    },
-    {
       "name": "Aiden Jason",
       "person_id": 51736
     },
     {
       "name": "Deacon Hunter",
       "person_id": 60375
+    },
+    {
+      "name": "Luca Finn",
+      "person_id": 60380
     }
   ],
   "release_date": "2018-01-05",

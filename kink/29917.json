@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Andrew Blue",
-      "person_id": 20992
-    },
-    {
       "name": "Alex Adams",
       "person_id": 46014
+    },
+    {
+      "name": "Andrew Blue",
+      "person_id": 20992
     }
   ],
   "release_date": "2013-03-27",

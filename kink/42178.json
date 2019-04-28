@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lauren Phillips",
-      "person_id": 59097
-    },
-    {
       "name": "Derrick Pierce",
       "person_id": 14403
+    },
+    {
+      "name": "Lauren Phillips",
+      "person_id": 59097
     }
   ],
   "release_date": "2017-05-19",

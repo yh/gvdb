@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Rogue Status",
-      "person_id": 51589
-    },
-    {
       "name": "Alessio Romero",
       "person_id": 20463
     },
     {
       "name": "Jaxton Wheeler",
       "person_id": 53352
+    },
+    {
+      "name": "Joey Carter",
+      "person_id": 53626
     },
     {
       "name": "Joey Rico",
@@ -31,8 +31,8 @@
       "person_id": 51659
     },
     {
-      "name": "Joey Carter",
-      "person_id": 53626
+      "name": "Rogue Status",
+      "person_id": 51589
     }
   ],
   "release_date": "2014-06-18",

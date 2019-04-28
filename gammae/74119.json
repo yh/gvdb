@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Marcus Isaacs",
-      "person_id": 34469
-    },
-    {
       "name": "Austin Keyes",
       "person_id": 36902
+    },
+    {
+      "name": "Marcus Isaacs",
+      "person_id": 34469
     }
   ],
   "release_date": "2015-05-14",

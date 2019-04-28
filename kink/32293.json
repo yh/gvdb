@@ -11,14 +11,6 @@
   ],
   "models": [
     {
-      "name": "Steve Holmes",
-      "person_id": 15810
-    },
-    {
-      "name": "Savannah Secret",
-      "person_id": 50139
-    },
-    {
       "name": "Erikhard",
       "person_id": 51094
     },
@@ -29,6 +21,14 @@
     {
       "name": "Omar Galanti",
       "person_id": 42129
+    },
+    {
+      "name": "Savannah Secret",
+      "person_id": 50139
+    },
+    {
+      "name": "Steve Holmes",
+      "person_id": 15810
     },
     {
       "name": "Yury",

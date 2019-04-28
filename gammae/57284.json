@@ -5,16 +5,16 @@
   "description": "Triumvirate: Hungry For Love",
   "models": [
     {
-      "name": "Hudson Grant",
-      "person_id": 29464
+      "name": "Denis Aysner",
+      "person_id": 29549
     },
     {
       "name": "Dino Vista",
       "person_id": 29526
     },
     {
-      "name": "Denis Aysner",
-      "person_id": 29549
+      "name": "Hudson Grant",
+      "person_id": 29464
     }
   ],
   "release_date": "2003-04-30",

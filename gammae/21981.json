@@ -5,12 +5,12 @@
   "description": "Starring Troy Halston and Alan Reeves.",
   "models": [
     {
-      "name": "Troy Halston",
-      "person_id": 10889
-    },
-    {
       "name": "Alan Reeves",
       "person_id": 11543
+    },
+    {
+      "name": "Troy Halston",
+      "person_id": 10889
     }
   ],
   "release_date": "2007-07-01",

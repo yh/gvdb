@@ -11,6 +11,18 @@
   ],
   "models": [
     {
+      "name": "Bobbi Starr",
+      "person_id": 11290
+    },
+    {
+      "name": "Gia DiMarco",
+      "person_id": 21436
+    },
+    {
+      "name": "John Jammen",
+      "person_id": 22596
+    },
+    {
       "name": "Lorelei Lee",
       "person_id": 758
     },
@@ -27,24 +39,12 @@
       "person_id": 20316
     },
     {
-      "name": "Tyler Alexander",
-      "person_id": 39382
-    },
-    {
-      "name": "John Jammen",
-      "person_id": 22596
-    },
-    {
-      "name": "Gia DiMarco",
-      "person_id": 21436
-    },
-    {
-      "name": "Bobbi Starr",
-      "person_id": 11290
-    },
-    {
       "name": "Seth Storm",
       "person_id": 33071
+    },
+    {
+      "name": "Tyler Alexander",
+      "person_id": 39382
     }
   ],
   "release_date": "2012-12-19",

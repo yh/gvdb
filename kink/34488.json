@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dayton O'Connor",
-      "person_id": 45656
-    },
-    {
       "name": "Connor Patricks",
       "person_id": 47357
+    },
+    {
+      "name": "Dayton O'Connor",
+      "person_id": 45656
     }
   ],
   "release_date": "2013-12-04",

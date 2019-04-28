@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tiffany Star",
-      "person_id": 26844
-    },
-    {
       "name": "Derrick Pierce",
       "person_id": 14403
+    },
+    {
+      "name": "Tiffany Star",
+      "person_id": 26844
     }
   ],
   "release_date": "2010-10-08",

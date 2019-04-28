@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Zmirnena Pritelkyne",
-      "person_id": 61727
-    },
-    {
       "name": "Libor Kenda",
       "person_id": 61728
+    },
+    {
+      "name": "Zmirnena Pritelkyne",
+      "person_id": 61727
     }
   ],
   "release_date": "2018-11-16",

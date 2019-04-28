@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nika Noire",
-      "person_id": 17418
-    },
-    {
       "name": "Chanel Preston",
       "person_id": 26542
+    },
+    {
+      "name": "Nika Noire",
+      "person_id": 17418
     }
   ],
   "release_date": "2010-12-10",

@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "David Chase",
-      "person_id": 27963
-    },
-    {
       "name": "Alex Adams",
       "person_id": 28090
+    },
+    {
+      "name": "David Chase",
+      "person_id": 27963
     }
   ],
   "release_date": "2014-04-22",

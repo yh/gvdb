@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mia Rider",
-      "person_id": 44549
-    },
-    {
       "name": "Danny Wylde",
       "person_id": 7790
+    },
+    {
+      "name": "Mia Rider",
+      "person_id": 44549
     }
   ],
   "release_date": "2013-02-22",

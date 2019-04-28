@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Mike Gaite",
-      "person_id": 34373
-    },
-    {
       "name": "Max Sargent",
       "person_id": 35576
+    },
+    {
+      "name": "Mike Gaite",
+      "person_id": 34373
     }
   ],
   "release_date": "2015-07-31",

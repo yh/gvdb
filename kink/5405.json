@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jandi Lin",
-      "person_id": 15590
-    },
-    {
       "name": "Claire Adams",
       "person_id": 378
+    },
+    {
+      "name": "Jandi Lin",
+      "person_id": 15590
     }
   ],
   "release_date": "2008-07-03",

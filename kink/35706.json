@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Angelina Chung",
+      "person_id": 54955
+    },
+    {
       "name": "Karlo Karrera",
       "person_id": 35221
     },
     {
       "name": "Veruca James",
       "person_id": 43570
-    },
-    {
-      "name": "Angelina Chung",
-      "person_id": 54955
     }
   ],
   "release_date": "2014-08-15",

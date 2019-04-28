@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Cole Conners",
-      "person_id": 4733
-    },
-    {
       "name": "Cami",
       "person_id": 5629
+    },
+    {
+      "name": "Cole Conners",
+      "person_id": 4733
     }
   ],
   "release_date": "2004-07-30",

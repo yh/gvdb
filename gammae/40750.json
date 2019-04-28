@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Steve Hunt",
-      "person_id": 20940
-    },
-    {
       "name": "James Jones",
       "person_id": 20980
+    },
+    {
+      "name": "Steve Hunt",
+      "person_id": 20940
     }
   ],
   "release_date": "1998-06-06",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sean Duran",
-      "person_id": 51055
-    },
-    {
       "name": "Dayton O'Connor",
       "person_id": 45656
+    },
+    {
+      "name": "Sean Duran",
+      "person_id": 51055
     }
   ],
   "release_date": "2014-01-29",

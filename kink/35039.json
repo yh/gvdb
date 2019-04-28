@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Devaun",
-      "person_id": 14316
-    },
-    {
       "name": "Brandon Iron",
       "person_id": 12540
+    },
+    {
+      "name": "Devaun",
+      "person_id": 14316
     }
   ],
   "release_date": "2010-04-12",

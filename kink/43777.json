@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Goddess Starla",
-      "person_id": 52427
-    },
-    {
       "name": "Ava Mir-Ausziehen",
       "person_id": 60346
+    },
+    {
+      "name": "Goddess Starla",
+      "person_id": 52427
     }
   ],
   "release_date": "2018-09-06",

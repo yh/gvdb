@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Justice",
-      "person_id": 61575
-    },
-    {
       "name": "Ava Devine",
       "person_id": 4345
+    },
+    {
+      "name": "Justice",
+      "person_id": 61575
     }
   ],
   "release_date": "2018-10-04",

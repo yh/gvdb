@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Karmen Karma",
-      "person_id": 48674
-    },
-    {
       "name": "Bill Bailey",
       "person_id": 46601
+    },
+    {
+      "name": "Karmen Karma",
+      "person_id": 48674
     },
     {
       "name": "Melissa May",

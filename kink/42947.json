@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Master Aaron",
-      "person_id": 60724
-    },
-    {
       "name": "Clyde Walton",
       "person_id": 60725
+    },
+    {
+      "name": "Master Aaron",
+      "person_id": 60724
     }
   ],
   "release_date": "2017-11-16",

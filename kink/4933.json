@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Delilah Strong",
-      "person_id": 11801
-    },
-    {
       "name": "Claire Adams",
       "person_id": 378
+    },
+    {
+      "name": "Delilah Strong",
+      "person_id": 11801
     }
   ],
   "release_date": "2008-03-21",

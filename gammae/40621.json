@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Jules Terry",
-      "person_id": 21040
-    },
-    {
       "name": "Dylan Vargas",
       "person_id": 21058
+    },
+    {
+      "name": "Jules Terry",
+      "person_id": 21040
     },
     {
       "name": "Malik Romero",

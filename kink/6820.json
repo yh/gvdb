@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Yillie Fresh",
-      "person_id": 20099
-    },
-    {
       "name": "Max Cortes",
       "person_id": 20131
+    },
+    {
+      "name": "Yillie Fresh",
+      "person_id": 20099
     }
   ],
   "release_date": "2014-11-28",

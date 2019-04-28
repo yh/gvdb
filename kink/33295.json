@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sasha Lexing",
-      "person_id": 17850
-    },
-    {
       "name": "Sascha",
       "person_id": 51675
+    },
+    {
+      "name": "Sasha Lexing",
+      "person_id": 17850
     }
   ],
   "release_date": "2010-10-13",

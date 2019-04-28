@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Ashley Lane",
+      "person_id": 52112
+    },
+    {
       "name": "Mona Wales",
       "person_id": 51511
     },
     {
       "name": "Tommy Pistol",
       "person_id": 12663
-    },
-    {
-      "name": "Ashley Lane",
-      "person_id": 52112
     }
   ],
   "release_date": "2019-03-15",

@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Josh West",
-      "person_id": 20042
-    },
-    {
       "name": "Blake Daniels",
       "person_id": 22693
+    },
+    {
+      "name": "Josh West",
+      "person_id": 20042
     }
   ],
   "release_date": "2012-01-01",

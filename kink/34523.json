@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Harmony",
-      "person_id": 6341
-    },
-    {
       "name": "Billy",
       "person_id": 13720
+    },
+    {
+      "name": "Harmony",
+      "person_id": 6341
     }
   ],
   "release_date": "2015-02-25",

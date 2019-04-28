@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Shiri Allwood",
-      "person_id": 61393
-    },
-    {
       "name": "Mia Little",
       "person_id": 51496
+    },
+    {
+      "name": "Shiri Allwood",
+      "person_id": 61393
     }
   ],
   "release_date": "2019-03-25",

@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Trenton Ducati",
-      "person_id": 42630
-    },
-    {
       "name": "Danny Gunn",
       "person_id": 61105
+    },
+    {
+      "name": "Trenton Ducati",
+      "person_id": 42630
     }
   ],
   "release_date": "2018-02-28",

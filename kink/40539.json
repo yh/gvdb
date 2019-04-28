@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Alexander Gustavo",
+      "person_id": 55166
+    },
+    {
       "name": "Lorelei Lee",
       "person_id": 758
     },
     {
       "name": "Maitresse Madeline Marlowe",
       "person_id": 17872
-    },
-    {
-      "name": "Alexander Gustavo",
-      "person_id": 55166
     }
   ],
   "release_date": "2016-07-08",

@@ -11,24 +11,24 @@
   ],
   "models": [
     {
-      "name": "Dana DeArmond",
-      "person_id": 4498
+      "name": "Christina Carter",
+      "person_id": 10147
     },
     {
-      "name": "Lola",
-      "person_id": 6034
+      "name": "Dana DeArmond",
+      "person_id": 4498
     },
     {
       "name": "Dee Williams",
       "person_id": 4197
     },
     {
-      "name": "Christina Carter",
-      "person_id": 10147
-    },
-    {
       "name": "Lew Rubens",
       "person_id": 1441
+    },
+    {
+      "name": "Lola",
+      "person_id": 6034
     }
   ],
   "release_date": "2006-04-11",

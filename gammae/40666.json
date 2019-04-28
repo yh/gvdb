@@ -5,20 +5,20 @@
   "description": "",
   "models": [
     {
-      "name": "Isidore Nadas",
-      "person_id": 20762
-    },
-    {
-      "name": "Tim Brensen",
-      "person_id": 20930
-    },
-    {
       "name": "Gary Zabal",
       "person_id": 20985
     },
     {
+      "name": "Isidore Nadas",
+      "person_id": 20762
+    },
+    {
       "name": "Isvan",
       "person_id": 20777
+    },
+    {
+      "name": "Justin Stewart",
+      "person_id": 20976
     },
     {
       "name": "Rick Bauer",
@@ -29,8 +29,8 @@
       "person_id": 20849
     },
     {
-      "name": "Justin Stewart",
-      "person_id": 20976
+      "name": "Tim Brensen",
+      "person_id": 20930
     },
     {
       "name": "Tyler Savas",

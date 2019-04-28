@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tristan Jaxx",
-      "person_id": 20786
-    },
-    {
       "name": "Jake Steel",
       "person_id": 39681
+    },
+    {
+      "name": "Tristan Jaxx",
+      "person_id": 20786
     }
   ],
   "release_date": "2012-05-04",

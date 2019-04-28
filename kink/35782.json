@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Scott Harbor",
-      "person_id": 54292
-    },
-    {
       "name": "Aiden Starr",
       "person_id": 11489
     },
     {
       "name": "Jason Brown",
       "person_id": 53616
+    },
+    {
+      "name": "Scott Harbor",
+      "person_id": 54292
     }
   ],
   "release_date": "2014-07-02",

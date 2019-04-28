@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jamie",
-      "person_id": 6905
-    },
-    {
       "name": "Hollie Stevens",
       "person_id": 1572
+    },
+    {
+      "name": "Jamie",
+      "person_id": 6905
     }
   ],
   "release_date": "2005-07-18",

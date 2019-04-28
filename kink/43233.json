@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jasmeen LeFleur",
-      "person_id": 59623
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
+    },
+    {
+      "name": "Jasmeen LeFleur",
+      "person_id": 59623
     }
   ],
   "release_date": "2018-06-06",

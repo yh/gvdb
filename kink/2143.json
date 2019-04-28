@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Trina",
-      "person_id": 41
-    },
-    {
       "name": "Cami",
       "person_id": 5629
+    },
+    {
+      "name": "Trina",
+      "person_id": 41
     }
   ],
   "release_date": "2004-08-12",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lee Stephens",
-      "person_id": 19130
-    },
-    {
       "name": "Derrek Diamond",
       "person_id": 19001
+    },
+    {
+      "name": "Lee Stephens",
+      "person_id": 19130
     }
   ],
   "release_date": "2009-05-20",

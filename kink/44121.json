@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Mugur",
-      "person_id": 33526
-    },
-    {
       "name": "David Perry",
       "person_id": 33542
+    },
+    {
+      "name": "Mugur",
+      "person_id": 33526
     },
     {
       "name": "Nikita Bellucci",

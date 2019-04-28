@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Zane Anders",
-      "person_id": 55730
-    },
-    {
       "name": "Sebastian Keys",
       "person_id": 20316
+    },
+    {
+      "name": "Zane Anders",
+      "person_id": 55730
     }
   ],
   "release_date": "2016-08-18",

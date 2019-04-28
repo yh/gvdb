@@ -6,28 +6,28 @@
   "directors": [],
   "models": [
     {
-      "name": "Samantha Hayes",
-      "person_id": 58657
-    },
-    {
-      "name": "Eric John",
-      "person_id": 47359
-    },
-    {
       "name": "Brad Hart",
       "person_id": 60737
-    },
-    {
-      "name": "Filthy Rich",
-      "person_id": 60738
     },
     {
       "name": "Chad Diamond",
       "person_id": 42305
     },
     {
+      "name": "Eric John",
+      "person_id": 47359
+    },
+    {
+      "name": "Filthy Rich",
+      "person_id": 60738
+    },
+    {
       "name": "Mark Zane",
       "person_id": 55651
+    },
+    {
+      "name": "Samantha Hayes",
+      "person_id": 58657
     }
   ],
   "release_date": "2018-07-27",

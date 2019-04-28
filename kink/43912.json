@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "The Hunteress",
-      "person_id": 61614
-    },
-    {
       "name": "Slave",
       "person_id": 61615
+    },
+    {
+      "name": "The Hunteress",
+      "person_id": 61614
     }
   ],
   "release_date": "2018-10-19",

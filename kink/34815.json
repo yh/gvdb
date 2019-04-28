@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Maestro",
-      "person_id": 11928
-    },
-    {
       "name": "Emma Haize",
       "person_id": 29618
     },
     {
       "name": "Isis Love",
       "person_id": 6584
+    },
+    {
+      "name": "Maestro",
+      "person_id": 11928
     }
   ],
   "release_date": "2014-02-07",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Katie Kox",
-      "person_id": 21378
-    },
-    {
       "name": "Dee Williams",
       "person_id": 4197
+    },
+    {
+      "name": "Katie Kox",
+      "person_id": 21378
     }
   ],
   "release_date": "2011-06-16",

@@ -11,12 +11,8 @@
   ],
   "models": [
     {
-      "name": "Ramon Nomar",
-      "person_id": 35412
-    },
-    {
-      "name": "Toni Ribas",
-      "person_id": 38962
+      "name": "Angell Summers",
+      "person_id": 41314
     },
     {
       "name": "John Strong",
@@ -31,8 +27,12 @@
       "person_id": 38513
     },
     {
-      "name": "Angell Summers",
-      "person_id": 41314
+      "name": "Ramon Nomar",
+      "person_id": 35412
+    },
+    {
+      "name": "Toni Ribas",
+      "person_id": 38962
     }
   ],
   "release_date": "2012-06-13",

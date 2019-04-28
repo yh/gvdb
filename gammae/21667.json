@@ -5,16 +5,16 @@
   "description": "Gus Mattox finishes his fantasy by flying to Vegas, where he hits the man-jackpot by scoring a scorching three-way with Falcon Exclusive Brad Patton and Corbin Michaels.",
   "models": [
     {
+      "name": "Brad Patton",
+      "person_id": 11194
+    },
+    {
       "name": "Corbin Michaels",
       "person_id": 11107
     },
     {
       "name": "Gus Mattox",
       "person_id": 11121
-    },
-    {
-      "name": "Brad Patton",
-      "person_id": 11194
     }
   ],
   "release_date": "2005-02-01",

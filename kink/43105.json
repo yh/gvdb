@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Cherry Torn",
+      "person_id": 11105
+    },
+    {
       "name": "London River",
       "person_id": 56590
     },
     {
       "name": "Mickey Mod",
       "person_id": 19623
-    },
-    {
-      "name": "Cherry Torn",
-      "person_id": 11105
     }
   ],
   "release_date": "2018-03-30",

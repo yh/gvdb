@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Rod Daily",
-      "person_id": 12856
-    },
-    {
       "name": "John Magnum",
       "person_id": 13271
+    },
+    {
+      "name": "Rod Daily",
+      "person_id": 12856
     }
   ],
   "release_date": "2010-02-10",

@@ -11,10 +11,6 @@
   ],
   "models": [
     {
-      "name": "Riley Evans",
-      "person_id": 24308
-    },
-    {
       "name": "John Strong",
       "person_id": 17050
     },
@@ -29,6 +25,10 @@
     {
       "name": "Ned Mayhem",
       "person_id": 22135
+    },
+    {
+      "name": "Riley Evans",
+      "person_id": 24308
     }
   ],
   "release_date": "2011-08-10",

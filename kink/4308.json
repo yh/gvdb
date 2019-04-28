@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nikki Nievez",
-      "person_id": 12336
-    },
-    {
       "name": "Fayth Deluca",
       "person_id": 13787
+    },
+    {
+      "name": "Nikki Nievez",
+      "person_id": 12336
     }
   ],
   "release_date": "2007-06-01",

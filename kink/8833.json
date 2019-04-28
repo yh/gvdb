@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Wenona",
-      "person_id": 4485
-    },
-    {
       "name": "Isis Love",
       "person_id": 6584
     },
     {
       "name": "Jessie Cox",
       "person_id": 18739
+    },
+    {
+      "name": "Wenona",
+      "person_id": 4485
     }
   ],
   "release_date": "2010-04-26",

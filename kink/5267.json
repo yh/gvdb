@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Safari",
-      "person_id": 16500
-    },
-    {
       "name": "Dee Williams",
       "person_id": 4197
+    },
+    {
+      "name": "Safari",
+      "person_id": 16500
     }
   ],
   "release_date": "2008-04-22",

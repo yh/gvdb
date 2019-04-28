@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Cassandra Nix",
+      "person_id": 36857
+    },
+    {
       "name": "Claire Robbins",
       "person_id": 46978
     },
     {
       "name": "Dani Daniels",
       "person_id": 47540
-    },
-    {
-      "name": "Cassandra Nix",
-      "person_id": 36857
     }
   ],
   "release_date": "2013-12-06",

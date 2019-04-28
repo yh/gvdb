@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "John Henry",
-      "person_id": 20655
-    },
-    {
       "name": "Emma Heart",
       "person_id": 18993
+    },
+    {
+      "name": "John Henry",
+      "person_id": 20655
     }
   ],
   "release_date": "2009-09-11",

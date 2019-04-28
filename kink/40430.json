@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Daisy Ducati",
-      "person_id": 50939
+      "name": "Annie Cruz",
+      "person_id": 7776
     },
     {
-      "name": "Savannah Fox",
-      "person_id": 47440
+      "name": "Daisy Ducati",
+      "person_id": 50939
     },
     {
       "name": "Lilith Luxe",
       "person_id": 55114
     },
     {
-      "name": "Annie Cruz",
-      "person_id": 7776
+      "name": "Savannah Fox",
+      "person_id": 47440
     }
   ],
   "release_date": "2016-06-28",

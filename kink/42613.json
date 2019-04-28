@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Venus Lux",
-      "person_id": 41417
-    },
-    {
       "name": "Ruckus",
       "person_id": 48209
+    },
+    {
+      "name": "Venus Lux",
+      "person_id": 41417
     }
   ],
   "release_date": "2017-10-17",

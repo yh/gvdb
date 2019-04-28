@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Beretta James",
-      "person_id": 33659
-    },
-    {
       "name": "Alani Pi",
       "person_id": 36290
+    },
+    {
+      "name": "Beretta James",
+      "person_id": 33659
     },
     {
       "name": "Nerine Mechanique",

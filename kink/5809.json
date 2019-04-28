@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Rick Bauer",
-      "person_id": 18206
-    },
-    {
       "name": "Fabrizio Mangiatti",
       "person_id": 18199
+    },
+    {
+      "name": "Rick Bauer",
+      "person_id": 18206
     }
   ],
   "release_date": "2012-03-20",

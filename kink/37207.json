@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Zane Anders",
-      "person_id": 55730
-    },
-    {
       "name": "Jonah Marx",
       "person_id": 51893
+    },
+    {
+      "name": "Zane Anders",
+      "person_id": 55730
     }
   ],
   "release_date": "2015-02-04",

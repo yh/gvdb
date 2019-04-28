@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Maya",
-      "person_id": 2670
-    },
-    {
       "name": "Jenni Lee",
       "person_id": 1358
+    },
+    {
+      "name": "Maya",
+      "person_id": 2670
     }
   ],
   "release_date": "2003-12-31",

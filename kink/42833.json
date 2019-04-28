@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Xander Corvus",
-      "person_id": 46000
-    },
-    {
       "name": "Alana Cruise",
       "person_id": 60194
     },
     {
       "name": "Avi Love",
       "person_id": 60196
+    },
+    {
+      "name": "Xander Corvus",
+      "person_id": 46000
     }
   ],
   "release_date": "2018-03-02",

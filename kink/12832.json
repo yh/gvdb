@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Phenix Saint",
-      "person_id": 21202
-    },
-    {
       "name": "Ethan Hunter",
       "person_id": 31204
+    },
+    {
+      "name": "Phenix Saint",
+      "person_id": 21202
     }
   ],
   "release_date": "2016-05-06",

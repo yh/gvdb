@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "La Cherry Spice",
-      "person_id": 14748
-    },
-    {
       "name": "Dirk Baywolf",
       "person_id": 15420
+    },
+    {
+      "name": "La Cherry Spice",
+      "person_id": 14748
     }
   ],
   "release_date": "2008-01-08",

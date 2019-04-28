@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Fernando Del Rio",
-      "person_id": 34613
-    },
-    {
       "name": "Alessandro Del Toro",
       "person_id": 36221
+    },
+    {
+      "name": "Fernando Del Rio",
+      "person_id": 34613
     }
   ],
   "release_date": "2015-06-12",

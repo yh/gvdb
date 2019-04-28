@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mike Maverick",
-      "person_id": 59133
-    },
-    {
       "name": "Dirk Caber",
       "person_id": 27341
+    },
+    {
+      "name": "Mike Maverick",
+      "person_id": 59133
     }
   ],
   "release_date": "2017-12-14",

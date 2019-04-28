@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
+      "name": "Blake Vacakol",
+      "person_id": 20896
+    },
+    {
       "name": "Brandon Babos",
       "person_id": 20850
     },
     {
       "name": "Daniel Magam",
       "person_id": 20895
-    },
-    {
-      "name": "Blake Vacakol",
-      "person_id": 20896
     }
   ],
   "release_date": "1998-04-01",

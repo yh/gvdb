@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Tommy Defendi",
-      "person_id": 28400
-    },
-    {
       "name": "Jake Jennings",
       "person_id": 31734
+    },
+    {
+      "name": "Tommy Defendi",
+      "person_id": 28400
     }
   ],
   "release_date": "2015-01-15",

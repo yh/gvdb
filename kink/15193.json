@@ -11,12 +11,8 @@
   ],
   "models": [
     {
-      "name": "Lizzy London",
-      "person_id": 33622
-    },
-    {
-      "name": "Mark Wood",
-      "person_id": 31058
+      "name": "Blake Palmer",
+      "person_id": 35073
     },
     {
       "name": "Jack Moore",
@@ -27,8 +23,12 @@
       "person_id": 35066
     },
     {
-      "name": "Blake Palmer",
-      "person_id": 35073
+      "name": "Lizzy London",
+      "person_id": 33622
+    },
+    {
+      "name": "Mark Wood",
+      "person_id": 31058
     },
     {
       "name": "Otto Bauer",

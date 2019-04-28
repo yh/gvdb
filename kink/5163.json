@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Daphne Rosen",
-      "person_id": 13788
-    },
-    {
       "name": "Cherry Torn",
       "person_id": 11105
+    },
+    {
+      "name": "Daphne Rosen",
+      "person_id": 13788
     },
     {
       "name": "Madison Young",

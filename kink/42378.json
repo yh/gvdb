@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Mia Manatote",
-      "person_id": 60290
-    },
-    {
       "name": "Greg",
       "person_id": 60291
+    },
+    {
+      "name": "Mia Manatote",
+      "person_id": 60290
     }
   ],
   "release_date": "2017-06-06",

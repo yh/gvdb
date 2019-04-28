@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Cherry Torn",
-      "person_id": 11105
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
+    },
+    {
+      "name": "Cherry Torn",
+      "person_id": 11105
     }
   ],
   "release_date": "2010-09-29",

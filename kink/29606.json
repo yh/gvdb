@@ -11,12 +11,8 @@
   ],
   "models": [
     {
-      "name": "Xander Corvus",
-      "person_id": 46000
-    },
-    {
-      "name": "Jordan Ash",
-      "person_id": 42543
+      "name": "Astral Dust",
+      "person_id": 43670
     },
     {
       "name": "Bill Bailey",
@@ -27,12 +23,16 @@
       "person_id": 17050
     },
     {
-      "name": "Astral Dust",
-      "person_id": 43670
+      "name": "Jordan Ash",
+      "person_id": 42543
     },
     {
       "name": "Sasha Knox",
       "person_id": 21127
+    },
+    {
+      "name": "Xander Corvus",
+      "person_id": 46000
     }
   ],
   "release_date": "2013-04-10",

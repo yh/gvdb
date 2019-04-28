@@ -5,12 +5,12 @@
   "description": "It's the showdown you've all been waiting for. Man to man, mano y mano, blow for blow. In this corner, we have the defending champion, unbeaten and quite the army, Rod Daily. And in the other corner, a very worthy challenger, a guy who really take one in the jaw, Calvin Koons. It's going to be a real struggle of will when these two men come together.So sit back and grab something to hold onto, and get ready for the main event!Enjoy!",
   "models": [
     {
-      "name": "Rod Daily",
-      "person_id": 9574
-    },
-    {
       "name": "Calvin Koons",
       "person_id": 16680
+    },
+    {
+      "name": "Rod Daily",
+      "person_id": 9574
     }
   ],
   "release_date": "2011-04-29",

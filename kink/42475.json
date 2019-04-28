@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Alana Cruise",
+      "person_id": 60194
+    },
+    {
       "name": "Gina Valentina",
       "person_id": 58814
     },
     {
       "name": "Tommy Pistol",
       "person_id": 12663
-    },
-    {
-      "name": "Alana Cruise",
-      "person_id": 60194
     }
   ],
   "release_date": "2017-09-29",

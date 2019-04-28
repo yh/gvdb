@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Penny Barber",
-      "person_id": 6664
-    },
-    {
       "name": "Holly Heart",
       "person_id": 20472
+    },
+    {
+      "name": "Penny Barber",
+      "person_id": 6664
     }
   ],
   "release_date": "2015-03-10",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jessie Cox",
-      "person_id": 18739
-    },
-    {
       "name": "Holly Heart",
       "person_id": 20472
+    },
+    {
+      "name": "Jessie Cox",
+      "person_id": 18739
     }
   ],
   "release_date": "2010-11-24",

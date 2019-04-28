@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Krissy Lynn",
-      "person_id": 19730
-    },
-    {
       "name": "Holly Heart",
       "person_id": 20472
+    },
+    {
+      "name": "Krissy Lynn",
+      "person_id": 19730
     }
   ],
   "release_date": "2010-06-25",

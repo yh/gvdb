@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Faith Leon",
-      "person_id": 5581
-    },
-    {
       "name": "Chris Charming",
       "person_id": 10093
+    },
+    {
+      "name": "Faith Leon",
+      "person_id": 5581
     }
   ],
   "release_date": "2006-01-20",

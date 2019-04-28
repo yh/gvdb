@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Charles Dera",
-      "person_id": 59597
-    },
-    {
       "name": "Carmen Valentina",
       "person_id": 59901
+    },
+    {
+      "name": "Charles Dera",
+      "person_id": 59597
     }
   ],
   "release_date": "2016-12-20",

@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Steve Holmes",
-      "person_id": 15810
-    },
-    {
       "name": "Cj",
       "person_id": 17835
     },
     {
       "name": "Gilda Roberts",
       "person_id": 18071
+    },
+    {
+      "name": "Steve Holmes",
+      "person_id": 15810
     }
   ],
   "release_date": "2009-10-27",

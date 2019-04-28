@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Isa Mendez",
-      "person_id": 53665
-    },
-    {
       "name": "Ava Kelly",
       "person_id": 53978
+    },
+    {
+      "name": "Isa Mendez",
+      "person_id": 53665
     },
     {
       "name": "Mila Blaze",

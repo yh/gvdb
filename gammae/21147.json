@@ -5,20 +5,20 @@
   "description": "",
   "models": [
     {
-      "name": "Chris Burns",
-      "person_id": 11950
+      "name": "Chad Douglas",
+      "person_id": 12226
     },
     {
-      "name": "Cory Monroe",
-      "person_id": 12121
+      "name": "Chris Burns",
+      "person_id": 11950
     },
     {
       "name": "Cole Carpenter",
       "person_id": 12140
     },
     {
-      "name": "Chad Douglas",
-      "person_id": 12226
+      "name": "Cory Monroe",
+      "person_id": 12121
     }
   ],
   "release_date": "2005-06-01",

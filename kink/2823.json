@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mr. Marcus",
-      "person_id": 36574
-    },
-    {
       "name": "Lori Alexia",
       "person_id": 6682
+    },
+    {
+      "name": "Mr. Marcus",
+      "person_id": 36574
     }
   ],
   "release_date": "2005-06-03",

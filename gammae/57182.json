@@ -5,12 +5,12 @@
   "description": "Just Teens: Gym Nasties",
   "models": [
     {
-      "name": "Miky Sem",
-      "person_id": 29678
-    },
-    {
       "name": "Danny Taul",
       "person_id": 29764
+    },
+    {
+      "name": "Miky Sem",
+      "person_id": 29678
     },
     {
       "name": "Nathan Love",

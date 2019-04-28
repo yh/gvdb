@@ -5,20 +5,20 @@
   "description": "",
   "models": [
     {
-      "name": "Michael Ray",
-      "person_id": 19852
+      "name": "Damien",
+      "person_id": 21756
     },
     {
-      "name": "Steve Parker",
-      "person_id": 21720
+      "name": "Michael Ray",
+      "person_id": 19852
     },
     {
       "name": "Steve Cannon",
       "person_id": 21755
     },
     {
-      "name": "Damien",
-      "person_id": 21756
+      "name": "Steve Parker",
+      "person_id": 21720
     }
   ],
   "release_date": "2003-07-01",

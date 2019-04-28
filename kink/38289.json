@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Rob Yaeger",
-      "person_id": 45103
-    },
-    {
       "name": "Lotus Lain",
       "person_id": 47027
+    },
+    {
+      "name": "Rob Yaeger",
+      "person_id": 45103
     },
     {
       "name": "Tony Orlando",

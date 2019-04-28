@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Nate Summers",
-      "person_id": 22274
-    },
-    {
       "name": "Buck Phillips",
       "person_id": 32060
+    },
+    {
+      "name": "Nate Summers",
+      "person_id": 22274
     }
   ],
   "release_date": "2010-01-01",

@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Wenona",
-      "person_id": 4485
+      "name": "Angel Allwood",
+      "person_id": 52348
     },
     {
       "name": "Penny Barber",
       "person_id": 6664
     },
     {
-      "name": "Angel Allwood",
-      "person_id": 52348
+      "name": "Wenona",
+      "person_id": 4485
     }
   ],
   "release_date": "2016-05-08",

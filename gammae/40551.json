@@ -5,20 +5,20 @@
   "description": "",
   "models": [
     {
-      "name": "Mihaly Tombor",
-      "person_id": 20771
-    },
-    {
-      "name": "Pal Szakacs",
-      "person_id": 20773
+      "name": "Attila F.",
+      "person_id": 20816
     },
     {
       "name": "Jozsef Kovacs",
       "person_id": 20807
     },
     {
-      "name": "Attila F.",
-      "person_id": 20816
+      "name": "Mihaly Tombor",
+      "person_id": 20771
+    },
+    {
+      "name": "Pal Szakacs",
+      "person_id": 20773
     }
   ],
   "release_date": "1998-03-21",

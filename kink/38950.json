@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Christian Wilde",
-      "person_id": 21037
-    },
-    {
       "name": "Chris Burke",
       "person_id": 58819
+    },
+    {
+      "name": "Christian Wilde",
+      "person_id": 21037
     }
   ],
   "release_date": "2015-10-15",

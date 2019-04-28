@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "JP",
-      "person_id": 1665
-    },
-    {
       "name": "Cami",
       "person_id": 5629
+    },
+    {
+      "name": "JP",
+      "person_id": 1665
     }
   ],
   "release_date": "2004-10-12",

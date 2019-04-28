@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "DJ",
+      "person_id": 20225
+    },
+    {
       "name": "Maitresse Madeline Marlowe",
       "person_id": 17872
     },
     {
       "name": "Marcelo",
       "person_id": 46090
-    },
-    {
-      "name": "DJ",
-      "person_id": 20225
     }
   ],
   "release_date": "2015-08-21",

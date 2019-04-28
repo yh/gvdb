@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "CJ Madison",
-      "person_id": 18107
-    },
-    {
       "name": "Adam Russo",
       "person_id": 27220
+    },
+    {
+      "name": "CJ Madison",
+      "person_id": 18107
     }
   ],
   "release_date": "2010-11-18",

@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Lutro",
-      "person_id": 60289
-    },
-    {
       "name": "Isabella Chrystin",
       "person_id": 60292
+    },
+    {
+      "name": "Lutro",
+      "person_id": 60289
     }
   ],
   "release_date": "2017-06-07",

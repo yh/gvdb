@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lilla Katt",
-      "person_id": 18701
-    },
-    {
       "name": "Iona Grace",
       "person_id": 25204
+    },
+    {
+      "name": "Lilla Katt",
+      "person_id": 18701
     }
   ],
   "release_date": "2011-08-03",

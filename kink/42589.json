@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dirk Caber",
-      "person_id": 27341
-    },
-    {
       "name": "Connor Patricks",
       "person_id": 47357
+    },
+    {
+      "name": "Dirk Caber",
+      "person_id": 27341
     }
   ],
   "release_date": "2017-09-07",

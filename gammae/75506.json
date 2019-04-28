@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
-      "name": "Luke Milan",
-      "person_id": 28000
+      "name": "Dimitri Kane",
+      "person_id": 36886
     },
     {
       "name": "Hugh Hunter",
       "person_id": 36197
     },
     {
-      "name": "Dimitri Kane",
-      "person_id": 36886
+      "name": "Luke Milan",
+      "person_id": 28000
     }
   ],
   "release_date": "2015-06-04",

@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Kleio Valentien",
-      "person_id": 57339
-    },
-    {
       "name": "Cherry Torn",
       "person_id": 11105
     },
     {
       "name": "Dee Williams",
       "person_id": 4197
+    },
+    {
+      "name": "Kleio Valentien",
+      "person_id": 57339
     }
   ],
   "release_date": "2017-08-17",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Memphis Bradley",
-      "person_id": 56986
-    },
-    {
       "name": "Israel Oka",
       "person_id": 56985
+    },
+    {
+      "name": "Memphis Bradley",
+      "person_id": 56986
     }
   ],
   "release_date": "2015-01-24",

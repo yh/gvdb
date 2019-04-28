@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Vienna Black",
-      "person_id": 60681
-    },
-    {
       "name": "Anna Bell Peaks",
       "person_id": 59698
+    },
+    {
+      "name": "Vienna Black",
+      "person_id": 60681
     }
   ],
   "release_date": "2019-03-12",

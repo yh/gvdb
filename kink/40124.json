@@ -11,24 +11,24 @@
   ],
   "models": [
     {
+      "name": "Bill Bailey",
+      "person_id": 46601
+    },
+    {
       "name": "Christie Stevens",
       "person_id": 44270
     },
     {
-      "name": "Tommy Pistol",
-      "person_id": 12663
-    },
-    {
-      "name": "Bill Bailey",
-      "person_id": 46601
+      "name": "Mark Wood",
+      "person_id": 31058
     },
     {
       "name": "Mr. Pete",
       "person_id": 16823
     },
     {
-      "name": "Mark Wood",
-      "person_id": 31058
+      "name": "Tommy Pistol",
+      "person_id": 12663
     }
   ],
   "release_date": "2016-05-18",

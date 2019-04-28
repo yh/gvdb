@@ -5,20 +5,20 @@
   "description": "Triumvirate: Jungle Voodoo",
   "models": [
     {
-      "name": "Pierre L'Fontaine",
-      "person_id": 29462
+      "name": "Ace Reardon",
+      "person_id": 29468
     },
     {
       "name": "Hudson Grant",
       "person_id": 29464
     },
     {
-      "name": "Ace Reardon",
-      "person_id": 29468
-    },
-    {
       "name": "Mark Reeves",
       "person_id": 29469
+    },
+    {
+      "name": "Pierre L'Fontaine",
+      "person_id": 29462
     }
   ],
   "release_date": "2003-02-12",

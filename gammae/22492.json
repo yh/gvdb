@@ -5,20 +5,20 @@
   "description": "Frantically searching the forest, Jason Ridge (in a non-sexual role) comes across two nasty rednecks - Jake Dakota and Steve Trevor - brutally fucking each other inside a small hut. He begs for their help, but instead they seize him, throwing him inside a nasty shack where he's finally reunited with Tim Towers (in a non-sexual role). The two finally have an idea what's in store for them: They are going to be initiated into a bizarre sex Ritual.",
   "models": [
     {
-      "name": "Jason Ridge",
-      "person_id": 11116
-    },
-    {
       "name": "Jake Dakota",
       "person_id": 11605
     },
     {
-      "name": "Tim Towers",
-      "person_id": 11615
+      "name": "Jason Ridge",
+      "person_id": 11116
     },
     {
       "name": "Steve Trevor",
       "person_id": 11634
+    },
+    {
+      "name": "Tim Towers",
+      "person_id": 11615
     }
   ],
   "release_date": "2006-11-01",

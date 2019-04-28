@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Tristan Phoenix",
-      "person_id": 19810
-    },
-    {
       "name": "Devin Moss",
       "person_id": 20715
+    },
+    {
+      "name": "Tristan Phoenix",
+      "person_id": 19810
     }
   ],
   "release_date": "2009-10-15",

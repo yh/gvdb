@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Sarah Shevon",
-      "person_id": 19605
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
     },
     {
       "name": "Curt Wooster",
       "person_id": 18252
+    },
+    {
+      "name": "Sarah Shevon",
+      "person_id": 19605
     }
   ],
   "release_date": "2010-01-06",

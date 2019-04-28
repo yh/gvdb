@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
-      "name": "Michael Smith",
-      "person_id": 20876
+      "name": "Fabian Harri",
+      "person_id": 20878
     },
     {
       "name": "Jack Robinson",
       "person_id": 20877
     },
     {
-      "name": "Fabian Harri",
-      "person_id": 20878
+      "name": "Michael Smith",
+      "person_id": 20876
     }
   ],
   "release_date": "1998-04-15",

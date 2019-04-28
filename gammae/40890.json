@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Jose Ganatti",
-      "person_id": 20772
-    },
-    {
       "name": "Garrett Felado",
       "person_id": 20824
+    },
+    {
+      "name": "Jose Ganatti",
+      "person_id": 20772
     }
   ],
   "release_date": "1998-03-02",

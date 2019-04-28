@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Viktorie",
-      "person_id": 60538
+      "name": "Jenny",
+      "person_id": 60537
     },
     {
       "name": "Marco Bon Phoenix",
       "person_id": 51901
     },
     {
-      "name": "Jenny",
-      "person_id": 60537
+      "name": "Viktorie",
+      "person_id": 60538
     }
   ],
   "release_date": "2017-10-05",

@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Luna Light",
+      "person_id": 50848
+    },
+    {
       "name": "Raven Rocket",
       "person_id": 45170
     },
     {
       "name": "Serena Blair",
       "person_id": 31165
-    },
-    {
-      "name": "Luna Light",
-      "person_id": 50848
     }
   ],
   "release_date": "2015-02-05",

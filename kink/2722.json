@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Sgt. Major",
-      "person_id": 4556
-    },
-    {
       "name": "Lorelei Lee",
       "person_id": 758
+    },
+    {
+      "name": "Sgt. Major",
+      "person_id": 4556
     }
   ],
   "release_date": "2005-06-02",

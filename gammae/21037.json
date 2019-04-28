@@ -5,12 +5,12 @@
   "description": "Mr. Egan Gets His New Paperboy:  Jack Egan gets paperboy Billy Putnam into his home and out of his clothes.  A special delivery turns into something exciting and memorable for one willing newsboy as he is pumped and delivered into good hands.",
   "models": [
     {
-      "name": "Jack Egan",
-      "person_id": 12602
-    },
-    {
       "name": "Billy Putnam",
       "person_id": 13010
+    },
+    {
+      "name": "Jack Egan",
+      "person_id": 12602
     }
   ],
   "release_date": "2006-02-01",

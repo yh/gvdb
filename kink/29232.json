@@ -11,24 +11,24 @@
   ],
   "models": [
     {
-      "name": "Lorelei Lee",
-      "person_id": 758
+      "name": "Ashley Fires",
+      "person_id": 20856
     },
     {
       "name": "DragonLily",
       "person_id": 3433
     },
     {
+      "name": "Francesca Le",
+      "person_id": 36526
+    },
+    {
       "name": "Kirsten Price",
       "person_id": 42134
     },
     {
-      "name": "Ashley Fires",
-      "person_id": 20856
-    },
-    {
-      "name": "Francesca Le",
-      "person_id": 36526
+      "name": "Lorelei Lee",
+      "person_id": 758
     }
   ],
   "release_date": "2013-03-01",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Pinky Lee",
-      "person_id": 10908
-    },
-    {
       "name": "Annie Cruz",
       "person_id": 7776
+    },
+    {
+      "name": "Pinky Lee",
+      "person_id": 10908
     }
   ],
   "release_date": "2006-04-06",

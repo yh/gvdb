@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Yellow Kitty",
-      "person_id": 6212
-    },
-    {
       "name": "Crimson Ninja",
       "person_id": 6346
+    },
+    {
+      "name": "Yellow Kitty",
+      "person_id": 6212
     }
   ],
   "release_date": "2005-01-03",

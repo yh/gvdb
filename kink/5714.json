@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Yasmin Lee",
-      "person_id": 13931
-    },
-    {
       "name": "Ranger",
       "person_id": 18126
+    },
+    {
+      "name": "Yasmin Lee",
+      "person_id": 13931
     }
   ],
   "release_date": "2008-11-25",

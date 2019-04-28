@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kayla Paige",
-      "person_id": 11734
-    },
-    {
       "name": "Aaralyn Barra",
       "person_id": 12335
+    },
+    {
+      "name": "Kayla Paige",
+      "person_id": 11734
     }
   ],
   "release_date": "2006-08-11",

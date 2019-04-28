@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Jim Richards",
-      "person_id": 61276
-    },
-    {
       "name": "Brent Woods",
       "person_id": 61255
+    },
+    {
+      "name": "Jim Richards",
+      "person_id": 61276
     }
   ],
   "release_date": "2018-05-22",

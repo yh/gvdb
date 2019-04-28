@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Valentin Petrov",
-      "person_id": 28033
-    },
-    {
       "name": "Derek Reed",
       "person_id": 37247
+    },
+    {
+      "name": "Valentin Petrov",
+      "person_id": 28033
     }
   ],
   "release_date": "2015-10-08",

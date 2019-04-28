@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Vince Rockland",
-      "person_id": 11095
-    },
-    {
       "name": "Aaron Austin",
       "person_id": 12013
+    },
+    {
+      "name": "Vince Rockland",
+      "person_id": 11095
     }
   ],
   "release_date": "2005-12-01",

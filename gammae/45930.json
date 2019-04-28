@@ -5,12 +5,12 @@
   "description": "Certainly there's room for two. MARC LASALLE steps in and bothMARC and BILLY settle in to MICHAEL's well-appointed ManCave.",
   "models": [
     {
-      "name": "Marc Lasalle",
-      "person_id": 26279
-    },
-    {
       "name": "Billy Ryder",
       "person_id": 26281
+    },
+    {
+      "name": "Marc Lasalle",
+      "person_id": 26279
     },
     {
       "name": "Michael Johns",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Maya Matthews",
-      "person_id": 5676
-    },
-    {
       "name": "Kym Wilde",
       "person_id": 99
+    },
+    {
+      "name": "Maya Matthews",
+      "person_id": 5676
     }
   ],
   "release_date": "2004-09-28",

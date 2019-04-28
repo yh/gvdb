@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Dana DeArmond",
+      "person_id": 4498
+    },
+    {
       "name": "Lizzy Rose",
       "person_id": 27193
     },
     {
       "name": "Princess Donna Dolore",
       "person_id": 5235
-    },
-    {
-      "name": "Dana DeArmond",
-      "person_id": 4498
     }
   ],
   "release_date": "2010-10-28",

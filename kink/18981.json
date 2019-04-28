@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dirk Caber",
-      "person_id": 27341
-    },
-    {
       "name": "Blake Goodwin",
       "person_id": 33067
+    },
+    {
+      "name": "Dirk Caber",
+      "person_id": 27341
     }
   ],
   "release_date": "2012-03-22",

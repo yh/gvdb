@@ -5,12 +5,12 @@
   "description": "Sexy Tex gets the Edge treatment!\nCreamy!\n'Nuff said!",
   "models": [
     {
-      "name": "Tex",
-      "person_id": 3290
-    },
-    {
       "name": "Bryan",
       "person_id": 3120
+    },
+    {
+      "name": "Tex",
+      "person_id": 3290
     }
   ],
   "release_date": "2009-01-14",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dayton O'Connor",
-      "person_id": 45656
-    },
-    {
       "name": "Cameron Kincade",
       "person_id": 47006
+    },
+    {
+      "name": "Dayton O'Connor",
+      "person_id": 45656
     }
   ],
   "release_date": "2013-06-12",

@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Joey Rico",
-      "person_id": 32620
-    },
-    {
       "name": "Aiden Conners",
       "person_id": 32661
+    },
+    {
+      "name": "Joey Rico",
+      "person_id": 32620
     }
   ],
   "release_date": "2014-01-10",

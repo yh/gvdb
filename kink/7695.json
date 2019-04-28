@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Scott Tanner",
-      "person_id": 21133
-    },
-    {
       "name": "Derrek Diamond",
       "person_id": 19001
+    },
+    {
+      "name": "Scott Tanner",
+      "person_id": 21133
     }
   ],
   "release_date": "2010-01-28",

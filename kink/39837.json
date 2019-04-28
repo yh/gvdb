@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Marica Hase",
-      "person_id": 44408
-    },
-    {
       "name": "Axel Aces",
       "person_id": 57327
+    },
+    {
+      "name": "Marica Hase",
+      "person_id": 44408
     }
   ],
   "release_date": "2016-04-29",

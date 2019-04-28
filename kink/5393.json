@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Steven St. Croix",
-      "person_id": 12188
-    },
-    {
       "name": "Phoenix Marie",
       "person_id": 17093
+    },
+    {
+      "name": "Steven St. Croix",
+      "person_id": 12188
     }
   ],
   "release_date": "2008-05-23",

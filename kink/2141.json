@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Trina",
-      "person_id": 41
-    },
-    {
       "name": "Sgt. Major",
       "person_id": 4556
+    },
+    {
+      "name": "Trina",
+      "person_id": 41
     }
   ],
   "release_date": "2005-01-28",

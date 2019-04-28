@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kira Noir",
-      "person_id": 58892
-    },
-    {
       "name": "Bill Bailey",
       "person_id": 46601
+    },
+    {
+      "name": "Kira Noir",
+      "person_id": 58892
     }
   ],
   "release_date": "2016-08-02",

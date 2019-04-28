@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Claire Adams",
-      "person_id": 378
-    },
-    {
       "name": "Charlotte Vale",
       "person_id": 16865
+    },
+    {
+      "name": "Claire Adams",
+      "person_id": 378
     }
   ],
   "release_date": "2008-08-01",

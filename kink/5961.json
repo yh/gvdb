@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Kirra Lynne",
-      "person_id": 18123
-    },
-    {
       "name": "Alexa Von Tess",
       "person_id": 12340
+    },
+    {
+      "name": "Kirra Lynne",
+      "person_id": 18123
     }
   ],
   "release_date": "2009-01-06",

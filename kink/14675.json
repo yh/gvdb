@@ -15,6 +15,14 @@
       "person_id": 7776
     },
     {
+      "name": "Bobby Bends",
+      "person_id": 22578
+    },
+    {
+      "name": "Dietrich Cyrus",
+      "person_id": 17649
+    },
+    {
       "name": "James Deen",
       "person_id": 8935
     },
@@ -23,20 +31,12 @@
       "person_id": 17050
     },
     {
-      "name": "Mickey Mod",
-      "person_id": 19623
-    },
-    {
       "name": "Marco Banderas",
       "person_id": 27958
     },
     {
-      "name": "Bobby Bends",
-      "person_id": 22578
-    },
-    {
-      "name": "Dietrich Cyrus",
-      "person_id": 17649
+      "name": "Mickey Mod",
+      "person_id": 19623
     }
   ],
   "release_date": "2011-08-24",

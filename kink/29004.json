@@ -11,6 +11,10 @@
   ],
   "models": [
     {
+      "name": "Bill Bailey",
+      "person_id": 46601
+    },
+    {
       "name": "Chanel Preston",
       "person_id": 26542
     },
@@ -19,16 +23,12 @@
       "person_id": 17050
     },
     {
-      "name": "Ramon Nomar",
-      "person_id": 35412
-    },
-    {
       "name": "Karlo Karrera",
       "person_id": 35221
     },
     {
-      "name": "Bill Bailey",
-      "person_id": 46601
+      "name": "Ramon Nomar",
+      "person_id": 35412
     },
     {
       "name": "Xander Corvus",

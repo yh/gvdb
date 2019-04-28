@@ -11,28 +11,8 @@
   ],
   "models": [
     {
-      "name": "Sean Preston",
-      "person_id": 19470
-    },
-    {
-      "name": "Spencer Reed",
-      "person_id": 19086
-    },
-    {
       "name": "Dak Ramsey",
       "person_id": 18805
-    },
-    {
-      "name": "Mitch Colby",
-      "person_id": 19262
-    },
-    {
-      "name": "Kyle Sparks",
-      "person_id": 20812
-    },
-    {
-      "name": "Rocco Giovanni",
-      "person_id": 19797
     },
     {
       "name": "Jason White",
@@ -41,6 +21,26 @@
     {
       "name": "Jimmie Slater",
       "person_id": 18792
+    },
+    {
+      "name": "Kyle Sparks",
+      "person_id": 20812
+    },
+    {
+      "name": "Mitch Colby",
+      "person_id": 19262
+    },
+    {
+      "name": "Rocco Giovanni",
+      "person_id": 19797
+    },
+    {
+      "name": "Sean Preston",
+      "person_id": 19470
+    },
+    {
+      "name": "Spencer Reed",
+      "person_id": 19086
     }
   ],
   "release_date": "2010-11-12",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mr. Marcus",
-      "person_id": 36574
-    },
-    {
       "name": "Jasmine Byrne",
       "person_id": 6322
+    },
+    {
+      "name": "Mr. Marcus",
+      "person_id": 36574
     }
   ],
   "release_date": "2005-08-26",

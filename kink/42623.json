@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Barra Brass",
-      "person_id": 60446
-    },
-    {
       "name": "Ar",
       "person_id": 60282
+    },
+    {
+      "name": "Barra Brass",
+      "person_id": 60446
     }
   ],
   "release_date": "2018-01-10",

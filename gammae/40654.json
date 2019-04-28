@@ -5,20 +5,20 @@
   "description": "",
   "models": [
     {
-      "name": "Titof",
-      "person_id": 20776
+      "name": "Claudio Antonelli",
+      "person_id": 20919
     },
     {
       "name": "Julian Vincenzo",
       "person_id": 20918
     },
     {
-      "name": "Claudio Antonelli",
-      "person_id": 20919
-    },
-    {
       "name": "Lucio Maverick",
       "person_id": 20921
+    },
+    {
+      "name": "Titof",
+      "person_id": 20776
     }
   ],
   "release_date": "1998-05-02",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Steven St. Croix",
-      "person_id": 12188
-    },
-    {
       "name": "Regan Anthony",
       "person_id": 14539
+    },
+    {
+      "name": "Steven St. Croix",
+      "person_id": 12188
     }
   ],
   "release_date": "2007-06-01",

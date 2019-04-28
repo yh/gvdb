@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jayden Cole",
-      "person_id": 20967
-    },
-    {
       "name": "Ariel X",
       "person_id": 10464
+    },
+    {
+      "name": "Jayden Cole",
+      "person_id": 20967
     }
   ],
   "release_date": "2010-03-05",

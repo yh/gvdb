@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nikki Nievez",
-      "person_id": 12336
-    },
-    {
       "name": "Jenner",
       "person_id": 27915
+    },
+    {
+      "name": "Nikki Nievez",
+      "person_id": 12336
     }
   ],
   "release_date": "2011-06-20",

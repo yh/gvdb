@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
+      "name": "Danno Alecs",
+      "person_id": 20835
+    },
+    {
       "name": "George Vidanov",
       "person_id": 20757
     },
     {
       "name": "Martin Hubai",
       "person_id": 20804
-    },
-    {
-      "name": "Danno Alecs",
-      "person_id": 20835
     }
   ],
   "release_date": "1998-03-14",

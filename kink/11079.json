@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "James Deen",
-      "person_id": 8935
-    },
-    {
       "name": "Charley Chase",
       "person_id": 16304
+    },
+    {
+      "name": "James Deen",
+      "person_id": 8935
     },
     {
       "name": "Katie Kox",

@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Seth Gamble",
-      "person_id": 57488
-    },
-    {
       "name": "Britney Amber",
       "person_id": 57340
     },
     {
       "name": "Jane Wilde",
       "person_id": 61147
+    },
+    {
+      "name": "Seth Gamble",
+      "person_id": 57488
     }
   ],
   "release_date": "2018-04-27",

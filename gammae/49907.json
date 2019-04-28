@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
-      "name": "Mac Masters",
-      "person_id": 26262
-    },
-    {
       "name": "Jack Miller",
       "person_id": 27020
     },
     {
       "name": "Kal",
       "person_id": 27022
+    },
+    {
+      "name": "Mac Masters",
+      "person_id": 26262
     },
     {
       "name": "Max Stone",

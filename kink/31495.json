@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Lorelei Lee",
-      "person_id": 758
-    },
-    {
       "name": "Allie James",
       "person_id": 49291
     },
     {
       "name": "Astral Dust",
       "person_id": 43670
+    },
+    {
+      "name": "Lorelei Lee",
+      "person_id": 758
     }
   ],
   "release_date": "2013-07-19",

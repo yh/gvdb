@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Luke Adams",
-      "person_id": 53452
-    },
-    {
       "name": "Cam Christou",
       "person_id": 54332
+    },
+    {
+      "name": "Luke Adams",
+      "person_id": 53452
     }
   ],
   "release_date": "2014-08-06",

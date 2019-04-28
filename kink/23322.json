@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Travis Irons",
-      "person_id": 39077
-    },
-    {
       "name": "Evan Mercy",
       "person_id": 40389
+    },
+    {
+      "name": "Travis Irons",
+      "person_id": 39077
     }
   ],
   "release_date": "2012-06-29",

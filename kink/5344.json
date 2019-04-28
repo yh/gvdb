@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Claire Dames",
+      "person_id": 14027
+    },
+    {
       "name": "Lobo",
       "person_id": 16229
     },
     {
       "name": "Sara Faye",
       "person_id": 12832
-    },
-    {
-      "name": "Claire Dames",
-      "person_id": 14027
     }
   ],
   "release_date": "2008-08-22",

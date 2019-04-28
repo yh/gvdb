@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Alexander Gustavo",
+      "person_id": 55166
+    },
+    {
       "name": "Bella Rossi",
       "person_id": 18418
     },
     {
       "name": "Cherry Torn",
       "person_id": 11105
-    },
-    {
-      "name": "Alexander Gustavo",
-      "person_id": 55166
     }
   ],
   "release_date": "2014-12-17",

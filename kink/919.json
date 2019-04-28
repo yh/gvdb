@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Rio",
-      "person_id": 859
-    },
-    {
       "name": "Kendra James",
       "person_id": 247
+    },
+    {
+      "name": "Rio",
+      "person_id": 859
     }
   ],
   "release_date": "2003-02-27",

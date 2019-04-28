@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Judass",
-      "person_id": 10563
-    },
-    {
       "name": "DragonLily",
       "person_id": 3433
+    },
+    {
+      "name": "Judass",
+      "person_id": 10563
     }
   ],
   "release_date": "2006-11-29",

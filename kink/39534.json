@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nina Lawless",
-      "person_id": 52751
-    },
-    {
       "name": "Jessica Creepshow",
       "person_id": 42682
+    },
+    {
+      "name": "Nina Lawless",
+      "person_id": 52751
     }
   ],
   "release_date": "2016-03-18",

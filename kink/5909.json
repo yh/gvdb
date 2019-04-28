@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dee Williams",
-      "person_id": 4197
-    },
-    {
       "name": "Alexa Von Tess",
       "person_id": 12340
+    },
+    {
+      "name": "Dee Williams",
+      "person_id": 4197
     }
   ],
   "release_date": "2008-11-11",

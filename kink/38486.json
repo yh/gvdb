@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "John Strong",
-      "person_id": 17050
-    },
-    {
       "name": "Ashley Adams",
       "person_id": 57457
+    },
+    {
+      "name": "John Strong",
+      "person_id": 17050
     }
   ],
   "release_date": "2015-08-21",

@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Van Darkholme",
-      "person_id": 15862
+      "name": "Alessio Romero",
+      "person_id": 20463
     },
     {
       "name": "Jason Miller",
       "person_id": 17619
     },
     {
-      "name": "Alessio Romero",
-      "person_id": 20463
-    },
-    {
       "name": "Jeremy Stevens",
       "person_id": 40364
+    },
+    {
+      "name": "Van Darkholme",
+      "person_id": 15862
     }
   ],
   "release_date": "2013-05-02",

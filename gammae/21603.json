@@ -5,8 +5,8 @@
   "description": "",
   "models": [
     {
-      "name": "Sky Donovan",
-      "person_id": 10839
+      "name": "Chris Steele",
+      "person_id": 11238
     },
     {
       "name": "Jason Hawke",
@@ -17,8 +17,8 @@
       "person_id": 11096
     },
     {
-      "name": "Chris Steele",
-      "person_id": 11238
+      "name": "Sky Donovan",
+      "person_id": 10839
     },
     {
       "name": "Tom Chase",

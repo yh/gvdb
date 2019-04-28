@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Mia Little",
-      "person_id": 51496
-    },
-    {
       "name": "James Kickstand",
       "person_id": 48660
+    },
+    {
+      "name": "Mia Little",
+      "person_id": 51496
     }
   ],
   "release_date": "2017-11-30",

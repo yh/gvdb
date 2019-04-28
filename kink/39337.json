@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Fallon West",
-      "person_id": 56321
-    },
-    {
       "name": "Adley Rose",
       "person_id": 57261
+    },
+    {
+      "name": "Fallon West",
+      "person_id": 56321
     }
   ],
   "release_date": "2016-01-15",

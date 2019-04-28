@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Tricia Oaks",
-      "person_id": 20505
+      "name": "Mark Davis",
+      "person_id": 8200
     },
     {
       "name": "Skylar Price",
       "person_id": 20638
     },
     {
-      "name": "Mark Davis",
-      "person_id": 8200
+      "name": "Tricia Oaks",
+      "person_id": 20505
     }
   ],
   "release_date": "2010-06-04",

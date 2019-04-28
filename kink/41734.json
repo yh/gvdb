@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Yasmin Lee",
-      "person_id": 13931
-    },
-    {
       "name": "Will Havoc",
       "person_id": 46285
+    },
+    {
+      "name": "Yasmin Lee",
+      "person_id": 13931
     }
   ],
   "release_date": "2017-03-28",

@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Sir C",
-      "person_id": 10946
-    },
-    {
       "name": "Satine Phoenix",
       "person_id": 11425
+    },
+    {
+      "name": "Sir C",
+      "person_id": 10946
     }
   ],
   "release_date": "2006-05-30",

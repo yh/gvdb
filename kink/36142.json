@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Holly Heart",
-      "person_id": 20472
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
+    },
+    {
+      "name": "Holly Heart",
+      "person_id": 20472
     }
   ],
   "release_date": "2014-09-05",

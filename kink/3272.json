@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Veronica Lynn",
-      "person_id": 10722
-    },
-    {
       "name": "Sandra Romain",
       "person_id": 10239
+    },
+    {
+      "name": "Veronica Lynn",
+      "person_id": 10722
     }
   ],
   "release_date": "2005-11-04",

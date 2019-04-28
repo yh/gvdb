@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Mena Mason",
-      "person_id": 53759
-    },
-    {
       "name": "James Kickstand",
       "person_id": 48660
+    },
+    {
+      "name": "Mena Mason",
+      "person_id": 53759
     }
   ],
   "release_date": "2019-01-10",

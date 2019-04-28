@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "April O'Neil",
-      "person_id": 18549
-    },
-    {
       "name": "Aiden Starr",
       "person_id": 11489
+    },
+    {
+      "name": "April O'Neil",
+      "person_id": 18549
     }
   ],
   "release_date": "2008-12-12",

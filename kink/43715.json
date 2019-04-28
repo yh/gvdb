@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Van Wylde",
-      "person_id": 55729
-    },
-    {
       "name": "Ariella Ferrera",
       "person_id": 61423
+    },
+    {
+      "name": "Van Wylde",
+      "person_id": 55729
     }
   ],
   "release_date": "2018-08-02",

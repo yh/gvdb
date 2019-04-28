@@ -11,10 +11,6 @@
   ],
   "models": [
     {
-      "name": "Sandra Luberc",
-      "person_id": 51467
-    },
-    {
       "name": "Andreas",
       "person_id": 51096
     },
@@ -29,6 +25,10 @@
     {
       "name": "Omar Galanti",
       "person_id": 42129
+    },
+    {
+      "name": "Sandra Luberc",
+      "person_id": 51467
     },
     {
       "name": "Steve Holmes",

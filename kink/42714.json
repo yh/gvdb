@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Ramon Nomar",
-      "person_id": 35412
-    },
-    {
       "name": "Cadey Mercury",
       "person_id": 60520
+    },
+    {
+      "name": "Ramon Nomar",
+      "person_id": 35412
     }
   ],
   "release_date": "2018-03-09",

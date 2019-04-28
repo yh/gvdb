@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Chad Rock",
-      "person_id": 14593
-    },
-    {
-      "name": "Vince Ferelli",
-      "person_id": 22769
-    },
-    {
       "name": "Brenn Wyson",
       "person_id": 19912
     },
     {
+      "name": "Chad Rock",
+      "person_id": 14593
+    },
+    {
       "name": "Van Darkholme",
       "person_id": 15862
+    },
+    {
+      "name": "Vince Ferelli",
+      "person_id": 22769
     }
   ],
   "release_date": "2011-01-27",

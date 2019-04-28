@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Joseph Rough",
-      "person_id": 36998
-    },
-    {
       "name": "Aspen",
       "person_id": 37074
+    },
+    {
+      "name": "Joseph Rough",
+      "person_id": 36998
     }
   ],
   "release_date": "2015-07-09",

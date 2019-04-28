@@ -11,24 +11,24 @@
   ],
   "models": [
     {
-      "name": "Lyla Storm",
-      "person_id": 33882
+      "name": "Beretta James",
+      "person_id": 33659
     },
     {
       "name": "Dylan Ryan",
       "person_id": 10069
     },
     {
-      "name": "Beretta James",
-      "person_id": 33659
+      "name": "Jack Hammer",
+      "person_id": 18499
+    },
+    {
+      "name": "Lyla Storm",
+      "person_id": 33882
     },
     {
       "name": "Mark Davis",
       "person_id": 8200
-    },
-    {
-      "name": "Jack Hammer",
-      "person_id": 18499
     }
   ],
   "release_date": "2012-08-03",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "totaleurosex",
-      "person_id": 10565
-    },
-    {
       "name": "Sativa Rose",
       "person_id": 8226
+    },
+    {
+      "name": "totaleurosex",
+      "person_id": 10565
     }
   ],
   "release_date": "2006-03-15",

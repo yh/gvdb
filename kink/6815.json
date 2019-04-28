@@ -11,16 +11,28 @@
   ],
   "models": [
     {
-      "name": "Peter",
-      "person_id": 7005
+      "name": "Bella Rossi",
+      "person_id": 18418
     },
     {
-      "name": "Savannah West",
-      "person_id": 19581
+      "name": "Cherry Torn",
+      "person_id": 11105
+    },
+    {
+      "name": "Maestro",
+      "person_id": 11928
     },
     {
       "name": "Maggie Mayhem",
       "person_id": 19763
+    },
+    {
+      "name": "Nerine Mechanique",
+      "person_id": 19851
+    },
+    {
+      "name": "Peter",
+      "person_id": 7005
     },
     {
       "name": "Sarah Shevon",
@@ -31,20 +43,8 @@
       "person_id": 17850
     },
     {
-      "name": "Bella Rossi",
-      "person_id": 18418
-    },
-    {
-      "name": "Cherry Torn",
-      "person_id": 11105
-    },
-    {
-      "name": "Nerine Mechanique",
-      "person_id": 19851
-    },
-    {
-      "name": "Maestro",
-      "person_id": 11928
+      "name": "Savannah West",
+      "person_id": 19581
     }
   ],
   "release_date": "2010-08-16",

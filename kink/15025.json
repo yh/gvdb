@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "DragonLily",
-      "person_id": 3433
+      "name": "Annie Cruz",
+      "person_id": 7776
     },
     {
-      "name": "Maitresse Madeline Marlowe",
-      "person_id": 17872
+      "name": "DragonLily",
+      "person_id": 3433
     },
     {
       "name": "Gabriel Dalessandro",
       "person_id": 20692
     },
     {
-      "name": "Annie Cruz",
-      "person_id": 7776
+      "name": "Maitresse Madeline Marlowe",
+      "person_id": 17872
     }
   ],
   "release_date": "2011-10-26",

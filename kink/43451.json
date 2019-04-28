@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tyler Rush",
-      "person_id": 54465
-    },
-    {
       "name": "Max Ferro",
       "person_id": 61300
+    },
+    {
+      "name": "Tyler Rush",
+      "person_id": 54465
     }
   ],
   "release_date": "2018-07-19",

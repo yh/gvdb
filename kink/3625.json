@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "JR Langdon",
-      "person_id": 11748
-    },
-    {
       "name": "Haley Scott",
       "person_id": 11423
+    },
+    {
+      "name": "JR Langdon",
+      "person_id": 11748
     }
   ],
   "release_date": "2006-06-21",

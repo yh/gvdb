@@ -5,16 +5,16 @@
   "description": "Steve Gibson, Chris Robbin and Neil Erickson work up a good lather together.",
   "models": [
     {
-      "name": "Steve Gibson",
-      "person_id": 12195
+      "name": "Chris Robbin",
+      "person_id": 12253
     },
     {
       "name": "Neil Erickson",
       "person_id": 12252
     },
     {
-      "name": "Chris Robbin",
-      "person_id": 12253
+      "name": "Steve Gibson",
+      "person_id": 12195
     }
   ],
   "release_date": "2010-07-02",

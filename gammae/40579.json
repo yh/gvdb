@@ -5,20 +5,20 @@
   "description": "",
   "models": [
     {
-      "name": "Thierry Golyo",
-      "person_id": 20842
-    },
-    {
-      "name": "Logan Sajnal",
-      "person_id": 20855
+      "name": "Connor Zaftos",
+      "person_id": 20949
     },
     {
       "name": "Eric Hanner",
       "person_id": 20889
     },
     {
-      "name": "Connor Zaftos",
-      "person_id": 20949
+      "name": "Logan Sajnal",
+      "person_id": 20855
+    },
+    {
+      "name": "Thierry Golyo",
+      "person_id": 20842
     }
   ],
   "release_date": "1998-04-04",

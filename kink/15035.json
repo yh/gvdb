@@ -11,6 +11,10 @@
   ],
   "models": [
     {
+      "name": "Chloe Camilla",
+      "person_id": 22493
+    },
+    {
       "name": "Iona Grace",
       "person_id": 25204
     },
@@ -25,10 +29,6 @@
     {
       "name": "Rain DeGrey",
       "person_id": 16817
-    },
-    {
-      "name": "Chloe Camilla",
-      "person_id": 22493
     }
   ],
   "release_date": "2011-09-20",

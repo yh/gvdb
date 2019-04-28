@@ -6,14 +6,6 @@
   "directors": [],
   "models": [
     {
-      "name": "Isabella Clark",
-      "person_id": 43015
-    },
-    {
-      "name": "Steve Holmes",
-      "person_id": 15810
-    },
-    {
       "name": "Chad Rockwell",
       "person_id": 59176
     },
@@ -22,8 +14,16 @@
       "person_id": 18068
     },
     {
+      "name": "Isabella Clark",
+      "person_id": 43015
+    },
+    {
       "name": "Mandy",
       "person_id": 59179
+    },
+    {
+      "name": "Steve Holmes",
+      "person_id": 15810
     }
   ],
   "release_date": "2016-01-15",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mitch Vaughn",
-      "person_id": 35274
-    },
-    {
       "name": "Kip Johnson",
       "person_id": 51603
+    },
+    {
+      "name": "Mitch Vaughn",
+      "person_id": 35274
     }
   ],
   "release_date": "2015-04-01",

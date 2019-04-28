@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Francesca Le",
-      "person_id": 36526
-    },
-    {
       "name": "Dollie Darko",
       "person_id": 56507
+    },
+    {
+      "name": "Francesca Le",
+      "person_id": 36526
     }
   ],
   "release_date": "2015-11-03",

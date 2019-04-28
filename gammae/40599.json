@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
-      "name": "Tavish Szabad",
-      "person_id": 20927
-    },
-    {
       "name": "Eric Flower",
       "person_id": 20935
     },
     {
       "name": "Lance Beau",
       "person_id": 21273
+    },
+    {
+      "name": "Tavish Szabad",
+      "person_id": 20927
     }
   ],
   "release_date": "1998-04-13",

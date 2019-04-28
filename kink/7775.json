@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Randy Spears",
-      "person_id": 19294
-    },
-    {
       "name": "Holly Heart",
       "person_id": 20472
+    },
+    {
+      "name": "Randy Spears",
+      "person_id": 19294
     }
   ],
   "release_date": "2010-01-15",

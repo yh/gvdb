@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Miss Jade Indica",
-      "person_id": 16744
-    },
-    {
       "name": "Maestro",
       "person_id": 11928
+    },
+    {
+      "name": "Miss Jade Indica",
+      "person_id": 16744
     }
   ],
   "release_date": "2009-12-04",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Chelsea Marie",
-      "person_id": 40544
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
+    },
+    {
+      "name": "Chelsea Marie",
+      "person_id": 40544
     }
   ],
   "release_date": "2018-07-02",

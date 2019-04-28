@@ -5,12 +5,12 @@
   "description": "Triumvirate: Up Up And Away",
   "models": [
     {
-      "name": "Pierre L'Fontaine",
-      "person_id": 29462
-    },
-    {
       "name": "Alexander Twice",
       "person_id": 29496
+    },
+    {
+      "name": "Pierre L'Fontaine",
+      "person_id": 29462
     },
     {
       "name": "Robert Kee",

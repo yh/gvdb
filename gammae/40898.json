@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Tim Brensen",
-      "person_id": 20930
-    },
-    {
       "name": "Maruis Reves",
       "person_id": 21114
+    },
+    {
+      "name": "Tim Brensen",
+      "person_id": 20930
     }
   ],
   "release_date": "1998-06-11",

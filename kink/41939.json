@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Skin Diamond",
-      "person_id": 31494
-    },
-    {
       "name": "Gabriella Paltrova",
       "person_id": 41906
+    },
+    {
+      "name": "Skin Diamond",
+      "person_id": 31494
     }
   ],
   "release_date": "2017-04-24",

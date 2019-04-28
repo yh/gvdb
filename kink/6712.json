@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Claire Adams",
-      "person_id": 378
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
+    },
+    {
+      "name": "Claire Adams",
+      "person_id": 378
     }
   ],
   "release_date": "2009-06-25",

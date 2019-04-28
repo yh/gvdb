@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Smokie Flame",
-      "person_id": 6680
-    },
-    {
       "name": "Alexa Von Tess",
       "person_id": 12340
+    },
+    {
+      "name": "Smokie Flame",
+      "person_id": 6680
     }
   ],
   "release_date": "2007-11-27",

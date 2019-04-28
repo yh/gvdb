@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
+      "name": "Anna Quist",
+      "person_id": 59069
+    },
+    {
       "name": "Juliette March",
       "person_id": 22072
     },
     {
       "name": "Steve Holmes",
       "person_id": 15810
-    },
-    {
-      "name": "Anna Quist",
-      "person_id": 59069
     }
   ],
   "release_date": "2015-12-11",

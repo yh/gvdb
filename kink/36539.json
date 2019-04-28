@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jonah Marx",
-      "person_id": 51893
-    },
-    {
       "name": "Adam Herst",
       "person_id": 39639
+    },
+    {
+      "name": "Jonah Marx",
+      "person_id": 51893
     }
   ],
   "release_date": "2014-11-20",

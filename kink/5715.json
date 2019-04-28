@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Yasmin Lee",
-      "person_id": 13931
-    },
-    {
       "name": "Chad Rock",
       "person_id": 14593
+    },
+    {
+      "name": "Yasmin Lee",
+      "person_id": 13931
     }
   ],
   "release_date": "2009-01-13",

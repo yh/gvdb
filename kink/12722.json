@@ -11,16 +11,24 @@
   ],
   "models": [
     {
-      "name": "Bobbi Starr",
-      "person_id": 11290
-    },
-    {
       "name": "Aiden Starr",
       "person_id": 11489
     },
     {
+      "name": "Bobbi Starr",
+      "person_id": 11290
+    },
+    {
+      "name": "DJ",
+      "person_id": 20225
+    },
+    {
       "name": "Jesse Carl",
       "person_id": 29074
+    },
+    {
+      "name": "Kimberly Kane",
+      "person_id": 10900
     },
     {
       "name": "Maitresse Madeline Marlowe",
@@ -29,14 +37,6 @@
     {
       "name": "Zak Tyler",
       "person_id": 21236
-    },
-    {
-      "name": "Kimberly Kane",
-      "person_id": 10900
-    },
-    {
-      "name": "DJ",
-      "person_id": 20225
     }
   ],
   "release_date": "2011-05-11",

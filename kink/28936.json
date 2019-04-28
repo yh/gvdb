@@ -11,8 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nikita Bellucci",
-      "person_id": 47908
+      "name": "Astral Dust",
+      "person_id": 43670
+    },
+    {
+      "name": "Bill Bailey",
+      "person_id": 46601
     },
     {
       "name": "Danny Wylde",
@@ -23,12 +27,8 @@
       "person_id": 16823
     },
     {
-      "name": "Bill Bailey",
-      "person_id": 46601
-    },
-    {
-      "name": "Astral Dust",
-      "person_id": 43670
+      "name": "Nikita Bellucci",
+      "person_id": 47908
     },
     {
       "name": "Xander Corvus",

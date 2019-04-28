@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dylan Ryan",
-      "person_id": 10069
-    },
-    {
       "name": "Daisy Ducati",
       "person_id": 50939
+    },
+    {
+      "name": "Dylan Ryan",
+      "person_id": 10069
     }
   ],
   "release_date": "2015-11-05",

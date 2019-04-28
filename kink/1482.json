@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sasha Monet",
-      "person_id": 2348
-    },
-    {
       "name": "Kym Wilde",
       "person_id": 99
+    },
+    {
+      "name": "Sasha Monet",
+      "person_id": 2348
     }
   ],
   "release_date": "2003-11-14",

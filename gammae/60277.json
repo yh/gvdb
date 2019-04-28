@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
+      "name": "Alex Drake",
+      "person_id": 31936
+    },
+    {
       "name": "Luis Strike",
       "person_id": 29536
     },
     {
       "name": "Trent Jackson",
       "person_id": 31859
-    },
-    {
-      "name": "Alex Drake",
-      "person_id": 31936
     }
   ],
   "release_date": "2013-10-04",

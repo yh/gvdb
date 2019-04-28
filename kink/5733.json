@@ -11,32 +11,32 @@
   ],
   "models": [
     {
-      "name": "Jessica Host",
-      "person_id": 14503
-    },
-    {
-      "name": "Jesse",
-      "person_id": 12790
+      "name": "Ariel Everitts",
+      "person_id": 14689
     },
     {
       "name": "Devin",
       "person_id": 14110
     },
     {
-      "name": "Natassia Dreams",
-      "person_id": 16310
-    },
-    {
       "name": "Diezel",
       "person_id": 13655
     },
     {
-      "name": "Ariel Everitts",
-      "person_id": 14689
+      "name": "Jesse",
+      "person_id": 12790
+    },
+    {
+      "name": "Jessica Host",
+      "person_id": 14503
     },
     {
       "name": "Lobo",
       "person_id": 16229
+    },
+    {
+      "name": "Natassia Dreams",
+      "person_id": 16310
     },
     {
       "name": "Omar",

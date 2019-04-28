@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Francesca Le",
+      "person_id": 36526
+    },
+    {
       "name": "Holly Michaels",
       "person_id": 40156
     },
     {
       "name": "Vicki Chase",
       "person_id": 22412
-    },
-    {
-      "name": "Francesca Le",
-      "person_id": 36526
     }
   ],
   "release_date": "2012-08-14",

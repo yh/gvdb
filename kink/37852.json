@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Chanel Preston",
-      "person_id": 26542
-    },
-    {
       "name": "Bianca Breeze",
       "person_id": 53995
+    },
+    {
+      "name": "Chanel Preston",
+      "person_id": 26542
     },
     {
       "name": "Marco Banderas",

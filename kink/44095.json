@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Cristine Akira Lee",
-      "person_id": 61807
-    },
-    {
       "name": "Brandy Smile",
       "person_id": 61806
+    },
+    {
+      "name": "Cristine Akira Lee",
+      "person_id": 61807
     }
   ],
   "release_date": "2018-12-18",

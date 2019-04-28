@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Seven Dixon",
-      "person_id": 53331
-    },
-    {
       "name": "Mitch Vaughn",
       "person_id": 35274
+    },
+    {
+      "name": "Seven Dixon",
+      "person_id": 53331
     }
   ],
   "release_date": "2014-06-11",

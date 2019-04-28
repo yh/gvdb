@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Pascal White",
-      "person_id": 60611
-    },
-    {
       "name": "Jess Scotland",
       "person_id": 61750
+    },
+    {
+      "name": "Pascal White",
+      "person_id": 60611
     }
   ],
   "release_date": "2018-11-21",

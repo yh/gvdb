@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jeremy Stevens",
-      "person_id": 40364
-    },
-    {
       "name": "Christopher Daniels",
       "person_id": 43887
+    },
+    {
+      "name": "Jeremy Stevens",
+      "person_id": 40364
     }
   ],
   "release_date": "2013-01-17",

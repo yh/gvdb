@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Leo Bunny",
-      "person_id": 61046
-    },
-    {
       "name": "Alex Roman",
       "person_id": 61045
+    },
+    {
+      "name": "Leo Bunny",
+      "person_id": 61046
     }
   ],
   "release_date": "2018-04-18",

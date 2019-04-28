@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
+      "name": "Arnold Sallang",
+      "person_id": 20964
+    },
+    {
       "name": "Fred Fele",
       "person_id": 20848
     },
     {
       "name": "Manuel Macko",
       "person_id": 20961
-    },
-    {
-      "name": "Arnold Sallang",
-      "person_id": 20964
     }
   ],
   "release_date": "1998-05-11",

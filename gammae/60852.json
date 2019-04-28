@@ -5,6 +5,34 @@
   "description": "",
   "models": [
     {
+      "name": "Angelo Marconi",
+      "person_id": 19678
+    },
+    {
+      "name": "Bruno Bond",
+      "person_id": 19812
+    },
+    {
+      "name": "Cole Streets",
+      "person_id": 19931
+    },
+    {
+      "name": "Conner Habib",
+      "person_id": 19944
+    },
+    {
+      "name": "Damien Crosse",
+      "person_id": 19793
+    },
+    {
+      "name": "David Taylor",
+      "person_id": 19813
+    },
+    {
+      "name": "Scott Tanner",
+      "person_id": 19758
+    },
+    {
       "name": "Steve Cruz",
       "person_id": 19615
     },
@@ -13,36 +41,8 @@
       "person_id": 19791
     },
     {
-      "name": "Cole Streets",
-      "person_id": 19931
-    },
-    {
-      "name": "Angelo Marconi",
-      "person_id": 19678
-    },
-    {
-      "name": "Damien Crosse",
-      "person_id": 19793
-    },
-    {
-      "name": "Conner Habib",
-      "person_id": 19944
-    },
-    {
-      "name": "Scott Tanner",
-      "person_id": 19758
-    },
-    {
-      "name": "Bruno Bond",
-      "person_id": 19812
-    },
-    {
       "name": "Wilfried Knight",
       "person_id": 19773
-    },
-    {
-      "name": "David Taylor",
-      "person_id": 19813
     }
   ],
   "release_date": "2010-01-01",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nikki Delano",
-      "person_id": 45587
-    },
-    {
       "name": "Jessica Creepshow",
       "person_id": 42682
+    },
+    {
+      "name": "Nikki Delano",
+      "person_id": 45587
     }
   ],
   "release_date": "2016-04-22",

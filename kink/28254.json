@@ -11,10 +11,6 @@
   ],
   "models": [
     {
-      "name": "John Strong",
-      "person_id": 17050
-    },
-    {
       "name": "Astral Dust",
       "person_id": 43670
     },
@@ -23,16 +19,20 @@
       "person_id": 46601
     },
     {
-      "name": "Riley Evans",
-      "person_id": 24308
+      "name": "John Strong",
+      "person_id": 17050
+    },
+    {
+      "name": "Michael Vegas",
+      "person_id": 47624
     },
     {
       "name": "Mr. Pete",
       "person_id": 16823
     },
     {
-      "name": "Michael Vegas",
-      "person_id": 47624
+      "name": "Riley Evans",
+      "person_id": 24308
     }
   ],
   "release_date": "2013-02-01",

@@ -11,8 +11,20 @@
   ],
   "models": [
     {
+      "name": "Alex Gonz",
+      "person_id": 39154
+    },
+    {
       "name": "Jessie Rogers",
       "person_id": 41043
+    },
+    {
+      "name": "Karlo Karrera",
+      "person_id": 35221
+    },
+    {
+      "name": "Marco Banderas",
+      "person_id": 27958
     },
     {
       "name": "Mr. Pete",
@@ -25,18 +37,6 @@
     {
       "name": "Toni Ribas",
       "person_id": 38962
-    },
-    {
-      "name": "Alex Gonz",
-      "person_id": 39154
-    },
-    {
-      "name": "Karlo Karrera",
-      "person_id": 35221
-    },
-    {
-      "name": "Marco Banderas",
-      "person_id": 27958
     }
   ],
   "release_date": "2013-01-02",

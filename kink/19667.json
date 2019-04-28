@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "James Deen",
-      "person_id": 8935
-    },
-    {
       "name": "Cassandra Nix",
       "person_id": 36857
+    },
+    {
+      "name": "James Deen",
+      "person_id": 8935
     },
     {
       "name": "Princess Donna Dolore",

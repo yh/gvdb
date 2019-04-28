@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Zoe Parker",
-      "person_id": 59234
-    },
-    {
       "name": "Tommy Pistol",
       "person_id": 12663
+    },
+    {
+      "name": "Zoe Parker",
+      "person_id": 59234
     }
   ],
   "release_date": "2016-04-08",

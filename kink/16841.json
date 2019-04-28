@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jessi Palmer",
-      "person_id": 23628
-    },
-    {
       "name": "James Deen",
       "person_id": 8935
+    },
+    {
+      "name": "Jessi Palmer",
+      "person_id": 23628
     }
   ],
   "release_date": "2012-02-10",

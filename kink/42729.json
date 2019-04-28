@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Phoenix Savage",
-      "person_id": 60421
-    },
-    {
       "name": "Mason Lear",
       "person_id": 60275
+    },
+    {
+      "name": "Phoenix Savage",
+      "person_id": 60421
     }
   ],
   "release_date": "2017-09-21",

@@ -11,12 +11,16 @@
   ],
   "models": [
     {
-      "name": "DJ",
-      "person_id": 20225
+      "name": "Blake Daniels",
+      "person_id": 30557
     },
     {
       "name": "Cameron Adams",
       "person_id": 22338
+    },
+    {
+      "name": "DJ",
+      "person_id": 20225
     },
     {
       "name": "Phenix Saint",
@@ -25,10 +29,6 @@
     {
       "name": "Troy Daniels",
       "person_id": 23354
-    },
-    {
-      "name": "Blake Daniels",
-      "person_id": 30557
     }
   ],
   "release_date": "2011-06-29",

@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Madame Adore",
-      "person_id": 61151
-    },
-    {
       "name": "Frejadottir",
       "person_id": 61150
+    },
+    {
+      "name": "Madame Adore",
+      "person_id": 61151
     }
   ],
   "release_date": "2018-03-30",

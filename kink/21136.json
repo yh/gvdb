@@ -11,32 +11,32 @@
   ],
   "models": [
     {
-      "name": "John Strong",
-      "person_id": 17050
-    },
-    {
-      "name": "Toni Ribas",
-      "person_id": 38962
-    },
-    {
-      "name": "Karlo Karrera",
-      "person_id": 35221
+      "name": "Charity Bangs",
+      "person_id": 39137
     },
     {
       "name": "James Deen",
       "person_id": 8935
     },
     {
-      "name": "Mr. Pete",
-      "person_id": 16823
+      "name": "John Strong",
+      "person_id": 17050
+    },
+    {
+      "name": "Karlo Karrera",
+      "person_id": 35221
     },
     {
       "name": "Mark Davis",
       "person_id": 8200
     },
     {
-      "name": "Charity Bangs",
-      "person_id": 39137
+      "name": "Mr. Pete",
+      "person_id": 16823
+    },
+    {
+      "name": "Toni Ribas",
+      "person_id": 38962
     }
   ],
   "release_date": "2012-05-23",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mika Tan",
-      "person_id": 236
-    },
-    {
       "name": "Elliot Skellington",
       "person_id": 10045
+    },
+    {
+      "name": "Mika Tan",
+      "person_id": 236
     }
   ],
   "release_date": "2006-05-17",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Eli Hunter",
-      "person_id": 51998
-    },
-    {
       "name": "DJ",
       "person_id": 20225
+    },
+    {
+      "name": "Eli Hunter",
+      "person_id": 51998
     }
   ],
   "release_date": "2015-09-02",

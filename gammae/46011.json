@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Champ",
-      "person_id": 26310
-    },
-    {
       "name": "Big Mike",
       "person_id": 26311
+    },
+    {
+      "name": "Champ",
+      "person_id": 26310
     }
   ],
   "release_date": "2012-11-14",

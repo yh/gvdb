@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Cole Brooks",
-      "person_id": 31913
-    },
-    {
       "name": "Brenn Wyson",
       "person_id": 19912
+    },
+    {
+      "name": "Cole Brooks",
+      "person_id": 31913
     }
   ],
   "release_date": "2011-09-22",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Patrick Andraste",
-      "person_id": 12692
-    },
-    {
       "name": "Claire Adams",
       "person_id": 378
+    },
+    {
+      "name": "Patrick Andraste",
+      "person_id": 12692
     }
   ],
   "release_date": "2012-09-03",

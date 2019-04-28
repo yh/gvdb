@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Sarah Kay",
-      "person_id": 61137
-    },
-    {
       "name": "Ar",
       "person_id": 60282
+    },
+    {
+      "name": "Sarah Kay",
+      "person_id": 61137
     }
   ],
   "release_date": "2018-08-01",

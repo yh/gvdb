@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Simone Sonay",
-      "person_id": 34687
-    },
-    {
       "name": "Mr. Pete",
       "person_id": 16823
+    },
+    {
+      "name": "Simone Sonay",
+      "person_id": 34687
     }
   ],
   "release_date": "2013-12-13",

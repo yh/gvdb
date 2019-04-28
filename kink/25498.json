@@ -11,40 +11,40 @@
   ],
   "models": [
     {
-      "name": "Ramon Nomar",
-      "person_id": 35412
-    },
-    {
-      "name": "John Strong",
-      "person_id": 17050
-    },
-    {
-      "name": "Toni Ribas",
-      "person_id": 38962
-    },
-    {
-      "name": "Skin Diamond",
-      "person_id": 31494
+      "name": "Chanel Preston",
+      "person_id": 26542
     },
     {
       "name": "Gia DiMarco",
       "person_id": 21436
     },
     {
-      "name": "Chanel Preston",
-      "person_id": 26542
-    },
-    {
-      "name": "Prince Yahshua",
-      "person_id": 38513
+      "name": "John Strong",
+      "person_id": 17050
     },
     {
       "name": "Nicki Hunter",
       "person_id": 36853
     },
     {
+      "name": "Prince Yahshua",
+      "person_id": 38513
+    },
+    {
       "name": "Princess Donna Dolore",
       "person_id": 5235
+    },
+    {
+      "name": "Ramon Nomar",
+      "person_id": 35412
+    },
+    {
+      "name": "Skin Diamond",
+      "person_id": 31494
+    },
+    {
+      "name": "Toni Ribas",
+      "person_id": 38962
     }
   ],
   "release_date": "2012-12-12",

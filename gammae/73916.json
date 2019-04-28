@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Tucker Forrest",
-      "person_id": 27965
-    },
-    {
       "name": "Alessandro Del Toro",
       "person_id": 36221
+    },
+    {
+      "name": "Tucker Forrest",
+      "person_id": 27965
     }
   ],
   "release_date": "2015-05-01",

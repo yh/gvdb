@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Missy Martinez",
-      "person_id": 59648
-    },
-    {
       "name": "Daisy Ducati",
       "person_id": 50939
+    },
+    {
+      "name": "Missy Martinez",
+      "person_id": 59648
     }
   ],
   "release_date": "2017-04-06",

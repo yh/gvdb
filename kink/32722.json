@@ -11,10 +11,6 @@
   ],
   "models": [
     {
-      "name": "Penny Barber",
-      "person_id": 6664
-    },
-    {
       "name": "Danny Wylde",
       "person_id": 7790
     },
@@ -23,12 +19,16 @@
       "person_id": 19623
     },
     {
-      "name": "Tommy Pistol",
-      "person_id": 12663
+      "name": "Penny Barber",
+      "person_id": 6664
     },
     {
       "name": "Prince Yahshua",
       "person_id": 38513
+    },
+    {
+      "name": "Tommy Pistol",
+      "person_id": 12663
     }
   ],
   "release_date": "2013-09-25",

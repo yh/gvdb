@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Jasmine Caro",
-      "person_id": 54281
-    },
-    {
       "name": "James Kickstand",
       "person_id": 48660
+    },
+    {
+      "name": "Jasmine Caro",
+      "person_id": 54281
     }
   ],
   "release_date": "2018-01-25",

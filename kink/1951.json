@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Sgt. Major",
-      "person_id": 4556
-    },
-    {
       "name": "Audrey Leigh",
       "person_id": 1587
     },
     {
       "name": "Jackie Moore",
       "person_id": 4731
+    },
+    {
+      "name": "Sgt. Major",
+      "person_id": 4556
     }
   ],
   "release_date": "2004-08-27",

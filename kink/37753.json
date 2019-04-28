@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Ella Nova",
-      "person_id": 51866
-    },
-    {
       "name": "Angel Allwood",
       "person_id": 52348
+    },
+    {
+      "name": "Ella Nova",
+      "person_id": 51866
     }
   ],
   "release_date": "2015-04-24",

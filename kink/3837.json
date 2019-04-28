@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Stacey Cash",
-      "person_id": 8321
-    },
-    {
       "name": "Judass",
       "person_id": 10563
+    },
+    {
+      "name": "Stacey Cash",
+      "person_id": 8321
     }
   ],
   "release_date": "2006-08-30",

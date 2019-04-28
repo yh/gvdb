@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Elliot Skellington",
-      "person_id": 10045
-    },
-    {
       "name": "Annie Cruz",
       "person_id": 7776
+    },
+    {
+      "name": "Elliot Skellington",
+      "person_id": 10045
     },
     {
       "name": "Sir C",

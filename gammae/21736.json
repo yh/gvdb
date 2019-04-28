@@ -5,12 +5,12 @@
   "description": "When Christian Owen's shower explodes and he's in desperate need of a plumber, the meek dispatcher - played by Trevor Knight - must overcome his shyness and take care of the customer himself.",
   "models": [
     {
-      "name": "Trevor Knight",
-      "person_id": 11564
-    },
-    {
       "name": "Christian Owen",
       "person_id": 11686
+    },
+    {
+      "name": "Trevor Knight",
+      "person_id": 11564
     }
   ],
   "release_date": "2007-04-01",

@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Stella Cox",
-      "person_id": 59424
-    },
-    {
       "name": "Mick Blue",
       "person_id": 35591
+    },
+    {
+      "name": "Stella Cox",
+      "person_id": 59424
     }
   ],
   "release_date": "2017-10-27",

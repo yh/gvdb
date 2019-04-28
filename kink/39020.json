@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Savannah Fox",
-      "person_id": 47440
-    },
-    {
-      "name": "Lisa Tiffian",
-      "person_id": 55478
-    },
-    {
       "name": "Angel Allwood",
       "person_id": 52348
     },
     {
       "name": "Daisy Ducati",
       "person_id": 50939
+    },
+    {
+      "name": "Lisa Tiffian",
+      "person_id": 55478
+    },
+    {
+      "name": "Savannah Fox",
+      "person_id": 47440
     }
   ],
   "release_date": "2015-10-27",

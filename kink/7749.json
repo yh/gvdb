@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Curt Wooster",
+      "person_id": 18252
+    },
+    {
       "name": "Hollie Stevens",
       "person_id": 1572
     },
     {
       "name": "Maestro",
       "person_id": 11928
-    },
-    {
-      "name": "Curt Wooster",
-      "person_id": 18252
     }
   ],
   "release_date": "2010-04-23",

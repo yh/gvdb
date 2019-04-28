@@ -15,16 +15,8 @@
       "person_id": 57457
     },
     {
-      "name": "Seth Gamble",
-      "person_id": 57488
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
-    },
-    {
-      "name": "Siouxsie Q",
-      "person_id": 34821
     },
     {
       "name": "Mickey Mod",
@@ -33,6 +25,14 @@
     {
       "name": "Penny Pax",
       "person_id": 38571
+    },
+    {
+      "name": "Seth Gamble",
+      "person_id": 57488
+    },
+    {
+      "name": "Siouxsie Q",
+      "person_id": 34821
     }
   ],
   "release_date": "2015-04-17",

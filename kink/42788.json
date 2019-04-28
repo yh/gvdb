@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Petra",
-      "person_id": 60532
-    },
-    {
       "name": "Dave",
       "person_id": 60533
     },
     {
       "name": "Kate",
       "person_id": 60531
+    },
+    {
+      "name": "Petra",
+      "person_id": 60532
     }
   ],
   "release_date": "2017-09-27",

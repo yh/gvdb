@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Trent Diesel",
-      "person_id": 21234
-    },
-    {
       "name": "Leo Forte",
       "person_id": 22142
+    },
+    {
+      "name": "Trent Diesel",
+      "person_id": 21234
     }
   ],
   "release_date": "2015-04-22",

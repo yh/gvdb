@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Xander Corvus",
-      "person_id": 46000
-    },
-    {
       "name": "Helena Locke",
       "person_id": 59793
     },
     {
       "name": "Maya Kendrick",
       "person_id": 60355
+    },
+    {
+      "name": "Xander Corvus",
+      "person_id": 46000
     }
   ],
   "release_date": "2017-11-24",

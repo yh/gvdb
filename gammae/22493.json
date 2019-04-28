@@ -5,12 +5,12 @@
   "description": "Cult leader Cal 'Speedy' Reynolds prepares two underlings, Dak Ramsey and Adam Faust, for the intense sexual ritual that's about to unfold.",
   "models": [
     {
-      "name": "Cal 'Speedy' Reynolds",
-      "person_id": 11597
-    },
-    {
       "name": "Adam Faust",
       "person_id": 11618
+    },
+    {
+      "name": "Cal 'Speedy' Reynolds",
+      "person_id": 11597
     },
     {
       "name": "Dak Ramsey",

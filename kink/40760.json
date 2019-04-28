@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Scott DeMarco",
-      "person_id": 59206
-    },
-    {
       "name": "Jessie Colter",
       "person_id": 34311
+    },
+    {
+      "name": "Scott DeMarco",
+      "person_id": 59206
     }
   ],
   "release_date": "2016-09-15",

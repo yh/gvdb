@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Yhivi",
-      "person_id": 53649
-    },
-    {
       "name": "The Pope",
       "person_id": 27779
+    },
+    {
+      "name": "Yhivi",
+      "person_id": 53649
     }
   ],
   "release_date": "2016-03-11",

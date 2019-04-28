@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sarah Jane Ceylon",
-      "person_id": 12772
-    },
-    {
       "name": "Isis Love",
       "person_id": 6584
+    },
+    {
+      "name": "Sarah Jane Ceylon",
+      "person_id": 12772
     }
   ],
   "release_date": "2007-06-20",

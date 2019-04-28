@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Maddy O'Reilly",
-      "person_id": 41042
-    },
-    {
       "name": "Jodi Taylor",
       "person_id": 43213
+    },
+    {
+      "name": "Maddy O'Reilly",
+      "person_id": 41042
     },
     {
       "name": "Mark Wood",

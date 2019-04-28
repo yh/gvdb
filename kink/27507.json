@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Morgan Black",
-      "person_id": 34934
-    },
-    {
       "name": "Blake Daniels",
       "person_id": 30557
+    },
+    {
+      "name": "Morgan Black",
+      "person_id": 34934
     }
   ],
   "release_date": "2013-01-10",

@@ -11,28 +11,28 @@
   ],
   "models": [
     {
-      "name": "Tommy Pistol",
-      "person_id": 12663
-    },
-    {
-      "name": "John Johnson",
-      "person_id": 49204
+      "name": "Holly Heart",
+      "person_id": 20472
     },
     {
       "name": "Jay Smooth",
       "person_id": 48773
     },
     {
-      "name": "Mark Wood",
-      "person_id": 31058
+      "name": "John Johnson",
+      "person_id": 49204
     },
     {
       "name": "Jon Jon",
       "person_id": 35195
     },
     {
-      "name": "Holly Heart",
-      "person_id": 20472
+      "name": "Mark Wood",
+      "person_id": 31058
+    },
+    {
+      "name": "Tommy Pistol",
+      "person_id": 12663
     }
   ],
   "release_date": "2016-06-29",

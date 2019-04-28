@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Isabella Soprano",
-      "person_id": 6243
-    },
-    {
       "name": "Hollie Stevens",
       "person_id": 1572
+    },
+    {
+      "name": "Isabella Soprano",
+      "person_id": 6243
     }
   ],
   "release_date": "2005-04-07",

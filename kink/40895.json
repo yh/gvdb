@@ -6,28 +6,28 @@
   "directors": [],
   "models": [
     {
-      "name": "Steve Holmes",
-      "person_id": 15810
+      "name": "Ichi the Lorean",
+      "person_id": 60076
     },
     {
       "name": "Juan Lucho",
       "person_id": 59517
     },
     {
-      "name": "Silvia Rubi",
-      "person_id": 57227
-    },
-    {
       "name": "Lilith Optima",
       "person_id": 60015
     },
     {
-      "name": "Ichi the Lorean",
-      "person_id": 60076
-    },
-    {
       "name": "Natalia Ruso",
       "person_id": 60089
+    },
+    {
+      "name": "Silvia Rubi",
+      "person_id": 57227
+    },
+    {
+      "name": "Steve Holmes",
+      "person_id": 15810
     }
   ],
   "release_date": "2017-02-20",

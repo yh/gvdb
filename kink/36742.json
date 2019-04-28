@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Rob Diesel",
-      "person_id": 56144
-    },
-    {
       "name": "Aris Dark",
       "person_id": 56223
+    },
+    {
+      "name": "Rob Diesel",
+      "person_id": 56144
     }
   ],
   "release_date": "2014-10-24",

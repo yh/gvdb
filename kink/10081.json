@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Gia DiMarco",
-      "person_id": 21436
-    },
-    {
       "name": "Cherry Torn",
       "person_id": 11105
+    },
+    {
+      "name": "Gia DiMarco",
+      "person_id": 21436
     }
   ],
   "release_date": "2010-08-27",

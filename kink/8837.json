@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Van Darkholme",
-      "person_id": 15862
-    },
-    {
-      "name": "Vince Ferelli",
-      "person_id": 22769
+      "name": "Christian Wilde",
+      "person_id": 21037
     },
     {
       "name": "Derek Pain",
       "person_id": 17904
     },
     {
-      "name": "Christian Wilde",
-      "person_id": 21037
+      "name": "Van Darkholme",
+      "person_id": 15862
+    },
+    {
+      "name": "Vince Ferelli",
+      "person_id": 22769
     }
   ],
   "release_date": "2010-06-03",

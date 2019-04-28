@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Raina Verene",
-      "person_id": 17161
-    },
-    {
       "name": "Maestro",
       "person_id": 11928
+    },
+    {
+      "name": "Raina Verene",
+      "person_id": 17161
     }
   ],
   "release_date": "2009-01-02",

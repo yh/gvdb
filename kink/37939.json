@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kelly Klaymour",
-      "person_id": 53469
-    },
-    {
       "name": "Kajira Bound",
       "person_id": 57259
+    },
+    {
+      "name": "Kelly Klaymour",
+      "person_id": 53469
     }
   ],
   "release_date": "2015-05-22",

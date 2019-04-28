@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Esmi Lee",
-      "person_id": 49417
-    },
-    {
       "name": "Bruno Dickemz",
       "person_id": 54328
+    },
+    {
+      "name": "Esmi Lee",
+      "person_id": 49417
     }
   ],
   "release_date": "2018-04-19",

@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Tommy Pistol",
-      "person_id": 12663
-    },
-    {
       "name": "Cadence Lux",
       "person_id": 51424
     },
     {
       "name": "Simone Sonay",
       "person_id": 34687
+    },
+    {
+      "name": "Tommy Pistol",
+      "person_id": 12663
     }
   ],
   "release_date": "2016-11-11",

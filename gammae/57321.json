@@ -5,12 +5,12 @@
   "description": "Triumvirate: Soccer Camp",
   "models": [
     {
-      "name": "Samuel Crecry",
-      "person_id": 29538
-    },
-    {
       "name": "Miky Sem",
       "person_id": 29678
+    },
+    {
+      "name": "Samuel Crecry",
+      "person_id": 29538
     }
   ],
   "release_date": "2003-10-29",

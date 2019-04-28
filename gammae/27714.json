@@ -5,16 +5,16 @@
   "description": "Hayden Chandler is a bit worn out. Been playing the Wii all night it seems. And though he's gotten quite good at the baseball game, it has taken its toll and he is crashed out on the couch. Jamie Aero & Tommy Deluca haven't heard from Hayden all day, so when they come over and find him zonked out from playing, they decide to play their own game with bats and balls. Luckily for them, Hayden is already a pro at this game. Enjoy!",
   "models": [
     {
-      "name": "Tommy Deluca",
-      "person_id": 14412
+      "name": "Hayden Chandler",
+      "person_id": 14414
     },
     {
       "name": "Jamie Aero",
       "person_id": 14413
     },
     {
-      "name": "Hayden Chandler",
-      "person_id": 14414
+      "name": "Tommy Deluca",
+      "person_id": 14412
     }
   ],
   "release_date": "2011-02-01",

@@ -5,16 +5,16 @@
   "description": "Mr. White (Todd Maxwell) wakes up and learns that Ricky Martinez and Danger hold the antidote to the poison he's been injected with. A hateful racist, if he wants to live, he's going to have to submit to them ... in the sling.",
   "models": [
     {
-      "name": "Todd Maxwell",
-      "person_id": 11594
-    },
-    {
       "name": "Danger",
       "person_id": 11622
     },
     {
       "name": "Ricky Martinez",
       "person_id": 11623
+    },
+    {
+      "name": "Todd Maxwell",
+      "person_id": 11594
     }
   ],
   "release_date": "2006-10-01",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Trent Diesel",
-      "person_id": 21234
-    },
-    {
       "name": "Colby Jansen",
       "person_id": 34457
+    },
+    {
+      "name": "Trent Diesel",
+      "person_id": 21234
     }
   ],
   "release_date": "2012-12-12",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Steven St. Croix",
-      "person_id": 12188
-    },
-    {
       "name": "Lorena Sanchez",
       "person_id": 12215
+    },
+    {
+      "name": "Steven St. Croix",
+      "person_id": 12188
     }
   ],
   "release_date": "2006-08-11",

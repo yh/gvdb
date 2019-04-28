@@ -6,6 +6,14 @@
   "directors": [],
   "models": [
     {
+      "name": "Blashure",
+      "person_id": 60358
+    },
+    {
+      "name": "Carmen Rivera",
+      "person_id": 60339
+    },
+    {
       "name": "Ella Kross",
       "person_id": 61013
     },
@@ -14,16 +22,8 @@
       "person_id": 51954
     },
     {
-      "name": "Carmen Rivera",
-      "person_id": 60339
-    },
-    {
       "name": "Pony Browni",
       "person_id": 61014
-    },
-    {
-      "name": "Blashure",
-      "person_id": 60358
     }
   ],
   "release_date": "2018-03-23",

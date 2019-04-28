@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lance Hart",
-      "person_id": 37346
-    },
-    {
       "name": "Dylan Knight",
       "person_id": 52002
+    },
+    {
+      "name": "Lance Hart",
+      "person_id": 37346
     }
   ],
   "release_date": "2016-03-03",

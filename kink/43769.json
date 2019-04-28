@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Ten",
-      "person_id": 19459
-    },
-    {
       "name": "David Lawrence",
       "person_id": 60352
+    },
+    {
+      "name": "Ten",
+      "person_id": 19459
     }
   ],
   "release_date": "2018-08-29",

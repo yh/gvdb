@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Claude Nikotine",
-      "person_id": 60730
-    },
-    {
       "name": "Casper Ellis",
       "person_id": 60731
+    },
+    {
+      "name": "Claude Nikotine",
+      "person_id": 60730
     }
   ],
   "release_date": "2017-11-19",

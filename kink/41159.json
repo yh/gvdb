@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Cali Confidential",
-      "person_id": 59506
-    },
-    {
       "name": "Annie Cruz",
       "person_id": 7776
+    },
+    {
+      "name": "Cali Confidential",
+      "person_id": 59506
     }
   ],
   "release_date": "2016-12-07",

@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
+      "name": "Ken DeSeve",
+      "person_id": 21501
+    },
+    {
       "name": "Nubius",
       "person_id": 21196
     },
     {
       "name": "Remey",
       "person_id": 21258
-    },
-    {
-      "name": "Ken DeSeve",
-      "person_id": 21501
     }
   ],
   "release_date": "2012-08-02",

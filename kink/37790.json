@@ -6,8 +6,8 @@
   "directors": [],
   "models": [
     {
-      "name": "Steve Holmes",
-      "person_id": 15810
+      "name": "Lola",
+      "person_id": 57910
     },
     {
       "name": "Mona Wales",
@@ -18,12 +18,12 @@
       "person_id": 57856
     },
     {
-      "name": "Xavi Tralla",
-      "person_id": 57764
+      "name": "Steve Holmes",
+      "person_id": 15810
     },
     {
-      "name": "Lola",
-      "person_id": 57910
+      "name": "Xavi Tralla",
+      "person_id": 57764
     }
   ],
   "release_date": "2015-05-22",

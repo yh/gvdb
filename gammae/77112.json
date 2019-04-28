@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Jessie Colter",
-      "person_id": 35620
-    },
-    {
       "name": "Billy Santoro",
       "person_id": 35626
+    },
+    {
+      "name": "Jessie Colter",
+      "person_id": 35620
     }
   ],
   "release_date": "2015-07-16",

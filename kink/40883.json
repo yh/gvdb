@@ -6,20 +6,20 @@
   "directors": [],
   "models": [
     {
-      "name": "Steve Holmes",
-      "person_id": 15810
-    },
-    {
-      "name": "Tina Kay",
-      "person_id": 58964
-    },
-    {
       "name": "Antonio Ross",
       "person_id": 33540
     },
     {
       "name": "Daniela Dadivoso",
       "person_id": 59960
+    },
+    {
+      "name": "Steve Holmes",
+      "person_id": 15810
+    },
+    {
+      "name": "Tina Kay",
+      "person_id": 58964
     }
   ],
   "release_date": "2016-11-28",

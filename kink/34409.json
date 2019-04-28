@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "DragonLily",
-      "person_id": 3433
-    },
-    {
       "name": "Dick Richards",
       "person_id": 2483
+    },
+    {
+      "name": "DragonLily",
+      "person_id": 3433
     }
   ],
   "release_date": "2015-02-28",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dana DeArmond",
-      "person_id": 4498
-    },
-    {
       "name": "Claire Robbins",
       "person_id": 46978
+    },
+    {
+      "name": "Dana DeArmond",
+      "person_id": 4498
     },
     {
       "name": "Emma Haize",

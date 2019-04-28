@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Charlotte Sartre",
-      "person_id": 57874
-    },
-    {
       "name": "Ariel X",
       "person_id": 10464
+    },
+    {
+      "name": "Charlotte Sartre",
+      "person_id": 57874
     }
   ],
   "release_date": "2018-12-19",

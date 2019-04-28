@@ -5,12 +5,12 @@
   "description": "For those of you who feel gypped because I didn't blow Taylor during his Serviced video, you will be pleasantly surprised that I got him to do a lot more in the silver chair!",
   "models": [
     {
-      "name": "Taylor",
-      "person_id": 3343
-    },
-    {
       "name": "Bryan",
       "person_id": 3120
+    },
+    {
+      "name": "Taylor",
+      "person_id": 3343
     }
   ],
   "release_date": "2010-03-24",

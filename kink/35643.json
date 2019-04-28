@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mia Smiles",
-      "person_id": 54282
-    },
-    {
       "name": "Chris Cannon",
       "person_id": 53660
+    },
+    {
+      "name": "Mia Smiles",
+      "person_id": 54282
     }
   ],
   "release_date": "2011-08-11",

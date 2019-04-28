@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Bill Bailey",
-      "person_id": 46601
-    },
-    {
       "name": "Ashlee Graham",
       "person_id": 27269
+    },
+    {
+      "name": "Bill Bailey",
+      "person_id": 46601
     }
   ],
   "release_date": "2014-12-12",

@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Mary Jale",
-      "person_id": 60321
-    },
-    {
       "name": "Dirty Dollbaby",
       "person_id": 60317
+    },
+    {
+      "name": "Mary Jale",
+      "person_id": 60321
     }
   ],
   "release_date": "2018-03-05",

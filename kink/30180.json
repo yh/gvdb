@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Marcus Isaacs",
-      "person_id": 47853
-    },
-    {
       "name": "Leo Forte",
       "person_id": 22142
+    },
+    {
+      "name": "Marcus Isaacs",
+      "person_id": 47853
     }
   ],
   "release_date": "2013-03-20",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Rico Romero",
-      "person_id": 52064
-    },
-    {
       "name": "Marcus Isaacs",
       "person_id": 47853
+    },
+    {
+      "name": "Rico Romero",
+      "person_id": 52064
     }
   ],
   "release_date": "2014-01-08",

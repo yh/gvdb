@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Mike Rivers",
-      "person_id": 31789
-    },
-    {
       "name": "Alexander Garrett",
       "person_id": 33725
+    },
+    {
+      "name": "Mike Rivers",
+      "person_id": 31789
     }
   ],
   "release_date": "2011-10-26",

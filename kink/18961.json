@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Denice K",
+      "person_id": 15441
+    },
+    {
       "name": "James Deen",
       "person_id": 8935
     },
     {
       "name": "Steve Holmes",
       "person_id": 15810
-    },
-    {
-      "name": "Denice K",
-      "person_id": 15441
     }
   ],
   "release_date": "2012-03-09",

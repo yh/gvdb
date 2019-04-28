@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Doc Rock",
-      "person_id": 28014
-    },
-    {
       "name": "Alex Adams",
       "person_id": 28090
+    },
+    {
+      "name": "Doc Rock",
+      "person_id": 28014
     }
   ],
   "release_date": "2013-11-19",

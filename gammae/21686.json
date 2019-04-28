@@ -5,12 +5,12 @@
   "description": "It's the threeway that you've been waiting to see since part one: Erik Rhodes, Matthew Rush and Roman Heart on a yacht racing across the Pacific Ocean.",
   "models": [
     {
-      "name": "Matthew Rush",
-      "person_id": 11036
-    },
-    {
       "name": "Erik Rhodes",
       "person_id": 11271
+    },
+    {
+      "name": "Matthew Rush",
+      "person_id": 11036
     },
     {
       "name": "Roman Heart",

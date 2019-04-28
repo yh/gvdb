@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Riley Nixon",
-      "person_id": 59619
-    },
-    {
       "name": "Helena Locke",
       "person_id": 59793
+    },
+    {
+      "name": "Riley Nixon",
+      "person_id": 59619
     }
   ],
   "release_date": "2019-01-03",

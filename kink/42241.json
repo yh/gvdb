@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Kiera King",
-      "person_id": 19571
-    },
-    {
       "name": "Alyssa Reece",
       "person_id": 19416
+    },
+    {
+      "name": "Kiera King",
+      "person_id": 19571
     }
   ],
   "release_date": "2018-01-30",

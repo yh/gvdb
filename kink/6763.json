@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Sarah Shevon",
-      "person_id": 19605
-    },
-    {
       "name": "Maestro",
       "person_id": 11928
     },
     {
       "name": "Sabrina Fox",
       "person_id": 14055
+    },
+    {
+      "name": "Sarah Shevon",
+      "person_id": 19605
     }
   ],
   "release_date": "2009-07-17",

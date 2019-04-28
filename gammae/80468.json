@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "FX Rios",
-      "person_id": 34929
-    },
-    {
       "name": "Christian Lesage",
       "person_id": 38082
+    },
+    {
+      "name": "FX Rios",
+      "person_id": 34929
     }
   ],
   "release_date": "2015-12-09",

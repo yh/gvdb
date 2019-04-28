@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Ariel X",
-      "person_id": 10464
-    },
-    {
       "name": "Ami Emerson",
       "person_id": 18094
+    },
+    {
+      "name": "Ariel X",
+      "person_id": 10464
     }
   ],
   "release_date": "2008-10-07",

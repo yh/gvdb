@@ -6,20 +6,20 @@
   "directors": [],
   "models": [
     {
-      "name": "Steve Holmes",
-      "person_id": 15810
-    },
-    {
-      "name": "Silvia Rubi",
-      "person_id": 57227
+      "name": "Alexa Nasha",
+      "person_id": 59585
     },
     {
       "name": "Juan Lucho",
       "person_id": 59517
     },
     {
-      "name": "Alexa Nasha",
-      "person_id": 59585
+      "name": "Silvia Rubi",
+      "person_id": 57227
+    },
+    {
+      "name": "Steve Holmes",
+      "person_id": 15810
     }
   ],
   "release_date": "2016-06-17",

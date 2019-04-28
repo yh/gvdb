@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kristofer Weston",
-      "person_id": 59522
-    },
-    {
       "name": "Brendan Patrick",
       "person_id": 55528
+    },
+    {
+      "name": "Kristofer Weston",
+      "person_id": 59522
     }
   ],
   "release_date": "2019-02-21",

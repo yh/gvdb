@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Marxel Rios",
-      "person_id": 28050
-    },
-    {
       "name": "Austin Chandler",
       "person_id": 31002
+    },
+    {
+      "name": "Marxel Rios",
+      "person_id": 28050
     }
   ],
   "release_date": "2015-07-22",

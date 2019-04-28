@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "David Rivera",
-      "person_id": 21013
-    },
-    {
       "name": "Brent Moon",
       "person_id": 21071
+    },
+    {
+      "name": "David Rivera",
+      "person_id": 21013
     }
   ],
   "release_date": "1998-06-06",

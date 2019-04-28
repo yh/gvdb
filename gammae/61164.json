@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Nick Cross",
-      "person_id": 28393
-    },
-    {
       "name": "Kirk LaFont",
       "person_id": 32196
+    },
+    {
+      "name": "Nick Cross",
+      "person_id": 28393
     }
   ],
   "release_date": "2013-11-22",

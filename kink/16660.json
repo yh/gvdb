@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mistress T",
-      "person_id": 34161
-    },
-    {
       "name": "Dutch Bardoux",
       "person_id": 30063
+    },
+    {
+      "name": "Mistress T",
+      "person_id": 34161
     }
   ],
   "release_date": "2011-11-23",

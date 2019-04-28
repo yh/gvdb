@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lena Kelly",
-      "person_id": 61007
-    },
-    {
       "name": "Corbin Dallas",
       "person_id": 51921
+    },
+    {
+      "name": "Lena Kelly",
+      "person_id": 61007
     }
   ],
   "release_date": "2018-09-04",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sasha Knox",
-      "person_id": 21127
-    },
-    {
       "name": "Nika Noire",
       "person_id": 17418
+    },
+    {
+      "name": "Sasha Knox",
+      "person_id": 21127
     }
   ],
   "release_date": "2009-11-13",

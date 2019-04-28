@@ -5,20 +5,20 @@
   "description": "",
   "models": [
     {
-      "name": "Tomas Dombai",
-      "person_id": 20767
-    },
-    {
       "name": "Adam Gosett",
       "person_id": 20781
+    },
+    {
+      "name": "Attila G",
+      "person_id": 20783
     },
     {
       "name": "Laszlo S",
       "person_id": 20782
     },
     {
-      "name": "Attila G",
-      "person_id": 20783
+      "name": "Tomas Dombai",
+      "person_id": 20767
     }
   ],
   "release_date": "1998-03-07",

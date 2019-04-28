@@ -3,20 +3,15 @@
     "Fucking Machines"
   ],
   "description": "This happens all the time, I go to the gym and see cute chicks making out and getting fucked.",
-  "directors": [
-    {
-      "name": "Pirelli",
-      "person_id": 7016
-    }
-  ],
+  "directors": [],
   "models": [
-    {
-      "name": "Sabrina",
-      "person_id": 1650
-    },
     {
       "name": "Fiona Cheeks",
       "person_id": 1672
+    },
+    {
+      "name": "Sabrina",
+      "person_id": 1650
     }
   ],
   "release_date": "2003-05-21",

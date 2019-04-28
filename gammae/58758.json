@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Geo Reigns",
-      "person_id": 31237
-    },
-    {
       "name": "Damian",
       "person_id": 31386
+    },
+    {
+      "name": "Geo Reigns",
+      "person_id": 31237
     },
     {
       "name": "Nick Decker",

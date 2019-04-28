@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Owen Hawk",
-      "person_id": 61645
-    },
-    {
       "name": "Austin Edwards",
       "person_id": 61646
     },
     {
       "name": "Jason Dean",
       "person_id": 61647
+    },
+    {
+      "name": "Owen Hawk",
+      "person_id": 61645
     }
   ],
   "release_date": "2018-10-23",

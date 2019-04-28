@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Steven Ponce",
-      "person_id": 27969
-    },
-    {
       "name": "Matt Stevens",
       "person_id": 31203
+    },
+    {
+      "name": "Steven Ponce",
+      "person_id": 27969
     }
   ],
   "release_date": "2013-07-02",

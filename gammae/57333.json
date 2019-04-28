@@ -5,16 +5,16 @@
   "description": "Triumvirate: Soccer Camp 2",
   "models": [
     {
-      "name": "Steeve Sanders",
-      "person_id": 29460
-    },
-    {
       "name": "Bryan Armano",
       "person_id": 29676
     },
     {
       "name": "Dinar Right",
       "person_id": 29699
+    },
+    {
+      "name": "Steeve Sanders",
+      "person_id": 29460
     }
   ],
   "release_date": "2004-01-14",

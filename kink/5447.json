@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lefty",
-      "person_id": 13364
-    },
-    {
       "name": "Cassandra Cruz",
       "person_id": 15020
+    },
+    {
+      "name": "Lefty",
+      "person_id": 13364
     },
     {
       "name": "Samantha Sin",

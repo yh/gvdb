@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tawni Ryden",
-      "person_id": 12435
-    },
-    {
       "name": "Sandra Romain",
       "person_id": 10239
+    },
+    {
+      "name": "Tawni Ryden",
+      "person_id": 12435
     }
   ],
   "release_date": "2007-04-19",

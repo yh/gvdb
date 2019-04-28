@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Natassia Dreams",
-      "person_id": 16310
-    },
-    {
       "name": "Jack Hammer",
       "person_id": 18499
+    },
+    {
+      "name": "Natassia Dreams",
+      "person_id": 16310
     }
   ],
   "release_date": "2010-03-03",

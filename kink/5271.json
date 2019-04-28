@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Alexa Von Tess",
-      "person_id": 12340
-    },
-    {
       "name": "Adrianna Nicole",
       "person_id": 301
+    },
+    {
+      "name": "Alexa Von Tess",
+      "person_id": 12340
     }
   ],
   "release_date": "2008-04-15",

@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
-      "name": "Tom Hawai",
-      "person_id": 21075
-    },
-    {
       "name": "Lucky Taylor",
       "person_id": 21082
     },
     {
       "name": "Richy Rich",
       "person_id": 21083
+    },
+    {
+      "name": "Tom Hawai",
+      "person_id": 21075
     }
   ],
   "release_date": "1998-05-16",

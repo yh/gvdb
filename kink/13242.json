@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Sparky Sin Claire",
-      "person_id": 29494
-    },
-    {
       "name": "Lilla Katt",
       "person_id": 18701
     },
     {
       "name": "Nerine Mechanique",
       "person_id": 19851
+    },
+    {
+      "name": "Sparky Sin Claire",
+      "person_id": 29494
     }
   ],
   "release_date": "2011-08-26",

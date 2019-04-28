@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Van Darkholme",
-      "person_id": 15862
+      "name": "Chad Rock",
+      "person_id": 14593
     },
     {
       "name": "Devin Moss",
       "person_id": 20765
     },
     {
-      "name": "Chad Rock",
-      "person_id": 14593
+      "name": "Van Darkholme",
+      "person_id": 15862
     }
   ],
   "release_date": "2010-02-04",

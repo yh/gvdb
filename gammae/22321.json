@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
-      "name": "Vince Rockland",
-      "person_id": 11095
-    },
-    {
       "name": "Hal Rockland",
       "person_id": 11985
     },
     {
       "name": "Tyler Reagan",
       "person_id": 12279
+    },
+    {
+      "name": "Vince Rockland",
+      "person_id": 11095
     }
   ],
   "release_date": "2005-10-01",

@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
-      "name": "Tony Buff",
-      "person_id": 23165
-    },
-    {
       "name": "Chris Yosef",
       "person_id": 23210
     },
     {
       "name": "Preston Steel",
       "person_id": 23211
+    },
+    {
+      "name": "Tony Buff",
+      "person_id": 23165
     }
   ],
   "release_date": "2011-06-21",

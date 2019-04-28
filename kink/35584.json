@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kip Johnson",
-      "person_id": 51603
-    },
-    {
       "name": "Cherry Torn",
       "person_id": 11105
+    },
+    {
+      "name": "Kip Johnson",
+      "person_id": 51603
     }
   ],
   "release_date": "2014-06-11",

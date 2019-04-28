@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Osiris Blade",
-      "person_id": 35601
-    },
-    {
       "name": "Caleb Troy",
       "person_id": 36278
+    },
+    {
+      "name": "Osiris Blade",
+      "person_id": 35601
     }
   ],
   "release_date": "2015-05-08",

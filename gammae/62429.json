@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "James Smith",
-      "person_id": 31522
-    },
-    {
       "name": "Isaac Conn",
       "person_id": 31994
+    },
+    {
+      "name": "James Smith",
+      "person_id": 31522
     }
   ],
   "release_date": "2014-01-03",

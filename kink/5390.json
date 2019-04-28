@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jesse",
-      "person_id": 12790
-    },
-    {
       "name": "Conrad",
       "person_id": 17079
+    },
+    {
+      "name": "Jesse",
+      "person_id": 12790
     }
   ],
   "release_date": "2008-07-15",

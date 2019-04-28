@@ -3,20 +3,15 @@
     "Water Bondage"
   ],
   "description": "Luscious Gianna Lynn returns to battle with the Sarge. Its not wise to fool with the Sargent Major. Gianna finds that out the hard way by starting out the shoot a bit rebellious. The Sarge takes her down a couple notches and both of them are happier for it.\nThanks you two for this hot update!",
-  "directors": [
-    {
-      "name": "Sgt. Major",
-      "person_id": 4556
-    }
-  ],
+  "directors": [],
   "models": [
-    {
-      "name": "Sgt. Major",
-      "person_id": 4556
-    },
     {
       "name": "Gianna Lynn",
       "person_id": 14081
+    },
+    {
+      "name": "Sgt. Major",
+      "person_id": 4556
     }
   ],
   "release_date": "2012-11-29",

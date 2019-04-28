@@ -5,12 +5,12 @@
   "description": "A challenge was tossed out by Logan.\n\"Super-Size Me!\"\nFor Logan, apparently. The bigger the better.\nWow!\nAnd finally, some RAW action in an Edge video!",
   "models": [
     {
-      "name": "Logan Sparks",
-      "person_id": 3431
-    },
-    {
       "name": "Eli Hunter",
       "person_id": 3340
+    },
+    {
+      "name": "Logan Sparks",
+      "person_id": 3431
     }
   ],
   "release_date": "2011-06-08",

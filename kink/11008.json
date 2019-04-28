@@ -6,28 +6,28 @@
   "directors": [],
   "models": [
     {
-      "name": "Kait Snow",
-      "person_id": 25825
+      "name": "Audrey Hollander",
+      "person_id": 11450
     },
     {
       "name": "Devon Taylor",
       "person_id": 26550
     },
     {
-      "name": "Marco Banderas",
-      "person_id": 27958
+      "name": "Kait Snow",
+      "person_id": 25825
     },
     {
       "name": "Maestro",
       "person_id": 11928
     },
     {
-      "name": "Otto Bauer",
-      "person_id": 11451
+      "name": "Marco Banderas",
+      "person_id": 27958
     },
     {
-      "name": "Audrey Hollander",
-      "person_id": 11450
+      "name": "Otto Bauer",
+      "person_id": 11451
     }
   ],
   "release_date": "2010-12-30",

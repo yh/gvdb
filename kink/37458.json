@@ -11,20 +11,12 @@
   ],
   "models": [
     {
-      "name": "Rose Rhapsody",
-      "person_id": 52003
+      "name": "Astral Dust",
+      "person_id": 43670
     },
     {
       "name": "Bill Bailey",
       "person_id": 46601
-    },
-    {
-      "name": "Tommy Pistol",
-      "person_id": 12663
-    },
-    {
-      "name": "Astral Dust",
-      "person_id": 43670
     },
     {
       "name": "Bradley Remington",
@@ -33,6 +25,14 @@
     {
       "name": "John Strong",
       "person_id": 17050
+    },
+    {
+      "name": "Rose Rhapsody",
+      "person_id": 52003
+    },
+    {
+      "name": "Tommy Pistol",
+      "person_id": 12663
     }
   ],
   "release_date": "2015-05-20",

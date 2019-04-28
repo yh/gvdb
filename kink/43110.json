@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Myles Landon",
-      "person_id": 60444
-    },
-    {
       "name": "Chance Summerlin",
       "person_id": 60103
+    },
+    {
+      "name": "Myles Landon",
+      "person_id": 60444
     }
   ],
   "release_date": "2018-02-15",

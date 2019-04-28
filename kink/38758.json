@@ -6,20 +6,20 @@
   "directors": [],
   "models": [
     {
-      "name": "Mona Wales",
-      "person_id": 51511
-    },
-    {
-      "name": "Steve Holmes",
-      "person_id": 15810
-    },
-    {
       "name": "Conny Dachs",
       "person_id": 58208
     },
     {
+      "name": "Mona Wales",
+      "person_id": 51511
+    },
+    {
       "name": "Pina De Luxe",
       "person_id": 59184
+    },
+    {
+      "name": "Steve Holmes",
+      "person_id": 15810
     }
   ],
   "release_date": "2016-01-29",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jacob Durham",
-      "person_id": 33772
-    },
-    {
       "name": "Christian Wilde",
       "person_id": 21037
+    },
+    {
+      "name": "Jacob Durham",
+      "person_id": 33772
     }
   ],
   "release_date": "2011-11-04",

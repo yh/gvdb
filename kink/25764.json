@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Reena Sky",
-      "person_id": 22150
-    },
-    {
       "name": "Odile",
       "person_id": 33692
+    },
+    {
+      "name": "Reena Sky",
+      "person_id": 22150
     }
   ],
   "release_date": "2012-10-19",

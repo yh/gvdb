@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Kyle King",
-      "person_id": 23104
-    },
-    {
       "name": "Kennedy Carter",
       "person_id": 33286
+    },
+    {
+      "name": "Kyle King",
+      "person_id": 23104
     }
   ],
   "release_date": "2010-04-25",

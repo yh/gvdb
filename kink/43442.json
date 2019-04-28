@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Michael Brandon",
-      "person_id": 61294
-    },
-    {
       "name": "Luke Sabre",
       "person_id": 61293
+    },
+    {
+      "name": "Michael Brandon",
+      "person_id": 61294
     }
   ],
   "release_date": "2018-07-31",

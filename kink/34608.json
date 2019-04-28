@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Eli Hunter",
-      "person_id": 51998
-    },
-    {
       "name": "Doug Acre",
       "person_id": 47153
+    },
+    {
+      "name": "Eli Hunter",
+      "person_id": 51998
     }
   ],
   "release_date": "2015-05-06",

@@ -9,20 +9,20 @@
       "person_id": 10868
     },
     {
-      "name": "Matt Colmar",
-      "person_id": 52435
-    },
-    {
-      "name": "Mario Ortiz",
-      "person_id": 11505
-    },
-    {
       "name": "Bo Knight",
       "person_id": 52363
     },
     {
       "name": "Jake Summers",
       "person_id": 52413
+    },
+    {
+      "name": "Mario Ortiz",
+      "person_id": 11505
+    },
+    {
+      "name": "Matt Colmar",
+      "person_id": 52435
     }
   ],
   "release_date": "2007-01-01",

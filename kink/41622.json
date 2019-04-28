@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jaxton Wheeler",
-      "person_id": 53352
-    },
-    {
       "name": "Alex Hawk",
       "person_id": 59999
+    },
+    {
+      "name": "Jaxton Wheeler",
+      "person_id": 53352
     }
   ],
   "release_date": "2017-02-16",

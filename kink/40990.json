@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Scott Ambrose",
-      "person_id": 59594
-    },
-    {
       "name": "Lance Hart",
       "person_id": 37346
+    },
+    {
+      "name": "Scott Ambrose",
+      "person_id": 59594
     }
   ],
   "release_date": "2016-10-27",

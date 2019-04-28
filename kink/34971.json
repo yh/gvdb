@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Christian Wilde",
+      "person_id": 21037
+    },
+    {
       "name": "Eli Hunter",
       "person_id": 51998
     },
     {
       "name": "Mitch Vaughn",
       "person_id": 35274
-    },
-    {
-      "name": "Christian Wilde",
-      "person_id": 21037
     }
   ],
   "release_date": "2014-03-28",

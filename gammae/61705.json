@@ -5,12 +5,12 @@
   "description": "Here's a behind-the-scene look at Manuel Deboxer's Infinity Photoshoot. I shot this video directly from my camera so you could see what I saw and feel what I felt, as if you were there in the room with us. As always, I couldn't keep my hands and mouth off Manuel's sexy body ! ;)",
   "models": [
     {
-      "name": "Pascal",
-      "person_id": 32430
-    },
-    {
       "name": "Manuel Deboxer",
       "person_id": 32463
+    },
+    {
+      "name": "Pascal",
+      "person_id": 32430
     }
   ],
   "release_date": "2012-04-02",

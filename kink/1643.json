@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Holly",
-      "person_id": 3328
-    },
-    {
       "name": "ElectroBoy",
       "person_id": 3329
+    },
+    {
+      "name": "Holly",
+      "person_id": 3328
     },
     {
       "name": "Kym Wilde",

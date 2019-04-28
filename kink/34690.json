@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Holly Michaels",
-      "person_id": 40156
-    },
-    {
       "name": "Derrick Pierce",
       "person_id": 14403
+    },
+    {
+      "name": "Holly Michaels",
+      "person_id": 40156
     }
   ],
   "release_date": "2014-02-23",

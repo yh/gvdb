@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Paige Pierce",
-      "person_id": 60404
-    },
-    {
       "name": "Ami Mercury",
       "person_id": 57186
+    },
+    {
+      "name": "Paige Pierce",
+      "person_id": 60404
     }
   ],
   "release_date": "2018-02-07",

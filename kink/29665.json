@@ -11,16 +11,12 @@
   ],
   "models": [
     {
-      "name": "Cameron Kincade",
-      "person_id": 47006
-    },
-    {
       "name": "Aiden Starr",
       "person_id": 11489
     },
     {
-      "name": "Maitresse Madeline Marlowe",
-      "person_id": 17872
+      "name": "Cameron Kincade",
+      "person_id": 47006
     },
     {
       "name": "Chad Rock",
@@ -29,6 +25,10 @@
     {
       "name": "Lance Hart",
       "person_id": 37346
+    },
+    {
+      "name": "Maitresse Madeline Marlowe",
+      "person_id": 17872
     }
   ],
   "release_date": "2013-04-10",

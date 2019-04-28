@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Penny Barber",
-      "person_id": 6664
-    },
-    {
       "name": "Lyla Storm",
       "person_id": 33882
+    },
+    {
+      "name": "Penny Barber",
+      "person_id": 6664
     }
   ],
   "release_date": "2012-05-04",

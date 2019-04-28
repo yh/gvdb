@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Princess Kali",
-      "person_id": 1821
-    },
-    {
       "name": "Andy Ray",
       "person_id": 5371
+    },
+    {
+      "name": "Princess Kali",
+      "person_id": 1821
     }
   ],
   "release_date": "2004-06-18",

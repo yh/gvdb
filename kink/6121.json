@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Hollie Stevens",
-      "person_id": 1572
-    },
-    {
       "name": "Ami Emerson",
       "person_id": 18094
+    },
+    {
+      "name": "Hollie Stevens",
+      "person_id": 1572
     }
   ],
   "release_date": "2009-02-03",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jessie Cox",
-      "person_id": 18739
-    },
-    {
       "name": "Cheyenne Jewel",
       "person_id": 22734
+    },
+    {
+      "name": "Jessie Cox",
+      "person_id": 18739
     }
   ],
   "release_date": "2011-07-15",

@@ -11,24 +11,24 @@
   ],
   "models": [
     {
-      "name": "Ryan Conner",
-      "person_id": 58063
+      "name": "Gage Sin",
+      "person_id": 53344
+    },
+    {
+      "name": "Mickey Mod",
+      "person_id": 19623
     },
     {
       "name": "Owen Gray",
       "person_id": 39181
     },
     {
-      "name": "Gage Sin",
-      "person_id": 53344
+      "name": "Ryan Conner",
+      "person_id": 58063
     },
     {
       "name": "Sonny Nash",
       "person_id": 39638
-    },
-    {
-      "name": "Mickey Mod",
-      "person_id": 19623
     }
   ],
   "release_date": "2015-10-14",

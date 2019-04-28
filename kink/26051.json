@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Hanna Montada",
+      "person_id": 44484
+    },
+    {
       "name": "Omar Galanti",
       "person_id": 42129
     },
     {
       "name": "Steve Holmes",
       "person_id": 15810
-    },
-    {
-      "name": "Hanna Montada",
-      "person_id": 44484
     }
   ],
   "release_date": "2012-11-09",

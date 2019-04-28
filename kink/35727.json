@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Wild Bill",
-      "person_id": 225
+      "name": "Audrey Leigh",
+      "person_id": 1587
     },
     {
       "name": "Madison Young",
       "person_id": 2674
     },
     {
-      "name": "Audrey Leigh",
-      "person_id": 1587
+      "name": "Wild Bill",
+      "person_id": 225
     }
   ],
   "release_date": "2015-03-23",

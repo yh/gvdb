@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Bobbi Starr",
-      "person_id": 11290
-    },
-    {
       "name": "Aiden Starr",
       "person_id": 11489
+    },
+    {
+      "name": "Bobbi Starr",
+      "person_id": 11290
     },
     {
       "name": "Victoria White",

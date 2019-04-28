@@ -5,12 +5,12 @@
   "description": "Woodsmen Scott Hardman and Mike Russo are inspired in the shade of the tall trees...pulling out their poles and getting back to nature.",
   "models": [
     {
-      "name": "Scott Hardman",
-      "person_id": 11893
-    },
-    {
       "name": "Mike Russo",
       "person_id": 12248
+    },
+    {
+      "name": "Scott Hardman",
+      "person_id": 11893
     }
   ],
   "release_date": "2006-07-01",

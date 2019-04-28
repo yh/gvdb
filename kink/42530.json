@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Cadence Lux",
+      "person_id": 51424
+    },
+    {
       "name": "Mona Wales",
       "person_id": 51511
     },
     {
       "name": "Tommy Pistol",
       "person_id": 12663
-    },
-    {
-      "name": "Cadence Lux",
-      "person_id": 51424
     }
   ],
   "release_date": "2017-09-19",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nina Lawless",
-      "person_id": 52751
-    },
-    {
       "name": "Beretta James",
       "person_id": 33659
+    },
+    {
+      "name": "Nina Lawless",
+      "person_id": 52751
     }
   ],
   "release_date": "2015-07-24",

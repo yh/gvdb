@@ -11,28 +11,28 @@
   ],
   "models": [
     {
-      "name": "Kiki Daire",
-      "person_id": 178
-    },
-    {
-      "name": "Owen Gray",
-      "person_id": 39181
-    },
-    {
-      "name": "Mr. Pete",
-      "person_id": 16823
-    },
-    {
-      "name": "Michael Vegas",
-      "person_id": 47624
+      "name": "Gage Sin",
+      "person_id": 53344
     },
     {
       "name": "John Strong",
       "person_id": 17050
     },
     {
-      "name": "Gage Sin",
-      "person_id": 53344
+      "name": "Kiki Daire",
+      "person_id": 178
+    },
+    {
+      "name": "Michael Vegas",
+      "person_id": 47624
+    },
+    {
+      "name": "Mr. Pete",
+      "person_id": 16823
+    },
+    {
+      "name": "Owen Gray",
+      "person_id": 39181
     }
   ],
   "release_date": "2015-09-23",

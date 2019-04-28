@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Ray Han",
-      "person_id": 51659
-    },
-    {
       "name": "Adam Herst",
       "person_id": 39639
     },
     {
       "name": "Big Red",
       "person_id": 29981
+    },
+    {
+      "name": "Ray Han",
+      "person_id": 51659
     }
   ],
   "release_date": "2014-10-31",

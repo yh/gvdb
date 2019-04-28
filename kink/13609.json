@@ -11,28 +11,28 @@
   ],
   "models": [
     {
-      "name": "James Deen",
-      "person_id": 8935
-    },
-    {
-      "name": "Zenza Raggi",
-      "person_id": 20195
-    },
-    {
-      "name": "Steve Holmes",
-      "person_id": 15810
-    },
-    {
-      "name": "Renato",
-      "person_id": 33525
-    },
-    {
       "name": "Aliz",
       "person_id": 20400
     },
     {
       "name": "Antonio Ross",
       "person_id": 33540
+    },
+    {
+      "name": "James Deen",
+      "person_id": 8935
+    },
+    {
+      "name": "Renato",
+      "person_id": 33525
+    },
+    {
+      "name": "Steve Holmes",
+      "person_id": 15810
+    },
+    {
+      "name": "Zenza Raggi",
+      "person_id": 20195
     }
   ],
   "release_date": "2011-07-13",

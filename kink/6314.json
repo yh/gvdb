@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Derrek Diamond",
+      "person_id": 19001
+    },
+    {
       "name": "Nick Moretti",
       "person_id": 17516
     },
     {
       "name": "Van Darkholme",
       "person_id": 15862
-    },
-    {
-      "name": "Derrek Diamond",
-      "person_id": 19001
     }
   ],
   "release_date": "2009-03-19",

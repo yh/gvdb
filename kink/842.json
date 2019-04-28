@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Katja",
-      "person_id": 337
-    },
-    {
       "name": "Chanta-Rose",
       "person_id": 124
+    },
+    {
+      "name": "Katja",
+      "person_id": 337
     }
   ],
   "release_date": "2002-12-20",

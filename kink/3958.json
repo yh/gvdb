@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nikki Nievez",
-      "person_id": 12336
-    },
-    {
       "name": "Nadia Styles",
       "person_id": 10823
+    },
+    {
+      "name": "Nikki Nievez",
+      "person_id": 12336
     }
   ],
   "release_date": "2006-10-06",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sterling Ward",
-      "person_id": 10567
-    },
-    {
       "name": "Claire Adams",
       "person_id": 378
+    },
+    {
+      "name": "Sterling Ward",
+      "person_id": 10567
     }
   ],
   "release_date": "2005-12-15",

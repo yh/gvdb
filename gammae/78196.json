@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Steven Ponce",
-      "person_id": 27969
-    },
-    {
       "name": "Kory Houston",
       "person_id": 37495
+    },
+    {
+      "name": "Steven Ponce",
+      "person_id": 27969
     }
   ],
   "release_date": "2015-09-03",

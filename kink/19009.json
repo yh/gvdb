@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Aiden Starr",
+      "person_id": 11489
+    },
+    {
       "name": "Ashley Fires",
       "person_id": 20856
     },
     {
       "name": "Shane Dos Santos",
       "person_id": 37116
-    },
-    {
-      "name": "Aiden Starr",
-      "person_id": 11489
     }
   ],
   "release_date": "2012-03-09",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Marica Hase",
-      "person_id": 44408
-    },
-    {
       "name": "Dana DeArmond",
       "person_id": 4498
+    },
+    {
+      "name": "Marica Hase",
+      "person_id": 44408
     }
   ],
   "release_date": "2013-03-12",

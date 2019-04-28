@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nomad",
-      "person_id": 11898
-    },
-    {
       "name": "Maitresse Madeline Marlowe",
       "person_id": 17872
+    },
+    {
+      "name": "Nomad",
+      "person_id": 11898
     }
   ],
   "release_date": "2010-06-23",

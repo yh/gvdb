@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Yasmin Lee",
-      "person_id": 13931
-    },
-    {
       "name": "Tristan Mathews",
       "person_id": 17640
+    },
+    {
+      "name": "Yasmin Lee",
+      "person_id": 13931
     }
   ],
   "release_date": "2008-10-14",

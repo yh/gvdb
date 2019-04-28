@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jack Hammer",
-      "person_id": 18499
-    },
-    {
       "name": "Annika",
       "person_id": 27904
+    },
+    {
+      "name": "Jack Hammer",
+      "person_id": 18499
     }
   ],
   "release_date": "2012-09-21",

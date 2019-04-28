@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "CiCi Rhodes",
-      "person_id": 33887
-    },
-    {
       "name": "Bill Bailey",
       "person_id": 46601
     },
     {
-      "name": "John Strong",
-      "person_id": 17050
+      "name": "CiCi Rhodes",
+      "person_id": 33887
     },
     {
       "name": "Gage Sin",
       "person_id": 53344
+    },
+    {
+      "name": "John Strong",
+      "person_id": 17050
     },
     {
       "name": "Mr. Pete",

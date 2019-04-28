@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nyobi Khan",
-      "person_id": 16415
-    },
-    {
       "name": "Johnny Rocket",
       "person_id": 15904
+    },
+    {
+      "name": "Nyobi Khan",
+      "person_id": 16415
     }
   ],
   "release_date": "2009-03-10",

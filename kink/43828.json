@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Emma Evins",
-      "person_id": 54618
-    },
-    {
       "name": "Bruno Dickemz",
       "person_id": 54328
+    },
+    {
+      "name": "Emma Evins",
+      "person_id": 54618
     }
   ],
   "release_date": "2018-09-27",

@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Maximus",
-      "person_id": 4364
-    },
-    {
       "name": "Audrey Leigh",
       "person_id": 1587
+    },
+    {
+      "name": "Maximus",
+      "person_id": 4364
     }
   ],
   "release_date": "2005-04-07",

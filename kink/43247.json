@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Rado Zuska",
-      "person_id": 61061
-    },
-    {
       "name": "Martin Porter",
       "person_id": 61060
+    },
+    {
+      "name": "Rado Zuska",
+      "person_id": 61061
     }
   ],
   "release_date": "2018-02-23",

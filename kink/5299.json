@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Princess Donna Dolore",
-      "person_id": 5235
+      "name": "Billy",
+      "person_id": 13720
     },
     {
       "name": "Bobbi Starr",
       "person_id": 11290
     },
     {
-      "name": "Billy",
-      "person_id": 13720
-    },
-    {
       "name": "John Strong",
       "person_id": 17050
+    },
+    {
+      "name": "Princess Donna Dolore",
+      "person_id": 5235
     }
   ],
   "release_date": "2012-03-14",

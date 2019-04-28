@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sativa Rose",
-      "person_id": 8226
-    },
-    {
       "name": "Dick Richards",
       "person_id": 2483
+    },
+    {
+      "name": "Sativa Rose",
+      "person_id": 8226
     }
   ],
   "release_date": "2005-07-18",

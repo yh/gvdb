@@ -5,16 +5,16 @@
   "description": "Rod Barry & Kurt Stefano; with Brian Daniels. Kurt and Rod are two cowpokes full of macho swagger who know how to hoof around each other, sucking their fleshy saddlehorns and riding each other like crazed bronco busters who won't be thrown off. All to the amusement of Brian who watches and strokes himself to orgasm.",
   "models": [
     {
-      "name": "Rod Barry",
-      "person_id": 10929
+      "name": "Brian Daniels",
+      "person_id": 11487
     },
     {
       "name": "Kurt Stefano",
       "person_id": 11274
     },
     {
-      "name": "Brian Daniels",
-      "person_id": 11487
+      "name": "Rod Barry",
+      "person_id": 10929
     }
   ],
   "release_date": "2006-01-01",

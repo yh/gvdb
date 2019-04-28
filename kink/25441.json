@@ -11,24 +11,24 @@
   ],
   "models": [
     {
-      "name": "Van Darkholme",
-      "person_id": 15862
+      "name": "Chad Brock",
+      "person_id": 28723
+    },
+    {
+      "name": "Chad Rock",
+      "person_id": 14593
     },
     {
       "name": "Master Avery",
       "person_id": 24956
     },
     {
-      "name": "Chad Brock",
-      "person_id": 28723
-    },
-    {
       "name": "Scratch",
       "person_id": 30441
     },
     {
-      "name": "Chad Rock",
-      "person_id": 14593
+      "name": "Van Darkholme",
+      "person_id": 15862
     }
   ],
   "release_date": "2012-11-08",

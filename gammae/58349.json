@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Rex Wolfe",
-      "person_id": 28482
-    },
-    {
       "name": "CJ Parker",
       "person_id": 31291
+    },
+    {
+      "name": "Rex Wolfe",
+      "person_id": 28482
     }
   ],
   "release_date": "2013-07-09",

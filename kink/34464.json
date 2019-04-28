@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Wild Bill",
-      "person_id": 225
-    },
-    {
       "name": "DragonLily",
       "person_id": 3433
+    },
+    {
+      "name": "Wild Bill",
+      "person_id": 225
     }
   ],
   "release_date": "2015-03-02",

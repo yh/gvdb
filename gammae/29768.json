@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Gavin Waters",
-      "person_id": 13355
-    },
-    {
       "name": "Donny Wright",
       "person_id": 14049
+    },
+    {
+      "name": "Gavin Waters",
+      "person_id": 13355
     }
   ],
   "release_date": "2010-06-20",

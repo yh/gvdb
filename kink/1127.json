@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Claire Adams",
-      "person_id": 378
-    },
-    {
       "name": "Babydoll",
       "person_id": 324
     },
     {
       "name": "Billy Wild",
       "person_id": 791
+    },
+    {
+      "name": "Claire Adams",
+      "person_id": 378
     }
   ],
   "release_date": "2003-07-25",

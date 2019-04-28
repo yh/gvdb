@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Ryan Keely",
-      "person_id": 15370
-    },
-    {
       "name": "Lance Hart",
       "person_id": 37346
+    },
+    {
+      "name": "Ryan Keely",
+      "person_id": 15370
     }
   ],
   "release_date": "2018-12-18",

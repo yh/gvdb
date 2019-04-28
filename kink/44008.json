@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Rob Piper",
-      "person_id": 54778
-    },
-    {
       "name": "Carolina Sweets",
       "person_id": 61749
+    },
+    {
+      "name": "Rob Piper",
+      "person_id": 54778
     }
   ],
   "release_date": "2018-11-20",

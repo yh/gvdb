@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Maestro",
-      "person_id": 11928
-    },
-    {
       "name": "Kat Dior",
       "person_id": 48541
+    },
+    {
+      "name": "Maestro",
+      "person_id": 11928
     }
   ],
   "release_date": "2013-09-22",

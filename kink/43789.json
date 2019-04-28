@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Maisie Rain",
-      "person_id": 61515
-    },
-    {
       "name": "Kayla Green",
       "person_id": 61516
+    },
+    {
+      "name": "Maisie Rain",
+      "person_id": 61515
     }
   ],
   "release_date": "2018-09-11",

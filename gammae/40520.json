@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "George Vidanov",
-      "person_id": 20757
-    },
-    {
       "name": "Alex Lambert",
       "person_id": 20795
+    },
+    {
+      "name": "George Vidanov",
+      "person_id": 20757
     }
   ],
   "release_date": "1998-03-09",

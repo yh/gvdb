@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Sammie Rhodes",
-      "person_id": 12675
-    },
-    {
       "name": "Alexa Von Tess",
       "person_id": 12340
+    },
+    {
+      "name": "Sammie Rhodes",
+      "person_id": 12675
     }
   ],
   "release_date": "2006-12-12",

@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Marsha May",
-      "person_id": 54620
-    },
-    {
       "name": "Kylie Rogue",
       "person_id": 54990
+    },
+    {
+      "name": "Marsha May",
+      "person_id": 54620
     }
   ],
   "release_date": "2017-10-05",

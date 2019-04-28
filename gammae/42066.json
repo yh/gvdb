@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
+      "name": "Duke Rivers",
+      "person_id": 21757
+    },
+    {
       "name": "Michael Ray",
       "person_id": 19852
     },
     {
       "name": "Steve Cannon",
       "person_id": 21755
-    },
-    {
-      "name": "Duke Rivers",
-      "person_id": 21757
     }
   ],
   "release_date": "2003-07-01",

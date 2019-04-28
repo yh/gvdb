@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Yasmine de Leon",
-      "person_id": 21595
-    },
-    {
       "name": "Chad Diamond",
       "person_id": 42305
+    },
+    {
+      "name": "Yasmine de Leon",
+      "person_id": 21595
     }
   ],
   "release_date": "2016-12-27",

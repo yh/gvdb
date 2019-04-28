@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Natalie Mars",
-      "person_id": 60280
-    },
-    {
       "name": "Colby Jansen",
       "person_id": 34457
+    },
+    {
+      "name": "Natalie Mars",
+      "person_id": 60280
     }
   ],
   "release_date": "2018-11-27",

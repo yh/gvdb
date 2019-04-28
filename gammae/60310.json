@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Jacques LaVere",
-      "person_id": 28077
-    },
-    {
       "name": "Brian Bonds",
       "person_id": 28078
+    },
+    {
+      "name": "Jacques LaVere",
+      "person_id": 28077
     }
   ],
   "release_date": "2013-10-09",

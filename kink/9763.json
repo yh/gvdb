@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Leo Forte",
-      "person_id": 22142
-    },
-    {
       "name": "Alessio Romero",
       "person_id": 20463
+    },
+    {
+      "name": "Leo Forte",
+      "person_id": 22142
     }
   ],
   "release_date": "2010-08-18",

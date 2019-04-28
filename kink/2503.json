@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Xana Star",
-      "person_id": 2881
-    },
-    {
       "name": "Nina",
       "person_id": 762
+    },
+    {
+      "name": "Xana Star",
+      "person_id": 2881
     }
   ],
   "release_date": "2005-03-01",

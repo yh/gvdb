@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Conner Habib",
-      "person_id": 19944
-    },
-    {
       "name": "Christian Wilde",
       "person_id": 19970
+    },
+    {
+      "name": "Conner Habib",
+      "person_id": 19944
     },
     {
       "name": "Derrek Diamond",

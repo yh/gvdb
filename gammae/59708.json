@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Cairo Newport",
-      "person_id": 28536
-    },
-    {
       "name": "AJ Monroe",
       "person_id": 28541
+    },
+    {
+      "name": "Cairo Newport",
+      "person_id": 28536
     }
   ],
   "release_date": "2013-03-01",

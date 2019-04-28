@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Seth Gamble",
-      "person_id": 57488
-    },
-    {
       "name": "Helena Locke",
       "person_id": 59793
     },
     {
       "name": "Ivy LeBelle",
       "person_id": 60683
+    },
+    {
+      "name": "Seth Gamble",
+      "person_id": 57488
     }
   ],
   "release_date": "2019-03-29",

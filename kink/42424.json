@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Daisy Marie",
-      "person_id": 15529
-    },
-    {
       "name": "Ben English",
       "person_id": 12667
+    },
+    {
+      "name": "Daisy Marie",
+      "person_id": 15529
     }
   ],
   "release_date": "2017-07-29",

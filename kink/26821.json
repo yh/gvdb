@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Penny Pax",
-      "person_id": 38571
+      "name": "Odile",
+      "person_id": 33692
     },
     {
       "name": "Penny Barber",
       "person_id": 6664
     },
     {
-      "name": "Sarah Shevon",
-      "person_id": 19605
+      "name": "Penny Pax",
+      "person_id": 38571
     },
     {
-      "name": "Odile",
-      "person_id": 33692
+      "name": "Sarah Shevon",
+      "person_id": 19605
     }
   ],
   "release_date": "2012-10-23",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Scott DeMarco",
-      "person_id": 59206
-    },
-    {
       "name": "Kyler Ash",
       "person_id": 59359
+    },
+    {
+      "name": "Scott DeMarco",
+      "person_id": 59206
     }
   ],
   "release_date": "2016-12-02",

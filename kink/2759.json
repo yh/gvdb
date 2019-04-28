@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "shy love",
-      "person_id": 6403
-    },
-    {
       "name": "Staci Thorn",
       "person_id": 7514
+    },
+    {
+      "name": "shy love",
+      "person_id": 6403
     }
   ],
   "release_date": "2005-04-01",

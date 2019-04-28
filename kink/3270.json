@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Judass",
-      "person_id": 10563
-    },
-    {
       "name": "Dana DeArmond",
       "person_id": 4498
     },
     {
       "name": "James",
       "person_id": 10539
+    },
+    {
+      "name": "Judass",
+      "person_id": 10563
     }
   ],
   "release_date": "2005-12-08",

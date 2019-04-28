@@ -5,12 +5,12 @@
   "description": "Peter Axel meets up with Dominic Rider in the men's room for some hard man-to-man action.",
   "models": [
     {
-      "name": "Peter Axel",
-      "person_id": 12900
-    },
-    {
       "name": "Dominik Rider",
       "person_id": 12901
+    },
+    {
+      "name": "Peter Axel",
+      "person_id": 12900
     }
   ],
   "release_date": "2008-01-01",

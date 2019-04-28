@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Mika Tan",
-      "person_id": 236
-    },
-    {
       "name": "Frank Stone",
       "person_id": 6310
+    },
+    {
+      "name": "Mika Tan",
+      "person_id": 236
     }
   ],
   "release_date": "2005-01-20",

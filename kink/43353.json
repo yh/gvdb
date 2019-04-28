@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dee Williams",
-      "person_id": 4197
-    },
-    {
       "name": "Cheyenne Jewel",
       "person_id": 22734
+    },
+    {
+      "name": "Dee Williams",
+      "person_id": 4197
     }
   ],
   "release_date": "2018-08-15",

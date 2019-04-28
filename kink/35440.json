@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Yhivi",
-      "person_id": 53649
-    },
-    {
       "name": "Christian Wilde",
       "person_id": 21037
+    },
+    {
+      "name": "Yhivi",
+      "person_id": 53649
     }
   ],
   "release_date": "2014-05-10",

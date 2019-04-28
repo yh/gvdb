@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Skin Diamond",
-      "person_id": 31494
-    },
-    {
       "name": "Prince Yahshua",
       "person_id": 38513
+    },
+    {
+      "name": "Skin Diamond",
+      "person_id": 31494
     }
   ],
   "release_date": "2018-08-24",

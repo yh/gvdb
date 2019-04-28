@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Payton Bell",
-      "person_id": 19832
-    },
-    {
       "name": "Bobby Bends",
       "person_id": 22578
+    },
+    {
+      "name": "Payton Bell",
+      "person_id": 19832
     }
   ],
   "release_date": "2010-10-08",

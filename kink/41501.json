@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Holly Hendrix",
-      "person_id": 58890
-    },
-    {
       "name": "Cherry Torn",
       "person_id": 11105
+    },
+    {
+      "name": "Holly Hendrix",
+      "person_id": 58890
     }
   ],
   "release_date": "2017-02-02",

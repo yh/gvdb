@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Morgan Black",
-      "person_id": 34934
-    },
-    {
       "name": "Mitch Vaughn",
       "person_id": 35274
+    },
+    {
+      "name": "Morgan Black",
+      "person_id": 34934
     }
   ],
   "release_date": "2012-10-11",

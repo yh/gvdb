@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Hunter Vance",
-      "person_id": 28320
-    },
-    {
       "name": "Chris Noxxx",
       "person_id": 35776
+    },
+    {
+      "name": "Hunter Vance",
+      "person_id": 28320
     }
   ],
   "release_date": "2015-01-21",

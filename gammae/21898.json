@@ -5,12 +5,12 @@
   "description": "Kip Harting and Chuck Hunter whip up a hefty dose of frosting.",
   "models": [
     {
-      "name": "Kip Harting",
-      "person_id": 11894
-    },
-    {
       "name": "Chuck Hunter",
       "person_id": 11947
+    },
+    {
+      "name": "Kip Harting",
+      "person_id": 11894
     }
   ],
   "release_date": "2008-02-01",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Rebecca Lord",
-      "person_id": 150
-    },
-    {
       "name": "Kym Wilde",
       "person_id": 99
+    },
+    {
+      "name": "Rebecca Lord",
+      "person_id": 150
     }
   ],
   "release_date": "2001-11-09",

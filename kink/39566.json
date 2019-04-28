@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Cherry Torn",
-      "person_id": 11105
-    },
-    {
       "name": "Annie Cruz",
       "person_id": 7776
+    },
+    {
+      "name": "Cherry Torn",
+      "person_id": 11105
     }
   ],
   "release_date": "2016-01-29",

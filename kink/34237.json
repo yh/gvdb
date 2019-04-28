@@ -11,6 +11,10 @@
   ],
   "models": [
     {
+      "name": "John Strong",
+      "person_id": 17050
+    },
+    {
       "name": "Karlo Karrera",
       "person_id": 35221
     },
@@ -21,10 +25,6 @@
     {
       "name": "Toni Ribas",
       "person_id": 38962
-    },
-    {
-      "name": "John Strong",
-      "person_id": 17050
     }
   ],
   "release_date": "2014-03-12",

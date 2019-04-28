@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
+      "name": "Erika Sevilla",
+      "person_id": 58082
+    },
+    {
       "name": "Satrina",
       "person_id": 57856
     },
     {
       "name": "Xavi Tralla",
       "person_id": 57764
-    },
-    {
-      "name": "Erika Sevilla",
-      "person_id": 58082
     }
   ],
   "release_date": "2015-07-10",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Ivy LeBelle",
-      "person_id": 60683
-    },
-    {
       "name": "Derrick Pierce",
       "person_id": 14403
+    },
+    {
+      "name": "Ivy LeBelle",
+      "person_id": 60683
     }
   ],
   "release_date": "2017-11-17",

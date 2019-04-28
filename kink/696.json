@@ -3,20 +3,15 @@
     "Butt Machine Boys"
   ],
   "description": "These two studs can't get enough of themselves or the machines while they play at their mountain getaway.",
-  "directors": [
-    {
-      "name": "Biff Cocblocer",
-      "person_id": 7031
-    }
-  ],
+  "directors": [],
   "models": [
-    {
-      "name": "Rhet Hengst",
-      "person_id": 227
-    },
     {
       "name": "Perry A. Waters",
       "person_id": 368
+    },
+    {
+      "name": "Rhet Hengst",
+      "person_id": 227
     }
   ],
   "release_date": "2002-09-27",

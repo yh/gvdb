@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Dylan Knight",
-      "person_id": 32964
-    },
-    {
       "name": "Chad Karzen",
       "person_id": 35633
+    },
+    {
+      "name": "Dylan Knight",
+      "person_id": 32964
     }
   ],
   "release_date": "2015-01-05",

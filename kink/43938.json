@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dominic Pacifico",
-      "person_id": 14892
-    },
-    {
       "name": "Angel Duran",
       "person_id": 61766
+    },
+    {
+      "name": "Dominic Pacifico",
+      "person_id": 14892
     }
   ],
   "release_date": "2018-12-06",

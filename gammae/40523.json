@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Fernando Lizalde",
-      "person_id": 20759
-    },
-    {
       "name": "Daniel Castnov",
       "person_id": 20798
+    },
+    {
+      "name": "Fernando Lizalde",
+      "person_id": 20759
     },
     {
       "name": "Hita Laslo",

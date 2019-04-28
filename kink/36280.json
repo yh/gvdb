@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Connor Maguire",
-      "person_id": 46426
-    },
-    {
       "name": "Alexander Gustavo",
       "person_id": 55166
+    },
+    {
+      "name": "Connor Maguire",
+      "person_id": 46426
     }
   ],
   "release_date": "2014-10-16",

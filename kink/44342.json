@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Marina Angel",
-      "person_id": 53889
-    },
-    {
       "name": "Bruno Dickemz",
       "person_id": 54328
+    },
+    {
+      "name": "Marina Angel",
+      "person_id": 53889
     }
   ],
   "release_date": "2019-02-28",

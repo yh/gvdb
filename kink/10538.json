@@ -3,20 +3,15 @@
     "The Upper Floor"
   ],
   "description": "Dana Vixen is tested by the Upper Floor to see if she has what it takes to become an event service slave.",
-  "directors": [
-    {
-      "name": "Maestro",
-      "person_id": 11928
-    }
-  ],
+  "directors": [],
   "models": [
-    {
-      "name": "Dana Vixen",
-      "person_id": 25104
-    },
     {
       "name": "Cherry Torn",
       "person_id": 11105
+    },
+    {
+      "name": "Dana Vixen",
+      "person_id": 25104
     }
   ],
   "release_date": "2010-10-22",

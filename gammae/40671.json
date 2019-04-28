@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Irving Hunter",
-      "person_id": 20917
-    },
-    {
       "name": "Gary Zabal",
       "person_id": 20985
+    },
+    {
+      "name": "Irving Hunter",
+      "person_id": 20917
     }
   ],
   "release_date": "1998-05-09",

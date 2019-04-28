@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Stella May",
-      "person_id": 56935
-    },
-    {
       "name": "James Kickstand",
       "person_id": 48660
+    },
+    {
+      "name": "Stella May",
+      "person_id": 56935
     }
   ],
   "release_date": "2018-03-15",

@@ -11,12 +11,8 @@
   ],
   "models": [
     {
-      "name": "Lillianne Lane",
-      "person_id": 33778
-    },
-    {
-      "name": "Lyla Storm",
-      "person_id": 33882
+      "name": "Arabelle Raphael",
+      "person_id": 22128
     },
     {
       "name": "Kayla Kay",
@@ -27,12 +23,16 @@
       "person_id": 35343
     },
     {
-      "name": "Maestro Stefanos",
-      "person_id": 17148
+      "name": "Lillianne Lane",
+      "person_id": 33778
     },
     {
-      "name": "Arabelle Raphael",
-      "person_id": 22128
+      "name": "Lyla Storm",
+      "person_id": 33882
+    },
+    {
+      "name": "Maestro Stefanos",
+      "person_id": 17148
     }
   ],
   "release_date": "2012-03-30",

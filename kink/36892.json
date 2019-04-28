@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Bianca Resa",
+      "person_id": 56224
+    },
+    {
       "name": "Rob Diesel",
       "person_id": 56144
     },
     {
       "name": "Steve Holmes",
       "person_id": 15810
-    },
-    {
-      "name": "Bianca Resa",
-      "person_id": 56224
     }
   ],
   "release_date": "2014-12-19",

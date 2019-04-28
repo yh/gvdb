@@ -11,24 +11,24 @@
   ],
   "models": [
     {
-      "name": "James Deen",
-      "person_id": 8935
+      "name": "Bobby Bends",
+      "person_id": 22578
     },
     {
       "name": "Britney Stevens",
       "person_id": 35596
     },
     {
-      "name": "Jon Jon",
-      "person_id": 35195
-    },
-    {
-      "name": "Bobby Bends",
-      "person_id": 22578
-    },
-    {
       "name": "Dietrich Cyrus",
       "person_id": 17649
+    },
+    {
+      "name": "James Deen",
+      "person_id": 8935
+    },
+    {
+      "name": "Jon Jon",
+      "person_id": 35195
     },
     {
       "name": "Mickey Mod",

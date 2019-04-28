@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mark Davis",
-      "person_id": 8200
-    },
-    {
       "name": "Luscious Lopez",
       "person_id": 14375
+    },
+    {
+      "name": "Mark Davis",
+      "person_id": 8200
     },
     {
       "name": "Sean Michaels",

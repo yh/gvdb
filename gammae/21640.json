@@ -5,12 +5,12 @@
   "description": "Brad Patton returns to give his superior officer, Breck Stewart, a fucking he won't forget anytime soon.",
   "models": [
     {
-      "name": "Breck Stewart",
-      "person_id": 10897
-    },
-    {
       "name": "Brad Patton",
       "person_id": 11194
+    },
+    {
+      "name": "Breck Stewart",
+      "person_id": 10897
     }
   ],
   "release_date": "2004-03-01",

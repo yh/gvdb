@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nicolette",
-      "person_id": 2796
-    },
-    {
       "name": "Kendra James",
       "person_id": 247
+    },
+    {
+      "name": "Nicolette",
+      "person_id": 2796
     }
   ],
   "release_date": "2003-10-16",

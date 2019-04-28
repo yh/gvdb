@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Elise Graves",
-      "person_id": 28827
-    },
-    {
       "name": "Danarama",
       "person_id": 24393
+    },
+    {
+      "name": "Elise Graves",
+      "person_id": 28827
     }
   ],
   "release_date": "2013-11-24",

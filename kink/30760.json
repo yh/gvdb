@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Yasmine de Leon",
-      "person_id": 21595
-    },
-    {
       "name": "Orlando",
       "person_id": 16649
+    },
+    {
+      "name": "Yasmine de Leon",
+      "person_id": 21595
     }
   ],
   "release_date": "2013-06-28",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dane Stewart",
-      "person_id": 61114
-    },
-    {
       "name": "Alex Hawk",
       "person_id": 59999
+    },
+    {
+      "name": "Dane Stewart",
+      "person_id": 61114
     }
   ],
   "release_date": "2018-07-26",

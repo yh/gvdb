@@ -5,12 +5,12 @@
   "description": "Triumvirate: Can't Hide That Feeling Part 2",
   "models": [
     {
-      "name": "Jon March",
-      "person_id": 29614
-    },
-    {
       "name": "Janny Rashow",
       "person_id": 29688
+    },
+    {
+      "name": "Jon March",
+      "person_id": 29614
     }
   ],
   "release_date": "2003-11-26",

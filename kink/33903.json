@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Bella Nikole Black",
-      "person_id": 52001
-    },
-    {
       "name": "Astral Dust",
       "person_id": 43670
+    },
+    {
+      "name": "Bella Nikole Black",
+      "person_id": 52001
     }
   ],
   "release_date": "2013-11-15",

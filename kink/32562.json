@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "James Deen",
-      "person_id": 8935
-    },
-    {
       "name": "Evi Fox",
       "person_id": 51098
+    },
+    {
+      "name": "James Deen",
+      "person_id": 8935
     },
     {
       "name": "Kiki Vidis",

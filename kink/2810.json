@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Yellow Kitty",
-      "person_id": 6212
-    },
-    {
       "name": "ChynaWhite",
       "person_id": 3762
+    },
+    {
+      "name": "Yellow Kitty",
+      "person_id": 6212
     }
   ],
   "release_date": "2005-03-18",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Bobbi Starr",
-      "person_id": 11290
-    },
-    {
       "name": "Amber Keen",
       "person_id": 18730
+    },
+    {
+      "name": "Bobbi Starr",
+      "person_id": 11290
     }
   ],
   "release_date": "2009-04-03",

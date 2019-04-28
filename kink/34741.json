@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Otto Bauer",
-      "person_id": 11451
-    },
-    {
       "name": "Audrey Hollander",
       "person_id": 11450
+    },
+    {
+      "name": "Otto Bauer",
+      "person_id": 11451
     }
   ],
   "release_date": "2011-08-25",

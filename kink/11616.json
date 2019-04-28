@@ -11,6 +11,18 @@
   ],
   "models": [
     {
+      "name": "AnnaBelle Lee",
+      "person_id": 8692
+    },
+    {
+      "name": "Coffee Brown",
+      "person_id": 17352
+    },
+    {
+      "name": "Emma Haize",
+      "person_id": 29618
+    },
+    {
       "name": "Iona Grace",
       "person_id": 25204
     },
@@ -19,24 +31,12 @@
       "person_id": 25624
     },
     {
-      "name": "Missy Minks",
-      "person_id": 27930
-    },
-    {
-      "name": "Emma Haize",
-      "person_id": 29618
-    },
-    {
-      "name": "Coffee Brown",
-      "person_id": 17352
-    },
-    {
       "name": "Minx Grrl",
       "person_id": 21129
     },
     {
-      "name": "AnnaBelle Lee",
-      "person_id": 8692
+      "name": "Missy Minks",
+      "person_id": 27930
     }
   ],
   "release_date": "2011-01-14",

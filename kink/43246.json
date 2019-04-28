@@ -6,8 +6,8 @@
   "directors": [],
   "models": [
     {
-      "name": "Maya Kendrick",
-      "person_id": 60355
+      "name": "Codey Steele",
+      "person_id": 60685
     },
     {
       "name": "Donny Sins",
@@ -18,16 +18,16 @@
       "person_id": 60457
     },
     {
-      "name": "Codey Steele",
-      "person_id": 60685
-    },
-    {
-      "name": "Ray Black",
-      "person_id": 60687
+      "name": "Maya Kendrick",
+      "person_id": 60355
     },
     {
       "name": "Ramon Nomar",
       "person_id": 35412
+    },
+    {
+      "name": "Ray Black",
+      "person_id": 60687
     }
   ],
   "release_date": "2018-03-21",

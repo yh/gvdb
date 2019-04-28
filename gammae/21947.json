@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "David Logan",
-      "person_id": 11955
-    },
-    {
       "name": "Alec Powers",
       "person_id": 11998
+    },
+    {
+      "name": "David Logan",
+      "person_id": 11955
     },
     {
       "name": "Ken Ryker",

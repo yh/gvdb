@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sophie Monroe",
-      "person_id": 20940
-    },
-    {
       "name": "Maestro",
       "person_id": 11928
+    },
+    {
+      "name": "Sophie Monroe",
+      "person_id": 20940
     }
   ],
   "release_date": "2011-05-06",

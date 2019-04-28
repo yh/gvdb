@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Felony",
-      "person_id": 17502
-    },
-    {
       "name": "Beverly Hills",
       "person_id": 17432
     },
     {
       "name": "Dia Zerva",
       "person_id": 16038
+    },
+    {
+      "name": "Felony",
+      "person_id": 17502
     }
   ],
   "release_date": "2010-04-09",

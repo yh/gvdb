@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kendra James",
-      "person_id": 247
-    },
-    {
       "name": "Annette Schwarz",
       "person_id": 12488
+    },
+    {
+      "name": "Kendra James",
+      "person_id": 247
     }
   ],
   "release_date": "2008-08-21",

@@ -5,20 +5,20 @@
   "description": "",
   "models": [
     {
-      "name": "Kevin Williams",
-      "person_id": 10926
+      "name": "Brad Richardson",
+      "person_id": 12100
     },
     {
       "name": "Jim Pulver",
       "person_id": 12091
     },
     {
-      "name": "Michael Cummings",
-      "person_id": 12098
+      "name": "Kevin Williams",
+      "person_id": 10926
     },
     {
-      "name": "Brad Richardson",
-      "person_id": 12100
+      "name": "Michael Cummings",
+      "person_id": 12098
     }
   ],
   "release_date": "2006-01-01",

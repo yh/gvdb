@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Simone Sonay",
-      "person_id": 34687
-    },
-    {
       "name": "Mark Davis",
       "person_id": 8200
+    },
+    {
+      "name": "Simone Sonay",
+      "person_id": 34687
     }
   ],
   "release_date": "2012-06-15",

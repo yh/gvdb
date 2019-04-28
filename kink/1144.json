@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Princess Kali",
-      "person_id": 1821
-    },
-    {
       "name": "Lena Ramon",
       "person_id": 339
+    },
+    {
+      "name": "Princess Kali",
+      "person_id": 1821
     },
     {
       "name": "Sara Tonen",

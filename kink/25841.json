@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kristina Rose",
-      "person_id": 20560
-    },
-    {
       "name": "Brandy Aniston",
       "person_id": 44181
+    },
+    {
+      "name": "Kristina Rose",
+      "person_id": 20560
     }
   ],
   "release_date": "2012-10-09",

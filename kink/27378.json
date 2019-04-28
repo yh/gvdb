@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jodi Taylor",
-      "person_id": 43213
-    },
-    {
       "name": "Astral Dust",
       "person_id": 43670
+    },
+    {
+      "name": "Jodi Taylor",
+      "person_id": 43213
     }
   ],
   "release_date": "2013-01-25",

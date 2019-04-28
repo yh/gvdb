@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Dia Zerva",
-      "person_id": 16038
-    },
-    {
-      "name": "Yana Jordan",
-      "person_id": 18837
-    },
-    {
       "name": "Ariel X",
       "person_id": 10464
     },
     {
+      "name": "Dia Zerva",
+      "person_id": 16038
+    },
+    {
       "name": "Wenona",
       "person_id": 4485
+    },
+    {
+      "name": "Yana Jordan",
+      "person_id": 18837
     }
   ],
   "release_date": "2009-04-24",

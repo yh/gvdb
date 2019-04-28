@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Micah Brandt",
-      "person_id": 20681
-    },
-    {
       "name": "Logan Stevens",
       "person_id": 20683
+    },
+    {
+      "name": "Micah Brandt",
+      "person_id": 20681
     }
   ],
   "release_date": "2012-01-01",

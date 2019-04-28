@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Shane Frost",
-      "person_id": 21091
-    },
-    {
       "name": "DJ",
       "person_id": 20225
+    },
+    {
+      "name": "Shane Frost",
+      "person_id": 21091
     }
   ],
   "release_date": "2010-06-02",

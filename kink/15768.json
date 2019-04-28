@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mike Martin",
-      "person_id": 34306
-    },
-    {
       "name": "Micah Andrews",
       "person_id": 24796
+    },
+    {
+      "name": "Mike Martin",
+      "person_id": 34306
     }
   ],
   "release_date": "2015-05-15",

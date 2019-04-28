@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tristan Jaxx",
-      "person_id": 20786
-    },
-    {
       "name": "Brian Bonds",
       "person_id": 33737
+    },
+    {
+      "name": "Tristan Jaxx",
+      "person_id": 20786
     }
   ],
   "release_date": "2017-07-27",

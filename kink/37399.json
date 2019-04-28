@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Patrick Isley",
-      "person_id": 56723
-    },
-    {
       "name": "Connor Maguire",
       "person_id": 46426
+    },
+    {
+      "name": "Patrick Isley",
+      "person_id": 56723
     }
   ],
   "release_date": "2015-04-02",

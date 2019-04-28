@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
+      "name": "Jessie Cox",
+      "person_id": 18739
+    },
+    {
       "name": "Maestro Stefanos",
       "person_id": 17148
     },
     {
       "name": "Nerine Mechanique",
       "person_id": 19851
-    },
-    {
-      "name": "Jessie Cox",
-      "person_id": 18739
     }
   ],
   "release_date": "2010-12-28",

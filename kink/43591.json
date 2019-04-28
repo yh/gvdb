@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Ramon Nomar",
-      "person_id": 35412
-    },
-    {
       "name": "Ivy LeBelle",
       "person_id": 60683
     },
     {
       "name": "Krissy Lynn",
       "person_id": 19730
+    },
+    {
+      "name": "Ramon Nomar",
+      "person_id": 35412
     }
   ],
   "release_date": "2018-09-14",

@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Marxel Rios",
-      "person_id": 28050
-    },
-    {
       "name": "Andres Moreno",
       "person_id": 35929
+    },
+    {
+      "name": "Marxel Rios",
+      "person_id": 28050
     }
   ],
   "release_date": "2015-04-01",

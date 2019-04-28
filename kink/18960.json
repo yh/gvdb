@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Eva Fenix",
-      "person_id": 39275
-    },
-    {
       "name": "Derrick Pierce",
       "person_id": 14403
+    },
+    {
+      "name": "Eva Fenix",
+      "person_id": 39275
     }
   ],
   "release_date": "2012-02-17",

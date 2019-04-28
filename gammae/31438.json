@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Parker Perry",
-      "person_id": 13352
-    },
-    {
       "name": "Cameron Foster",
       "person_id": 17626
+    },
+    {
+      "name": "Parker Perry",
+      "person_id": 13352
     }
   ],
   "release_date": "2011-07-11",

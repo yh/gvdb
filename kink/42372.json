@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Ronnie",
-      "person_id": 60303
-    },
-    {
       "name": "Angel Eyes",
       "person_id": 60304
+    },
+    {
+      "name": "Ronnie",
+      "person_id": 60303
     }
   ],
   "release_date": "2017-06-01",

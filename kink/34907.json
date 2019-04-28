@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lexi Belle",
-      "person_id": 12510
-    },
-    {
       "name": "Kurt Lockwood",
       "person_id": 5422
+    },
+    {
+      "name": "Lexi Belle",
+      "person_id": 12510
     }
   ],
   "release_date": "2010-02-08",

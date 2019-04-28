@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Bella Rossi",
-      "person_id": 18418
-    },
-    {
       "name": "Ariel X",
       "person_id": 10464
+    },
+    {
+      "name": "Bella Rossi",
+      "person_id": 18418
     }
   ],
   "release_date": "2018-12-18",

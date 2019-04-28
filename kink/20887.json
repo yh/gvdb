@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Cole Brooks",
-      "person_id": 31913
-    },
-    {
       "name": "Colby Jansen",
       "person_id": 34457
+    },
+    {
+      "name": "Cole Brooks",
+      "person_id": 31913
     }
   ],
   "release_date": "2012-05-18",

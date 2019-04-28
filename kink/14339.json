@@ -11,36 +11,36 @@
   ],
   "models": [
     {
-      "name": "Marco Banderas",
-      "person_id": 27958
-    },
-    {
-      "name": "Mickey Mod",
-      "person_id": 19623
-    },
-    {
       "name": "Bobby Bends",
       "person_id": 22578
-    },
-    {
-      "name": "Mark Davis",
-      "person_id": 8200
-    },
-    {
-      "name": "Krysta Kaos",
-      "person_id": 25624
     },
     {
       "name": "Iona Grace",
       "person_id": 25204
     },
     {
-      "name": "Nerine Mechanique",
-      "person_id": 19851
+      "name": "Krysta Kaos",
+      "person_id": 25624
     },
     {
       "name": "Lilla Katt",
       "person_id": 18701
+    },
+    {
+      "name": "Marco Banderas",
+      "person_id": 27958
+    },
+    {
+      "name": "Mark Davis",
+      "person_id": 8200
+    },
+    {
+      "name": "Mickey Mod",
+      "person_id": 19623
+    },
+    {
+      "name": "Nerine Mechanique",
+      "person_id": 19851
     },
     {
       "name": "Sparky Sin Claire",

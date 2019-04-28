@@ -5,24 +5,24 @@
   "description": "Dean Monroe is entrapped by Roman Heart (in a non-sexual role) who's caught on to his boyfriend's evil plan. Dean must service officers Kane O'Farrell, Trey Casteel and Franco Dimera.",
   "models": [
     {
-      "name": "Kane O'Farrell",
-      "person_id": 11057
-    },
-    {
-      "name": "Trey Casteel",
-      "person_id": 11439
+      "name": "Dean Monroe",
+      "person_id": 11436
     },
     {
       "name": "Franco DiMera",
       "person_id": 11367
     },
     {
+      "name": "Kane O'Farrell",
+      "person_id": 11057
+    },
+    {
       "name": "Roman Heart",
       "person_id": 11368
     },
     {
-      "name": "Dean Monroe",
-      "person_id": 11436
+      "name": "Trey Casteel",
+      "person_id": 11439
     }
   ],
   "release_date": "2005-09-01",

@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Puma Swede",
-      "person_id": 10805
-    },
-    {
       "name": "Isis Love",
       "person_id": 6584
     },
     {
       "name": "Princess Donna Dolore",
       "person_id": 5235
+    },
+    {
+      "name": "Puma Swede",
+      "person_id": 10805
     }
   ],
   "release_date": "2010-02-25",

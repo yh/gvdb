@@ -9,10 +9,6 @@
       "person_id": 15063
     },
     {
-      "name": "Scott Samson",
-      "person_id": 16337
-    },
-    {
       "name": "Chris Ward",
       "person_id": 15191
     },
@@ -23,6 +19,10 @@
     {
       "name": "Rob Edwards",
       "person_id": 16249
+    },
+    {
+      "name": "Scott Samson",
+      "person_id": 16337
     }
   ],
   "release_date": "2007-01-01",

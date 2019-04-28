@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sully Savage",
-      "person_id": 59712
-    },
-    {
       "name": "Lea Lexis",
       "person_id": 17836
+    },
+    {
+      "name": "Sully Savage",
+      "person_id": 59712
     }
   ],
   "release_date": "2017-01-11",

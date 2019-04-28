@@ -11,32 +11,32 @@
   ],
   "models": [
     {
-      "name": "Nadia Styles",
-      "person_id": 10823
-    },
-    {
-      "name": "Jordan Ash",
-      "person_id": 42543
-    },
-    {
       "name": "Astral Dust",
       "person_id": 43670
-    },
-    {
-      "name": "John Strong",
-      "person_id": 17050
     },
     {
       "name": "Bill Bailey",
       "person_id": 46601
     },
     {
-      "name": "Ramon Nomar",
-      "person_id": 35412
+      "name": "John Strong",
+      "person_id": 17050
+    },
+    {
+      "name": "Jordan Ash",
+      "person_id": 42543
+    },
+    {
+      "name": "Nadia Styles",
+      "person_id": 10823
     },
     {
       "name": "Princess Donna Dolore",
       "person_id": 5235
+    },
+    {
+      "name": "Ramon Nomar",
+      "person_id": 35412
     }
   ],
   "release_date": "2014-10-22",

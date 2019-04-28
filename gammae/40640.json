@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Zeno Alexander",
-      "person_id": 20914
-    },
-    {
       "name": "Irving Hunter",
       "person_id": 20917
+    },
+    {
+      "name": "Zeno Alexander",
+      "person_id": 20914
     }
   ],
   "release_date": "1998-04-27",

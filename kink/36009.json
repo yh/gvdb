@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Milcah Halili",
-      "person_id": 45665
-    },
-    {
       "name": "Christian Wilde",
       "person_id": 21037
+    },
+    {
+      "name": "Milcah Halili",
+      "person_id": 45665
     }
   ],
   "release_date": "2014-09-06",

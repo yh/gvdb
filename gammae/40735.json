@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
+      "name": "Chris Sparrow",
+      "person_id": 21000
+    },
+    {
       "name": "Isidore Nadas",
       "person_id": 20762
     },
     {
       "name": "Jack Dragon",
       "person_id": 20979
-    },
-    {
-      "name": "Chris Sparrow",
-      "person_id": 21000
     }
   ],
   "release_date": "1998-06-01",

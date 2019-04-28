@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Secret Agent",
-      "person_id": 52735
-    },
-    {
       "name": "Brooke Banner",
       "person_id": 5758
+    },
+    {
+      "name": "Secret Agent",
+      "person_id": 52735
     }
   ],
   "release_date": "2015-03-16",

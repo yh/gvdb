@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Tierra",
-      "person_id": 183
+      "name": "Jamie Gillis",
+      "person_id": 192
     },
     {
       "name": "Kym Wilde",
       "person_id": 99
     },
     {
-      "name": "Jamie Gillis",
-      "person_id": 192
+      "name": "Tierra",
+      "person_id": 183
     }
   ],
   "release_date": "2001-11-30",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kat",
-      "person_id": 323
-    },
-    {
       "name": "Claire Adams",
       "person_id": 378
+    },
+    {
+      "name": "Kat",
+      "person_id": 323
     }
   ],
   "release_date": "2003-04-22",

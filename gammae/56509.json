@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Damien Crosse",
-      "person_id": 19793
-    },
-    {
       "name": "Antton Harri",
       "person_id": 20012
+    },
+    {
+      "name": "Damien Crosse",
+      "person_id": 19793
     }
   ],
   "release_date": "2008-11-11",

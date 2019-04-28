@@ -5,16 +5,16 @@
   "description": "Ben Eastboy, Dario Dulce and Boris Sacharov - It's morning and the coffee's percolatin' but Dario would rather forget the croissants and chow down on Ben's sausage and eggs. After their frenetic carnal breakfast, they race out and in their haste almost run Boris down. Pissed off, Boris eyes them thinking how much fun it would be to just fuck the bejesus outta them.",
   "models": [
     {
+      "name": "Ben Eastboy",
+      "person_id": 12917
+    },
+    {
       "name": "Boris Sacharov",
       "person_id": 12913
     },
     {
       "name": "Dario Dolce",
       "person_id": 12915
-    },
-    {
-      "name": "Ben Eastboy",
-      "person_id": 12917
     }
   ],
   "release_date": "2007-11-01",

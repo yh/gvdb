@@ -5,12 +5,12 @@
   "description": "Triumvirate: Soccer Camp",
   "models": [
     {
-      "name": "Leev Lale",
-      "person_id": 29584
-    },
-    {
       "name": "Dujan Sin",
       "person_id": 29620
+    },
+    {
+      "name": "Leev Lale",
+      "person_id": 29584
     },
     {
       "name": "Martin Green",

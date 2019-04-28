@@ -11,10 +11,6 @@
   ],
   "models": [
     {
-      "name": "DragonLily",
-      "person_id": 3433
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
     },
@@ -25,6 +21,10 @@
     {
       "name": "Dee Williams",
       "person_id": 4197
+    },
+    {
+      "name": "DragonLily",
+      "person_id": 3433
     }
   ],
   "release_date": "2013-05-21",

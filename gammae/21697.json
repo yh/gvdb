@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Justin Wells",
-      "person_id": 11303
-    },
-    {
       "name": "Derrick Vinyard",
       "person_id": 11316
+    },
+    {
+      "name": "Justin Wells",
+      "person_id": 11303
     }
   ],
   "release_date": "2006-06-01",

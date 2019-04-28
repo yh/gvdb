@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Xander Corvus",
-      "person_id": 46000
-    },
-    {
       "name": "Maya Kendrick",
       "person_id": 60355
     },
     {
       "name": "Skylar Snow",
       "person_id": 60403
+    },
+    {
+      "name": "Xander Corvus",
+      "person_id": 46000
     }
   ],
   "release_date": "2017-10-27",

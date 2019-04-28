@@ -11,6 +11,14 @@
   ],
   "models": [
     {
+      "name": "Bill Bailey",
+      "person_id": 46601
+    },
+    {
+      "name": "Gage Sin",
+      "person_id": 53344
+    },
+    {
       "name": "Holly Heart",
       "person_id": 20472
     },
@@ -19,20 +27,12 @@
       "person_id": 17050
     },
     {
-      "name": "Bill Bailey",
-      "person_id": 46601
-    },
-    {
       "name": "Owen Gray",
       "person_id": 39181
     },
     {
       "name": "Tommy Pistol",
       "person_id": 12663
-    },
-    {
-      "name": "Gage Sin",
-      "person_id": 53344
     }
   ],
   "release_date": "2015-06-10",

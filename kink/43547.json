@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Seth Knight",
-      "person_id": 61372
-    },
-    {
       "name": "Cris Knight",
       "person_id": 61373
+    },
+    {
+      "name": "Seth Knight",
+      "person_id": 61372
     }
   ],
   "release_date": "2018-06-20",

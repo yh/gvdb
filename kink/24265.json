@@ -3,36 +3,31 @@
     "Ultimate Surrender"
   ],
   "description": "Rain Degrey switches from ref to wrestler when Kaylee Hilton can't continue the match! One team just got a super boost, but the match is still close! Watch and see who takes the lead this round!!",
-  "directors": [
-    {
-      "name": "Maestro",
-      "person_id": 11928
-    }
-  ],
+  "directors": [],
   "models": [
     {
-      "name": "Kaylee Hilton",
-      "person_id": 31754
-    },
-    {
-      "name": "Tia Ling",
-      "person_id": 17361
+      "name": "Beretta James",
+      "person_id": 33659
     },
     {
       "name": "Cheyenne Jewel",
       "person_id": 22734
     },
     {
-      "name": "Rain DeGrey",
-      "person_id": 16817
-    },
-    {
-      "name": "Beretta James",
-      "person_id": 33659
+      "name": "Kaylee Hilton",
+      "person_id": 31754
     },
     {
       "name": "Maestro",
       "person_id": 11928
+    },
+    {
+      "name": "Rain DeGrey",
+      "person_id": 16817
+    },
+    {
+      "name": "Tia Ling",
+      "person_id": 17361
     }
   ],
   "release_date": "2012-07-03",

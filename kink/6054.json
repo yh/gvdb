@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nick Moretti",
-      "person_id": 17516
-    },
-    {
       "name": "Luke Riley",
       "person_id": 18736
+    },
+    {
+      "name": "Nick Moretti",
+      "person_id": 17516
     }
   ],
   "release_date": "2009-02-12",

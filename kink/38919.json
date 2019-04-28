@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Pink",
-      "person_id": 47444
-    },
-    {
       "name": "Felony",
       "person_id": 17502
+    },
+    {
+      "name": "Pink",
+      "person_id": 47444
     }
   ],
   "release_date": "2015-10-23",

@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Anita Berlusconi",
-      "person_id": 60239
-    },
-    {
       "name": "Ally Breelsen",
       "person_id": 61873
+    },
+    {
+      "name": "Anita Berlusconi",
+      "person_id": 60239
     }
   ],
   "release_date": "2019-02-19",

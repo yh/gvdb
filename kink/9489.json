@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Alex Slater",
+      "person_id": 23050
+    },
+    {
       "name": "Patrick Rouge",
       "person_id": 18939
     },
     {
       "name": "Trent Diesel",
       "person_id": 21234
-    },
-    {
-      "name": "Alex Slater",
-      "person_id": 23050
     }
   ],
   "release_date": "2010-07-07",

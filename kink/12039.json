@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nick Moretti",
-      "person_id": 17516
-    },
-    {
       "name": "Blake Daniels",
       "person_id": 30557
+    },
+    {
+      "name": "Nick Moretti",
+      "person_id": 17516
     }
   ],
   "release_date": "2011-03-24",

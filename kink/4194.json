@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Brandon Iron",
-      "person_id": 12540
-    },
-    {
       "name": "Annette Schwarz",
       "person_id": 12488
+    },
+    {
+      "name": "Brandon Iron",
+      "person_id": 12540
     }
   ],
   "release_date": "2007-03-16",

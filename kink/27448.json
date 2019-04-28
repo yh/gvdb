@@ -11,10 +11,6 @@
   ],
   "models": [
     {
-      "name": "Will Jasper",
-      "person_id": 28968
-    },
-    {
       "name": "Brenn Wyson",
       "person_id": 19912
     },
@@ -25,6 +21,10 @@
     {
       "name": "Master Avery",
       "person_id": 24956
+    },
+    {
+      "name": "Will Jasper",
+      "person_id": 28968
     }
   ],
   "release_date": "2012-11-30",

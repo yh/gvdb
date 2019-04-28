@@ -19,16 +19,16 @@
       "person_id": 42543
     },
     {
-      "name": "Tommy Pistol",
-      "person_id": 12663
-    },
-    {
       "name": "Steven St. Croix",
       "person_id": 12188
     },
     {
       "name": "Syren de Mer",
       "person_id": 43807
+    },
+    {
+      "name": "Tommy Pistol",
+      "person_id": 12663
     }
   ],
   "release_date": "2013-11-13",

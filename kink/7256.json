@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Trina Michaels",
-      "person_id": 16367
-    },
-    {
       "name": "Christina Carter",
       "person_id": 10147
     },
     {
       "name": "Holly Heart",
       "person_id": 20472
+    },
+    {
+      "name": "Trina Michaels",
+      "person_id": 16367
     }
   ],
   "release_date": "2009-09-28",

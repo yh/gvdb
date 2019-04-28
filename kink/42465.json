@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Brandi Mae",
-      "person_id": 59885
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
+    },
+    {
+      "name": "Brandi Mae",
+      "person_id": 59885
     }
   ],
   "release_date": "2017-10-11",

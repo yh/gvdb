@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Connor Maguire",
+      "person_id": 46426
+    },
+    {
       "name": "Rex Cameron",
       "person_id": 58982
     },
     {
       "name": "Vinnie Stefano",
       "person_id": 59052
-    },
-    {
-      "name": "Connor Maguire",
-      "person_id": 46426
     }
   ],
   "release_date": "2015-12-25",

@@ -5,12 +5,12 @@
   "description": "Triumvirate: Before They Were Stars 3",
   "models": [
     {
-      "name": "Ray Renfro",
-      "person_id": 29585
-    },
-    {
       "name": "Aaron Hawke",
       "person_id": 29808
+    },
+    {
+      "name": "Ray Renfro",
+      "person_id": 29585
     }
   ],
   "release_date": "2005-01-05",

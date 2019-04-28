@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Slave",
-      "person_id": 61639
-    },
-    {
       "name": "Miss Alex",
       "person_id": 61640
+    },
+    {
+      "name": "Slave",
+      "person_id": 61639
     }
   ],
   "release_date": "2018-10-22",

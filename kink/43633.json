@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Sebastian Keys",
-      "person_id": 20316
-    },
-    {
       "name": "Brian Bonds",
       "person_id": 33737
     },
     {
       "name": "Mason Lear",
       "person_id": 60275
+    },
+    {
+      "name": "Sebastian Keys",
+      "person_id": 20316
     }
   ],
   "release_date": "2018-08-09",

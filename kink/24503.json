@@ -11,6 +11,14 @@
   ],
   "models": [
     {
+      "name": "Daikiri",
+      "person_id": 43022
+    },
+    {
+      "name": "Dorian",
+      "person_id": 42882
+    },
+    {
       "name": "Markus Dupree",
       "person_id": 42128
     },
@@ -21,14 +29,6 @@
     {
       "name": "Steve Holmes",
       "person_id": 15810
-    },
-    {
-      "name": "Dorian",
-      "person_id": 42882
-    },
-    {
-      "name": "Daikiri",
-      "person_id": 43022
     }
   ],
   "release_date": "2012-08-22",

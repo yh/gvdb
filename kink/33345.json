@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Rogue Status",
-      "person_id": 51589
+      "name": "Alessio Romero",
+      "person_id": 20463
     },
     {
       "name": "Hayden Richards",
       "person_id": 47285
     },
     {
-      "name": "Alessio Romero",
-      "person_id": 20463
+      "name": "Rogue Status",
+      "person_id": 51589
     }
   ],
   "release_date": "2013-10-03",

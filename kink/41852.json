@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Rachael Rae",
-      "person_id": 55838
-    },
-    {
       "name": "Bruno Dickemz",
       "person_id": 54328
+    },
+    {
+      "name": "Rachael Rae",
+      "person_id": 55838
     }
   ],
   "release_date": "2017-12-14",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "TJ Cummings",
-      "person_id": 12891
-    },
-    {
       "name": "Dakoda Brookes",
       "person_id": 18365
+    },
+    {
+      "name": "TJ Cummings",
+      "person_id": 12891
     }
   ],
   "release_date": "2010-01-25",

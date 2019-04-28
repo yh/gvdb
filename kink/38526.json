@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Phoenix Marie",
-      "person_id": 17093
-    },
-    {
       "name": "Cherry Torn",
       "person_id": 11105
     },
     {
       "name": "Ella Nova",
       "person_id": 51866
+    },
+    {
+      "name": "Phoenix Marie",
+      "person_id": 17093
     }
   ],
   "release_date": "2015-08-07",

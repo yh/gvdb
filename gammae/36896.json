@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Dylan Roberts",
-      "person_id": 14025
-    },
-    {
       "name": "Charlie Harding",
       "person_id": 19089
+    },
+    {
+      "name": "Dylan Roberts",
+      "person_id": 14025
     }
   ],
   "release_date": "2012-04-20",

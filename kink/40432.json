@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Stella Cox",
-      "person_id": 59424
-    },
-    {
       "name": "Ariel X",
       "person_id": 10464
+    },
+    {
+      "name": "Stella Cox",
+      "person_id": 59424
     }
   ],
   "release_date": "2016-07-26",

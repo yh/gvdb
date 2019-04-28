@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Bella Rossi",
-      "person_id": 18418
-    },
-    {
       "name": "Ariel X",
       "person_id": 10464
     },
     {
-      "name": "Wenona",
-      "person_id": 4485
+      "name": "Bella Rossi",
+      "person_id": 18418
     },
     {
       "name": "Hollie Stevens",
       "person_id": 1572
+    },
+    {
+      "name": "Wenona",
+      "person_id": 4485
     }
   ],
   "release_date": "2009-09-25",

@@ -15,6 +15,10 @@
       "person_id": 21442
     },
     {
+      "name": "John Strong",
+      "person_id": 17050
+    },
+    {
       "name": "Nicky Ferrari",
       "person_id": 53615
     },
@@ -25,10 +29,6 @@
     {
       "name": "Tommy Pistol",
       "person_id": 12663
-    },
-    {
-      "name": "John Strong",
-      "person_id": 17050
     },
     {
       "name": "Toni Ribas",

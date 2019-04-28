@@ -11,28 +11,28 @@
   ],
   "models": [
     {
-      "name": "Marica Hase",
-      "person_id": 44408
+      "name": "Bill Bailey",
+      "person_id": 46601
     },
     {
       "name": "John Strong",
       "person_id": 17050
     },
     {
-      "name": "Tommy Pistol",
-      "person_id": 12663
+      "name": "Jon Jon",
+      "person_id": 35195
+    },
+    {
+      "name": "Marica Hase",
+      "person_id": 44408
     },
     {
       "name": "Steve Holmes",
       "person_id": 15810
     },
     {
-      "name": "Bill Bailey",
-      "person_id": 46601
-    },
-    {
-      "name": "Jon Jon",
-      "person_id": 35195
+      "name": "Tommy Pistol",
+      "person_id": 12663
     }
   ],
   "release_date": "2016-03-16",

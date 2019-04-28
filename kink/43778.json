@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Jessy Jones",
-      "person_id": 46420
-    },
-    {
       "name": "Angelina Valentina",
       "person_id": 35611
+    },
+    {
+      "name": "Jessy Jones",
+      "person_id": 46420
     }
   ],
   "release_date": "2018-09-06",

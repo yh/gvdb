@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Roxy Lee",
-      "person_id": 60428
-    },
-    {
       "name": "Richy",
       "person_id": 51902
+    },
+    {
+      "name": "Roxy Lee",
+      "person_id": 60428
     }
   ],
   "release_date": "2017-11-29",

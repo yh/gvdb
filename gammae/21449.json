@@ -13,12 +13,12 @@
       "person_id": 11132
     },
     {
-      "name": "Tom Chase",
-      "person_id": 11246
-    },
-    {
       "name": "Mike Branson",
       "person_id": 11308
+    },
+    {
+      "name": "Tom Chase",
+      "person_id": 11246
     }
   ],
   "release_date": "2010-07-01",

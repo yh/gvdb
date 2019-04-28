@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Mihaly Tombor",
-      "person_id": 20771
-    },
-    {
       "name": "Krisztian B.",
       "person_id": 20859
+    },
+    {
+      "name": "Mihaly Tombor",
+      "person_id": 20771
     }
   ],
   "release_date": "1998-03-18",

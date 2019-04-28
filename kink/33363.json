@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kennedy Adams",
-      "person_id": 50618
-    },
-    {
       "name": "John Strong",
       "person_id": 17050
+    },
+    {
+      "name": "Kennedy Adams",
+      "person_id": 50618
     }
   ],
   "release_date": "2013-10-11",

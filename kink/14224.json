@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Iona Grace",
-      "person_id": 25204
-    },
-    {
-      "name": "Nerine Mechanique",
-      "person_id": 19851
-    },
-    {
       "name": "Bobby Bends",
       "person_id": 22578
     },
     {
+      "name": "Iona Grace",
+      "person_id": 25204
+    },
+    {
       "name": "Mickey Mod",
       "person_id": 19623
+    },
+    {
+      "name": "Nerine Mechanique",
+      "person_id": 19851
     }
   ],
   "release_date": "2011-09-19",

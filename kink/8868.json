@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Matthew Singer",
-      "person_id": 21729
-    },
-    {
       "name": "CJ",
       "person_id": 12677
+    },
+    {
+      "name": "Matthew Singer",
+      "person_id": 21729
     }
   ],
   "release_date": "2010-05-19",

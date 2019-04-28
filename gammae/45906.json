@@ -5,12 +5,12 @@
   "description": "Tony and Simon fist Marc.",
   "models": [
     {
-      "name": "Simon Cox",
-      "person_id": 26258
-    },
-    {
       "name": "Marc Lasalle",
       "person_id": 26279
+    },
+    {
+      "name": "Simon Cox",
+      "person_id": 26258
     },
     {
       "name": "Tony Serrano",

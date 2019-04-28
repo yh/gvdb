@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Johnny Rey",
-      "person_id": 11959
-    },
-    {
       "name": "Donnie Russo",
       "person_id": 12123
+    },
+    {
+      "name": "Johnny Rey",
+      "person_id": 11959
     }
   ],
   "release_date": "2006-02-01",

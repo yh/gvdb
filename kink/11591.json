@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Zak Tyler",
-      "person_id": 21236
-    },
-    {
       "name": "Elise Graves",
       "person_id": 28827
     },
     {
       "name": "Iona Grace",
       "person_id": 25204
+    },
+    {
+      "name": "Zak Tyler",
+      "person_id": 21236
     }
   ],
   "release_date": "2011-02-02",

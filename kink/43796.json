@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mercy West",
-      "person_id": 56853
-    },
-    {
       "name": "Allysa Etain",
       "person_id": 61050
+    },
+    {
+      "name": "Mercy West",
+      "person_id": 56853
     }
   ],
   "release_date": "2018-12-03",

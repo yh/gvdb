@@ -5,12 +5,12 @@
   "description": "In the final scene, Dean Tucker goes head-to-head against Brick Tyson, the head of the gang shaking down his bar.",
   "models": [
     {
-      "name": "Dean Tucker",
-      "person_id": 11672
-    },
-    {
       "name": "Brick Tyson",
       "person_id": 11692
+    },
+    {
+      "name": "Dean Tucker",
+      "person_id": 11672
     }
   ],
   "release_date": "2007-05-01",

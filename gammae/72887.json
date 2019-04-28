@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Justin Star",
-      "person_id": 35898
-    },
-    {
       "name": "Andres Moreno",
       "person_id": 35929
+    },
+    {
+      "name": "Justin Star",
+      "person_id": 35898
     }
   ],
   "release_date": "2015-03-12",

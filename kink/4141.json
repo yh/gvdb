@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lorena Sanchez",
-      "person_id": 12215
-    },
-    {
       "name": "Claire Adams",
       "person_id": 378
+    },
+    {
+      "name": "Lorena Sanchez",
+      "person_id": 12215
     }
   ],
   "release_date": "2006-12-21",

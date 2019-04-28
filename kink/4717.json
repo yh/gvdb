@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sarah Jane Ceylon",
-      "person_id": 12772
-    },
-    {
       "name": "Harmony",
       "person_id": 6341
+    },
+    {
+      "name": "Sarah Jane Ceylon",
+      "person_id": 12772
     }
   ],
   "release_date": "2007-11-15",

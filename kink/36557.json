@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Seamus O'Reilly",
-      "person_id": 51523
-    },
-    {
       "name": "Christian Wilde",
       "person_id": 21037
+    },
+    {
+      "name": "Seamus O'Reilly",
+      "person_id": 51523
     }
   ],
   "release_date": "2014-12-04",

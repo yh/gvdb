@@ -5,12 +5,12 @@
   "description": "Triumvirate: Soccer Camp 2",
   "models": [
     {
-      "name": "Jude Lowe",
-      "person_id": 29591
-    },
-    {
       "name": "Dujan Sin",
       "person_id": 29620
+    },
+    {
+      "name": "Jude Lowe",
+      "person_id": 29591
     },
     {
       "name": "Miky Sem",

@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Lucrecia",
-      "person_id": 60547
-    },
-    {
       "name": "Bezmocny Vole",
       "person_id": 60936
+    },
+    {
+      "name": "Lucrecia",
+      "person_id": 60547
     }
   ],
   "release_date": "2018-03-22",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dylan Ryan",
-      "person_id": 10069
-    },
-    {
       "name": "Derrick Pierce",
       "person_id": 14403
+    },
+    {
+      "name": "Dylan Ryan",
+      "person_id": 10069
     },
     {
       "name": "Krysta Kaos",

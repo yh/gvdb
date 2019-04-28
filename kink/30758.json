@@ -11,32 +11,32 @@
   ],
   "models": [
     {
-      "name": "Veruca James",
-      "person_id": 43570
-    },
-    {
-      "name": "Tommy Pistol",
-      "person_id": 12663
-    },
-    {
-      "name": "Danny Wylde",
-      "person_id": 7790
+      "name": "Astral Dust",
+      "person_id": 43670
     },
     {
       "name": "Bill Bailey",
       "person_id": 46601
     },
     {
+      "name": "Danny Wylde",
+      "person_id": 7790
+    },
+    {
       "name": "Jordan Ash",
       "person_id": 42543
     },
     {
-      "name": "Astral Dust",
-      "person_id": 43670
+      "name": "Tommy Pistol",
+      "person_id": 12663
     },
     {
       "name": "Toni Ribas",
       "person_id": 38962
+    },
+    {
+      "name": "Veruca James",
+      "person_id": 43570
     }
   ],
   "release_date": "2013-07-03",

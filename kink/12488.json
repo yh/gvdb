@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Ned Mayhem",
-      "person_id": 22135
+      "name": "Chad Rock",
+      "person_id": 14593
     },
     {
       "name": "Christian Wilde",
       "person_id": 21037
     },
     {
-      "name": "Van Darkholme",
-      "person_id": 15862
+      "name": "Ned Mayhem",
+      "person_id": 22135
     },
     {
-      "name": "Chad Rock",
-      "person_id": 14593
+      "name": "Van Darkholme",
+      "person_id": 15862
     }
   ],
   "release_date": "2011-05-05",

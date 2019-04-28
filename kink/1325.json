@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Princess Kali",
-      "person_id": 1821
-    },
-    {
       "name": "Daemon",
       "person_id": 2503
+    },
+    {
+      "name": "Princess Kali",
+      "person_id": 1821
     }
   ],
   "release_date": "2004-02-26",

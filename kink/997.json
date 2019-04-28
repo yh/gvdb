@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Jenni Lee",
-      "person_id": 1358
-    },
-    {
       "name": "Chanta-Rose",
       "person_id": 124
+    },
+    {
+      "name": "Jenni Lee",
+      "person_id": 1358
     }
   ],
   "release_date": "2003-04-10",

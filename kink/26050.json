@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Omar Galanti",
-      "person_id": 42129
-    },
-    {
       "name": "Carol Vega",
       "person_id": 44479
+    },
+    {
+      "name": "Omar Galanti",
+      "person_id": 42129
     }
   ],
   "release_date": "2012-09-14",

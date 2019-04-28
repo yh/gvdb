@@ -5,12 +5,12 @@
   "description": "David Griffin and Brandon Irons.",
   "models": [
     {
-      "name": "David Griffin",
-      "person_id": 26332
-    },
-    {
       "name": "Brandon Irons",
       "person_id": 26333
+    },
+    {
+      "name": "David Griffin",
+      "person_id": 26332
     }
   ],
   "release_date": "2005-02-01",

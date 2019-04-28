@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Ariel X",
+      "person_id": 10464
+    },
+    {
       "name": "Lorelei Lee",
       "person_id": 758
     },
     {
       "name": "Raven Rocket",
       "person_id": 45170
-    },
-    {
-      "name": "Ariel X",
-      "person_id": 10464
     }
   ],
   "release_date": "2013-06-14",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Gia Jordan",
-      "person_id": 8257
-    },
-    {
       "name": "Brian Surewood",
       "person_id": 6405
+    },
+    {
+      "name": "Gia Jordan",
+      "person_id": 8257
     }
   ],
   "release_date": "2005-09-09",

@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Mia Smiles",
-      "person_id": 54282
-    },
-    {
       "name": "Chanta-Rose",
       "person_id": 124
+    },
+    {
+      "name": "Mia Smiles",
+      "person_id": 54282
     }
   ],
   "release_date": "2018-01-13",

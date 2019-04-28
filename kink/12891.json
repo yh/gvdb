@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Master Avery",
-      "person_id": 24956
-    },
-    {
       "name": "Ethan Hudson",
       "person_id": 29881
+    },
+    {
+      "name": "Master Avery",
+      "person_id": 24956
     }
   ],
   "release_date": "2011-06-02",

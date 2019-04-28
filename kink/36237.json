@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Bill Bailey",
-      "person_id": 46601
-    },
-    {
       "name": "Abbey Brooks",
       "person_id": 49981
+    },
+    {
+      "name": "Bill Bailey",
+      "person_id": 46601
     }
   ],
   "release_date": "2015-02-06",

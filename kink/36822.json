@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Rylan Knox",
-      "person_id": 55969
-    },
-    {
       "name": "Brendan Patrick",
       "person_id": 55528
+    },
+    {
+      "name": "Rylan Knox",
+      "person_id": 55969
     }
   ],
   "release_date": "2015-01-07",

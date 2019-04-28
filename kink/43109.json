@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Pierce Paris",
-      "person_id": 56974
-    },
-    {
       "name": "Jack Hunter",
       "person_id": 58734
+    },
+    {
+      "name": "Pierce Paris",
+      "person_id": 56974
     }
   ],
   "release_date": "2018-02-08",

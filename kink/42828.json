@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Sicilia Ricci",
-      "person_id": 60351
-    },
-    {
       "name": "Rob Gadling",
       "person_id": 60682
+    },
+    {
+      "name": "Sicilia Ricci",
+      "person_id": 60351
     }
   ],
   "release_date": "2017-11-01",

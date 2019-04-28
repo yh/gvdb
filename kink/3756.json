@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tory Lane",
-      "person_id": 8228
-    },
-    {
       "name": "Phantom",
       "person_id": 11509
+    },
+    {
+      "name": "Tory Lane",
+      "person_id": 8228
     }
   ],
   "release_date": "2006-09-27",

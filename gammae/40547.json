@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Miklos O.",
-      "person_id": 20811
-    },
-    {
       "name": "Attila F.",
       "person_id": 20816
+    },
+    {
+      "name": "Miklos O.",
+      "person_id": 20811
     }
   ],
   "release_date": "1998-03-21",

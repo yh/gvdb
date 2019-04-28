@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Francesca Le",
-      "person_id": 36526
-    },
-    {
       "name": "Christian Wilde",
       "person_id": 21037
+    },
+    {
+      "name": "Francesca Le",
+      "person_id": 36526
     },
     {
       "name": "Henry Jacob",

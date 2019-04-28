@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Ondra Matej",
-      "person_id": 60758
-    },
-    {
       "name": "Mattias Solich",
       "person_id": 61289
+    },
+    {
+      "name": "Ondra Matej",
+      "person_id": 60758
     }
   ],
   "release_date": "2018-12-19",

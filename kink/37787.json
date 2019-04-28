@@ -6,20 +6,20 @@
   "directors": [],
   "models": [
     {
-      "name": "Steve Holmes",
-      "person_id": 15810
+      "name": "John Grey",
+      "person_id": 57828
     },
     {
       "name": "Mona Wales",
       "person_id": 51511
     },
     {
-      "name": "Zenda Sexy",
-      "person_id": 57829
+      "name": "Steve Holmes",
+      "person_id": 15810
     },
     {
-      "name": "John Grey",
-      "person_id": 57828
+      "name": "Zenda Sexy",
+      "person_id": 57829
     }
   ],
   "release_date": "2015-05-08",

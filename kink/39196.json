@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Virginia Tunnels",
-      "person_id": 58187
-    },
-    {
       "name": "The Pope",
       "person_id": 27779
+    },
+    {
+      "name": "Virginia Tunnels",
+      "person_id": 58187
     }
   ],
   "release_date": "2015-11-20",

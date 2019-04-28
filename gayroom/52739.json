@@ -4,15 +4,15 @@
   ],
   "models": [
     {
-      "name": "Victor",
-      "person_id": null
-    },
-    {
       "name": "Dimitri Kane",
       "person_id": null
     },
     {
       "name": "Draven Milo",
+      "person_id": null
+    },
+    {
+      "name": "Victor",
       "person_id": null
     }
   ],

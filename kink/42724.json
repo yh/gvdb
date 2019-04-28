@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Murphy Maxwell",
-      "person_id": 60419
-    },
-    {
       "name": "Christian Matthews",
       "person_id": 60418
+    },
+    {
+      "name": "Murphy Maxwell",
+      "person_id": 60419
     },
     {
       "name": "Rob Benson",

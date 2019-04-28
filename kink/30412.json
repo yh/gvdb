@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Ivy Addams",
+      "person_id": 42584
+    },
+    {
       "name": "Jodi Taylor",
       "person_id": 43213
     },
     {
       "name": "Mz Berlin",
       "person_id": 14228
-    },
-    {
-      "name": "Ivy Addams",
-      "person_id": 42584
     }
   ],
   "release_date": "2013-05-10",

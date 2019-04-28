@@ -3,20 +3,15 @@
     "Kink University"
   ],
   "description": "Learn now to use rope to create beautiful decorative bondage, such as elaborate chest harnesses and even a complete bra. Plus, learn how to tie the simplest yet most effective hair tie ever for hair bondage using a ponytail. Tom Foolery's tutorial demonstrates the versatile Cross Knot, the Constrictor Knot (for hair bondage), plus an elaborate yet effective rope chest harness, and a close-knit weaving technique ideal for making a bra or panty out of rope.",
-  "directors": [
-    {
-      "name": "Danarama",
-      "person_id": 24393
-    }
-  ],
+  "directors": [],
   "models": [
-    {
-      "name": "Tom Foolery",
-      "person_id": 54083
-    },
     {
       "name": "Hexxus",
       "person_id": 54097
+    },
+    {
+      "name": "Tom Foolery",
+      "person_id": 54083
     }
   ],
   "release_date": "2014-11-06",

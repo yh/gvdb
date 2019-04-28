@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Katy Sky",
-      "person_id": 60467
-    },
-    {
       "name": "Ar",
       "person_id": 60282
+    },
+    {
+      "name": "Katy Sky",
+      "person_id": 60467
     }
   ],
   "release_date": "2018-04-11",

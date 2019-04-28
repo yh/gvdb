@@ -11,8 +11,8 @@
   ],
   "models": [
     {
-      "name": "Simone Sonay",
-      "person_id": 34687
+      "name": "Astral Dust",
+      "person_id": 43670
     },
     {
       "name": "Danny Wylde",
@@ -23,16 +23,16 @@
       "person_id": 35221
     },
     {
-      "name": "Tommy Pistol",
-      "person_id": 12663
-    },
-    {
-      "name": "Astral Dust",
-      "person_id": 43670
-    },
-    {
       "name": "Mickey Mod",
       "person_id": 19623
+    },
+    {
+      "name": "Simone Sonay",
+      "person_id": 34687
+    },
+    {
+      "name": "Tommy Pistol",
+      "person_id": 12663
     }
   ],
   "release_date": "2013-10-09",

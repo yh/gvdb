@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mike Panic",
-      "person_id": 41034
-    },
-    {
       "name": "Kendra Sinclaire",
       "person_id": 52730
+    },
+    {
+      "name": "Mike Panic",
+      "person_id": 41034
     }
   ],
   "release_date": "2015-07-29",

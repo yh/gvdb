@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kylie Wilde",
-      "person_id": 297
-    },
-    {
       "name": "Kurt Lockwood",
       "person_id": 5422
+    },
+    {
+      "name": "Kylie Wilde",
+      "person_id": 297
     }
   ],
   "release_date": "2010-02-15",

@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Rico",
-      "person_id": 16001
-    },
-    {
       "name": "Nika Noire",
       "person_id": 17418
+    },
+    {
+      "name": "Rico",
+      "person_id": 16001
     }
   ],
   "release_date": "2015-01-09",

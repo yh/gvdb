@@ -5,8 +5,8 @@
   "description": "",
   "models": [
     {
-      "name": "Zeno Alexander",
-      "person_id": 20914
+      "name": "Carl Cook",
+      "person_id": 21035
     },
     {
       "name": "Carson Lane",
@@ -17,8 +17,8 @@
       "person_id": 20952
     },
     {
-      "name": "Carl Cook",
-      "person_id": 21035
+      "name": "Zeno Alexander",
+      "person_id": 20914
     }
   ],
   "release_date": "1998-05-09",

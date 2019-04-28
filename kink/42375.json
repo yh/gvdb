@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Sandy Ambrosia",
-      "person_id": 60286
-    },
-    {
       "name": "Ar",
       "person_id": 60282
+    },
+    {
+      "name": "Sandy Ambrosia",
+      "person_id": 60286
     }
   ],
   "release_date": "2017-05-30",

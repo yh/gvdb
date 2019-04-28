@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
+      "name": "Cathy Heaven",
+      "person_id": 61179
+    },
+    {
       "name": "Marc Rose",
       "person_id": 61180
     },
     {
       "name": "Omar",
       "person_id": 61173
-    },
-    {
-      "name": "Cathy Heaven",
-      "person_id": 61179
     }
   ],
   "release_date": "2018-06-29",

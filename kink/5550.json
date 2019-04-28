@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "MrsKellyPierce",
-      "person_id": 16636
-    },
-    {
       "name": "Charlie Whitehorse",
       "person_id": 16181
+    },
+    {
+      "name": "MrsKellyPierce",
+      "person_id": 16636
     }
   ],
   "release_date": "2008-09-02",

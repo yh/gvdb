@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Spencer Reed",
-      "person_id": 19086
-    },
-    {
       "name": "Shane Frost",
       "person_id": 21091
+    },
+    {
+      "name": "Spencer Reed",
+      "person_id": 19086
     }
   ],
   "release_date": "2011-06-24",

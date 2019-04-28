@@ -11,24 +11,24 @@
   ],
   "models": [
     {
-      "name": "Remy LaCroix",
-      "person_id": 36500
-    },
-    {
-      "name": "Ramon Nomar",
-      "person_id": 35412
-    },
-    {
-      "name": "Mr. Pete",
-      "person_id": 16823
-    },
-    {
       "name": "Karlo Karrera",
       "person_id": 35221
     },
     {
       "name": "Mark Davis",
       "person_id": 8200
+    },
+    {
+      "name": "Mr. Pete",
+      "person_id": 16823
+    },
+    {
+      "name": "Ramon Nomar",
+      "person_id": 35412
+    },
+    {
+      "name": "Remy LaCroix",
+      "person_id": 36500
     }
   ],
   "release_date": "2012-01-11",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nick Moretti",
-      "person_id": 17516
-    },
-    {
       "name": "Dante",
       "person_id": 16797
+    },
+    {
+      "name": "Nick Moretti",
+      "person_id": 17516
     }
   ],
   "release_date": "2008-07-24",

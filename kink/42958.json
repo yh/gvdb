@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Simone Garza",
-      "person_id": 60272
-    },
-    {
       "name": "Barbary Rose",
       "person_id": 54183
+    },
+    {
+      "name": "Simone Garza",
+      "person_id": 60272
     }
   ],
   "release_date": "2018-01-17",

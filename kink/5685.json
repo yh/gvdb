@@ -6,20 +6,20 @@
   "directors": [],
   "models": [
     {
-      "name": "Wolf Hudson",
-      "person_id": 14471
+      "name": "Dana DeArmond",
+      "person_id": 4498
     },
     {
       "name": "Flower Tucci",
       "person_id": 12218
     },
     {
-      "name": "Dana DeArmond",
-      "person_id": 4498
-    },
-    {
       "name": "John Stagliano",
       "person_id": 17999
+    },
+    {
+      "name": "Wolf Hudson",
+      "person_id": 14471
     }
   ],
   "release_date": "2010-10-18",

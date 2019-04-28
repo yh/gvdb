@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Rosta Benecky",
-      "person_id": 60770
-    },
-    {
       "name": "Pomstychtiva Pritelkyne",
       "person_id": 61365
+    },
+    {
+      "name": "Rosta Benecky",
+      "person_id": 60770
     }
   ],
   "release_date": "2019-01-30",

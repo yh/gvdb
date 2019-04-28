@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Bryn Blayne",
-      "person_id": 36234
-    },
-    {
       "name": "Beretta James",
       "person_id": 33659
+    },
+    {
+      "name": "Bryn Blayne",
+      "person_id": 36234
     }
   ],
   "release_date": "2012-07-06",

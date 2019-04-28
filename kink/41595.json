@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Will Havoc",
-      "person_id": 46285
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
+    },
+    {
+      "name": "Will Havoc",
+      "person_id": 46285
     }
   ],
   "release_date": "2016-12-09",

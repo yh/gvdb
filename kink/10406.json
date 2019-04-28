@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Drew Cutler",
-      "person_id": 23969
-    },
-    {
       "name": "Cameron Adams",
       "person_id": 22338
+    },
+    {
+      "name": "Drew Cutler",
+      "person_id": 23969
     }
   ],
   "release_date": "2010-12-24",

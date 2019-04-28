@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Ricky Sinz",
-      "person_id": 21480
-    },
-    {
       "name": "Felony",
       "person_id": 17502
+    },
+    {
+      "name": "Ricky Sinz",
+      "person_id": 21480
     }
   ],
   "release_date": "2012-01-18",

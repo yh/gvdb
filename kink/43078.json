@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Jitka",
-      "person_id": 60523
-    },
-    {
       "name": "Denis Reed",
       "person_id": 60546
+    },
+    {
+      "name": "Jitka",
+      "person_id": 60523
     }
   ],
   "release_date": "2018-01-25",

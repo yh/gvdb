@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Cameron Kincade",
-      "person_id": 47006
-    },
-    {
       "name": "Bryce Evans",
       "person_id": 53357
+    },
+    {
+      "name": "Cameron Kincade",
+      "person_id": 47006
     }
   ],
   "release_date": "2017-11-28",

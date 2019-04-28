@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tawni Ryden",
-      "person_id": 12435
-    },
-    {
       "name": "Steven St. Croix",
       "person_id": 12188
+    },
+    {
+      "name": "Tawni Ryden",
+      "person_id": 12435
     }
   ],
   "release_date": "2007-08-24",

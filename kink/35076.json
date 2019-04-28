@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Veronica Jett",
-      "person_id": 11826
-    },
-    {
       "name": "Otto Bauer",
       "person_id": 11451
+    },
+    {
+      "name": "Veronica Jett",
+      "person_id": 11826
     }
   ],
   "release_date": "2011-05-30",

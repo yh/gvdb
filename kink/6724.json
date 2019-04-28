@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Trina Michaels",
-      "person_id": 16367
-    },
-    {
       "name": "Maestro",
       "person_id": 11928
+    },
+    {
+      "name": "Trina Michaels",
+      "person_id": 16367
     }
   ],
   "release_date": "2009-07-10",

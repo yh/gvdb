@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Krissy Lynn",
-      "person_id": 19730
-    },
-    {
       "name": "Angel Allwood",
       "person_id": 52348
+    },
+    {
+      "name": "Krissy Lynn",
+      "person_id": 19730
     }
   ],
   "release_date": "2013-12-31",

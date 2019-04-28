@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Van Darkholme",
-      "person_id": 15862
+      "name": "Connor Maguire",
+      "person_id": 46426
     },
     {
       "name": "Seamus O'Reilly",
       "person_id": 51523
     },
     {
-      "name": "Connor Maguire",
-      "person_id": 46426
-    },
-    {
       "name": "Sebastian Keys",
       "person_id": 20316
+    },
+    {
+      "name": "Van Darkholme",
+      "person_id": 15862
     }
   ],
   "release_date": "2014-04-24",

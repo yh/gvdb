@@ -11,10 +11,6 @@
   ],
   "models": [
     {
-      "name": "Mickey Mod",
-      "person_id": 19623
-    },
-    {
       "name": "Krissy Lynn",
       "person_id": 19730
     },
@@ -23,12 +19,16 @@
       "person_id": 17836
     },
     {
-      "name": "Owen Gray",
-      "person_id": 39181
+      "name": "Mickey Mod",
+      "person_id": 19623
     },
     {
       "name": "Mona Wales",
       "person_id": 51511
+    },
+    {
+      "name": "Owen Gray",
+      "person_id": 39181
     },
     {
       "name": "Sahara Rain",

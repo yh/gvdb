@@ -5,12 +5,12 @@
   "description": "Sailor Mac Turner is walking along the docks when along comes biker Tim Kramer.  It doesn't take much to convince Mac to get on the back of Tim's bike.  Tim takes him back to his garage and shows him to behave when he is ashore.  Tim even shares his toys with Mac.",
   "models": [
     {
-      "name": "Tim Kramer",
-      "person_id": 12084
-    },
-    {
       "name": "Mac Turner",
       "person_id": 12475
+    },
+    {
+      "name": "Tim Kramer",
+      "person_id": 12084
     }
   ],
   "release_date": "2006-05-01",

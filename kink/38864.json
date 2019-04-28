@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Morgan Bailey",
-      "person_id": 19660
-    },
-    {
       "name": "Ingrid Mouth",
       "person_id": 53766
+    },
+    {
+      "name": "Morgan Bailey",
+      "person_id": 19660
     }
   ],
   "release_date": "2015-10-09",

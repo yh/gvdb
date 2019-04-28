@@ -6,8 +6,16 @@
   "directors": [],
   "models": [
     {
+      "name": "Astral Dust",
+      "person_id": 43670
+    },
+    {
       "name": "Havana Sins",
       "person_id": 61189
+    },
+    {
+      "name": "Jay Snakes",
+      "person_id": 61169
     },
     {
       "name": "Keira Pharrell",
@@ -16,14 +24,6 @@
     {
       "name": "Lala",
       "person_id": 61571
-    },
-    {
-      "name": "Jay Snakes",
-      "person_id": 61169
-    },
-    {
-      "name": "Astral Dust",
-      "person_id": 43670
     }
   ],
   "release_date": "2018-10-05",

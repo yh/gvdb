@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Ethan Hudson",
-      "person_id": 29881
-    },
-    {
       "name": "Christian Wilde",
       "person_id": 21037
+    },
+    {
+      "name": "Ethan Hudson",
+      "person_id": 29881
     }
   ],
   "release_date": "2012-04-27",

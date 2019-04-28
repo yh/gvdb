@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Jasmine Jae",
-      "person_id": 59210
-    },
-    {
       "name": "Anthony Rosano",
       "person_id": 24418
     },
     {
       "name": "Eric Masterson",
       "person_id": 60489
+    },
+    {
+      "name": "Jasmine Jae",
+      "person_id": 59210
     }
   ],
   "release_date": "2017-09-22",

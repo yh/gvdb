@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sinnamon Love",
-      "person_id": 352
-    },
-    {
       "name": "Kym Wilde",
       "person_id": 99
+    },
+    {
+      "name": "Sinnamon Love",
+      "person_id": 352
     }
   ],
   "release_date": "2002-09-20",

@@ -11,32 +11,32 @@
   ],
   "models": [
     {
-      "name": "James Deen",
-      "person_id": 8935
-    },
-    {
-      "name": "Katie Summers",
-      "person_id": 21035
-    },
-    {
-      "name": "John Strong",
-      "person_id": 17050
-    },
-    {
-      "name": "Mickey Mod",
-      "person_id": 19623
-    },
-    {
-      "name": "Christian Wilde",
-      "person_id": 21037
+      "name": "Blake",
+      "person_id": 30426
     },
     {
       "name": "Bobby Bends",
       "person_id": 22578
     },
     {
-      "name": "Blake",
-      "person_id": 30426
+      "name": "Christian Wilde",
+      "person_id": 21037
+    },
+    {
+      "name": "James Deen",
+      "person_id": 8935
+    },
+    {
+      "name": "John Strong",
+      "person_id": 17050
+    },
+    {
+      "name": "Katie Summers",
+      "person_id": 21035
+    },
+    {
+      "name": "Mickey Mod",
+      "person_id": 19623
     }
   ],
   "release_date": "2011-11-02",

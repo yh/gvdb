@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Patrick Rouge",
-      "person_id": 18939
-    },
-    {
       "name": "Ashley Edmonds",
       "person_id": 28180
+    },
+    {
+      "name": "Patrick Rouge",
+      "person_id": 18939
     }
   ],
   "release_date": "2011-02-16",

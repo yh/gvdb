@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Olivia Austin",
-      "person_id": 57870
-    },
-    {
       "name": "Alexa Grace",
       "person_id": 59622
     },
     {
       "name": "Derrick Pierce",
       "person_id": 14403
+    },
+    {
+      "name": "Olivia Austin",
+      "person_id": 57870
     }
   ],
   "release_date": "2016-08-09",

@@ -10,18 +10,6 @@
       "person_id": 58121
     },
     {
-      "name": "Scott Lyons",
-      "person_id": 42309
-    },
-    {
-      "name": "Leo Christiensen",
-      "person_id": 60506
-    },
-    {
-      "name": "Filthy Rich",
-      "person_id": 60738
-    },
-    {
       "name": "Dylan Snow",
       "person_id": 60739
     },
@@ -30,8 +18,20 @@
       "person_id": 47359
     },
     {
+      "name": "Filthy Rich",
+      "person_id": 60738
+    },
+    {
       "name": "Ike Diezel",
       "person_id": 60736
+    },
+    {
+      "name": "Leo Christiensen",
+      "person_id": 60506
+    },
+    {
+      "name": "Scott Lyons",
+      "person_id": 42309
     }
   ],
   "release_date": "2018-08-31",

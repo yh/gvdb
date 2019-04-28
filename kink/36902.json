@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Marley Blaze",
-      "person_id": 52421
-    },
-    {
       "name": "Cherry Torn",
       "person_id": 11105
+    },
+    {
+      "name": "Marley Blaze",
+      "person_id": 52421
     }
   ],
   "release_date": "2015-01-02",

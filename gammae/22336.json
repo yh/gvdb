@@ -5,12 +5,12 @@
   "description": "Fashion editor Randy Mixer goes to great lengths to determine whether Max Grand or Mike Chavez is the better underwear model...sampling every inch of their assets any way he can.",
   "models": [
     {
-      "name": "Mike Chavez",
-      "person_id": 10900
-    },
-    {
       "name": "Max Grand",
       "person_id": 11027
+    },
+    {
+      "name": "Mike Chavez",
+      "person_id": 10900
     },
     {
       "name": "Randy Mixer",

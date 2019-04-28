@@ -11,28 +11,28 @@
   ],
   "models": [
     {
+      "name": "Astral Dust",
+      "person_id": 43670
+    },
+    {
       "name": "Dahlia Sky",
       "person_id": 45819
-    },
-    {
-      "name": "Toni Ribas",
-      "person_id": 38962
-    },
-    {
-      "name": "Jordan Ash",
-      "person_id": 42543
     },
     {
       "name": "John Strong",
       "person_id": 17050
     },
     {
-      "name": "Xander Corvus",
-      "person_id": 46000
+      "name": "Jordan Ash",
+      "person_id": 42543
     },
     {
-      "name": "Astral Dust",
-      "person_id": 43670
+      "name": "Toni Ribas",
+      "person_id": 38962
+    },
+    {
+      "name": "Xander Corvus",
+      "person_id": 46000
     }
   ],
   "release_date": "2013-12-27",

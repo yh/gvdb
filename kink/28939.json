@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Owen Gray",
-      "person_id": 39181
-    },
-    {
       "name": "Claire Robbins",
       "person_id": 46978
+    },
+    {
+      "name": "Owen Gray",
+      "person_id": 39181
     }
   ],
   "release_date": "2013-05-03",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tommy Regan",
-      "person_id": 58983
-    },
-    {
       "name": "Damien Michaels",
       "person_id": 57514
+    },
+    {
+      "name": "Tommy Regan",
+      "person_id": 58983
     }
   ],
   "release_date": "2016-03-24",

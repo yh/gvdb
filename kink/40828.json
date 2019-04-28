@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Milcah Halili",
-      "person_id": 45665
-    },
-    {
       "name": "Aiden Starr",
       "person_id": 11489
     },
     {
       "name": "Lisa Tiffian",
       "person_id": 55478
+    },
+    {
+      "name": "Milcah Halili",
+      "person_id": 45665
     }
   ],
   "release_date": "2017-07-14",

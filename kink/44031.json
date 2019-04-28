@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
+      "name": "John Strong",
+      "person_id": 17050
+    },
+    {
       "name": "Onya Paige",
       "person_id": 61763
     },
     {
       "name": "Tory Lane",
       "person_id": 8228
-    },
-    {
-      "name": "John Strong",
-      "person_id": 17050
     }
   ],
   "release_date": "2018-11-30",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Casey Calvert",
-      "person_id": 36437
-    },
-    {
       "name": "Cadence Lux",
       "person_id": 51424
+    },
+    {
+      "name": "Casey Calvert",
+      "person_id": 36437
     },
     {
       "name": "Michael Vegas",

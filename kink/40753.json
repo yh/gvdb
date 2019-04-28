@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lyra Law",
-      "person_id": 58708
-    },
-    {
       "name": "Derrick Pierce",
       "person_id": 14403
+    },
+    {
+      "name": "Lyra Law",
+      "person_id": 58708
     }
   ],
   "release_date": "2016-09-09",

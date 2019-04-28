@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Nicholas Babral",
-      "person_id": 20865
-    },
-    {
       "name": "Adrian Vadasz",
       "person_id": 20869
+    },
+    {
+      "name": "Nicholas Babral",
+      "person_id": 20865
     }
   ],
   "release_date": "1998-03-30",

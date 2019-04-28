@@ -11,24 +11,12 @@
   ],
   "models": [
     {
-      "name": "Derrick Pierce",
-      "person_id": 14403
-    },
-    {
-      "name": "Lily LaBeau",
-      "person_id": 25162
-    },
-    {
-      "name": "Odile",
-      "person_id": 33692
-    },
-    {
-      "name": "Krysta Kaos",
-      "person_id": 25624
-    },
-    {
       "name": "Beretta James",
       "person_id": 33659
+    },
+    {
+      "name": "Derrick Pierce",
+      "person_id": 14403
     },
     {
       "name": "Dylan Ryan",
@@ -39,16 +27,28 @@
       "person_id": 18499
     },
     {
-      "name": "Soma Snakeoil (Goddess Soma)",
-      "person_id": 16475
+      "name": "James",
+      "person_id": 10539
+    },
+    {
+      "name": "Krysta Kaos",
+      "person_id": 25624
+    },
+    {
+      "name": "Lily LaBeau",
+      "person_id": 25162
     },
     {
       "name": "Maestro Stefanos",
       "person_id": 17148
     },
     {
-      "name": "James",
-      "person_id": 10539
+      "name": "Odile",
+      "person_id": 33692
+    },
+    {
+      "name": "Soma Snakeoil (Goddess Soma)",
+      "person_id": 16475
     }
   ],
   "release_date": "2012-11-30",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Yasmine Loven",
-      "person_id": 37660
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
+    },
+    {
+      "name": "Yasmine Loven",
+      "person_id": 37660
     }
   ],
   "release_date": "2012-07-13",

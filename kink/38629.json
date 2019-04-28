@@ -11,28 +11,28 @@
   ],
   "models": [
     {
-      "name": "Nikki Darling",
-      "person_id": 42508
-    },
-    {
-      "name": "Owen Gray",
-      "person_id": 39181
+      "name": "John Johnson",
+      "person_id": 49204
     },
     {
       "name": "John Strong",
       "person_id": 17050
     },
     {
-      "name": "Mark Wood",
-      "person_id": 31058
-    },
-    {
       "name": "Jon Jon",
       "person_id": 35195
     },
     {
-      "name": "John Johnson",
-      "person_id": 49204
+      "name": "Mark Wood",
+      "person_id": 31058
+    },
+    {
+      "name": "Nikki Darling",
+      "person_id": 42508
+    },
+    {
+      "name": "Owen Gray",
+      "person_id": 39181
     }
   ],
   "release_date": "2015-07-29",

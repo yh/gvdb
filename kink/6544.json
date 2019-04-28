@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Flower Tucci",
-      "person_id": 12218
-    },
-    {
       "name": "Dean Strong",
       "person_id": 18291
+    },
+    {
+      "name": "Flower Tucci",
+      "person_id": 12218
     }
   ],
   "release_date": "2011-11-07",

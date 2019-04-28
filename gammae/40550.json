@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "John Valko",
-      "person_id": 20758
-    },
-    {
       "name": "Fernando Lizalde",
       "person_id": 20759
+    },
+    {
+      "name": "John Valko",
+      "person_id": 20758
     }
   ],
   "release_date": "1998-03-21",

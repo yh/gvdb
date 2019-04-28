@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Rachele Richey",
-      "person_id": 58862
-    },
-    {
       "name": "John Strong",
       "person_id": 17050
+    },
+    {
+      "name": "Jon Jon",
+      "person_id": 35195
     },
     {
       "name": "Mark Wood",
@@ -27,12 +27,12 @@
       "person_id": 16823
     },
     {
-      "name": "Jon Jon",
-      "person_id": 35195
-    },
-    {
       "name": "Owen Gray",
       "person_id": 39181
+    },
+    {
+      "name": "Rachele Richey",
+      "person_id": 58862
     }
   ],
   "release_date": "2017-02-08",

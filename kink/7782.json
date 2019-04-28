@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tommy Defendi",
-      "person_id": 20359
-    },
-    {
       "name": "CJ",
       "person_id": 12677
+    },
+    {
+      "name": "Tommy Defendi",
+      "person_id": 20359
     }
   ],
   "release_date": "2010-01-21",

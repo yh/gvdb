@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mya Mason",
-      "person_id": 2625
-    },
-    {
       "name": "DragonLily",
       "person_id": 3433
+    },
+    {
+      "name": "Mya Mason",
+      "person_id": 2625
     }
   ],
   "release_date": "2005-01-17",

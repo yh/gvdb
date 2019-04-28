@@ -5,16 +5,16 @@
   "description": "Just Teens: Deliveries",
   "models": [
     {
+      "name": "Alex Gerc",
+      "person_id": 29835
+    },
+    {
       "name": "Gerry O'Connel",
       "person_id": 29812
     },
     {
       "name": "John Pepper",
       "person_id": 29834
-    },
-    {
-      "name": "Alex Gerc",
-      "person_id": 29835
     }
   ],
   "release_date": "2004-06-23",

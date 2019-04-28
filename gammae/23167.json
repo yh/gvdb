@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Steve Sunny",
-      "person_id": 13345
-    },
-    {
       "name": "Fabien Rossi",
       "person_id": 13460
+    },
+    {
+      "name": "Steve Sunny",
+      "person_id": 13345
     }
   ],
   "release_date": "2010-07-09",

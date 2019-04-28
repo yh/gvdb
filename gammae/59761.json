@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Spencer Reed",
-      "person_id": 28030
-    },
-    {
       "name": "Hunter Page",
       "person_id": 28535
+    },
+    {
+      "name": "Spencer Reed",
+      "person_id": 28030
     }
   ],
   "release_date": "2012-12-19",

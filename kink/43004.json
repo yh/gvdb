@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
+      "name": "Chloe Cherry",
+      "person_id": 60066
+    },
+    {
       "name": "Ramon Nomar",
       "person_id": 35412
     },
     {
       "name": "Simone Sonay",
       "person_id": 34687
-    },
-    {
-      "name": "Chloe Cherry",
-      "person_id": 60066
     }
   ],
   "release_date": "2017-03-07",

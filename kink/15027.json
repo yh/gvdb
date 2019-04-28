@@ -11,24 +11,24 @@
   ],
   "models": [
     {
+      "name": "Akira Raine",
+      "person_id": 31645
+    },
+    {
       "name": "Gia DiMarco",
       "person_id": 21436
     },
     {
-      "name": "Sofia Lauryn",
-      "person_id": 32617
+      "name": "Julia Ann",
+      "person_id": 32896
     },
     {
       "name": "Missy Minks",
       "person_id": 27930
     },
     {
-      "name": "Akira Raine",
-      "person_id": 31645
-    },
-    {
-      "name": "Julia Ann",
-      "person_id": 32896
+      "name": "Sofia Lauryn",
+      "person_id": 32617
     }
   ],
   "release_date": "2013-12-26",

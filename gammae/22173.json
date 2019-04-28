@@ -5,12 +5,12 @@
   "description": "Limo Driver Erik Rhodes picks up Derrick Vinyard. The bossy client enjoys barking orders at Erik, quickly going from 'Pick up my bags' to 'bend over'.  He gives him a fucking he won't soon forget.",
   "models": [
     {
-      "name": "Erik Rhodes",
-      "person_id": 11271
-    },
-    {
       "name": "Derrick Vinyard",
       "person_id": 11316
+    },
+    {
+      "name": "Erik Rhodes",
+      "person_id": 11271
     }
   ],
   "release_date": "2005-11-01",

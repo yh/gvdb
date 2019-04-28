@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
+      "name": "Ava Mir-Ausziehen",
+      "person_id": 60346
+    },
+    {
       "name": "Erix X",
       "person_id": 61479
     },
     {
       "name": "Jada Sinn",
       "person_id": 61555
-    },
-    {
-      "name": "Ava Mir-Ausziehen",
-      "person_id": 60346
     }
   ],
   "release_date": "2018-09-27",

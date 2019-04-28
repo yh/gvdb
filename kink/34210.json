@@ -11,10 +11,6 @@
   ],
   "models": [
     {
-      "name": "Van Darkholme",
-      "person_id": 15862
-    },
-    {
       "name": "Christian Wilde",
       "person_id": 21037
     },
@@ -25,6 +21,10 @@
     {
       "name": "Eli Hunter",
       "person_id": 51998
+    },
+    {
+      "name": "Van Darkholme",
+      "person_id": 15862
     }
   ],
   "release_date": "2013-12-26",

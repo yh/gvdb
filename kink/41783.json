@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Cheyenne Jewel",
-      "person_id": 22734
-    },
-    {
       "name": "Brandi Mae",
       "person_id": 59885
+    },
+    {
+      "name": "Cheyenne Jewel",
+      "person_id": 22734
     }
   ],
   "release_date": "2017-04-26",

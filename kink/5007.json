@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Billy",
+      "person_id": 13720
+    },
+    {
       "name": "Dana DeArmond",
       "person_id": 4498
     },
     {
       "name": "Madison Young",
       "person_id": 2674
-    },
-    {
-      "name": "Billy",
-      "person_id": 13720
     }
   ],
   "release_date": "2008-02-08",

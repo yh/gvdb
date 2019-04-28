@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Ashley Ocean",
-      "person_id": 61752
-    },
-    {
       "name": "Ar",
       "person_id": 60282
+    },
+    {
+      "name": "Ashley Ocean",
+      "person_id": 61752
     }
   ],
   "release_date": "2019-01-09",

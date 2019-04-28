@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Bella Rossi",
-      "person_id": 18418
-    },
-    {
       "name": "Barbary Rose",
       "person_id": 54183
+    },
+    {
+      "name": "Bella Rossi",
+      "person_id": 18418
     }
   ],
   "release_date": "2016-11-16",

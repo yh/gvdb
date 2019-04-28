@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Montana Sky",
-      "person_id": 61352
-    },
-    {
       "name": "James Kickstand",
       "person_id": 48660
+    },
+    {
+      "name": "Montana Sky",
+      "person_id": 61352
     }
   ],
   "release_date": "2017-12-21",

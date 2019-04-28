@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Jessie Colter",
-      "person_id": 34311
-    },
-    {
       "name": "Aaron Reese",
       "person_id": 58810
     },
     {
       "name": "Alex Mason",
       "person_id": 58800
+    },
+    {
+      "name": "Jessie Colter",
+      "person_id": 34311
     }
   ],
   "release_date": "2015-12-11",

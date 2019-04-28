@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Toni Ribas",
-      "person_id": 38962
-    },
-    {
       "name": "Jessie Rogers",
       "person_id": 41043
+    },
+    {
+      "name": "Toni Ribas",
+      "person_id": 38962
     }
   ],
   "release_date": "2012-06-01",

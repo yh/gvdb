@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kaylee Hilton",
-      "person_id": 31754
-    },
-    {
       "name": "Jessie Cox",
       "person_id": 18739
+    },
+    {
+      "name": "Kaylee Hilton",
+      "person_id": 31754
     }
   ],
   "release_date": "2011-10-07",

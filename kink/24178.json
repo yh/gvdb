@@ -11,6 +11,10 @@
   ],
   "models": [
     {
+      "name": "Brian Street Team",
+      "person_id": 42301
+    },
+    {
       "name": "Cassandra Nix",
       "person_id": 36857
     },
@@ -19,16 +23,12 @@
       "person_id": 21442
     },
     {
-      "name": "Mr. Pete",
-      "person_id": 16823
-    },
-    {
       "name": "Danny Wylde",
       "person_id": 7790
     },
     {
-      "name": "Brian Street Team",
-      "person_id": 42301
+      "name": "Mr. Pete",
+      "person_id": 16823
     }
   ],
   "release_date": "2012-06-27",

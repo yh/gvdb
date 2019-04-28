@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Maitresse Madeline Marlowe",
-      "person_id": 17872
-    },
-    {
       "name": "Christian Wilde",
       "person_id": 21037
+    },
+    {
+      "name": "Maitresse Madeline Marlowe",
+      "person_id": 17872
     },
     {
       "name": "Marcelo",

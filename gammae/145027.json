@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Drew Dixon",
-      "person_id": 52232
-    },
-    {
       "name": "Alex Killian",
       "person_id": 57376
+    },
+    {
+      "name": "Drew Dixon",
+      "person_id": 52232
     }
   ],
   "release_date": "2019-02-21",

@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Roco Moric",
-      "person_id": 60759
-    },
-    {
       "name": "Ondra Matej",
       "person_id": 60758
+    },
+    {
+      "name": "Roco Moric",
+      "person_id": 60759
     }
   ],
   "release_date": "2018-04-25",

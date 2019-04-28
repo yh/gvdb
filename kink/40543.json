@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Will Havoc",
-      "person_id": 46285
-    },
-    {
       "name": "Arabelle Raphael",
       "person_id": 22128
     },
     {
       "name": "DJ",
       "person_id": 20225
+    },
+    {
+      "name": "Will Havoc",
+      "person_id": 46285
     }
   ],
   "release_date": "2016-07-15",

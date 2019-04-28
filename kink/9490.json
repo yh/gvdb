@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Troy Daniels",
-      "person_id": 23354
-    },
-    {
       "name": "Sami Damo",
       "person_id": 25278
+    },
+    {
+      "name": "Troy Daniels",
+      "person_id": 23354
     }
   ],
   "release_date": "2010-08-04",

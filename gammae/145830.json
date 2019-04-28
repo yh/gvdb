@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Nic Sahara",
-      "person_id": 52171
-    },
-    {
       "name": "Colby Jansen",
       "person_id": 57935
+    },
+    {
+      "name": "Nic Sahara",
+      "person_id": 52171
     }
   ],
   "release_date": "2019-03-28",

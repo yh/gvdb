@@ -11,24 +11,24 @@
   ],
   "models": [
     {
-      "name": "Harmony",
-      "person_id": 6341
-    },
-    {
-      "name": "Lorelei Lee",
-      "person_id": 758
+      "name": "Ariel X",
+      "person_id": 10464
     },
     {
       "name": "Bobbi Starr",
       "person_id": 11290
     },
     {
+      "name": "Harmony",
+      "person_id": 6341
+    },
+    {
       "name": "Hollie Stevens",
       "person_id": 1572
     },
     {
-      "name": "Ariel X",
-      "person_id": 10464
+      "name": "Lorelei Lee",
+      "person_id": 758
     }
   ],
   "release_date": "2008-10-31",

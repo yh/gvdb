@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nina Lawless",
-      "person_id": 52751
-    },
-    {
       "name": "Corbin Dallas",
       "person_id": 51921
+    },
+    {
+      "name": "Nina Lawless",
+      "person_id": 52751
     }
   ],
   "release_date": "2015-07-22",

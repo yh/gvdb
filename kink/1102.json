@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Kendra James",
-      "person_id": 247
-    },
-    {
       "name": "Chanta-Rose",
       "person_id": 124
+    },
+    {
+      "name": "Kendra James",
+      "person_id": 247
     }
   ],
   "release_date": "2003-03-28",

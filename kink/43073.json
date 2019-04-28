@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Delirious Hunter",
-      "person_id": 56555
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
+    },
+    {
+      "name": "Delirious Hunter",
+      "person_id": 56555
     }
   ],
   "release_date": "2018-02-28",

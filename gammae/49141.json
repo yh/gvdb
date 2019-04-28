@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Lance Alexander",
-      "person_id": 20030
-    },
-    {
       "name": "Bradley Hudson",
       "person_id": 20032
+    },
+    {
+      "name": "Lance Alexander",
+      "person_id": 20030
     },
     {
       "name": "Seth Bond",

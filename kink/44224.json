@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Veruca James",
-      "person_id": 43570
+      "name": "Michael Vegas",
+      "person_id": 47624
     },
     {
       "name": "Mick Blue",
       "person_id": 35591
     },
     {
-      "name": "Michael Vegas",
-      "person_id": 47624
+      "name": "Veruca James",
+      "person_id": 43570
     }
   ],
   "release_date": "2019-01-18",

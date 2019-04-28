@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Violet Skye",
-      "person_id": 61136
-    },
-    {
       "name": "Shadrack Stargazer",
       "person_id": 61135
+    },
+    {
+      "name": "Violet Skye",
+      "person_id": 61136
     }
   ],
   "release_date": "2018-03-21",

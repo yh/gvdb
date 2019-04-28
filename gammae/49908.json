@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Mac Masters",
-      "person_id": 26262
-    },
-    {
       "name": "Jared Wright",
       "person_id": 27021
+    },
+    {
+      "name": "Mac Masters",
+      "person_id": 26262
     }
   ],
   "release_date": "2014-05-01",

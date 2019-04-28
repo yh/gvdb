@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Emanuel",
-      "person_id": 25651
-    },
-    {
       "name": "Brenn Wyson",
       "person_id": 19912
+    },
+    {
+      "name": "Emanuel",
+      "person_id": 25651
     }
   ],
   "release_date": "2010-12-09",

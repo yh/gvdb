@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Slave",
-      "person_id": 61808
-    },
-    {
       "name": "Ella Kross",
       "person_id": 61013
+    },
+    {
+      "name": "Slave",
+      "person_id": 61808
     }
   ],
   "release_date": "2019-02-27",

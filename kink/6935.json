@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Felony",
+      "person_id": 17502
+    },
+    {
       "name": "Harmony",
       "person_id": 6341
     },
     {
       "name": "Tia Ling",
       "person_id": 17361
-    },
-    {
-      "name": "Felony",
-      "person_id": 17502
     }
   ],
   "release_date": "2009-07-24",

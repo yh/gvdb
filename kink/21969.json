@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Beretta James",
+      "person_id": 33659
+    },
+    {
       "name": "Dylan Ryan",
       "person_id": 10069
     },
     {
       "name": "Lyla Storm",
       "person_id": 33882
-    },
-    {
-      "name": "Beretta James",
-      "person_id": 33659
     },
     {
       "name": "Mark Davis",

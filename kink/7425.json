@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Shane Erickson",
-      "person_id": 18821
-    },
-    {
       "name": "Christian Wilde",
       "person_id": 21037
+    },
+    {
+      "name": "Shane Erickson",
+      "person_id": 18821
     }
   ],
   "release_date": "2012-08-07",

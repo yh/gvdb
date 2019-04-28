@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "John Henry",
-      "person_id": 20655
-    },
-    {
       "name": "Calico",
       "person_id": 11592
     },
     {
       "name": "Cherry Torn",
       "person_id": 11105
+    },
+    {
+      "name": "John Henry",
+      "person_id": 20655
     }
   ],
   "release_date": "2009-12-25",

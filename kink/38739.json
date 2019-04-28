@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mike Panic",
-      "person_id": 41034
-    },
-    {
       "name": "Joey Minx",
       "person_id": 51209
+    },
+    {
+      "name": "Mike Panic",
+      "person_id": 41034
     }
   ],
   "release_date": "2015-10-16",

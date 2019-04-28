@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Steven Ponce",
-      "person_id": 27969
-    },
-    {
       "name": "Diesel Washington",
       "person_id": 28049
+    },
+    {
+      "name": "Steven Ponce",
+      "person_id": 27969
     }
   ],
   "release_date": "2013-02-14",

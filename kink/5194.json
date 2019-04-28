@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Natassia Dreams",
-      "person_id": 16310
-    },
-    {
       "name": "Brian Mayor",
       "person_id": 16540
+    },
+    {
+      "name": "Natassia Dreams",
+      "person_id": 16310
     }
   ],
   "release_date": "2008-04-15",

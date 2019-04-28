@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Matt Stevens",
-      "person_id": 31203
-    },
-    {
       "name": "Bradley Boyd",
       "person_id": 34994
+    },
+    {
+      "name": "Matt Stevens",
+      "person_id": 31203
     }
   ],
   "release_date": "2014-11-12",

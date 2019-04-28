@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Vendetta",
-      "person_id": 8300
-    },
-    {
       "name": "Sir C",
       "person_id": 10946
+    },
+    {
+      "name": "Vendetta",
+      "person_id": 8300
     }
   ],
   "release_date": "2006-01-05",

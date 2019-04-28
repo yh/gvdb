@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Shawn Lesser",
-      "person_id": 358
-    },
-    {
       "name": "Kym Wilde",
       "person_id": 99
+    },
+    {
+      "name": "Shawn Lesser",
+      "person_id": 358
     }
   ],
   "release_date": "2002-10-25",

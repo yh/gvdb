@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Tyna Gold",
-      "person_id": 61913
-    },
-    {
       "name": "Ar",
       "person_id": 60282
+    },
+    {
+      "name": "Tyna Gold",
+      "person_id": 61913
     }
   ],
   "release_date": "2019-03-27",

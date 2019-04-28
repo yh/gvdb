@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Isabella Soprano",
-      "person_id": 6243
-    },
-    {
       "name": "Harmony",
       "person_id": 6341
+    },
+    {
+      "name": "Isabella Soprano",
+      "person_id": 6243
     }
   ],
   "release_date": "2005-01-20",

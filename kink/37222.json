@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jay Rising",
-      "person_id": 52397
-    },
-    {
       "name": "Doug Acre",
       "person_id": 47153
+    },
+    {
+      "name": "Jay Rising",
+      "person_id": 52397
     }
   ],
   "release_date": "2015-02-26",

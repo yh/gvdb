@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Sarah Shevon",
-      "person_id": 19605
+      "name": "Felony",
+      "person_id": 17502
     },
     {
       "name": "Jodi Taylor",
       "person_id": 43213
     },
     {
-      "name": "Felony",
-      "person_id": 17502
+      "name": "Sarah Shevon",
+      "person_id": 19605
     }
   ],
   "release_date": "2012-10-25",

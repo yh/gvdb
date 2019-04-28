@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Ramon Nomar",
-      "person_id": 35412
-    },
-    {
       "name": "Katie Summers",
       "person_id": 21035
     },
     {
       "name": "Lily LaBeau",
       "person_id": 25162
+    },
+    {
+      "name": "Ramon Nomar",
+      "person_id": 35412
     }
   ],
   "release_date": "2012-05-01",

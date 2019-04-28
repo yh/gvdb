@@ -9,20 +9,20 @@
       "person_id": 11010
     },
     {
-      "name": "Tommy Blade",
-      "person_id": 11603
-    },
-    {
       "name": "Matt Majors",
       "person_id": 11258
     },
     {
-      "name": "Trey Casteel",
-      "person_id": 11439
-    },
-    {
       "name": "Nick Marino",
       "person_id": 11601
+    },
+    {
+      "name": "Tommy Blade",
+      "person_id": 11603
+    },
+    {
+      "name": "Trey Casteel",
+      "person_id": 11439
     }
   ],
   "release_date": "2006-04-01",

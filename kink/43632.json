@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Max Adonis",
-      "person_id": 61395
-    },
-    {
       "name": "Dominic Pacifico",
       "person_id": 14892
+    },
+    {
+      "name": "Max Adonis",
+      "person_id": 61395
     }
   ],
   "release_date": "2018-08-02",

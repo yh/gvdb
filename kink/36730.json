@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Shay Fox",
-      "person_id": 53492
-    },
-    {
       "name": "Owen Gray",
       "person_id": 39181
+    },
+    {
+      "name": "Shay Fox",
+      "person_id": 53492
     }
   ],
   "release_date": "2014-12-12",

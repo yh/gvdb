@@ -6,10 +6,6 @@
   "directors": [],
   "models": [
     {
-      "name": "Kristen Scott",
-      "person_id": 60734
-    },
-    {
       "name": "Codey Steele",
       "person_id": 60685
     },
@@ -20,6 +16,10 @@
     {
       "name": "Johnny Goodluck",
       "person_id": 61282
+    },
+    {
+      "name": "Kristen Scott",
+      "person_id": 60734
     },
     {
       "name": "Ramon Nomar",

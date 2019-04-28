@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Wild Bill",
-      "person_id": 225
-    },
-    {
       "name": "Princess Kali",
       "person_id": 1821
+    },
+    {
+      "name": "Wild Bill",
+      "person_id": 225
     }
   ],
   "release_date": "2003-10-23",

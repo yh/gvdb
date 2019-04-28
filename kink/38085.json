@@ -15,10 +15,6 @@
       "person_id": 42962
     },
     {
-      "name": "Owen Gray",
-      "person_id": 39181
-    },
-    {
       "name": "Dorian Deville",
       "person_id": 57563
     },
@@ -27,12 +23,16 @@
       "person_id": 53344
     },
     {
-      "name": "Tommy Pistol",
-      "person_id": 12663
-    },
-    {
       "name": "Jon Jon",
       "person_id": 35195
+    },
+    {
+      "name": "Owen Gray",
+      "person_id": 39181
+    },
+    {
+      "name": "Tommy Pistol",
+      "person_id": 12663
     }
   ],
   "release_date": "2015-06-03",

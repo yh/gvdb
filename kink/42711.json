@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Ramon Nomar",
-      "person_id": 35412
-    },
-    {
       "name": "Kendra Lynn",
       "person_id": 60518
+    },
+    {
+      "name": "Ramon Nomar",
+      "person_id": 35412
     }
   ],
   "release_date": "2018-05-11",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Riley Evans",
-      "person_id": 24308
-    },
-    {
       "name": "Johnny Ruiz",
       "person_id": 50330
+    },
+    {
+      "name": "Riley Evans",
+      "person_id": 24308
     }
   ],
   "release_date": "2013-07-19",

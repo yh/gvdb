@@ -11,10 +11,6 @@
   ],
   "models": [
     {
-      "name": "Phoenix Marie",
-      "person_id": 17093
-    },
-    {
       "name": "Jessie Cox",
       "person_id": 18739
     },
@@ -23,16 +19,20 @@
       "person_id": 25825
     },
     {
+      "name": "Maestro",
+      "person_id": 11928
+    },
+    {
+      "name": "Phoenix Marie",
+      "person_id": 17093
+    },
+    {
       "name": "Sparky Sin Claire",
       "person_id": 29494
     },
     {
       "name": "Tommy Pistol",
       "person_id": 12663
-    },
-    {
-      "name": "Maestro",
-      "person_id": 11928
     }
   ],
   "release_date": "2011-04-01",

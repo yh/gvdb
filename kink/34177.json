@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Carissa Montgomery",
-      "person_id": 52000
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
+    },
+    {
+      "name": "Carissa Montgomery",
+      "person_id": 52000
     }
   ],
   "release_date": "2013-12-20",

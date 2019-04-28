@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Yana Jordan",
-      "person_id": 18837
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
+    },
+    {
+      "name": "Yana Jordan",
+      "person_id": 18837
     }
   ],
   "release_date": "2009-03-10",

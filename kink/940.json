@@ -3,20 +3,15 @@
     "Butt Machine Boys"
   ],
   "description": "You have to ask yourself who is the crazier of the two. Though, one things for sure, their holes go crazy for the fucking machines.",
-  "directors": [
-    {
-      "name": "Biff Cocblocer",
-      "person_id": 7031
-    }
-  ],
+  "directors": [],
   "models": [
-    {
-      "name": "FYERFLI",
-      "person_id": 169
-    },
     {
       "name": "Billy Wild",
       "person_id": 791
+    },
+    {
+      "name": "FYERFLI",
+      "person_id": 169
     }
   ],
   "release_date": "2003-03-04",

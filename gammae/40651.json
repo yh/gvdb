@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
-      "name": "Julian Vincenzo",
-      "person_id": 20918
-    },
-    {
       "name": "Claudio Antonelli",
       "person_id": 20919
     },
     {
       "name": "Glen Santoro",
       "person_id": 20943
+    },
+    {
+      "name": "Julian Vincenzo",
+      "person_id": 20918
     }
   ],
   "release_date": "1998-05-02",

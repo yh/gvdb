@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Satine Phoenix",
-      "person_id": 11425
-    },
-    {
       "name": "Chris Cannon",
       "person_id": 53660
+    },
+    {
+      "name": "Satine Phoenix",
+      "person_id": 11425
     }
   ],
   "release_date": "2011-08-18",

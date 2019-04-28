@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mia Lelani",
-      "person_id": 21648
-    },
-    {
       "name": "Maestro",
       "person_id": 11928
+    },
+    {
+      "name": "Mia Lelani",
+      "person_id": 21648
     }
   ],
   "release_date": "2011-05-27",

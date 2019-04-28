@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Will Swagger",
-      "person_id": 30616
-    },
-    {
       "name": "Josh West",
       "person_id": 20861
+    },
+    {
+      "name": "Will Swagger",
+      "person_id": 30616
     }
   ],
   "release_date": "2011-04-29",

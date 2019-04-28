@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Penny Barber",
-      "person_id": 6664
-    },
-    {
       "name": "Mz Berlin",
       "person_id": 14228
+    },
+    {
+      "name": "Penny Barber",
+      "person_id": 6664
     }
   ],
   "release_date": "2015-02-02",

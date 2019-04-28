@@ -11,12 +11,16 @@
   ],
   "models": [
     {
+      "name": "Gage Sin",
+      "person_id": 53344
+    },
+    {
       "name": "John Strong",
       "person_id": 17050
     },
     {
-      "name": "Tommy Pistol",
-      "person_id": 12663
+      "name": "Marie Luv",
+      "person_id": 12563
     },
     {
       "name": "Owen Gray",
@@ -27,12 +31,8 @@
       "person_id": 35412
     },
     {
-      "name": "Gage Sin",
-      "person_id": 53344
-    },
-    {
-      "name": "Marie Luv",
-      "person_id": 12563
+      "name": "Tommy Pistol",
+      "person_id": 12663
     }
   ],
   "release_date": "2014-07-09",

@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Charli Acacia",
-      "person_id": 55348
-    },
-    {
       "name": "Bruno Dickemz",
       "person_id": 54328
+    },
+    {
+      "name": "Charli Acacia",
+      "person_id": 55348
     }
   ],
   "release_date": "2018-01-18",

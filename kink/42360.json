@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jaxton Wheeler",
-      "person_id": 53352
-    },
-    {
       "name": "Christian Taylor",
       "person_id": 60281
+    },
+    {
+      "name": "Jaxton Wheeler",
+      "person_id": 53352
     }
   ],
   "release_date": "2017-06-01",

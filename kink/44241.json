@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Carolina Sweets",
+      "person_id": 61749
+    },
+    {
       "name": "Cherie DeVille",
       "person_id": 40439
     },
     {
       "name": "Seth Gamble",
       "person_id": 57488
-    },
-    {
-      "name": "Carolina Sweets",
-      "person_id": 61749
     }
   ],
   "release_date": "2019-03-01",

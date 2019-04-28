@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mz Berlin",
-      "person_id": 14228
-    },
-    {
       "name": "Daemon",
       "person_id": 2503
+    },
+    {
+      "name": "Mz Berlin",
+      "person_id": 14228
     }
   ],
   "release_date": "2013-11-27",

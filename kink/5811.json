@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Felony",
-      "person_id": 17502
-    },
-    {
       "name": "Bobbi Starr",
       "person_id": 11290
+    },
+    {
+      "name": "Felony",
+      "person_id": 17502
     },
     {
       "name": "Hollie Stevens",

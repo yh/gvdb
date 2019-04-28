@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Sativa Rose",
-      "person_id": 8226
-    },
-    {
       "name": "Mark Frenchy",
       "person_id": 16768
+    },
+    {
+      "name": "Sativa Rose",
+      "person_id": 8226
     }
   ],
   "release_date": "2015-03-11",

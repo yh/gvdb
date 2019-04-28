@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Lincoln",
-      "person_id": 5141
-    },
-    {
       "name": "Afrodisiac",
       "person_id": 21910
+    },
+    {
+      "name": "Lincoln",
+      "person_id": 5141
     }
   ],
   "release_date": "2012-08-02",

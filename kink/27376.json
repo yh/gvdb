@@ -11,12 +11,28 @@
   ],
   "models": [
     {
-      "name": "Princess Donna Dolore",
-      "person_id": 5235
+      "name": "Danny Wylde",
+      "person_id": 7790
+    },
+    {
+      "name": "Erik Everhard",
+      "person_id": 19759
     },
     {
       "name": "James Deen",
       "person_id": 8935
+    },
+    {
+      "name": "John Strong",
+      "person_id": 17050
+    },
+    {
+      "name": "Mr. Pete",
+      "person_id": 16823
+    },
+    {
+      "name": "Princess Donna Dolore",
+      "person_id": 5235
     },
     {
       "name": "Ramon Nomar",
@@ -25,22 +41,6 @@
     {
       "name": "Toni Ribas",
       "person_id": 38962
-    },
-    {
-      "name": "Mr. Pete",
-      "person_id": 16823
-    },
-    {
-      "name": "Danny Wylde",
-      "person_id": 7790
-    },
-    {
-      "name": "John Strong",
-      "person_id": 17050
-    },
-    {
-      "name": "Erik Everhard",
-      "person_id": 19759
     }
   ],
   "release_date": "2013-03-06",

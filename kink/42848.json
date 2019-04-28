@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jaxton Wheeler",
-      "person_id": 53352
-    },
-    {
       "name": "Addison Blue",
       "person_id": 60775
+    },
+    {
+      "name": "Jaxton Wheeler",
+      "person_id": 53352
     }
   ],
   "release_date": "2017-12-21",

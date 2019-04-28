@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Julian Vincenzo",
-      "person_id": 20918
-    },
-    {
       "name": "Jayson Martinez",
       "person_id": 21104
+    },
+    {
+      "name": "Julian Vincenzo",
+      "person_id": 20918
     }
   ],
   "release_date": "1998-04-22",

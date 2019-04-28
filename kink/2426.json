@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Caroline Pierce",
-      "person_id": 6372
-    },
-    {
       "name": "Betka Schpitz",
       "person_id": 6442
+    },
+    {
+      "name": "Caroline Pierce",
+      "person_id": 6372
     }
   ],
   "release_date": "2004-12-22",

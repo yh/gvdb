@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Zak Bishop",
-      "person_id": 61162
-    },
-    {
       "name": "Colby Jansen",
       "person_id": 34457
+    },
+    {
+      "name": "Zak Bishop",
+      "person_id": 61162
     }
   ],
   "release_date": "2018-08-23",

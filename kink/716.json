@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Paige Richards",
-      "person_id": 350
-    },
-    {
       "name": "Cowgirl",
       "person_id": 110
+    },
+    {
+      "name": "Paige Richards",
+      "person_id": 350
     }
   ],
   "release_date": "2002-10-18",

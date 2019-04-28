@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Sean Holmes",
-      "person_id": 61664
-    },
-    {
       "name": "Justin Case",
       "person_id": 60416
+    },
+    {
+      "name": "Sean Holmes",
+      "person_id": 61664
     }
   ],
   "release_date": "2019-03-20",

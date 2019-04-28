@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Ashli Ames",
+      "person_id": 33058
+    },
+    {
       "name": "James Deen",
       "person_id": 8935
     },
     {
       "name": "Princess Donna Dolore",
       "person_id": 5235
-    },
-    {
-      "name": "Ashli Ames",
-      "person_id": 33058
     }
   ],
   "release_date": "2011-12-30",

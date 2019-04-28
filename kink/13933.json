@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Anthony Rosano",
+      "person_id": 24418
+    },
+    {
       "name": "Mariah Madisynn",
       "person_id": 32913
     },
     {
       "name": "Phoenix Marie",
       "person_id": 17093
-    },
-    {
-      "name": "Anthony Rosano",
-      "person_id": 24418
     }
   ],
   "release_date": "2011-06-21",

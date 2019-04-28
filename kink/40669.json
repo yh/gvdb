@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Maci May",
-      "person_id": 59540
-    },
-    {
       "name": "Kelli Lox",
       "person_id": 37743
+    },
+    {
+      "name": "Maci May",
+      "person_id": 59540
     }
   ],
   "release_date": "2016-09-12",

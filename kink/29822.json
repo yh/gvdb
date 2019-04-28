@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Randall O'Reilly",
-      "person_id": 39427
-    },
-    {
       "name": "Damian Taylor",
       "person_id": 46461
+    },
+    {
+      "name": "Randall O'Reilly",
+      "person_id": 39427
     }
   ],
   "release_date": "2013-03-13",

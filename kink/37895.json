@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jackson Fillmore",
-      "person_id": 56833
-    },
-    {
       "name": "Christian Wilde",
       "person_id": 21037
+    },
+    {
+      "name": "Jackson Fillmore",
+      "person_id": 56833
     }
   ],
   "release_date": "2015-06-09",

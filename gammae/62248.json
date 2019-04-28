@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Rikk York",
-      "person_id": 32679
-    },
-    {
       "name": "Christopher Daniels",
       "person_id": 32932
+    },
+    {
+      "name": "Rikk York",
+      "person_id": 32679
     }
   ],
   "release_date": "2013-12-24",

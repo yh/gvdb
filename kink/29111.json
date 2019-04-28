@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Maitresse Madeline Marlowe",
-      "person_id": 17872
+      "name": "Chanel Preston",
+      "person_id": 26542
     },
     {
       "name": "Gia DiMarco",
       "person_id": 21436
     },
     {
-      "name": "Chanel Preston",
-      "person_id": 26542
-    },
-    {
       "name": "Jesse Carl",
       "person_id": 29074
+    },
+    {
+      "name": "Maitresse Madeline Marlowe",
+      "person_id": 17872
     }
   ],
   "release_date": "2013-03-20",

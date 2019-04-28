@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Lance Gear",
-      "person_id": 19502
-    },
-    {
       "name": "Brendan Austen",
       "person_id": 19550
+    },
+    {
+      "name": "Lance Gear",
+      "person_id": 19502
     },
     {
       "name": "Steve Parker",

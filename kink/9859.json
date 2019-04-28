@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Clayra Beau",
+      "person_id": 20783
+    },
+    {
       "name": "James Deen",
       "person_id": 8935
     },
     {
       "name": "Tommy Pistol",
       "person_id": 12663
-    },
-    {
-      "name": "Clayra Beau",
-      "person_id": 20783
     }
   ],
   "release_date": "2010-08-06",

@@ -11,28 +11,28 @@
   ],
   "models": [
     {
-      "name": "James Deen",
-      "person_id": 8935
-    },
-    {
-      "name": "Lily LaBeau",
-      "person_id": 25162
-    },
-    {
-      "name": "Kristina Rose",
-      "person_id": 20560
-    },
-    {
-      "name": "Jessie Cox",
-      "person_id": 18739
-    },
-    {
       "name": "Elise Graves",
       "person_id": 28827
     },
     {
       "name": "Iona Grace",
       "person_id": 25204
+    },
+    {
+      "name": "James Deen",
+      "person_id": 8935
+    },
+    {
+      "name": "Jessie Cox",
+      "person_id": 18739
+    },
+    {
+      "name": "Kristina Rose",
+      "person_id": 20560
+    },
+    {
+      "name": "Lily LaBeau",
+      "person_id": 25162
     }
   ],
   "release_date": "2011-05-27",

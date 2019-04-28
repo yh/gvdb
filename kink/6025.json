@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tyler Saint",
-      "person_id": 17416
-    },
-    {
       "name": "Park Wiley",
       "person_id": 17703
+    },
+    {
+      "name": "Tyler Saint",
+      "person_id": 17416
     }
   ],
   "release_date": "2009-02-26",

@@ -11,28 +11,28 @@
   ],
   "models": [
     {
+      "name": "Jon Jon",
+      "person_id": 35195
+    },
+    {
       "name": "Juliette March",
       "person_id": 22072
+    },
+    {
+      "name": "Owen Gray",
+      "person_id": 39181
     },
     {
       "name": "Small Hands",
       "person_id": 59499
     },
     {
-      "name": "Tommy Pistol",
-      "person_id": 12663
-    },
-    {
-      "name": "Jon Jon",
-      "person_id": 35195
-    },
-    {
       "name": "Tarzan",
       "person_id": 59796
     },
     {
-      "name": "Owen Gray",
-      "person_id": 39181
+      "name": "Tommy Pistol",
+      "person_id": 12663
     }
   ],
   "release_date": "2016-12-14",

@@ -5,16 +5,16 @@
   "description": "Triumvirate: Soccer Camp 2",
   "models": [
     {
+      "name": "Robert Driveman",
+      "person_id": 29605
+    },
+    {
       "name": "Samuel Crecry",
       "person_id": 29538
     },
     {
       "name": "Sonny Silver",
       "person_id": 29594
-    },
-    {
-      "name": "Robert Driveman",
-      "person_id": 29605
     }
   ],
   "release_date": "2004-01-14",

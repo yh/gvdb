@@ -5,20 +5,20 @@
   "description": "",
   "models": [
     {
-      "name": "George Vidanov",
-      "person_id": 20757
-    },
-    {
-      "name": "Emil Moldovan",
-      "person_id": 20800
-    },
-    {
       "name": "Adam Gosett",
       "person_id": 20781
     },
     {
       "name": "David Moretti",
       "person_id": 20788
+    },
+    {
+      "name": "Emil Moldovan",
+      "person_id": 20800
+    },
+    {
+      "name": "George Vidanov",
+      "person_id": 20757
     },
     {
       "name": "Peter Krisztia",

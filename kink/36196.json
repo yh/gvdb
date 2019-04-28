@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Christian Wilde",
-      "person_id": 21037
-    },
-    {
       "name": "Brock Avery",
       "person_id": 53215
+    },
+    {
+      "name": "Christian Wilde",
+      "person_id": 21037
     },
     {
       "name": "Eli Hunter",

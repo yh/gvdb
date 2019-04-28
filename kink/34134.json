@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Owen Gray",
-      "person_id": 39181
-    },
-    {
       "name": "Kristine Kahill",
       "person_id": 35343
+    },
+    {
+      "name": "Owen Gray",
+      "person_id": 39181
     }
   ],
   "release_date": "2014-01-12",

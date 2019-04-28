@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Slave Fluffy",
-      "person_id": 58760
-    },
-    {
       "name": "Cherry Torn",
       "person_id": 11105
+    },
+    {
+      "name": "Slave Fluffy",
+      "person_id": 58760
     }
   ],
   "release_date": "2016-05-06",

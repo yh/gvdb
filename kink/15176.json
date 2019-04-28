@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Rain DeGrey",
-      "person_id": 16817
-    },
-    {
       "name": "Cherry Torn",
       "person_id": 11105
     },
     {
       "name": "Iona Grace",
       "person_id": 25204
+    },
+    {
+      "name": "Rain DeGrey",
+      "person_id": 16817
     }
   ],
   "release_date": "2011-12-15",

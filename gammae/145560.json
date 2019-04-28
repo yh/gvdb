@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "D Arclyte",
-      "person_id": 51732
-    },
-    {
       "name": "Alex Killian",
       "person_id": 57816
+    },
+    {
+      "name": "D Arclyte",
+      "person_id": 51732
     }
   ],
   "release_date": "2019-03-14",

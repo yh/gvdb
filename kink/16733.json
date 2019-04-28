@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "James Deen",
-      "person_id": 8935
-    },
-    {
       "name": "Charisma Cappelli",
       "person_id": 36230
+    },
+    {
+      "name": "James Deen",
+      "person_id": 8935
     },
     {
       "name": "Princess Donna Dolore",

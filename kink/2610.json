@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nyomi Marcela",
-      "person_id": 6784
-    },
-    {
       "name": "Adrianna Nicole",
       "person_id": 301
+    },
+    {
+      "name": "Nyomi Marcela",
+      "person_id": 6784
     }
   ],
   "release_date": "2005-02-01",

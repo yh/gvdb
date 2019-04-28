@@ -5,12 +5,12 @@
   "description": "When Brad Rock tags Josh Weston, fireworks and spectacular sexual chemistry burn up the screen as the two go at it.",
   "models": [
     {
-      "name": "Josh Weston",
-      "person_id": 11096
-    },
-    {
       "name": "Brad Rock",
       "person_id": 11361
+    },
+    {
+      "name": "Josh Weston",
+      "person_id": 11096
     }
   ],
   "release_date": "2005-10-01",

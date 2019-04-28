@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Dana DeArmond",
+      "person_id": 4498
+    },
+    {
       "name": "Dylan Ryan",
       "person_id": 10069
     },
     {
       "name": "Jenni Lee",
       "person_id": 1358
-    },
-    {
-      "name": "Dana DeArmond",
-      "person_id": 4498
     },
     {
       "name": "Keeani Lei",

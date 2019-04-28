@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Charles Dera",
-      "person_id": 59597
-    },
-    {
       "name": "Carmen Caliente",
       "person_id": 54927
+    },
+    {
+      "name": "Charles Dera",
+      "person_id": 59597
     }
   ],
   "release_date": "2018-09-28",

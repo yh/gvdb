@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Park Wiley",
-      "person_id": 17703
-    },
-    {
       "name": "Diesel Washington",
       "person_id": 18616
+    },
+    {
+      "name": "Park Wiley",
+      "person_id": 17703
     }
   ],
   "release_date": "2009-01-08",

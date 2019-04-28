@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Kayleigh Nichole",
-      "person_id": 61351
-    },
-    {
       "name": "James Kickstand",
       "person_id": 48660
+    },
+    {
+      "name": "Kayleigh Nichole",
+      "person_id": 61351
     }
   ],
   "release_date": "2018-01-11",

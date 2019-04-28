@@ -11,14 +11,6 @@
   ],
   "models": [
     {
-      "name": "Maestro",
-      "person_id": 11928
-    },
-    {
-      "name": "Nerine Mechanique",
-      "person_id": 19851
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
     },
@@ -27,24 +19,32 @@
       "person_id": 11105
     },
     {
-      "name": "Sasha Lexing",
-      "person_id": 17850
-    },
-    {
-      "name": "Sarah Shevon",
-      "person_id": 19605
+      "name": "Maestro",
+      "person_id": 11928
     },
     {
       "name": "Maggie Mayhem",
       "person_id": 19763
     },
     {
-      "name": "Savannah West",
-      "person_id": 19581
+      "name": "Nerine Mechanique",
+      "person_id": 19851
     },
     {
       "name": "Peter",
       "person_id": 7005
+    },
+    {
+      "name": "Sarah Shevon",
+      "person_id": 19605
+    },
+    {
+      "name": "Sasha Lexing",
+      "person_id": 17850
+    },
+    {
+      "name": "Savannah West",
+      "person_id": 19581
     }
   ],
   "release_date": "2013-12-27",

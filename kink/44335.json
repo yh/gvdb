@@ -6,20 +6,20 @@
   "directors": [],
   "models": [
     {
-      "name": "Mugur",
-      "person_id": 33526
+      "name": "Chessie Kay",
+      "person_id": 61882
     },
     {
       "name": "Choky Ice",
       "person_id": 61881
     },
     {
-      "name": "Chessie Kay",
-      "person_id": 61882
-    },
-    {
       "name": "Markus Dupree",
       "person_id": 42128
+    },
+    {
+      "name": "Mugur",
+      "person_id": 33526
     }
   ],
   "release_date": "2019-02-26",

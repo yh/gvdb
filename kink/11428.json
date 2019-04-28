@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tori Lux",
-      "person_id": 26264
-    },
-    {
       "name": "Samantha Sin",
       "person_id": 14640
+    },
+    {
+      "name": "Tori Lux",
+      "person_id": 26264
     }
   ],
   "release_date": "2010-12-31",

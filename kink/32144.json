@@ -11,20 +11,8 @@
   ],
   "models": [
     {
-      "name": "Owen Gray",
-      "person_id": 39181
-    },
-    {
       "name": "Dahlia Sky",
       "person_id": 45819
-    },
-    {
-      "name": "Penny Barber",
-      "person_id": 6664
-    },
-    {
-      "name": "Steven O'Master",
-      "person_id": 34685
     },
     {
       "name": "Mickey Mod",
@@ -33,6 +21,18 @@
     {
       "name": "Nerine Mechanique",
       "person_id": 19851
+    },
+    {
+      "name": "Owen Gray",
+      "person_id": 39181
+    },
+    {
+      "name": "Penny Barber",
+      "person_id": 6664
+    },
+    {
+      "name": "Steven O'Master",
+      "person_id": 34685
     }
   ],
   "release_date": "2013-08-30",

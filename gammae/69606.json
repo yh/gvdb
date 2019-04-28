@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Benn Heights",
-      "person_id": 34511
-    },
-    {
       "name": "Alan Kennedy",
       "person_id": 34997
+    },
+    {
+      "name": "Benn Heights",
+      "person_id": 34511
     }
   ],
   "release_date": "2014-11-24",

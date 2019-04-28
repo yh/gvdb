@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Satine Phoenix",
-      "person_id": 11425
-    },
-    {
       "name": "Maestro",
       "person_id": 11928
+    },
+    {
+      "name": "Satine Phoenix",
+      "person_id": 11425
     }
   ],
   "release_date": "2009-04-24",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Brandy Aniston",
-      "person_id": 44181
-    },
-    {
       "name": "Astral Dust",
       "person_id": 43670
+    },
+    {
+      "name": "Brandy Aniston",
+      "person_id": 44181
     }
   ],
   "release_date": "2012-10-26",

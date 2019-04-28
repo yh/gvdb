@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nina",
-      "person_id": 762
-    },
-    {
       "name": "Maitresse Madeline Marlowe",
       "person_id": 17872
+    },
+    {
+      "name": "Nina",
+      "person_id": 762
     }
   ],
   "release_date": "2009-05-15",

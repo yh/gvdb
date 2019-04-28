@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Tim Taylor",
-      "person_id": 61851
-    },
-    {
       "name": "Oskar",
       "person_id": 61552
+    },
+    {
+      "name": "Tim Taylor",
+      "person_id": 61851
     }
   ],
   "release_date": "2019-01-29",

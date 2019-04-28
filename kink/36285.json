@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dominic Pacifico",
-      "person_id": 14892
-    },
-    {
       "name": "Alexander Gustavo",
       "person_id": 55166
+    },
+    {
+      "name": "Dominic Pacifico",
+      "person_id": 14892
     }
   ],
   "release_date": "2014-11-19",

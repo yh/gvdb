@@ -5,12 +5,12 @@
   "description": "Michael Chads and Rob Cryston go one on one.",
   "models": [
     {
-      "name": "Rob Cryston",
-      "person_id": 11891
-    },
-    {
       "name": "Michael Chads",
       "person_id": 12073
+    },
+    {
+      "name": "Rob Cryston",
+      "person_id": 11891
     }
   ],
   "release_date": "2008-02-01",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jessica Fox",
-      "person_id": 17013
-    },
-    {
       "name": "D. Arclyte",
       "person_id": 59025
+    },
+    {
+      "name": "Jessica Fox",
+      "person_id": 17013
     }
   ],
   "release_date": "2016-07-20",

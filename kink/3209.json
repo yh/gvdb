@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lexi Bardot",
-      "person_id": 10030
-    },
-    {
       "name": "Knox",
       "person_id": 10587
+    },
+    {
+      "name": "Lexi Bardot",
+      "person_id": 10030
     }
   ],
   "release_date": "2005-11-03",

@@ -6,24 +6,24 @@
   "directors": [],
   "models": [
     {
-      "name": "Jon Jon",
-      "person_id": 35195
-    },
-    {
-      "name": "Tarzan",
-      "person_id": 59796
-    },
-    {
-      "name": "John Strong",
-      "person_id": 17050
-    },
-    {
       "name": "Donny Sins",
       "person_id": 55693
     },
     {
       "name": "Ella Nova",
       "person_id": 51866
+    },
+    {
+      "name": "John Strong",
+      "person_id": 17050
+    },
+    {
+      "name": "Jon Jon",
+      "person_id": 35195
+    },
+    {
+      "name": "Tarzan",
+      "person_id": 59796
     }
   ],
   "release_date": "2017-08-09",

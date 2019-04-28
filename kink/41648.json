@@ -6,80 +6,80 @@
   "directors": [],
   "models": [
     {
-      "name": "Jessie Sparkles",
-      "person_id": 27566
-    },
-    {
       "name": "Big Papa",
       "person_id": 60980
-    },
-    {
-      "name": "Megan Amber",
-      "person_id": 60979
-    },
-    {
-      "name": "Ruf Rollin",
-      "person_id": 60978
     },
     {
       "name": "Clown Girl",
       "person_id": 60977
     },
     {
-      "name": "Drillian",
-      "person_id": 60976
-    },
-    {
-      "name": "Juan Nightstand",
-      "person_id": 60975
-    },
-    {
-      "name": "Work Boxx",
-      "person_id": 60973
-    },
-    {
-      "name": "M. Jackalinski",
-      "person_id": 60972
-    },
-    {
-      "name": "Natalie",
-      "person_id": 60971
-    },
-    {
-      "name": "Gasper Johnson",
-      "person_id": 60970
-    },
-    {
-      "name": "Espirro de Gata",
-      "person_id": 60969
+      "name": "Coin Boy",
+      "person_id": 60967
     },
     {
       "name": "Cortessa Von Ness",
       "person_id": 60968
     },
     {
-      "name": "Coin Boy",
-      "person_id": 60967
-    },
-    {
-      "name": "Nina OG",
-      "person_id": 60966
-    },
-    {
-      "name": "Marla Mae",
-      "person_id": 60965
-    },
-    {
-      "name": "Smith Vivienne",
-      "person_id": 60964
+      "name": "Drillian",
+      "person_id": 60976
     },
     {
       "name": "Ellarey",
       "person_id": 60963
     },
     {
+      "name": "Espirro de Gata",
+      "person_id": 60969
+    },
+    {
+      "name": "Gasper Johnson",
+      "person_id": 60970
+    },
+    {
+      "name": "Jessie Sparkles",
+      "person_id": 27566
+    },
+    {
+      "name": "Juan Nightstand",
+      "person_id": 60975
+    },
+    {
+      "name": "M. Jackalinski",
+      "person_id": 60972
+    },
+    {
+      "name": "Marla Mae",
+      "person_id": 60965
+    },
+    {
+      "name": "Megan Amber",
+      "person_id": 60979
+    },
+    {
+      "name": "Natalie",
+      "person_id": 60971
+    },
+    {
       "name": "Nico",
       "person_id": 60962
+    },
+    {
+      "name": "Nina OG",
+      "person_id": 60966
+    },
+    {
+      "name": "Ruf Rollin",
+      "person_id": 60978
+    },
+    {
+      "name": "Smith Vivienne",
+      "person_id": 60964
+    },
+    {
+      "name": "Work Boxx",
+      "person_id": 60973
     }
   ],
   "release_date": "2017-02-01",

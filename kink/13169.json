@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Isis Love",
+      "person_id": 6584
+    },
+    {
       "name": "Marco Banderas",
       "person_id": 27958
     },
     {
       "name": "Trina Michaels",
       "person_id": 16367
-    },
-    {
-      "name": "Isis Love",
-      "person_id": 6584
     }
   ],
   "release_date": "2011-06-07",

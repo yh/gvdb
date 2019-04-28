@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Michael Brandon",
-      "person_id": 19509
-    },
-    {
       "name": "Bret Wolfe",
       "person_id": 19844
+    },
+    {
+      "name": "Michael Brandon",
+      "person_id": 19509
     }
   ],
   "release_date": "2002-01-01",

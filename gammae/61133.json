@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Rich Kelly",
-      "person_id": 31592
-    },
-    {
       "name": "Lucas Allen",
       "person_id": 31917
+    },
+    {
+      "name": "Rich Kelly",
+      "person_id": 31592
     }
   ],
   "release_date": "2013-11-12",

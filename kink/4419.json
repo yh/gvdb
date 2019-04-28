@@ -3,24 +3,19 @@
     "Device Bondage"
   ],
   "description": "Bobbi Starr Live, Part 1\nThis is part one of Bobbi Starr's September Live Show.",
-  "directors": [
-    {
-      "name": "Cyd Black",
-      "person_id": 12661
-    }
-  ],
+  "directors": [],
   "models": [
     {
       "name": "Bobbi Starr",
       "person_id": 11290
     },
     {
-      "name": "Sarah Jane Ceylon",
-      "person_id": 12772
-    },
-    {
       "name": "Kayden Faye",
       "person_id": 15472
+    },
+    {
+      "name": "Sarah Jane Ceylon",
+      "person_id": 12772
     }
   ],
   "release_date": "2007-10-13",

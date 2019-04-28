@@ -11,24 +11,24 @@
   ],
   "models": [
     {
-      "name": "Mr. Pete",
-      "person_id": 16823
-    },
-    {
       "name": "Astral Dust",
       "person_id": 43670
     },
     {
-      "name": "Xander Corvus",
-      "person_id": 46000
+      "name": "Jordan Ash",
+      "person_id": 42543
     },
     {
       "name": "Mahina Zaltana",
       "person_id": 28012
     },
     {
-      "name": "Jordan Ash",
-      "person_id": 42543
+      "name": "Mr. Pete",
+      "person_id": 16823
+    },
+    {
+      "name": "Xander Corvus",
+      "person_id": 46000
     }
   ],
   "release_date": "2013-10-23",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jessica Fox",
-      "person_id": 17013
-    },
-    {
       "name": "Helena Locke",
       "person_id": 59793
+    },
+    {
+      "name": "Jessica Fox",
+      "person_id": 17013
     }
   ],
   "release_date": "2018-08-13",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dia Zerva",
-      "person_id": 16038
-    },
-    {
       "name": "Derrick P.",
       "person_id": 19453
+    },
+    {
+      "name": "Dia Zerva",
+      "person_id": 16038
     }
   ],
   "release_date": "2009-11-25",

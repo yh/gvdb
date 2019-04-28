@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Daphne Klyde",
-      "person_id": 60432
-    },
-    {
       "name": "Ar",
       "person_id": 60282
+    },
+    {
+      "name": "Daphne Klyde",
+      "person_id": 60432
     }
   ],
   "release_date": "2018-09-26",

@@ -11,14 +11,6 @@
   ],
   "models": [
     {
-      "name": "Mia Little",
-      "person_id": 51496
-    },
-    {
-      "name": "Mickey Mod",
-      "person_id": 19623
-    },
-    {
       "name": "Gage Sin",
       "person_id": 53344
     },
@@ -27,12 +19,20 @@
       "person_id": 17050
     },
     {
-      "name": "Mr. Pete",
-      "person_id": 16823
-    },
-    {
       "name": "Karlo Karrera",
       "person_id": 35221
+    },
+    {
+      "name": "Mia Little",
+      "person_id": 51496
+    },
+    {
+      "name": "Mickey Mod",
+      "person_id": 19623
+    },
+    {
+      "name": "Mr. Pete",
+      "person_id": 16823
     }
   ],
   "release_date": "2015-04-29",

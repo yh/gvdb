@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Victoria Pure",
-      "person_id": 61779
-    },
-    {
       "name": "Alex",
       "person_id": 61298
+    },
+    {
+      "name": "Victoria Pure",
+      "person_id": 61779
     }
   ],
   "release_date": "2018-12-05",

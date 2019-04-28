@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Stirling Cooper",
-      "person_id": 61419
-    },
-    {
       "name": "Lola Fae",
       "person_id": 61466
+    },
+    {
+      "name": "Stirling Cooper",
+      "person_id": 61419
     }
   ],
   "release_date": "2018-10-05",

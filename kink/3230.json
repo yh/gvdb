@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Mark Davis",
-      "person_id": 8200
-    },
-    {
       "name": "Annie Cruz",
       "person_id": 7776
     },
     {
       "name": "Joey Ray",
       "person_id": 5938
+    },
+    {
+      "name": "Mark Davis",
+      "person_id": 8200
     }
   ],
   "release_date": "2005-10-28",

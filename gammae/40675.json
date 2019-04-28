@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Langdon King",
-      "person_id": 20871
-    },
-    {
       "name": "Fredy Costa",
       "person_id": 20916
+    },
+    {
+      "name": "Langdon King",
+      "person_id": 20871
     }
   ],
   "release_date": "1998-05-09",

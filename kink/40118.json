@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Vera Drake",
-      "person_id": 55346
-    },
-    {
       "name": "Ramon Nomar",
       "person_id": 35412
+    },
+    {
+      "name": "Vera Drake",
+      "person_id": 55346
     }
   ],
   "release_date": "2016-05-13",

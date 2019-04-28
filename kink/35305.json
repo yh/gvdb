@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jimmy Bullet",
-      "person_id": 52624
-    },
-    {
       "name": "Jay Rising",
       "person_id": 52397
+    },
+    {
+      "name": "Jimmy Bullet",
+      "person_id": 52624
     }
   ],
   "release_date": "2014-06-04",

@@ -11,14 +11,6 @@
   ],
   "models": [
     {
-      "name": "Xander Corvus",
-      "person_id": 46000
-    },
-    {
-      "name": "Jordan Ash",
-      "person_id": 42543
-    },
-    {
       "name": "Astral Dust",
       "person_id": 43670
     },
@@ -31,8 +23,16 @@
       "person_id": 7790
     },
     {
+      "name": "Jordan Ash",
+      "person_id": 42543
+    },
+    {
       "name": "Mia Gold",
       "person_id": 46816
+    },
+    {
+      "name": "Xander Corvus",
+      "person_id": 46000
     }
   ],
   "release_date": "2013-05-22",

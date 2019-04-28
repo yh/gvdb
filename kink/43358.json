@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Colby Jansen",
-      "person_id": 34457
-    },
-    {
       "name": "Casey Everett",
       "person_id": 60450
+    },
+    {
+      "name": "Colby Jansen",
+      "person_id": 34457
     }
   ],
   "release_date": "2018-05-10",

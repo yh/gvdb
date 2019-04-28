@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Angel Allwood",
-      "person_id": 52348
-    },
-    {
       "name": "Andre Shakti",
       "person_id": 43767
     },
     {
-      "name": "Yasmine Loven",
-      "person_id": 37660
+      "name": "Angel Allwood",
+      "person_id": 52348
     },
     {
       "name": "Lisa Tiffian",
       "person_id": 55478
+    },
+    {
+      "name": "Yasmine Loven",
+      "person_id": 37660
     }
   ],
   "release_date": "2015-08-04",

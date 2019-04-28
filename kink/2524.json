@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "shy love",
-      "person_id": 6403
-    },
-    {
       "name": "DannyBoy",
       "person_id": 6711
+    },
+    {
+      "name": "shy love",
+      "person_id": 6403
     }
   ],
   "release_date": "2005-03-03",

@@ -11,8 +11,16 @@
   ],
   "models": [
     {
-      "name": "Milcah Halili",
-      "person_id": 45665
+      "name": "Astral Dust",
+      "person_id": 43670
+    },
+    {
+      "name": "Bradley Remington",
+      "person_id": 56736
+    },
+    {
+      "name": "D Snoop",
+      "person_id": 45545
     },
     {
       "name": "Karlo Karrera",
@@ -23,16 +31,8 @@
       "person_id": 19623
     },
     {
-      "name": "D Snoop",
-      "person_id": 45545
-    },
-    {
-      "name": "Astral Dust",
-      "person_id": 43670
-    },
-    {
-      "name": "Bradley Remington",
-      "person_id": 56736
+      "name": "Milcah Halili",
+      "person_id": 45665
     }
   ],
   "release_date": "2015-07-08",

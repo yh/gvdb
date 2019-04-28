@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Penny Pax",
-      "person_id": 38571
-    },
-    {
       "name": "Bill Bailey",
       "person_id": 46601
+    },
+    {
+      "name": "Penny Pax",
+      "person_id": 38571
     }
   ],
   "release_date": "2015-04-10",

@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Logan McCree",
-      "person_id": 19752
-    },
-    {
       "name": "Enrico Bellagio",
       "person_id": 20982
+    },
+    {
+      "name": "Logan McCree",
+      "person_id": 19752
     },
     {
       "name": "Renato Bellagio",

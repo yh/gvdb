@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lena Kelly",
-      "person_id": 61007
-    },
-    {
       "name": "Arielle Aquinas",
       "person_id": 59748
+    },
+    {
+      "name": "Lena Kelly",
+      "person_id": 61007
     }
   ],
   "release_date": "2019-03-11",

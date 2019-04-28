@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Veruca James",
-      "person_id": 43570
+      "name": "Bella Rossi",
+      "person_id": 18418
     },
     {
       "name": "Mona Wales",
       "person_id": 51511
     },
     {
-      "name": "Bella Rossi",
-      "person_id": 18418
+      "name": "Veruca James",
+      "person_id": 43570
     }
   ],
   "release_date": "2017-09-21",

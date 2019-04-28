@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Mr. Pete",
-      "person_id": 16823
-    },
-    {
       "name": "Casey Calvert",
       "person_id": 36437
     },
     {
       "name": "Dee Williams",
       "person_id": 4197
+    },
+    {
+      "name": "Mr. Pete",
+      "person_id": 16823
     }
   ],
   "release_date": "2016-09-22",

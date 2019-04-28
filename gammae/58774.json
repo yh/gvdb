@@ -5,20 +5,20 @@
   "description": "",
   "models": [
     {
-      "name": "Lance Alexander",
-      "person_id": 20030
-    },
-    {
       "name": "Bradley Hudson",
       "person_id": 20032
     },
     {
-      "name": "Seth Bond",
-      "person_id": 22759
-    },
-    {
       "name": "Justin Owen",
       "person_id": 27616
+    },
+    {
+      "name": "Lance Alexander",
+      "person_id": 20030
+    },
+    {
+      "name": "Seth Bond",
+      "person_id": 22759
     }
   ],
   "release_date": "2013-07-23",

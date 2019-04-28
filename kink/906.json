@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Torque",
-      "person_id": 1327
-    },
-    {
       "name": "Dusty",
       "person_id": 194
+    },
+    {
+      "name": "Torque",
+      "person_id": 1327
     }
   ],
   "release_date": "2003-03-12",

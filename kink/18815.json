@@ -11,16 +11,8 @@
   ],
   "models": [
     {
-      "name": "Sasha Swift",
-      "person_id": 37857
-    },
-    {
-      "name": "Michael Bridalveil",
-      "person_id": 24677
-    },
-    {
-      "name": "Mickey Mod",
-      "person_id": 19623
+      "name": "Bobby Bends",
+      "person_id": 22578
     },
     {
       "name": "Mark Davis",
@@ -31,8 +23,16 @@
       "person_id": 31058
     },
     {
-      "name": "Bobby Bends",
-      "person_id": 22578
+      "name": "Michael Bridalveil",
+      "person_id": 24677
+    },
+    {
+      "name": "Mickey Mod",
+      "person_id": 19623
+    },
+    {
+      "name": "Sasha Swift",
+      "person_id": 37857
     }
   ],
   "release_date": "2013-07-29",

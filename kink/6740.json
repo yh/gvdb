@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Danny Wylde",
-      "person_id": 7790
-    },
-    {
       "name": "Alexis Golden",
       "person_id": 19726
+    },
+    {
+      "name": "Danny Wylde",
+      "person_id": 7790
     }
   ],
   "release_date": "2010-12-12",

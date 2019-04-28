@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Cloe Hart",
-      "person_id": 3204
-    },
-    {
       "name": "Audrey Leigh",
       "person_id": 1587
+    },
+    {
+      "name": "Cloe Hart",
+      "person_id": 3204
     }
   ],
   "release_date": "2004-03-05",

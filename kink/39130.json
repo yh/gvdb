@@ -11,20 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tommy Pistol",
-      "person_id": 12663
-    },
-    {
-      "name": "Daisy Ducati",
-      "person_id": 50939
-    },
-    {
       "name": "Bill Bailey",
       "person_id": 46601
     },
     {
-      "name": "Owen Gray",
-      "person_id": 39181
+      "name": "Daisy Ducati",
+      "person_id": 50939
     },
     {
       "name": "John Johnson",
@@ -33,6 +25,14 @@
     {
       "name": "Marco Banderas",
       "person_id": 27958
+    },
+    {
+      "name": "Owen Gray",
+      "person_id": 39181
+    },
+    {
+      "name": "Tommy Pistol",
+      "person_id": 12663
     }
   ],
   "release_date": "2015-10-28",

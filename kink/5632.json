@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mistress Soleli",
-      "person_id": 12355
-    },
-    {
       "name": "Dietrich Cyrus",
       "person_id": 17649
+    },
+    {
+      "name": "Mistress Soleli",
+      "person_id": 12355
     }
   ],
   "release_date": "2008-10-28",

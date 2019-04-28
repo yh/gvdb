@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lilla Katt",
-      "person_id": 18701
-    },
-    {
       "name": "Krysta Kaos",
       "person_id": 25624
+    },
+    {
+      "name": "Lilla Katt",
+      "person_id": 18701
     }
   ],
   "release_date": "2011-11-09",

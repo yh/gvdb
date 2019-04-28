@@ -11,28 +11,28 @@
   ],
   "models": [
     {
-      "name": "Toni Ribas",
-      "person_id": 38962
-    },
-    {
-      "name": "John Strong",
-      "person_id": 17050
-    },
-    {
-      "name": "Sadie Santana",
-      "person_id": 53272
-    },
-    {
-      "name": "Ramon Nomar",
-      "person_id": 35412
-    },
-    {
       "name": "Astral Dust",
       "person_id": 43670
     },
     {
       "name": "Bill Bailey",
       "person_id": 46601
+    },
+    {
+      "name": "John Strong",
+      "person_id": 17050
+    },
+    {
+      "name": "Ramon Nomar",
+      "person_id": 35412
+    },
+    {
+      "name": "Sadie Santana",
+      "person_id": 53272
+    },
+    {
+      "name": "Toni Ribas",
+      "person_id": 38962
     }
   ],
   "release_date": "2014-05-22",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Yasmine Loven",
-      "person_id": 37660
-    },
-    {
       "name": "Jayogen",
       "person_id": 23291
+    },
+    {
+      "name": "Yasmine Loven",
+      "person_id": 37660
     }
   ],
   "release_date": "2014-08-22",

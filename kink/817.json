@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Summer Cummings",
-      "person_id": 328
-    },
-    {
       "name": "Kym Wilde",
       "person_id": 99
+    },
+    {
+      "name": "Summer Cummings",
+      "person_id": 328
     }
   ],
   "release_date": "2002-11-27",

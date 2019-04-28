@@ -11,48 +11,48 @@
   ],
   "models": [
     {
-      "name": "James Deen",
-      "person_id": 8935
-    },
-    {
-      "name": "Dane Cross",
-      "person_id": 21442
-    },
-    {
-      "name": "Mr. Pete",
-      "person_id": 16823
-    },
-    {
-      "name": "Kaylee Hilton",
-      "person_id": 31754
+      "name": "Chris Ockham",
+      "person_id": 25254
     },
     {
       "name": "Clayra Beau",
       "person_id": 20783
     },
     {
+      "name": "Dane Cross",
+      "person_id": 21442
+    },
+    {
+      "name": "Dietrich Cyrus",
+      "person_id": 17649
+    },
+    {
+      "name": "James Deen",
+      "person_id": 8935
+    },
+    {
       "name": "Jesse Carl",
       "person_id": 29074
     },
     {
-      "name": "Scout",
-      "person_id": 15993
+      "name": "Kaylee Hilton",
+      "person_id": 31754
     },
     {
       "name": "Leo",
       "person_id": 33064
     },
     {
-      "name": "Chris Ockham",
-      "person_id": 25254
+      "name": "Mr. Pete",
+      "person_id": 16823
+    },
+    {
+      "name": "Scout",
+      "person_id": 15993
     },
     {
       "name": "Will Jasper",
       "person_id": 28968
-    },
-    {
-      "name": "Dietrich Cyrus",
-      "person_id": 17649
     }
   ],
   "release_date": "2011-09-07",

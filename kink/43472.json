@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
+      "name": "Brooklyn Daniels",
+      "person_id": 53927
+    },
+    {
       "name": "Isa Mendez",
       "person_id": 53665
     },
     {
       "name": "Lexy Villa",
       "person_id": 53826
-    },
-    {
-      "name": "Brooklyn Daniels",
-      "person_id": 53927
     }
   ],
   "release_date": "2018-05-31",

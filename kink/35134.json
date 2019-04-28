@@ -11,16 +11,8 @@
   ],
   "models": [
     {
-      "name": "Toni Ribas",
-      "person_id": 38962
-    },
-    {
-      "name": "Savannah Fox",
-      "person_id": 47440
-    },
-    {
-      "name": "Mr. Pete",
-      "person_id": 16823
+      "name": "Astral Dust",
+      "person_id": 43670
     },
     {
       "name": "John Strong",
@@ -31,8 +23,16 @@
       "person_id": 27958
     },
     {
-      "name": "Astral Dust",
-      "person_id": 43670
+      "name": "Mr. Pete",
+      "person_id": 16823
+    },
+    {
+      "name": "Savannah Fox",
+      "person_id": 47440
+    },
+    {
+      "name": "Toni Ribas",
+      "person_id": 38962
     }
   ],
   "release_date": "2014-04-23",

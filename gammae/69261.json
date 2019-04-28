@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Rich Kelly",
-      "person_id": 31592
-    },
-    {
       "name": "Benjamin Bronx",
       "person_id": 34885
+    },
+    {
+      "name": "Rich Kelly",
+      "person_id": 31592
     }
   ],
   "release_date": "2014-11-14",

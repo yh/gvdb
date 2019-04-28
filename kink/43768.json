@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Max Ferro",
-      "person_id": 61300
-    },
-    {
       "name": "Joseph Banks",
       "person_id": 61511
+    },
+    {
+      "name": "Max Ferro",
+      "person_id": 61300
     }
   ],
   "release_date": "2018-09-27",

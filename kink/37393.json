@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Scott Harbor",
-      "person_id": 54292
-    },
-    {
       "name": "Christian Wilde",
       "person_id": 21037
+    },
+    {
+      "name": "Scott Harbor",
+      "person_id": 54292
     }
   ],
   "release_date": "2015-03-05",

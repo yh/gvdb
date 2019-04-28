@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Shawn Andrews",
-      "person_id": 57253
-    },
-    {
       "name": "Connor Patricks",
       "person_id": 47357
+    },
+    {
+      "name": "Shawn Andrews",
+      "person_id": 57253
     }
   ],
   "release_date": "2015-07-22",

@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Joe Parker",
-      "person_id": 28044
-    },
-    {
       "name": "Jeremy Stevens",
       "person_id": 31078
+    },
+    {
+      "name": "Joe Parker",
+      "person_id": 28044
     },
     {
       "name": "Matt Stevens",

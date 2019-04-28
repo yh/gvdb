@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Cassandra Cain",
-      "person_id": 60335
-    },
-    {
       "name": "Casey Kisses",
       "person_id": 59560
+    },
+    {
+      "name": "Cassandra Cain",
+      "person_id": 60335
     }
   ],
   "release_date": "2017-12-04",

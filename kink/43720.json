@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
+      "name": "Andy Baxter",
+      "person_id": 60614
+    },
+    {
       "name": "Ashley Rider",
       "person_id": 61453
     },
     {
       "name": "Pascal White",
       "person_id": 60611
-    },
-    {
-      "name": "Andy Baxter",
-      "person_id": 60614
     }
   ],
   "release_date": "2018-08-08",

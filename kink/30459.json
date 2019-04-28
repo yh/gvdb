@@ -11,24 +11,24 @@
   ],
   "models": [
     {
-      "name": "Xander Corvus",
-      "person_id": 46000
-    },
-    {
-      "name": "Jordan Ash",
-      "person_id": 42543
+      "name": "Bill Bailey",
+      "person_id": 46601
     },
     {
       "name": "Danny Wylde",
       "person_id": 7790
     },
     {
-      "name": "Bill Bailey",
-      "person_id": 46601
+      "name": "Jordan Ash",
+      "person_id": 42543
     },
     {
       "name": "Karlo Karrera",
       "person_id": 35221
+    },
+    {
+      "name": "Xander Corvus",
+      "person_id": 46000
     },
     {
       "name": "Zoey Monroe",

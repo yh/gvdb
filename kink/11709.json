@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Riley Vlcek",
-      "person_id": 27642
-    },
-    {
       "name": "Josh West",
       "person_id": 20861
+    },
+    {
+      "name": "Riley Vlcek",
+      "person_id": 27642
     }
   ],
   "release_date": "2011-01-28",

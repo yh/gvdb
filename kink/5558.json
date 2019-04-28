@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Raina Verene",
-      "person_id": 17161
-    },
-    {
       "name": "Princess Donna Dolore",
       "person_id": 5235
+    },
+    {
+      "name": "Raina Verene",
+      "person_id": 17161
     }
   ],
   "release_date": "2008-07-24",

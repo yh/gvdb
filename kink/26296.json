@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Riley James",
-      "person_id": 43038
-    },
-    {
       "name": "Lea Lexis",
       "person_id": 17836
+    },
+    {
+      "name": "Riley James",
+      "person_id": 43038
     }
   ],
   "release_date": "2012-11-01",

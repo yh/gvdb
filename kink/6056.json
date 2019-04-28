@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Rod Barry",
-      "person_id": 17963
-    },
-    {
       "name": "Dak Ramsey",
       "person_id": 18805
+    },
+    {
+      "name": "Rod Barry",
+      "person_id": 17963
     }
   ],
   "release_date": "2009-01-22",

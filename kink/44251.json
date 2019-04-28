@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Puma Swede",
-      "person_id": 10805
-    },
-    {
       "name": "Amy Anderssen",
       "person_id": 61854
+    },
+    {
+      "name": "Puma Swede",
+      "person_id": 10805
     }
   ],
   "release_date": "2019-01-30",

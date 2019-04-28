@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Barbary Rose",
-      "person_id": 54183
-    },
-    {
       "name": "Ariel X",
       "person_id": 10464
+    },
+    {
+      "name": "Barbary Rose",
+      "person_id": 54183
     }
   ],
   "release_date": "2017-02-22",

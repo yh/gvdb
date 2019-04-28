@@ -5,16 +5,16 @@
   "description": "Chromes:Art director Cal Driver has dark-and-hungsome Todd Baron and boyish cute blond Ron Pearson stop up at his penthouse pad for a look at the slides from their recent fashion shoot.  Dissolve to a give 'n take three way with tight-toresoed Ron taking Cal and Todd for all they've got - and that's a lot!",
   "models": [
     {
+      "name": "Cal Driver",
+      "person_id": 12723
+    },
+    {
       "name": "Ron Pearson",
       "person_id": 12345
     },
     {
       "name": "Todd Baron",
       "person_id": 12721
-    },
-    {
-      "name": "Cal Driver",
-      "person_id": 12723
     }
   ],
   "release_date": "2010-07-01",

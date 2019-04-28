@@ -5,12 +5,12 @@
   "description": "Jarvis Chandler is about to learn that Rod Daily does not take competition lightly. Whether it is on the field of play or on the battlefield, Rod takes no prisoners. So when Jarvis turns up out of ammo, Rod is no mood to show him mercy. He treats Jarvis like the no good POW that he is, punishing him for his crimes, and emptying his load of ammo all over Jarvis in this climax to war.Enjoy!",
   "models": [
     {
-      "name": "Rod Daily",
-      "person_id": 9574
-    },
-    {
       "name": "Jarvis Chandler",
       "person_id": 17096
+    },
+    {
+      "name": "Rod Daily",
+      "person_id": 9574
     }
   ],
   "release_date": "2011-09-02",

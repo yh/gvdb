@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Romario Faria",
-      "person_id": 17417
-    },
-    {
       "name": "Dante",
       "person_id": 16797
+    },
+    {
+      "name": "Romario Faria",
+      "person_id": 17417
     }
   ],
   "release_date": "2008-11-27",

@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
+      "name": "Bruno Dickemz",
+      "person_id": 54328
+    },
+    {
       "name": "Callie Calypso",
       "person_id": 54787
     },
     {
       "name": "Marsha May",
       "person_id": 54620
-    },
-    {
-      "name": "Bruno Dickemz",
-      "person_id": 54328
     }
   ],
   "release_date": "2018-12-27",

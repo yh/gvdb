@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Leo Forte",
-      "person_id": 22142
-    },
-    {
       "name": "Derrick Hanson",
       "person_id": 19864
+    },
+    {
+      "name": "Leo Forte",
+      "person_id": 22142
     }
   ],
   "release_date": "2011-03-17",

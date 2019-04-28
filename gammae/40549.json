@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
-      "name": "Pal Szakacs",
-      "person_id": 20773
-    },
-    {
       "name": "Martin Hubai",
       "person_id": 20804
     },
     {
       "name": "Miklos O.",
       "person_id": 20811
+    },
+    {
+      "name": "Pal Szakacs",
+      "person_id": 20773
     }
   ],
   "release_date": "1998-03-21",

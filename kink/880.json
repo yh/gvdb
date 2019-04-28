@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Girlie",
-      "person_id": 609
-    },
-    {
       "name": "Chanta-Rose",
       "person_id": 124
+    },
+    {
+      "name": "Girlie",
+      "person_id": 609
     }
   ],
   "release_date": "2002-11-22",

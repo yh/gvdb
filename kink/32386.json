@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "James Riker",
-      "person_id": 50677
-    },
-    {
       "name": "Gia DiMarco",
       "person_id": 21436
+    },
+    {
+      "name": "James Riker",
+      "person_id": 50677
     }
   ],
   "release_date": "2013-07-24",

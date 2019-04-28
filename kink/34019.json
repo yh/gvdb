@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Luna Light",
-      "person_id": 50848
-    },
-    {
       "name": "Beretta James",
       "person_id": 33659
     },
     {
-      "name": "Lyla Storm",
-      "person_id": 33882
-    },
-    {
       "name": "Juliette March",
       "person_id": 22072
+    },
+    {
+      "name": "Luna Light",
+      "person_id": 50848
+    },
+    {
+      "name": "Lyla Storm",
+      "person_id": 33882
     }
   ],
   "release_date": "2013-12-17",

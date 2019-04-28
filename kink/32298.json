@@ -11,16 +11,12 @@
   ],
   "models": [
     {
-      "name": "Steve Holmes",
-      "person_id": 15810
+      "name": "John Strong",
+      "person_id": 17050
     },
     {
       "name": "Marina Visconti",
       "person_id": 51097
-    },
-    {
-      "name": "John Strong",
-      "person_id": 17050
     },
     {
       "name": "Markus Dupree",
@@ -29,6 +25,10 @@
     {
       "name": "Omar Galanti",
       "person_id": 42129
+    },
+    {
+      "name": "Steve Holmes",
+      "person_id": 15810
     },
     {
       "name": "Yury",

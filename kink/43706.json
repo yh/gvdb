@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Michael DelRay",
-      "person_id": 61138
-    },
-    {
       "name": "Jeremy Spreadums",
       "person_id": 61296
+    },
+    {
+      "name": "Michael DelRay",
+      "person_id": 61138
     }
   ],
   "release_date": "2018-09-20",

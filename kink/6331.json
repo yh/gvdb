@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Adrianna Nicole",
+      "person_id": 301
+    },
+    {
       "name": "Ami Emerson",
       "person_id": 18094
     },
     {
       "name": "Bella Rossi",
       "person_id": 18418
-    },
-    {
-      "name": "Adrianna Nicole",
-      "person_id": 301
     },
     {
       "name": "Hollie Stevens",

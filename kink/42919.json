@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Julia Ann",
-      "person_id": 32896
-    },
-    {
       "name": "Corbin Dallas",
       "person_id": 51921
+    },
+    {
+      "name": "Julia Ann",
+      "person_id": 32896
     }
   ],
   "release_date": "2017-11-22",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jessie Colter",
-      "person_id": 34311
-    },
-    {
       "name": "Christopher Daniels",
       "person_id": 43887
+    },
+    {
+      "name": "Jessie Colter",
+      "person_id": 34311
     },
     {
       "name": "Trenton Ducati",

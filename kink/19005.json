@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Charisma Cappelli",
-      "person_id": 36230
-    },
-    {
       "name": "Chanel Preston",
       "person_id": 26542
+    },
+    {
+      "name": "Charisma Cappelli",
+      "person_id": 36230
     }
   ],
   "release_date": "2012-03-02",

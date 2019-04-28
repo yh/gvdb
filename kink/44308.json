@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Patricia MedicalySado",
-      "person_id": 61767
+      "name": "Actor X",
+      "person_id": 61870
     },
     {
       "name": "Anna",
       "person_id": 61768
     },
     {
-      "name": "Actor X",
-      "person_id": 61870
+      "name": "Patricia MedicalySado",
+      "person_id": 61767
     }
   ],
   "release_date": "2019-02-14",

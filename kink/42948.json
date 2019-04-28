@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Sam Syron",
-      "person_id": 60732
-    },
-    {
       "name": "Casper Ellis",
       "person_id": 60731
+    },
+    {
+      "name": "Sam Syron",
+      "person_id": 60732
     }
   ],
   "release_date": "2017-11-17",

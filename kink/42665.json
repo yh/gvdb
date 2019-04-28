@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Tommy Pistol",
-      "person_id": 12663
-    },
-    {
       "name": "Avi Love",
       "person_id": 60196
     },
     {
       "name": "Lily Lane",
       "person_id": 50199
+    },
+    {
+      "name": "Tommy Pistol",
+      "person_id": 12663
     }
   ],
   "release_date": "2017-11-24",

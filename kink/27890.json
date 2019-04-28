@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Rob Yaeger",
-      "person_id": 45103
-    },
-    {
       "name": "Kevin Case",
       "person_id": 44239
+    },
+    {
+      "name": "Rob Yaeger",
+      "person_id": 45103
     },
     {
       "name": "Spencer Reed",

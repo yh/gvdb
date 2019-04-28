@@ -13,24 +13,24 @@
       "person_id": 11215
     },
     {
-      "name": "Marc Stewart",
-      "person_id": 10840
-    },
-    {
       "name": "Karl Tenner",
       "person_id": 11273
+    },
+    {
+      "name": "Marc Stewart",
+      "person_id": 10840
     },
     {
       "name": "Michael Crawford",
       "person_id": 11032
     },
     {
-      "name": "Spike",
-      "person_id": 11482
-    },
-    {
       "name": "Randy Steers",
       "person_id": 11129
+    },
+    {
+      "name": "Spike",
+      "person_id": 11482
     }
   ],
   "release_date": "2010-07-01",

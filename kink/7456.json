@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Lorelei Lee",
-      "person_id": 758
-    },
-    {
       "name": "Angel Cummings",
       "person_id": 21084
+    },
+    {
+      "name": "Lorelei Lee",
+      "person_id": 758
     }
   ],
   "release_date": "2009-10-15",

@@ -11,24 +11,24 @@
   ],
   "models": [
     {
+      "name": "Audrey Rose",
+      "person_id": 31792
+    },
+    {
       "name": "Bryn Blayne",
       "person_id": 36234
-    },
-    {
-      "name": "Rain DeGrey",
-      "person_id": 16817
-    },
-    {
-      "name": "Izamar Gutierrez",
-      "person_id": 30590
     },
     {
       "name": "Isis Love",
       "person_id": 6584
     },
     {
-      "name": "Audrey Rose",
-      "person_id": 31792
+      "name": "Izamar Gutierrez",
+      "person_id": 30590
+    },
+    {
+      "name": "Rain DeGrey",
+      "person_id": 16817
     }
   ],
   "release_date": "2012-03-06",

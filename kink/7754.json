@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nika Noire",
-      "person_id": 17418
-    },
-    {
       "name": "Ashley Coda",
       "person_id": 21364
+    },
+    {
+      "name": "Nika Noire",
+      "person_id": 17418
     }
   ],
   "release_date": "2009-12-25",

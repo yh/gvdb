@@ -11,20 +11,12 @@
   ],
   "models": [
     {
-      "name": "Xander Corvus",
-      "person_id": 46000
-    },
-    {
-      "name": "Maia Davis",
-      "person_id": 43599
-    },
-    {
       "name": "Astral Dust",
       "person_id": 43670
     },
     {
-      "name": "Nick Jacobs",
-      "person_id": 7833
+      "name": "Maia Davis",
+      "person_id": 43599
     },
     {
       "name": "Mark Davis",
@@ -33,6 +25,14 @@
     {
       "name": "Mark Wood",
       "person_id": 31058
+    },
+    {
+      "name": "Nick Jacobs",
+      "person_id": 7833
+    },
+    {
+      "name": "Xander Corvus",
+      "person_id": 46000
     }
   ],
   "release_date": "2013-05-08",

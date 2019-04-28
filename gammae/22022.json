@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Rick Cassidy",
-      "person_id": 11104
-    },
-    {
       "name": "Jordan West",
       "person_id": 11160
+    },
+    {
+      "name": "Rick Cassidy",
+      "person_id": 11104
     },
     {
       "name": "Trent Black",

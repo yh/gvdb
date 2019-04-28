@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Emma Haize",
-      "person_id": 29618
-    },
-    {
       "name": "Dee Williams",
       "person_id": 4197
+    },
+    {
+      "name": "Emma Haize",
+      "person_id": 29618
     }
   ],
   "release_date": "2014-03-14",

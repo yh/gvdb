@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Ben English",
-      "person_id": 12667
-    },
-    {
       "name": "Aubrey Addams",
       "person_id": 12339
+    },
+    {
+      "name": "Ben English",
+      "person_id": 12667
     }
   ],
   "release_date": "2011-08-04",

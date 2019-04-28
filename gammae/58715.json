@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Hayden Richards",
-      "person_id": 28508
-    },
-    {
       "name": "Eddy Roman",
       "person_id": 31371
+    },
+    {
+      "name": "Hayden Richards",
+      "person_id": 28508
     }
   ],
   "release_date": "2013-07-24",

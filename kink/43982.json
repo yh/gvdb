@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Miss Alyssah",
-      "person_id": 60349
-    },
-    {
       "name": "Goddess Starla",
       "person_id": 52427
+    },
+    {
+      "name": "Miss Alyssah",
+      "person_id": 60349
     }
   ],
   "release_date": "2018-11-08",

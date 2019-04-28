@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Rob Carpenter",
-      "person_id": 57716
-    },
-    {
       "name": "Barbary Rose",
       "person_id": 54183
+    },
+    {
+      "name": "Rob Carpenter",
+      "person_id": 57716
     }
   ],
   "release_date": "2016-02-26",

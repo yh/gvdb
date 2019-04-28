@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Silas O'Hara",
-      "person_id": 46143
-    },
-    {
       "name": "Kirk Cummings",
       "person_id": 44246
+    },
+    {
+      "name": "Silas O'Hara",
+      "person_id": 46143
     }
   ],
   "release_date": "2014-03-19",

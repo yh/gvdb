@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mia Little",
-      "person_id": 51496
-    },
-    {
       "name": "Barbary Rose",
       "person_id": 54183
+    },
+    {
+      "name": "Mia Little",
+      "person_id": 51496
     }
   ],
   "release_date": "2017-06-21",

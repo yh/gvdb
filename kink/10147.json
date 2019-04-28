@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "January Seraph",
-      "person_id": 15846
-    },
-    {
       "name": "Jack Hammer",
       "person_id": 18499
+    },
+    {
+      "name": "January Seraph",
+      "person_id": 15846
     }
   ],
   "release_date": "2010-09-01",

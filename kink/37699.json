@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Roxanne Rae",
-      "person_id": 50987
-    },
-    {
       "name": "Daisy Ducati",
       "person_id": 50939
+    },
+    {
+      "name": "Roxanne Rae",
+      "person_id": 50987
     }
   ],
   "release_date": "2015-03-26",

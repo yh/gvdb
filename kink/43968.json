@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Michael Roman",
-      "person_id": 61574
-    },
-    {
       "name": "Dallas Steele",
       "person_id": 61115
+    },
+    {
+      "name": "Michael Roman",
+      "person_id": 61574
     }
   ],
   "release_date": "2018-12-20",

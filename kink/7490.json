@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Scott Alexander",
-      "person_id": 20961
-    },
-    {
       "name": "CJ",
       "person_id": 12677
+    },
+    {
+      "name": "Scott Alexander",
+      "person_id": 20961
     }
   ],
   "release_date": "2009-11-26",

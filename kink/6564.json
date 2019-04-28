@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Winter Sky",
-      "person_id": 19722
-    },
-    {
       "name": "Ariel X",
       "person_id": 10464
+    },
+    {
+      "name": "Winter Sky",
+      "person_id": 19722
     }
   ],
   "release_date": "2009-05-05",

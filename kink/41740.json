@@ -11,28 +11,28 @@
   ],
   "models": [
     {
-      "name": "Small Hands",
-      "person_id": 59499
+      "name": "Charles Dera",
+      "person_id": 59597
     },
     {
       "name": "Owen Gray",
       "person_id": 39181
     },
     {
-      "name": "Charles Dera",
-      "person_id": 59597
+      "name": "Small Hands",
+      "person_id": 59499
     },
     {
-      "name": "Will Havoc",
-      "person_id": 46285
+      "name": "Tarzan",
+      "person_id": 59796
     },
     {
       "name": "Verta",
       "person_id": 60024
     },
     {
-      "name": "Tarzan",
-      "person_id": 59796
+      "name": "Will Havoc",
+      "person_id": 46285
     }
   ],
   "release_date": "2017-03-22",

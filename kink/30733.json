@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Remy LaCroix",
-      "person_id": 36500
-    },
-    {
       "name": "Mickey Mod",
       "person_id": 19623
+    },
+    {
+      "name": "Remy LaCroix",
+      "person_id": 36500
     }
   ],
   "release_date": "2013-04-05",

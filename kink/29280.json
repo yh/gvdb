@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Samantha Ryan",
-      "person_id": 6323
-    },
-    {
       "name": "Bill Bailey",
       "person_id": 46601
+    },
+    {
+      "name": "Samantha Ryan",
+      "person_id": 6323
     }
   ],
   "release_date": "2013-03-08",

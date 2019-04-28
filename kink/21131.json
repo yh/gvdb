@@ -11,8 +11,8 @@
   ],
   "models": [
     {
-      "name": "Tiffany Doll",
-      "person_id": 40026
+      "name": "Danny Wylde",
+      "person_id": 7790
     },
     {
       "name": "Karlo Karrera",
@@ -23,16 +23,16 @@
       "person_id": 8200
     },
     {
-      "name": "Danny Wylde",
-      "person_id": 7790
-    },
-    {
       "name": "Mickey Mod",
       "person_id": 19623
     },
     {
       "name": "Owen Gray",
       "person_id": 39181
+    },
+    {
+      "name": "Tiffany Doll",
+      "person_id": 40026
     }
   ],
   "release_date": "2012-05-09",

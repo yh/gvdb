@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
+      "name": "Andy Baxter",
+      "person_id": 60614
+    },
+    {
       "name": "Charlie Ten",
       "person_id": 61518
     },
     {
       "name": "Pascal White",
       "person_id": 60611
-    },
-    {
-      "name": "Andy Baxter",
-      "person_id": 60614
     }
   ],
   "release_date": "2018-09-12",

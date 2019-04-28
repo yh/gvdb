@@ -5,12 +5,12 @@
   "description": "BTS Featurette - Surf-Ski Sex featuring Brendan Austen andDamon Bradley (aka Steve Hogan) on location during the shoot.",
   "models": [
     {
-      "name": "Kyle Kirk",
-      "person_id": 20377
-    },
-    {
       "name": "Damon Bradley",
       "person_id": 20380
+    },
+    {
+      "name": "Kyle Kirk",
+      "person_id": 20377
     }
   ],
   "release_date": "2002-07-01",

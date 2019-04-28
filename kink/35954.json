@@ -11,28 +11,28 @@
   ],
   "models": [
     {
-      "name": "Tommy Pistol",
-      "person_id": 12663
-    },
-    {
       "name": "John Strong",
       "person_id": 17050
-    },
-    {
-      "name": "Xander Corvus",
-      "person_id": 46000
-    },
-    {
-      "name": "Roxanne Rae",
-      "person_id": 50987
     },
     {
       "name": "Karlo Karrera",
       "person_id": 35221
     },
     {
+      "name": "Roxanne Rae",
+      "person_id": 50987
+    },
+    {
+      "name": "Tommy Pistol",
+      "person_id": 12663
+    },
+    {
       "name": "Toni Ribas",
       "person_id": 38962
+    },
+    {
+      "name": "Xander Corvus",
+      "person_id": 46000
     }
   ],
   "release_date": "2014-09-03",

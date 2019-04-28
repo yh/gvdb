@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Karol Lilien",
-      "person_id": 60301
-    },
-    {
       "name": "Ar",
       "person_id": 60282
+    },
+    {
+      "name": "Karol Lilien",
+      "person_id": 60301
     }
   ],
   "release_date": "2017-06-21",

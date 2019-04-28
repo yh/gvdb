@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Hal Drake",
-      "person_id": 21853
-    },
-    {
       "name": "Clint Ely",
       "person_id": 21854
+    },
+    {
+      "name": "Hal Drake",
+      "person_id": 21853
     }
   ],
   "release_date": "2001-02-01",

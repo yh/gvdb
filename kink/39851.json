@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Axel Aces",
+      "person_id": 57327
+    },
+    {
       "name": "Dahlia Sky",
       "person_id": 45819
     },
     {
       "name": "Zoey Laine",
       "person_id": 59238
-    },
-    {
-      "name": "Axel Aces",
-      "person_id": 57327
     }
   ],
   "release_date": "2016-06-03",

@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Lucy Belle",
-      "person_id": 18161
-    },
-    {
       "name": "Andy Mann",
       "person_id": 61826
+    },
+    {
+      "name": "Lucy Belle",
+      "person_id": 18161
     },
     {
       "name": "Marc Rose",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sovereign Syre",
-      "person_id": 44486
-    },
-    {
       "name": "Isis Love",
       "person_id": 6584
+    },
+    {
+      "name": "Sovereign Syre",
+      "person_id": 44486
     }
   ],
   "release_date": "2015-01-20",

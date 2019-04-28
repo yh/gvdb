@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Marie Luv",
-      "person_id": 12563
-    },
-    {
       "name": "Kurt Lockwood",
       "person_id": 5422
+    },
+    {
+      "name": "Marie Luv",
+      "person_id": 12563
     }
   ],
   "release_date": "2011-06-06",

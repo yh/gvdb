@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Mona Wales",
-      "person_id": 51511
-    },
-    {
       "name": "Conny Dachs",
       "person_id": 58208
     },
     {
       "name": "Isabella Lui",
       "person_id": 59263
+    },
+    {
+      "name": "Mona Wales",
+      "person_id": 51511
     }
   ],
   "release_date": "2016-02-19",

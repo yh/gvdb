@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Rod Daily",
-      "person_id": 12856
-    },
-    {
       "name": "Kyle King",
       "person_id": 23104
+    },
+    {
+      "name": "Rod Daily",
+      "person_id": 12856
     }
   ],
   "release_date": "2009-09-23",

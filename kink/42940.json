@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Johnny Starlight",
-      "person_id": 60491
-    },
-    {
       "name": "Alexa Nova",
       "person_id": 57359
+    },
+    {
+      "name": "Johnny Starlight",
+      "person_id": 60491
     }
   ],
   "release_date": "2017-12-06",

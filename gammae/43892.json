@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Lawson Kane",
-      "person_id": 19771
-    },
-    {
       "name": "Bryce Star",
       "person_id": 20682
+    },
+    {
+      "name": "Lawson Kane",
+      "person_id": 19771
     }
   ],
   "release_date": "2012-01-01",

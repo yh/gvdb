@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "JoJo Kiss",
-      "person_id": 59258
-    },
-    {
       "name": "Bill Bailey",
       "person_id": 46601
+    },
+    {
+      "name": "JoJo Kiss",
+      "person_id": 59258
     }
   ],
   "release_date": "2016-03-18",

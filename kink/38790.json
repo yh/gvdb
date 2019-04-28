@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Rocco Steele",
-      "person_id": 57575
-    },
-    {
       "name": "Adam Ramzi",
       "person_id": 53722
+    },
+    {
+      "name": "Rocco Steele",
+      "person_id": 57575
     }
   ],
   "release_date": "2015-09-17",

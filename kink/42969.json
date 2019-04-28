@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Bradley Cook",
-      "person_id": 60772
-    },
-    {
       "name": "Borek Sokol",
       "person_id": 60756
+    },
+    {
+      "name": "Bradley Cook",
+      "person_id": 60772
     }
   ],
   "release_date": "2017-11-16",

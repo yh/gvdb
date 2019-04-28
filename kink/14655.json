@@ -15,24 +15,24 @@
       "person_id": 31645
     },
     {
-      "name": "Sofia Lauryn",
-      "person_id": 32617
-    },
-    {
       "name": "Maestro",
       "person_id": 11928
     },
     {
-      "name": "Rozen Debowe",
-      "person_id": 13273
+      "name": "Maestro Stefanos",
+      "person_id": 17148
     },
     {
       "name": "Odile",
       "person_id": 33692
     },
     {
-      "name": "Maestro Stefanos",
-      "person_id": 17148
+      "name": "Rozen Debowe",
+      "person_id": 13273
+    },
+    {
+      "name": "Sofia Lauryn",
+      "person_id": 32617
     }
   ],
   "release_date": "2011-08-12",

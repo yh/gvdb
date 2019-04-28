@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mahina Zaltana",
-      "person_id": 28012
-    },
-    {
       "name": "Dee Williams",
       "person_id": 4197
+    },
+    {
+      "name": "Mahina Zaltana",
+      "person_id": 28012
     }
   ],
   "release_date": "2011-08-12",

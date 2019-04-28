@@ -9,40 +9,40 @@
       "person_id": 35019
     },
     {
-      "name": "Dean",
-      "person_id": 35074
-    },
-    {
-      "name": "Tony",
-      "person_id": 35157
-    },
-    {
       "name": "Cole",
       "person_id": 35020
-    },
-    {
-      "name": "Hoss",
-      "person_id": 35088
-    },
-    {
-      "name": "Ty",
-      "person_id": 35164
-    },
-    {
-      "name": "Twins",
-      "person_id": 35049
-    },
-    {
-      "name": "Luke",
-      "person_id": 35116
     },
     {
       "name": "Colin",
       "person_id": 35064
     },
     {
+      "name": "Dean",
+      "person_id": 35074
+    },
+    {
+      "name": "Hoss",
+      "person_id": 35088
+    },
+    {
+      "name": "Luke",
+      "person_id": 35116
+    },
+    {
       "name": "Tarzan",
       "person_id": 35151
+    },
+    {
+      "name": "Tony",
+      "person_id": 35157
+    },
+    {
+      "name": "Twins",
+      "person_id": 35049
+    },
+    {
+      "name": "Ty",
+      "person_id": 35164
     }
   ],
   "release_date": "2007-12-01",

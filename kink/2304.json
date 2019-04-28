@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Isabella Soprano",
-      "person_id": 6243
-    },
-    {
       "name": "Chanta-Rose",
       "person_id": 124
+    },
+    {
+      "name": "Isabella Soprano",
+      "person_id": 6243
     }
   ],
   "release_date": "2004-10-08",

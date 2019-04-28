@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Penny Barber",
-      "person_id": 6664
-    },
-    {
       "name": "Owen Gray",
       "person_id": 39181
+    },
+    {
+      "name": "Penny Barber",
+      "person_id": 6664
     },
     {
       "name": "Syren de Mer",

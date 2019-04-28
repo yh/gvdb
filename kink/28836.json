@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Serena Blair",
-      "person_id": 31165
-    },
-    {
       "name": "Mz Berlin",
       "person_id": 14228
+    },
+    {
+      "name": "Serena Blair",
+      "person_id": 31165
     }
   ],
   "release_date": "2013-02-15",

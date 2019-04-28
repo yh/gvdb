@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Katy Rose",
-      "person_id": 61795
-    },
-    {
       "name": "Jayden Cox",
       "person_id": 60466
+    },
+    {
+      "name": "Katy Rose",
+      "person_id": 61795
     }
   ],
   "release_date": "2019-01-02",

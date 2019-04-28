@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Radan Flex",
-      "person_id": 61364
-    },
-    {
       "name": "Pidzemellya Hospodynya",
       "person_id": 61363
+    },
+    {
+      "name": "Radan Flex",
+      "person_id": 61364
     }
   ],
   "release_date": "2018-06-14",

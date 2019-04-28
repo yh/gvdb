@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Gianni Luca",
-      "person_id": 20775
-    },
-    {
       "name": "Adonis",
       "person_id": 26680
+    },
+    {
+      "name": "Gianni Luca",
+      "person_id": 20775
     }
   ],
   "release_date": "2012-11-21",

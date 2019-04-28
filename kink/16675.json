@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Katie Summers",
-      "person_id": 21035
-    },
-    {
-      "name": "Serena Blair",
-      "person_id": 31165
-    },
-    {
       "name": "Bryn Blayne",
       "person_id": 36234
     },
     {
       "name": "Holly Heart",
       "person_id": 20472
+    },
+    {
+      "name": "Katie Summers",
+      "person_id": 21035
+    },
+    {
+      "name": "Serena Blair",
+      "person_id": 31165
     }
   ],
   "release_date": "2012-07-24",

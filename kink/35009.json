@@ -11,16 +11,20 @@
   ],
   "models": [
     {
-      "name": "Natasha Starr",
-      "person_id": 47846
+      "name": "Bill Bailey",
+      "person_id": 46601
+    },
+    {
+      "name": "John Strong",
+      "person_id": 17050
     },
     {
       "name": "Mr. Pete",
       "person_id": 16823
     },
     {
-      "name": "John Strong",
-      "person_id": 17050
+      "name": "Natasha Starr",
+      "person_id": 47846
     },
     {
       "name": "Prince Yahshua",
@@ -29,10 +33,6 @@
     {
       "name": "Tommy Pistol",
       "person_id": 12663
-    },
-    {
-      "name": "Bill Bailey",
-      "person_id": 46601
     }
   ],
   "release_date": "2014-05-28",

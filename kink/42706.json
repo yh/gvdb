@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Toni Ribas",
-      "person_id": 38962
-    },
-    {
       "name": "Haley Reed",
       "person_id": 60516
+    },
+    {
+      "name": "Toni Ribas",
+      "person_id": 38962
     }
   ],
   "release_date": "2018-04-06",

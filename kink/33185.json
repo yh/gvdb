@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Hayden Richards",
-      "person_id": 47285
-    },
-    {
       "name": "Brian Bonds",
       "person_id": 33737
+    },
+    {
+      "name": "Hayden Richards",
+      "person_id": 47285
     },
     {
       "name": "Rod Daily",

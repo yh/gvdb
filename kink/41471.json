@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Kristina Rose",
-      "person_id": 20560
-    },
-    {
       "name": "Andre Shakti",
       "person_id": 43767
     },
     {
       "name": "Bella Rossi",
       "person_id": 18418
+    },
+    {
+      "name": "Kristina Rose",
+      "person_id": 20560
     }
   ],
   "release_date": "2017-03-24",

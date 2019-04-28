@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sofia Sanders",
-      "person_id": 45360
-    },
-    {
       "name": "Pierce Paris",
       "person_id": 56974
+    },
+    {
+      "name": "Sofia Sanders",
+      "person_id": 45360
     }
   ],
   "release_date": "2017-07-11",

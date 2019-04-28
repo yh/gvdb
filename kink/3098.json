@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "AnnaBelle Lee",
-      "person_id": 8692
-    },
-    {
       "name": "Alissa Ashley",
       "person_id": 6666
+    },
+    {
+      "name": "AnnaBelle Lee",
+      "person_id": 8692
     }
   ],
   "release_date": "2005-09-13",

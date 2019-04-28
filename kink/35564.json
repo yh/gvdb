@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Scott Cage",
-      "person_id": 53920
-    },
-    {
       "name": "Dakota Wolfe",
       "person_id": 41106
+    },
+    {
+      "name": "Scott Cage",
+      "person_id": 53920
     }
   ],
   "release_date": "2014-06-25",

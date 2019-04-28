@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Siri",
-      "person_id": 42679
-    },
-    {
       "name": "James Deen",
       "person_id": 8935
+    },
+    {
+      "name": "Siri",
+      "person_id": 42679
     }
   ],
   "release_date": "2012-11-16",

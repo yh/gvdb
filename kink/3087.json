@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Justine Joli",
-      "person_id": 8211
-    },
-    {
       "name": "Harmony",
       "person_id": 6341
+    },
+    {
+      "name": "Justine Joli",
+      "person_id": 8211
     },
     {
       "name": "Sativa Rose",

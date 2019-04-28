@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Rick Bauer",
-      "person_id": 20931
-    },
-    {
       "name": "Daniel Paxton",
       "person_id": 20974
+    },
+    {
+      "name": "Rick Bauer",
+      "person_id": 20931
     }
   ],
   "release_date": "1998-04-08",

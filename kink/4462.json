@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Claire Adams",
-      "person_id": 378
-    },
-    {
       "name": "Ariel X",
       "person_id": 10464
     },
     {
       "name": "Calico",
       "person_id": 11592
+    },
+    {
+      "name": "Claire Adams",
+      "person_id": 378
     },
     {
       "name": "Dee Williams",

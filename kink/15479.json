@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Van Darkholme",
-      "person_id": 15862
-    },
-    {
-      "name": "Spencer Reed",
-      "person_id": 19086
+      "name": "Dante",
+      "person_id": 16797
     },
     {
       "name": "Micah Andrews",
       "person_id": 24796
     },
     {
-      "name": "Dante",
-      "person_id": 16797
+      "name": "Spencer Reed",
+      "person_id": 19086
+    },
+    {
+      "name": "Van Darkholme",
+      "person_id": 15862
     }
   ],
   "release_date": "2011-11-24",

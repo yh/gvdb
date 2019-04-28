@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Venus",
-      "person_id": 2302
-    },
-    {
       "name": "Kym Wilde",
       "person_id": 99
+    },
+    {
+      "name": "Venus",
+      "person_id": 2302
     }
   ],
   "release_date": "2004-02-17",

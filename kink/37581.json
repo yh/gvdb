@@ -6,24 +6,24 @@
   "directors": [],
   "models": [
     {
-      "name": "Steve Holmes",
-      "person_id": 15810
+      "name": "Daisy Ducati",
+      "person_id": 50939
     },
     {
       "name": "Jodi Taylor",
       "person_id": 43213
     },
     {
+      "name": "Juliette March",
+      "person_id": 22072
+    },
+    {
       "name": "Karlo Karrera",
       "person_id": 35221
     },
     {
-      "name": "Daisy Ducati",
-      "person_id": 50939
-    },
-    {
-      "name": "Juliette March",
-      "person_id": 22072
+      "name": "Steve Holmes",
+      "person_id": 15810
     }
   ],
   "release_date": "2015-02-27",

@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Omar Galanti",
+      "person_id": 42129
+    },
+    {
       "name": "Savannah Secret",
       "person_id": 50139
     },
     {
       "name": "Steve Holmes",
       "person_id": 15810
-    },
-    {
-      "name": "Omar Galanti",
-      "person_id": 42129
     }
   ],
   "release_date": "2013-05-17",

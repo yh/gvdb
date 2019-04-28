@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
+      "name": "Gummisau",
+      "person_id": 61884
+    },
+    {
       "name": "Krankenschwester Cheyenne",
       "person_id": 61877
     },
     {
       "name": "Krankenschwester Zwei",
       "person_id": 61875
-    },
-    {
-      "name": "Gummisau",
-      "person_id": 61884
     }
   ],
   "release_date": "2019-02-26",

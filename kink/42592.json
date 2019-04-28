@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jonah Fontana",
-      "person_id": 59550
-    },
-    {
       "name": "Damien Moreau",
       "person_id": 51956
+    },
+    {
+      "name": "Jonah Fontana",
+      "person_id": 59550
     }
   ],
   "release_date": "2017-10-05",

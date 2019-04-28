@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Tom Vacarro",
-      "person_id": 19505
-    },
-    {
       "name": "Dean Coulter",
       "person_id": 32037
+    },
+    {
+      "name": "Tom Vacarro",
+      "person_id": 19505
     }
   ],
   "release_date": "2000-08-01",

@@ -5,12 +5,12 @@
   "description": "Trophy room. Win Soldier and Daniel Star",
   "models": [
     {
-      "name": "Win Soldier",
-      "person_id": 22878
-    },
-    {
       "name": "Daniel Star",
       "person_id": 22886
+    },
+    {
+      "name": "Win Soldier",
+      "person_id": 22878
     }
   ],
   "release_date": "1998-06-08",

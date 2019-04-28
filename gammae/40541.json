@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
+      "name": "Ferenc U.",
+      "person_id": 20821
+    },
+    {
       "name": "Fernando Lizalde",
       "person_id": 20759
     },
     {
       "name": "Karoly Hegyes",
       "person_id": 20818
-    },
-    {
-      "name": "Ferenc U.",
-      "person_id": 20821
     }
   ],
   "release_date": "1998-03-16",

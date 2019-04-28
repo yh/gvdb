@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "John Jammen",
-      "person_id": 22596
-    },
-    {
       "name": "Bella Wilde",
       "person_id": 39990
+    },
+    {
+      "name": "John Jammen",
+      "person_id": 22596
     }
   ],
   "release_date": "2014-07-30",

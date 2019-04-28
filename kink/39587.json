@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Rachael Madori",
-      "person_id": 56706
-    },
-    {
       "name": "Mark Davis",
       "person_id": 8200
+    },
+    {
+      "name": "Rachael Madori",
+      "person_id": 56706
     }
   ],
   "release_date": "2016-02-05",

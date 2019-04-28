@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Simon Cox",
-      "person_id": 737
-    },
-    {
       "name": "Mac Masters",
       "person_id": 738
+    },
+    {
+      "name": "Simon Cox",
+      "person_id": 737
     }
   ],
   "release_date": "2003-02-21",

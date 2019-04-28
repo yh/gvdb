@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Marie McCray",
-      "person_id": 20393
-    },
-    {
       "name": "Derrick Pierce",
       "person_id": 14403
+    },
+    {
+      "name": "Marie McCray",
+      "person_id": 20393
     }
   ],
   "release_date": "2011-09-02",

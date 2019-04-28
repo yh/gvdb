@@ -11,8 +11,16 @@
   ],
   "models": [
     {
-      "name": "Zoey Monroe",
-      "person_id": 46520
+      "name": "Gage Sin",
+      "person_id": 53344
+    },
+    {
+      "name": "John Johnson",
+      "person_id": 49204
+    },
+    {
+      "name": "Mark Wood",
+      "person_id": 31058
     },
     {
       "name": "Mr. Pete",
@@ -23,16 +31,8 @@
       "person_id": 39181
     },
     {
-      "name": "Gage Sin",
-      "person_id": 53344
-    },
-    {
-      "name": "Mark Wood",
-      "person_id": 31058
-    },
-    {
-      "name": "John Johnson",
-      "person_id": 49204
+      "name": "Zoey Monroe",
+      "person_id": 46520
     }
   ],
   "release_date": "2015-09-16",

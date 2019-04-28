@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Connor Maguire",
-      "person_id": 46426
-    },
-    {
       "name": "Abel Archer",
       "person_id": 54503
+    },
+    {
+      "name": "Connor Maguire",
+      "person_id": 46426
     }
   ],
   "release_date": "2014-12-11",

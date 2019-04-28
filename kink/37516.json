@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Amanda Tate",
-      "person_id": 51443
-    },
-    {
       "name": "AJ Applegate",
       "person_id": 45997
+    },
+    {
+      "name": "Amanda Tate",
+      "person_id": 51443
     },
     {
       "name": "Mr. Pete",

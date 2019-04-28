@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jessie Cox",
-      "person_id": 18739
-    },
-    {
       "name": "Gia DiMarco",
       "person_id": 21436
+    },
+    {
+      "name": "Jessie Cox",
+      "person_id": 18739
     }
   ],
   "release_date": "2010-05-07",

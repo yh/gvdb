@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Phillip Aubrey",
-      "person_id": 21579
-    },
-    {
       "name": "John Magnum",
       "person_id": 20528
+    },
+    {
+      "name": "Phillip Aubrey",
+      "person_id": 21579
     }
   ],
   "release_date": "2012-07-24",

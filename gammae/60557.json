@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Max Grand",
-      "person_id": 19822
-    },
-    {
       "name": "Eric Michaels",
       "person_id": 21762
+    },
+    {
+      "name": "Max Grand",
+      "person_id": 19822
     }
   ],
   "release_date": "2010-01-01",

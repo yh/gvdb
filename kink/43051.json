@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "JJ Knight",
-      "person_id": 58863
-    },
-    {
       "name": "Angel Cruz",
       "person_id": 60596
+    },
+    {
+      "name": "JJ Knight",
+      "person_id": 58863
     }
   ],
   "release_date": "2017-12-27",

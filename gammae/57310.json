@@ -5,12 +5,12 @@
   "description": "Triumvirate: Cupids",
   "models": [
     {
-      "name": "Steeve Sanders",
-      "person_id": 29460
-    },
-    {
       "name": "Bruno Image",
       "person_id": 29541
+    },
+    {
+      "name": "Steeve Sanders",
+      "person_id": 29460
     }
   ],
   "release_date": "2003-07-09",

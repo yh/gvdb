@@ -5,20 +5,20 @@
   "description": "",
   "models": [
     {
-      "name": "Nick Piston",
-      "person_id": 19515
+      "name": "Duke Rivers",
+      "person_id": 21757
     },
     {
-      "name": "Steve Parker",
-      "person_id": 21720
+      "name": "Nick Piston",
+      "person_id": 19515
     },
     {
       "name": "Steve Cannon",
       "person_id": 21755
     },
     {
-      "name": "Duke Rivers",
-      "person_id": 21757
+      "name": "Steve Parker",
+      "person_id": 21720
     }
   ],
   "release_date": "2003-07-01",

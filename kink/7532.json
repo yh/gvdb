@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tricia Oaks",
-      "person_id": 20505
-    },
-    {
       "name": "Felony",
       "person_id": 17502
+    },
+    {
+      "name": "Tricia Oaks",
+      "person_id": 20505
     }
   ],
   "release_date": "2009-12-11",

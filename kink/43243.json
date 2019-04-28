@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Mr. Chambers",
-      "person_id": 61079
-    },
-    {
       "name": "Baroness Davina Dust",
       "person_id": 61080
+    },
+    {
+      "name": "Mr. Chambers",
+      "person_id": 61079
     }
   ],
   "release_date": "2018-03-01",

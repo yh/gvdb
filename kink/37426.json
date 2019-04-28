@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sovereign Syre",
-      "person_id": 44486
-    },
-    {
       "name": "Daisy Ducati",
       "person_id": 50939
+    },
+    {
+      "name": "Sovereign Syre",
+      "person_id": 44486
     }
   ],
   "release_date": "2015-01-30",

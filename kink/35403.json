@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lily LaBeau",
-      "person_id": 25162
-    },
-    {
       "name": "Bella Rossi",
       "person_id": 18418
+    },
+    {
+      "name": "Lily LaBeau",
+      "person_id": 25162
     }
   ],
   "release_date": "2014-04-25",

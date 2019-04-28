@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Farmer Tom",
-      "person_id": 61420
-    },
-    {
       "name": "B Nefarious",
       "person_id": 52694
+    },
+    {
+      "name": "Farmer Tom",
+      "person_id": 61420
     }
   ],
   "release_date": "2018-08-24",

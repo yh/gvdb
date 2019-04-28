@@ -11,28 +11,28 @@
   ],
   "models": [
     {
+      "name": "Jon Jon",
+      "person_id": 35195
+    },
+    {
       "name": "Juliette March",
       "person_id": 22072
-    },
-    {
-      "name": "Tommy Pistol",
-      "person_id": 12663
-    },
-    {
-      "name": "Mickey Mod",
-      "person_id": 19623
-    },
-    {
-      "name": "Mark Wood",
-      "person_id": 31058
     },
     {
       "name": "Karlo Karrera",
       "person_id": 35221
     },
     {
-      "name": "Jon Jon",
-      "person_id": 35195
+      "name": "Mark Wood",
+      "person_id": 31058
+    },
+    {
+      "name": "Mickey Mod",
+      "person_id": 19623
+    },
+    {
+      "name": "Tommy Pistol",
+      "person_id": 12663
     }
   ],
   "release_date": "2016-02-24",

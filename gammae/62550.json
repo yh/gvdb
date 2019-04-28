@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Drake Jaden",
-      "person_id": 27955
-    },
-    {
       "name": "Brian Bonds",
       "person_id": 28078
+    },
+    {
+      "name": "Drake Jaden",
+      "person_id": 27955
     }
   ],
   "release_date": "2014-01-14",

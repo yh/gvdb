@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Rachael Madori",
-      "person_id": 56706
-    },
-    {
       "name": "Aria Alexander",
       "person_id": 58586
     },
     {
       "name": "Mickey Mod",
       "person_id": 19623
+    },
+    {
+      "name": "Rachael Madori",
+      "person_id": 56706
     }
   ],
   "release_date": "2016-02-12",

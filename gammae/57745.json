@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Ricky Larkin",
-      "person_id": 28464
-    },
-    {
       "name": "Mark Jameson",
       "person_id": 31066
+    },
+    {
+      "name": "Ricky Larkin",
+      "person_id": 28464
     }
   ],
   "release_date": "2013-06-05",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Seda",
-      "person_id": 21745
-    },
-    {
       "name": "Rain DeGrey",
       "person_id": 16817
+    },
+    {
+      "name": "Seda",
+      "person_id": 21745
     }
   ],
   "release_date": "2010-12-20",

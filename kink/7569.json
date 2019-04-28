@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "David Chase",
+      "person_id": 20106
+    },
+    {
       "name": "Jack Hammer",
       "person_id": 18499
     },
     {
       "name": "Maitresse Madeline Marlowe",
       "person_id": 17872
-    },
-    {
-      "name": "David Chase",
-      "person_id": 20106
     }
   ],
   "release_date": "2009-12-25",

@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Mike Dozer",
-      "person_id": 32509
-    },
-    {
       "name": "JR Bronson",
       "person_id": 32510
+    },
+    {
+      "name": "Mike Dozer",
+      "person_id": 32509
     }
   ],
   "release_date": "2013-12-10",

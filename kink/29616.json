@@ -11,10 +11,6 @@
   ],
   "models": [
     {
-      "name": "Lorelei Lee",
-      "person_id": 758
-    },
-    {
       "name": "Juliette March",
       "person_id": 22072
     },
@@ -23,12 +19,16 @@
       "person_id": 35221
     },
     {
-      "name": "Mickey Mod",
-      "person_id": 19623
+      "name": "Lorelei Lee",
+      "person_id": 758
     },
     {
       "name": "Mia Gold",
       "person_id": 46816
+    },
+    {
+      "name": "Mickey Mod",
+      "person_id": 19623
     }
   ],
   "release_date": "2013-04-26",

@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Thomas Williams",
-      "person_id": 20765
-    },
-    {
       "name": "Peter Tapasz",
       "person_id": 20784
+    },
+    {
+      "name": "Thomas Williams",
+      "person_id": 20765
     }
   ],
   "release_date": "1998-03-14",

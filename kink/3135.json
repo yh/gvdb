@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
+      "name": "Benjamin",
+      "person_id": 9201
+    },
+    {
       "name": "Bridgett Harrington",
       "person_id": 4554
     },
     {
       "name": "Sativa Rose",
       "person_id": 8226
-    },
-    {
-      "name": "Benjamin",
-      "person_id": 9201
     }
   ],
   "release_date": "2005-08-11",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Paige Richards",
-      "person_id": 350
-    },
-    {
       "name": "Kym Wilde",
       "person_id": 99
+    },
+    {
+      "name": "Paige Richards",
+      "person_id": 350
     }
   ],
   "release_date": "2003-03-07",

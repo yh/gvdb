@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nina Lawless",
-      "person_id": 52751
-    },
-    {
       "name": "Kassondra Raine",
       "person_id": 57496
+    },
+    {
+      "name": "Nina Lawless",
+      "person_id": 52751
     }
   ],
   "release_date": "2015-04-17",

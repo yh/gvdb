@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Owen Gray",
-      "person_id": 39181
+      "name": "Dane Cross",
+      "person_id": 21442
     },
     {
       "name": "Danny Wylde",
       "person_id": 7790
     },
     {
-      "name": "Dane Cross",
-      "person_id": 21442
-    },
-    {
       "name": "Erik Everhard",
       "person_id": 19759
+    },
+    {
+      "name": "Owen Gray",
+      "person_id": 39181
     },
     {
       "name": "Zarena Summers",

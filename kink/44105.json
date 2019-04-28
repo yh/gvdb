@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Lydia Black",
-      "person_id": 60714
-    },
-    {
       "name": "Ariel X",
       "person_id": 10464
+    },
+    {
+      "name": "Lydia Black",
+      "person_id": 60714
     }
   ],
   "release_date": "2018-12-20",

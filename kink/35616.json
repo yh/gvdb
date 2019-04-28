@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nadia Styles",
-      "person_id": 10823
-    },
-    {
       "name": "Brandon Iron",
       "person_id": 12540
+    },
+    {
+      "name": "Nadia Styles",
+      "person_id": 10823
     }
   ],
   "release_date": "2011-08-04",

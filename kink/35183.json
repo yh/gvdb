@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Richelle Ryan",
-      "person_id": 12887
-    },
-    {
       "name": "Anthony Rosano",
       "person_id": 24418
+    },
+    {
+      "name": "Richelle Ryan",
+      "person_id": 12887
     }
   ],
   "release_date": "2011-06-20",

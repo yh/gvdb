@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Stirling Cooper",
-      "person_id": 61419
-    },
-    {
       "name": "Maya Kendrick",
       "person_id": 60355
     },
     {
       "name": "Sovereign Syre",
       "person_id": 44486
+    },
+    {
+      "name": "Stirling Cooper",
+      "person_id": 61419
     }
   ],
   "release_date": "2019-02-01",

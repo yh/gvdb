@@ -11,28 +11,28 @@
   ],
   "models": [
     {
-      "name": "Van Darkholme",
-      "person_id": 15862
+      "name": "Drake Jaden",
+      "person_id": 19522
     },
     {
-      "name": "Spencer Reed",
-      "person_id": 19086
+      "name": "Nick Moretti",
+      "person_id": 17516
     },
     {
       "name": "Patrick Rouge",
       "person_id": 18939
     },
     {
-      "name": "Drake Jaden",
-      "person_id": 19522
+      "name": "Spencer Reed",
+      "person_id": 19086
     },
     {
       "name": "Tyler Saint",
       "person_id": 17416
     },
     {
-      "name": "Nick Moretti",
-      "person_id": 17516
+      "name": "Van Darkholme",
+      "person_id": 15862
     }
   ],
   "release_date": "2010-02-11",

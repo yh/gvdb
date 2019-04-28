@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Audrey Hollander",
-      "person_id": 11450
-    },
-    {
-      "name": "Katja Kassin",
-      "person_id": 11582
-    },
-    {
       "name": "Ariel X",
       "person_id": 10464
     },
     {
+      "name": "Audrey Hollander",
+      "person_id": 11450
+    },
+    {
       "name": "Katie Summers",
       "person_id": 21035
+    },
+    {
+      "name": "Katja Kassin",
+      "person_id": 11582
     }
   ],
   "release_date": "2013-04-26",

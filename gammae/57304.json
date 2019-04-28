@@ -5,12 +5,12 @@
   "description": "Triumvirate: Sexual Instinct",
   "models": [
     {
-      "name": "Steeve Sanders",
-      "person_id": 29460
-    },
-    {
       "name": "Samuel Crecry",
       "person_id": 29538
+    },
+    {
+      "name": "Steeve Sanders",
+      "person_id": 29460
     }
   ],
   "release_date": "2003-10-01",

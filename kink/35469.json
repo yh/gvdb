@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Milcah Halili",
-      "person_id": 45665
-    },
-    {
       "name": "Mia Little",
       "person_id": 51496
+    },
+    {
+      "name": "Milcah Halili",
+      "person_id": 45665
     }
   ],
   "release_date": "2014-07-11",

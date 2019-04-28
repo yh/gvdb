@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Natassia Dreams",
-      "person_id": 16310
-    },
-    {
       "name": "Ariel Everitts",
       "person_id": 14689
+    },
+    {
+      "name": "Jesse",
+      "person_id": 12790
     },
     {
       "name": "Jessica Host",
@@ -27,8 +27,8 @@
       "person_id": 16229
     },
     {
-      "name": "Jesse",
-      "person_id": 12790
+      "name": "Natassia Dreams",
+      "person_id": 16310
     }
   ],
   "release_date": "2008-11-04",

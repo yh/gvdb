@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sophia Locke",
-      "person_id": 53323
-    },
-    {
       "name": "Cheyenne Jewel",
       "person_id": 22734
+    },
+    {
+      "name": "Sophia Locke",
+      "person_id": 53323
     }
   ],
   "release_date": "2014-08-28",

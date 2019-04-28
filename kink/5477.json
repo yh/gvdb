@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Damon Pierce",
-      "person_id": 10720
-    },
-    {
       "name": "Alexa Jordan",
       "person_id": 15739
+    },
+    {
+      "name": "Damon Pierce",
+      "person_id": 10720
     }
   ],
   "release_date": "2008-06-25",

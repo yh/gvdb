@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Troy Daniels",
-      "person_id": 23354
-    },
-    {
       "name": "Jake Austin",
       "person_id": 25498
+    },
+    {
+      "name": "Troy Daniels",
+      "person_id": 23354
     }
   ],
   "release_date": "2010-10-06",

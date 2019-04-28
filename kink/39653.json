@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lily Lovecraft",
-      "person_id": 59026
-    },
-    {
       "name": "Francesca Le",
       "person_id": 36526
+    },
+    {
+      "name": "Lily Lovecraft",
+      "person_id": 59026
     }
   ],
   "release_date": "2016-03-29",

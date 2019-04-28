@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nomad",
-      "person_id": 11898
-    },
-    {
       "name": "Ms Kim",
       "person_id": 25410
+    },
+    {
+      "name": "Nomad",
+      "person_id": 11898
     }
   ],
   "release_date": "2010-08-18",

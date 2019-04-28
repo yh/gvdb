@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Marica Hase",
-      "person_id": 44408
-    },
-    {
       "name": "Cherry Torn",
       "person_id": 11105
+    },
+    {
+      "name": "Marica Hase",
+      "person_id": 44408
     }
   ],
   "release_date": "2014-05-30",

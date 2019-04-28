@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Parker London",
-      "person_id": 22006
-    },
-    {
       "name": "Brenn Wyson",
       "person_id": 19912
+    },
+    {
+      "name": "Parker London",
+      "person_id": 22006
     }
   ],
   "release_date": "2011-10-27",

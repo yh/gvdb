@@ -9,24 +9,24 @@
       "person_id": 26257
     },
     {
+      "name": "Buck Philips",
+      "person_id": 37466
+    },
+    {
       "name": "Jeff Allen",
       "person_id": 37566
-    },
-    {
-      "name": "Sky Donovan",
-      "person_id": 26259
-    },
-    {
-      "name": "Scott Samson",
-      "person_id": 37568
     },
     {
       "name": "Michael Soldier",
       "person_id": 26380
     },
     {
-      "name": "Buck Philips",
-      "person_id": 37466
+      "name": "Scott Samson",
+      "person_id": 37568
+    },
+    {
+      "name": "Sky Donovan",
+      "person_id": 26259
     }
   ],
   "release_date": "2016-10-27",

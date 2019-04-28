@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Jasmine Webb",
-      "person_id": 61188
-    },
-    {
       "name": "Alexa Andreas",
       "person_id": 61916
+    },
+    {
+      "name": "Jasmine Webb",
+      "person_id": 61188
     },
     {
       "name": "Jay Snakes",

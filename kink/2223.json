@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Faith Leon",
-      "person_id": 5581
-    },
-    {
       "name": "Chanta-Rose",
       "person_id": 124
+    },
+    {
+      "name": "Faith Leon",
+      "person_id": 5581
     }
   ],
   "release_date": "2004-09-02",

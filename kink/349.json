@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Simone",
-      "person_id": 206
-    },
-    {
       "name": "Kym Wilde",
       "person_id": 99
+    },
+    {
+      "name": "Simone",
+      "person_id": 206
     },
     {
       "name": "Trixie",

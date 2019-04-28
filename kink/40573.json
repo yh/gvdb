@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Penny Barber",
-      "person_id": 6664
+      "name": "Izamar Gutierrez",
+      "person_id": 30590
     },
     {
       "name": "Kajira Bound",
       "person_id": 57259
     },
     {
-      "name": "Izamar Gutierrez",
-      "person_id": 30590
-    },
-    {
       "name": "Lisa Tiffian",
       "person_id": 55478
+    },
+    {
+      "name": "Penny Barber",
+      "person_id": 6664
     }
   ],
   "release_date": "2016-07-26",

@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Maya Kendrick",
+      "person_id": 60355
+    },
+    {
       "name": "Small Hands",
       "person_id": 59499
     },
     {
       "name": "Syren de Mer",
       "person_id": 43807
-    },
-    {
-      "name": "Maya Kendrick",
-      "person_id": 60355
     }
   ],
   "release_date": "2017-07-28",

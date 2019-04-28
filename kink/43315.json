@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
+      "name": "Aaron Tanner",
+      "person_id": 268
+    },
+    {
       "name": "Jason Branch",
       "person_id": 61117
     },
     {
       "name": "Steve Ross",
       "person_id": 61118
-    },
-    {
-      "name": "Aaron Tanner",
-      "person_id": 268
     }
   ],
   "release_date": "2018-03-27",

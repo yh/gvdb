@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Koby Fox",
-      "person_id": 24931
-    },
-    {
       "name": "Chad Anderson",
       "person_id": 25932
+    },
+    {
+      "name": "Koby Fox",
+      "person_id": 24931
     }
   ],
   "release_date": "2010-09-29",

@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Jenna Ivory",
-      "person_id": 52755
-    },
-    {
       "name": "James Kickstand",
       "person_id": 48660
+    },
+    {
+      "name": "Jenna Ivory",
+      "person_id": 52755
     }
   ],
   "release_date": "2017-11-16",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Roxanne Hall",
-      "person_id": 6218
-    },
-    {
       "name": "Jamie Brooks",
       "person_id": 6219
+    },
+    {
+      "name": "Roxanne Hall",
+      "person_id": 6218
     }
   ],
   "release_date": "2004-10-13",

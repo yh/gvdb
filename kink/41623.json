@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Seamus O'Reilly",
-      "person_id": 51523
-    },
-    {
       "name": "D. Arclyte",
       "person_id": 59025
+    },
+    {
+      "name": "Seamus O'Reilly",
+      "person_id": 51523
     }
   ],
   "release_date": "2017-02-02",

@@ -11,18 +11,6 @@
   ],
   "models": [
     {
-      "name": "Xander Corvus",
-      "person_id": 46000
-    },
-    {
-      "name": "Penny Jean",
-      "person_id": 51078
-    },
-    {
-      "name": "Tommy Pistol",
-      "person_id": 12663
-    },
-    {
       "name": "Astral Dust",
       "person_id": 43670
     },
@@ -33,6 +21,18 @@
     {
       "name": "John Strong",
       "person_id": 17050
+    },
+    {
+      "name": "Penny Jean",
+      "person_id": 51078
+    },
+    {
+      "name": "Tommy Pistol",
+      "person_id": 12663
+    },
+    {
+      "name": "Xander Corvus",
+      "person_id": 46000
     }
   ],
   "release_date": "2013-08-28",

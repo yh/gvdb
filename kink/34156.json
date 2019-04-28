@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Courtney Taylor",
-      "person_id": 29307
-    },
-    {
       "name": "Bill Bailey",
       "person_id": 46601
+    },
+    {
+      "name": "Courtney Taylor",
+      "person_id": 29307
     }
   ],
   "release_date": "2013-12-13",

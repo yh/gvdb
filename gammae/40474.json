@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Kurt Schwartz",
-      "person_id": 21094
-    },
-    {
       "name": "Franck",
       "person_id": 21100
+    },
+    {
+      "name": "Kurt Schwartz",
+      "person_id": 21094
     }
   ],
   "release_date": "1998-02-16",

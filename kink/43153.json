@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Kylie Rogue",
-      "person_id": 54990
-    },
-    {
       "name": "Bruno Dickemz",
       "person_id": 54328
+    },
+    {
+      "name": "Kylie Rogue",
+      "person_id": 54990
     }
   ],
   "release_date": "2018-03-08",

@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "stevo",
-      "person_id": 12139
-    },
-    {
       "name": "Annie Cruz",
       "person_id": 7776
+    },
+    {
+      "name": "stevo",
+      "person_id": 12139
     }
   ],
   "release_date": "2006-10-11",

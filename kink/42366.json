@@ -11,6 +11,18 @@
   ],
   "models": [
     {
+      "name": "Donny Sins",
+      "person_id": 55693
+    },
+    {
+      "name": "John Johnson",
+      "person_id": 49204
+    },
+    {
+      "name": "Mr. Pete",
+      "person_id": 16823
+    },
+    {
       "name": "Nenetl Avril",
       "person_id": 53654
     },
@@ -21,18 +33,6 @@
     {
       "name": "Will Havoc",
       "person_id": 46285
-    },
-    {
-      "name": "Donny Sins",
-      "person_id": 55693
-    },
-    {
-      "name": "Mr. Pete",
-      "person_id": 16823
-    },
-    {
-      "name": "John Johnson",
-      "person_id": 49204
     }
   ],
   "release_date": "2017-07-12",

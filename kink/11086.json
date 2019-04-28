@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Mark Davis",
-      "person_id": 8200
-    },
-    {
       "name": "Amber Rayne",
       "person_id": 12631
     },
     {
       "name": "Jada Stevens",
       "person_id": 17256
+    },
+    {
+      "name": "Mark Davis",
+      "person_id": 8200
     }
   ],
   "release_date": "2010-12-28",

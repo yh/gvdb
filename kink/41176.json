@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Julia Ann",
-      "person_id": 32896
-    },
-    {
       "name": "Eliza Jane",
       "person_id": 59596
+    },
+    {
+      "name": "Julia Ann",
+      "person_id": 32896
     }
   ],
   "release_date": "2016-12-08",

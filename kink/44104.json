@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Sexy Vanessa",
-      "person_id": 61215
-    },
-    {
       "name": "Jay Crew",
       "person_id": 35066
+    },
+    {
+      "name": "Sexy Vanessa",
+      "person_id": 61215
     }
   ],
   "release_date": "2018-12-19",

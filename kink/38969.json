@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Christian Wilde",
+      "person_id": 21037
+    },
+    {
       "name": "Dee Williams",
       "person_id": 4197
     },
     {
       "name": "John Jammen",
       "person_id": 22596
-    },
-    {
-      "name": "Christian Wilde",
-      "person_id": 21037
     }
   ],
   "release_date": "2016-03-25",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Felony",
-      "person_id": 17502
-    },
-    {
       "name": "Dylan Ryan",
       "person_id": 10069
+    },
+    {
+      "name": "Felony",
+      "person_id": 17502
     }
   ],
   "release_date": "2011-08-12",

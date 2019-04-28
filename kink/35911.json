@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sasha Banks",
-      "person_id": 46429
-    },
-    {
       "name": "Nikki Darling",
       "person_id": 42508
+    },
+    {
+      "name": "Sasha Banks",
+      "person_id": 46429
     },
     {
       "name": "Syd Blakovich",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Micah Brandt",
-      "person_id": 57628
-    },
-    {
       "name": "Jessie Colter",
       "person_id": 34311
+    },
+    {
+      "name": "Micah Brandt",
+      "person_id": 57628
     }
   ],
   "release_date": "2015-08-19",

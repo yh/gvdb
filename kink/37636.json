@@ -11,12 +11,8 @@
   ],
   "models": [
     {
-      "name": "Roxanne Rae",
-      "person_id": 50987
-    },
-    {
-      "name": "Tommy Pistol",
-      "person_id": 12663
+      "name": "Bradley Remington",
+      "person_id": 56736
     },
     {
       "name": "Mickey Mod",
@@ -31,8 +27,12 @@
       "person_id": 39181
     },
     {
-      "name": "Bradley Remington",
-      "person_id": 56736
+      "name": "Roxanne Rae",
+      "person_id": 50987
+    },
+    {
+      "name": "Tommy Pistol",
+      "person_id": 12663
     }
   ],
   "release_date": "2015-04-22",

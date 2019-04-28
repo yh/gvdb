@@ -6,8 +6,40 @@
   "directors": [],
   "models": [
     {
+      "name": "Aiden Starr",
+      "person_id": 11489
+    },
+    {
       "name": "Alexa Nova",
       "person_id": 57359
+    },
+    {
+      "name": "Anna De Ville",
+      "person_id": 59053
+    },
+    {
+      "name": "Casey Calvert",
+      "person_id": 36437
+    },
+    {
+      "name": "Cheyenne Jewel",
+      "person_id": 22734
+    },
+    {
+      "name": "Dana DeArmond",
+      "person_id": 4498
+    },
+    {
+      "name": "Dee Williams",
+      "person_id": 4197
+    },
+    {
+      "name": "Jenna Sativa",
+      "person_id": 57072
+    },
+    {
+      "name": "Kimber Woods",
+      "person_id": 54178
     },
     {
       "name": "London River",
@@ -18,44 +50,12 @@
       "person_id": 44408
     },
     {
-      "name": "Dana DeArmond",
-      "person_id": 4498
-    },
-    {
-      "name": "Casey Calvert",
-      "person_id": 36437
-    },
-    {
-      "name": "Jenna Sativa",
-      "person_id": 57072
-    },
-    {
       "name": "Syren de Mer",
       "person_id": 43807
     },
     {
-      "name": "Dee Williams",
-      "person_id": 4197
-    },
-    {
-      "name": "Aiden Starr",
-      "person_id": 11489
-    },
-    {
-      "name": "Kimber Woods",
-      "person_id": 54178
-    },
-    {
-      "name": "Cheyenne Jewel",
-      "person_id": 22734
-    },
-    {
       "name": "Tori Avano",
       "person_id": 55975
-    },
-    {
-      "name": "Anna De Ville",
-      "person_id": 59053
     }
   ],
   "release_date": "2019-01-25",

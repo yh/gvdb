@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Syd Blakovich",
-      "person_id": 7618
-    },
-    {
       "name": "Jiz Lee",
       "person_id": 19482
     },
     {
-      "name": "Vai",
-      "person_id": 15646
-    },
-    {
       "name": "Princess Donna Dolore",
       "person_id": 5235
+    },
+    {
+      "name": "Syd Blakovich",
+      "person_id": 7618
+    },
+    {
+      "name": "Vai",
+      "person_id": 15646
     }
   ],
   "release_date": "2013-01-13",

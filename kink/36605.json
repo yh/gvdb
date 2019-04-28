@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Ramon Nomar",
-      "person_id": 35412
-    },
-    {
       "name": "Christie Stevens",
       "person_id": 44270
     },
     {
       "name": "Kasey Warner",
       "person_id": 56865
+    },
+    {
+      "name": "Ramon Nomar",
+      "person_id": 35412
     }
   ],
   "release_date": "2015-01-23",

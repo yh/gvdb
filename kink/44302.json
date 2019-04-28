@@ -10,12 +10,12 @@
       "person_id": 61815
     },
     {
-      "name": "Slave Lance",
-      "person_id": 61801
-    },
-    {
       "name": "Slave",
       "person_id": 61867
+    },
+    {
+      "name": "Slave Lance",
+      "person_id": 61801
     }
   ],
   "release_date": "2019-02-15",

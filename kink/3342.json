@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Sir C",
-      "person_id": 10946
-    },
-    {
       "name": "Danny Wylde",
       "person_id": 7790
     },
     {
       "name": "Penny Flame",
       "person_id": 6345
+    },
+    {
+      "name": "Sir C",
+      "person_id": 10946
     }
   ],
   "release_date": "2006-01-25",

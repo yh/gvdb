@@ -11,16 +11,12 @@
   ],
   "models": [
     {
-      "name": "Ramon Nomar",
-      "person_id": 35412
+      "name": "Astral Dust",
+      "person_id": 43670
     },
     {
       "name": "Casey Calvert",
       "person_id": 36437
-    },
-    {
-      "name": "Astral Dust",
-      "person_id": 43670
     },
     {
       "name": "John Strong",
@@ -29,6 +25,10 @@
     {
       "name": "Prince Yahshua",
       "person_id": 38513
+    },
+    {
+      "name": "Ramon Nomar",
+      "person_id": 35412
     }
   ],
   "release_date": "2014-02-12",

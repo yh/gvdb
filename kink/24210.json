@@ -11,6 +11,14 @@
   ],
   "models": [
     {
+      "name": "Astral Dust",
+      "person_id": 43670
+    },
+    {
+      "name": "Mark Davis",
+      "person_id": 8200
+    },
+    {
       "name": "Melody Jordan",
       "person_id": 42188
     },
@@ -19,16 +27,8 @@
       "person_id": 16823
     },
     {
-      "name": "Mark Davis",
-      "person_id": 8200
-    },
-    {
       "name": "Owen Gray",
       "person_id": 39181
-    },
-    {
-      "name": "Astral Dust",
-      "person_id": 43670
     },
     {
       "name": "Rob Blu",

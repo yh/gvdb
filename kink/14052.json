@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Leo Forte",
-      "person_id": 22142
-    },
-    {
-      "name": "Sebastian Keys",
-      "person_id": 20316
-    },
-    {
       "name": "Alessio Romero",
       "person_id": 20463
     },
     {
+      "name": "Leo Forte",
+      "person_id": 22142
+    },
+    {
       "name": "Paul Wagner",
       "person_id": 21443
+    },
+    {
+      "name": "Sebastian Keys",
+      "person_id": 20316
     }
   ],
   "release_date": "2011-09-07",

@@ -5,12 +5,8 @@
   "description": "",
   "models": [
     {
-      "name": "Johan Reves",
-      "person_id": 20911
-    },
-    {
-      "name": "Marius Reves",
-      "person_id": 21097
+      "name": "Carlo",
+      "person_id": 21101
     },
     {
       "name": "Colby Tavers",
@@ -21,12 +17,16 @@
       "person_id": 21100
     },
     {
-      "name": "Peter Tomanek",
-      "person_id": 21095
+      "name": "Johan Reves",
+      "person_id": 20911
     },
     {
-      "name": "Carlo",
-      "person_id": 21101
+      "name": "Marius Reves",
+      "person_id": 21097
+    },
+    {
+      "name": "Peter Tomanek",
+      "person_id": 21095
     },
     {
       "name": "Serge Istavan",

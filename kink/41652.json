@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Xander Corvus",
-      "person_id": 46000
-    },
-    {
       "name": "Holly Hendrix",
       "person_id": 58890
     },
     {
       "name": "Syren de Mer",
       "person_id": 43807
+    },
+    {
+      "name": "Xander Corvus",
+      "person_id": 46000
     }
   ],
   "release_date": "2017-06-13",

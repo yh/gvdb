@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Krissy Lynn",
-      "person_id": 19730
-    },
-    {
       "name": "Dana DeArmond",
       "person_id": 4498
+    },
+    {
+      "name": "Krissy Lynn",
+      "person_id": 19730
     }
   ],
   "release_date": "2014-11-11",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Delirious Hunter",
-      "person_id": 56555
-    },
-    {
       "name": "DJ",
       "person_id": 20225
+    },
+    {
+      "name": "Delirious Hunter",
+      "person_id": 56555
     }
   ],
   "release_date": "2018-04-24",

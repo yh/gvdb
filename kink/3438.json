@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Hollie Stevens",
-      "person_id": 1572
-    },
-    {
       "name": "Dee Williams",
       "person_id": 4197
+    },
+    {
+      "name": "Hollie Stevens",
+      "person_id": 1572
     }
   ],
   "release_date": "2006-02-28",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sparky Sin Claire",
-      "person_id": 29494
-    },
-    {
       "name": "Mickey Mod",
       "person_id": 19623
+    },
+    {
+      "name": "Sparky Sin Claire",
+      "person_id": 29494
     }
   ],
   "release_date": "2013-06-21",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mitch Vaughn",
-      "person_id": 35274
-    },
-    {
       "name": "Leo Forte",
       "person_id": 22142
+    },
+    {
+      "name": "Mitch Vaughn",
+      "person_id": 35274
     }
   ],
   "release_date": "2014-10-15",

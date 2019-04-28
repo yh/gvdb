@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
+      "name": "Deacon Hunter",
+      "person_id": 60375
+    },
+    {
       "name": "Reece Bentley",
       "person_id": 60371
     },
     {
       "name": "Sebastian Kane",
       "person_id": 60373
-    },
-    {
-      "name": "Deacon Hunter",
-      "person_id": 60375
     }
   ],
   "release_date": "2017-07-25",

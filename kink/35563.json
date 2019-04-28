@@ -11,20 +11,20 @@
   ],
   "models": [
     {
-      "name": "Van Darkholme",
-      "person_id": 15862
-    },
-    {
-      "name": "Trenton Ducati",
-      "person_id": 42630
+      "name": "Brock Avery",
+      "person_id": 53215
     },
     {
       "name": "Damien Moreau",
       "person_id": 51956
     },
     {
-      "name": "Brock Avery",
-      "person_id": 53215
+      "name": "Trenton Ducati",
+      "person_id": 42630
+    },
+    {
+      "name": "Van Darkholme",
+      "person_id": 15862
     }
   ],
   "release_date": "2014-06-19",

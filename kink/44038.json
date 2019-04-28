@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Helena Locke",
-      "person_id": 59793
-    },
-    {
       "name": "D. Arclyte",
       "person_id": 59025
+    },
+    {
+      "name": "Helena Locke",
+      "person_id": 59793
     }
   ],
   "release_date": "2018-12-04",

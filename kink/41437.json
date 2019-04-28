@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Marley Blaze",
-      "person_id": 52421
-    },
-    {
       "name": "John Pepe",
       "person_id": 61343
+    },
+    {
+      "name": "Marley Blaze",
+      "person_id": 52421
     }
   ],
   "release_date": "2017-08-01",

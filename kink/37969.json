@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lana Knight",
-      "person_id": 56348
-    },
-    {
       "name": "Damien Moreau",
       "person_id": 51956
+    },
+    {
+      "name": "Lana Knight",
+      "person_id": 56348
     }
   ],
   "release_date": "2015-05-13",

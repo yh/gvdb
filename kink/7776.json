@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "John Strong",
-      "person_id": 17050
-    },
-    {
       "name": "Amber Rayne",
       "person_id": 12631
+    },
+    {
+      "name": "John Strong",
+      "person_id": 17050
     }
   ],
   "release_date": "2010-01-29",

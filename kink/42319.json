@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Trey Turner",
-      "person_id": 20020
-    },
-    {
       "name": "Brian Bonds",
       "person_id": 33737
+    },
+    {
+      "name": "Trey Turner",
+      "person_id": 20020
     }
   ],
   "release_date": "2017-05-19",

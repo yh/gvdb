@@ -6,24 +6,24 @@
   "directors": [],
   "models": [
     {
-      "name": "Toni Ribas",
-      "person_id": 38962
+      "name": "Mr. Pete",
+      "person_id": 16823
     },
     {
       "name": "Rachael Madori",
       "person_id": 56706
     },
     {
-      "name": "Mr. Pete",
-      "person_id": 16823
+      "name": "Ramon Nomar",
+      "person_id": 35412
     },
     {
       "name": "Tommy Pistol",
       "person_id": 12663
     },
     {
-      "name": "Ramon Nomar",
-      "person_id": 35412
+      "name": "Toni Ribas",
+      "person_id": 38962
     }
   ],
   "release_date": "2018-09-28",

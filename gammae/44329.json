@@ -5,12 +5,12 @@
   "description": "Ray Diaz and James Ryder suck each other off.",
   "models": [
     {
-      "name": "Ray Diaz",
-      "person_id": 22355
-    },
-    {
       "name": "James Ryder",
       "person_id": 22818
+    },
+    {
+      "name": "Ray Diaz",
+      "person_id": 22355
     }
   ],
   "release_date": "2012-10-29",

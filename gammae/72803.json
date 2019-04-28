@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Morgan Shades",
-      "person_id": 28048
-    },
-    {
       "name": "Bryan Cole",
       "person_id": 35465
+    },
+    {
+      "name": "Morgan Shades",
+      "person_id": 28048
     }
   ],
   "release_date": "2015-03-04",

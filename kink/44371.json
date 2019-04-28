@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Michael DelRay",
-      "person_id": 61138
-    },
-    {
       "name": "Alex Mecum",
       "person_id": 59595
+    },
+    {
+      "name": "Michael DelRay",
+      "person_id": 61138
     }
   ],
   "release_date": "2019-03-21",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Troy Daniels",
-      "person_id": 23354
-    },
-    {
       "name": "Cliff Jensen",
       "person_id": 29792
+    },
+    {
+      "name": "Troy Daniels",
+      "person_id": 23354
     }
   ],
   "release_date": "2011-02-24",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Tricia Oaks",
-      "person_id": 20505
-    },
-    {
       "name": "Claire Adams",
       "person_id": 378
+    },
+    {
+      "name": "Tricia Oaks",
+      "person_id": 20505
     }
   ],
   "release_date": "2012-10-12",

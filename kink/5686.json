@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Dia Zerva",
-      "person_id": 16038
-    },
-    {
       "name": "Ariel X",
       "person_id": 10464
+    },
+    {
+      "name": "Dia Zerva",
+      "person_id": 16038
     }
   ],
   "release_date": "2008-08-26",

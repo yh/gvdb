@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Sonya",
-      "person_id": 2180
-    },
-    {
       "name": "Cloe Hart",
       "person_id": 3204
+    },
+    {
+      "name": "Sonya",
+      "person_id": 2180
     }
   ],
   "release_date": "2003-12-25",

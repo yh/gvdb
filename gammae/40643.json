@@ -5,16 +5,16 @@
   "description": "",
   "models": [
     {
-      "name": "Martin Hubai",
-      "person_id": 20804
+      "name": "Claudio Antonelli",
+      "person_id": 20919
+    },
+    {
+      "name": "Enrique Gardinelli",
+      "person_id": 20915
     },
     {
       "name": "Fredy Costa",
       "person_id": 20916
-    },
-    {
-      "name": "Rod Stevans",
-      "person_id": 20920
     },
     {
       "name": "Garrett Felado",
@@ -25,24 +25,24 @@
       "person_id": 20917
     },
     {
-      "name": "Lucio Maverick",
-      "person_id": 20921
-    },
-    {
-      "name": "Zeno Alexander",
-      "person_id": 20914
-    },
-    {
       "name": "Julian Vincenzo",
       "person_id": 20918
     },
     {
-      "name": "Enrique Gardinelli",
-      "person_id": 20915
+      "name": "Lucio Maverick",
+      "person_id": 20921
     },
     {
-      "name": "Claudio Antonelli",
-      "person_id": 20919
+      "name": "Martin Hubai",
+      "person_id": 20804
+    },
+    {
+      "name": "Rod Stevans",
+      "person_id": 20920
+    },
+    {
+      "name": "Zeno Alexander",
+      "person_id": 20914
     }
   ],
   "release_date": "1998-04-27",

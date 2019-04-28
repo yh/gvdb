@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Freya Wynn",
-      "person_id": 54580
-    },
-    {
       "name": "Angel Allwood",
       "person_id": 52348
+    },
+    {
+      "name": "Freya Wynn",
+      "person_id": 54580
     }
   ],
   "release_date": "2016-02-12",

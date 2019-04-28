@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Steven Ponce",
-      "person_id": 27969
-    },
-    {
       "name": "Lance Hart",
       "person_id": 31953
+    },
+    {
+      "name": "Steven Ponce",
+      "person_id": 27969
     }
   ],
   "release_date": "2013-10-08",

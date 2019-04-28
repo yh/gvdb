@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Sasha Sparks",
-      "person_id": 4139
-    },
-    {
       "name": "Chanta-Rose",
       "person_id": 124
+    },
+    {
+      "name": "Sasha Sparks",
+      "person_id": 4139
     }
   ],
   "release_date": "2004-04-02",

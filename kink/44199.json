@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Lilly Ligotage",
-      "person_id": 55115
-    },
-    {
       "name": "Erix X",
       "person_id": 61479
+    },
+    {
+      "name": "Lilly Ligotage",
+      "person_id": 55115
     }
   ],
   "release_date": "2019-01-10",

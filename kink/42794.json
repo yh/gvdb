@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
-      "name": "Vicky",
-      "person_id": 60549
+      "name": "Andy West",
+      "person_id": 60550
     },
     {
       "name": "Sally",
       "person_id": 60529
     },
     {
-      "name": "Andy West",
-      "person_id": 60550
+      "name": "Vicky",
+      "person_id": 60549
     }
   ],
   "release_date": "2017-12-14",

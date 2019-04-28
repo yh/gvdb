@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Safari",
-      "person_id": 16500
-    },
-    {
       "name": "Madison Young",
       "person_id": 2674
+    },
+    {
+      "name": "Safari",
+      "person_id": 16500
     }
   ],
   "release_date": "2008-06-17",

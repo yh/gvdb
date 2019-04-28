@@ -5,24 +5,24 @@
   "description": "Triumvirate: Sexual Instinct",
   "models": [
     {
-      "name": "Steeve Sanders",
-      "person_id": 29460
+      "name": "Bruno Image",
+      "person_id": 29541
+    },
+    {
+      "name": "Leo Skala",
+      "person_id": 29653
     },
     {
       "name": "Lucky Smile",
       "person_id": 29604
     },
     {
-      "name": "Michael Sunny",
-      "person_id": 29528
-    },
-    {
       "name": "M.R. Luky",
       "person_id": 29651
     },
     {
-      "name": "Bruno Image",
-      "person_id": 29541
+      "name": "Michael Sunny",
+      "person_id": 29528
     },
     {
       "name": "Micky Moon",
@@ -33,8 +33,8 @@
       "person_id": 29600
     },
     {
-      "name": "Leo Skala",
-      "person_id": 29653
+      "name": "Steeve Sanders",
+      "person_id": 29460
     }
   ],
   "release_date": "2003-10-01",

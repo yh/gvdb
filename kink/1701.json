@@ -6,16 +6,16 @@
   "directors": [],
   "models": [
     {
+      "name": "Emma Hui",
+      "person_id": 4555
+    },
+    {
       "name": "Erika Kole",
       "person_id": 3738
     },
     {
       "name": "Sgt. Major",
       "person_id": 4556
-    },
-    {
-      "name": "Emma Hui",
-      "person_id": 4555
     }
   ],
   "release_date": "2004-03-26",

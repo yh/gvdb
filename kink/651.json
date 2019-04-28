@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Summer Cummings",
-      "person_id": 328
-    },
-    {
       "name": "Cowgirl",
       "person_id": 110
     },
     {
       "name": "Kendra James",
       "person_id": 247
+    },
+    {
+      "name": "Summer Cummings",
+      "person_id": 328
     }
   ],
   "release_date": "2002-08-09",

@@ -11,6 +11,10 @@
   ],
   "models": [
     {
+      "name": "Audrey Rose",
+      "person_id": 31792
+    },
+    {
       "name": "Cheyenne Jewel",
       "person_id": 22734
     },
@@ -19,16 +23,12 @@
       "person_id": 4197
     },
     {
-      "name": "Audrey Rose",
-      "person_id": 31792
+      "name": "Penny Barber",
+      "person_id": 6664
     },
     {
       "name": "Syd Blakovich",
       "person_id": 7618
-    },
-    {
-      "name": "Penny Barber",
-      "person_id": 6664
     }
   ],
   "release_date": "2013-04-16",

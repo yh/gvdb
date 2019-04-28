@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lainey",
-      "person_id": 518
-    },
-    {
       "name": "Chanta-Rose",
       "person_id": 124
+    },
+    {
+      "name": "Lainey",
+      "person_id": 518
     }
   ],
   "release_date": "2003-04-11",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Rizzo Ford",
-      "person_id": 56943
-    },
-    {
       "name": "Daisy Ducati",
       "person_id": 50939
+    },
+    {
+      "name": "Rizzo Ford",
+      "person_id": 56943
     }
   ],
   "release_date": "2016-05-19",

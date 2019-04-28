@@ -11,6 +11,14 @@
   ],
   "models": [
     {
+      "name": "Astral Dust",
+      "person_id": 43670
+    },
+    {
+      "name": "Gage Sin",
+      "person_id": 53344
+    },
+    {
       "name": "Holly Hendrix",
       "person_id": 58890
     },
@@ -19,16 +27,8 @@
       "person_id": 16823
     },
     {
-      "name": "Gage Sin",
-      "person_id": 53344
-    },
-    {
       "name": "Small Hands",
       "person_id": 59499
-    },
-    {
-      "name": "Astral Dust",
-      "person_id": 43670
     },
     {
       "name": "Tommy Pistol",

@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Rizzo Ford",
-      "person_id": 56943
-    },
-    {
       "name": "Ariel X",
       "person_id": 10464
     },
     {
       "name": "London River",
       "person_id": 56590
+    },
+    {
+      "name": "Rizzo Ford",
+      "person_id": 56943
     }
   ],
   "release_date": "2017-09-27",

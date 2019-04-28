@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Lola",
-      "person_id": 6034
-    },
-    {
       "name": "Audrey Leigh",
       "person_id": 1587
+    },
+    {
+      "name": "Lola",
+      "person_id": 6034
     }
   ],
   "release_date": "2004-10-21",

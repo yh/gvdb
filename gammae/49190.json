@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Joe Parker",
-      "person_id": 28044
-    },
-    {
       "name": "Alex Adams",
       "person_id": 28090
+    },
+    {
+      "name": "Joe Parker",
+      "person_id": 28044
     }
   ],
   "release_date": "2013-02-05",

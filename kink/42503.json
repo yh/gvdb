@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Dolan Wolf",
-      "person_id": 60312
-    },
-    {
       "name": "Cole Money",
       "person_id": 60305
+    },
+    {
+      "name": "Dolan Wolf",
+      "person_id": 60312
     },
     {
       "name": "Rich",

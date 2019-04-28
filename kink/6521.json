@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Mr. Pete",
-      "person_id": 16823
+      "name": "Bella Rossi",
+      "person_id": 18418
     },
     {
       "name": "Mason Moore",
       "person_id": 19829
     },
     {
-      "name": "Bella Rossi",
-      "person_id": 18418
+      "name": "Mr. Pete",
+      "person_id": 16823
     }
   ],
   "release_date": "2009-05-15",

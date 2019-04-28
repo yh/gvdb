@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Abella Danger",
+      "person_id": 56157
+    },
+    {
       "name": "Bill Bailey",
       "person_id": 46601
     },
     {
       "name": "Dee Williams",
       "person_id": 4197
-    },
-    {
-      "name": "Abella Danger",
-      "person_id": 56157
     }
   ],
   "release_date": "2015-01-09",

@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Cheyenne Jewel",
-      "person_id": 22734
-    },
-    {
       "name": "Bobbi Dylan",
       "person_id": 59345
+    },
+    {
+      "name": "Cheyenne Jewel",
+      "person_id": 22734
     }
   ],
   "release_date": "2017-11-08",

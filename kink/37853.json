@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Addison Ryder",
+      "person_id": 57211
+    },
+    {
       "name": "Ramon Nomar",
       "person_id": 35412
     },
     {
       "name": "Simone Sonay",
       "person_id": 34687
-    },
-    {
-      "name": "Addison Ryder",
-      "person_id": 57211
     }
   ],
   "release_date": "2015-05-22",

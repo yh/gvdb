@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Jordan Boss",
-      "person_id": 59434
-    },
-    {
       "name": "Jett Jax",
       "person_id": 50996
+    },
+    {
+      "name": "Jordan Boss",
+      "person_id": 59434
     }
   ],
   "release_date": "2017-01-05",

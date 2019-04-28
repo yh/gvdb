@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Nathan Bronson",
-      "person_id": 58786
-    },
-    {
       "name": "Mona Wales",
       "person_id": 51511
+    },
+    {
+      "name": "Nathan Bronson",
+      "person_id": 58786
     }
   ],
   "release_date": "2015-12-04",

@@ -6,12 +6,12 @@
   "directors": [],
   "models": [
     {
-      "name": "Seda",
-      "person_id": 21745
-    },
-    {
       "name": "Lorelei Lee",
       "person_id": 758
+    },
+    {
+      "name": "Seda",
+      "person_id": 21745
     }
   ],
   "release_date": "2010-01-07",

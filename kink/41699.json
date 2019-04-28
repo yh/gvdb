@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mistress Kara",
-      "person_id": 19043
-    },
-    {
       "name": "Barbary Rose",
       "person_id": 54183
+    },
+    {
+      "name": "Mistress Kara",
+      "person_id": 19043
     }
   ],
   "release_date": "2017-05-18",

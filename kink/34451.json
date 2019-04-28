@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "David Lane",
-      "person_id": 52133
-    },
-    {
       "name": "Cherry Torn",
       "person_id": 11105
+    },
+    {
+      "name": "David Lane",
+      "person_id": 52133
     }
   ],
   "release_date": "2013-12-27",

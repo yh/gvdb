@@ -11,16 +11,16 @@
   ],
   "models": [
     {
+      "name": "Katharine Cane",
+      "person_id": 35830
+    },
+    {
       "name": "Mz Berlin",
       "person_id": 14228
     },
     {
       "name": "Nikki Darling",
       "person_id": 42508
-    },
-    {
-      "name": "Katharine Cane",
-      "person_id": 35830
     }
   ],
   "release_date": "2013-02-19",

@@ -5,12 +5,12 @@
   "description": "Ryan went to collect the rent even though David made arrangements with Peter to delay the payment. Ryan had something else in mind. The money was not the issue. He simply wanted to get fucked by the new tenant.",
   "models": [
     {
-      "name": "Ryan",
-      "person_id": 49446
-    },
-    {
       "name": "David Boss",
       "person_id": 49668
+    },
+    {
+      "name": "Ryan",
+      "person_id": 49446
     }
   ],
   "release_date": "2017-09-05",

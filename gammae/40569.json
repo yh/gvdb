@@ -5,6 +5,10 @@
   "description": "",
   "models": [
     {
+      "name": "Achille Fanyar",
+      "person_id": 20867
+    },
+    {
       "name": "Karl Nepessy",
       "person_id": 20803
     },
@@ -15,10 +19,6 @@
     {
       "name": "Peter Bodanszky",
       "person_id": 20866
-    },
-    {
-      "name": "Achille Fanyar",
-      "person_id": 20867
     }
   ],
   "release_date": "1998-03-30",

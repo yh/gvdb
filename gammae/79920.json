@@ -5,12 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Hunter Vance",
-      "person_id": 28320
-    },
-    {
       "name": "Christian Wilde",
       "person_id": 28481
+    },
+    {
+      "name": "Hunter Vance",
+      "person_id": 28320
     }
   ],
   "release_date": "2015-11-26",

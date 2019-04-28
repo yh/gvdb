@@ -11,16 +11,16 @@
   ],
   "models": [
     {
-      "name": "Trenton Ducati",
-      "person_id": 42630
-    },
-    {
       "name": "Ian Levine",
       "person_id": 53402
     },
     {
       "name": "Jacob Durham",
       "person_id": 33772
+    },
+    {
+      "name": "Trenton Ducati",
+      "person_id": 42630
     }
   ],
   "release_date": "2014-05-15",

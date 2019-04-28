@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Mahina Zaltana",
-      "person_id": 28012
-    },
-    {
       "name": "Hollie Stevens",
       "person_id": 1572
+    },
+    {
+      "name": "Mahina Zaltana",
+      "person_id": 28012
     }
   ],
   "release_date": "2011-02-11",
