@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Man Royale"
+  ],
+  "models": [
+    {
+      "name": "Nick Fitt",
+      "person_id": null
+    },
+    {
+      "name": "Troy Thomas",
+      "person_id": null
+    }
+  ],
+  "release_date": "2019-05-10",
+  "scene_id": 55855,
+  "title": "Running Buddies"
+}
