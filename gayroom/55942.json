@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "MassageBait"
+  ],
+  "models": [
+    {
+      "name": "Brody Thompson",
+      "person_id": null
+    },
+    {
+      "name": "Mateo Fernandez",
+      "person_id": null
+    }
+  ],
+  "release_date": "2019-06-28",
+  "scene_id": 55942,
+  "title": "In Home Massage Therapy"
+}
