@@ -1,0 +1,26 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 1200
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Taylor",
+      "person_id": 17861
+    }
+  ],
+  "release_date": "2011-03-10",
+  "scene_id": 2701001,
+  "series": [],
+  "tags": [
+    "Solo",
+    "Athlete/Jock"
+  ],
+  "title": "Taylor"
+}

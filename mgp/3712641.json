@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 95
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Kirk Cummings",
+      "person_id": 39365
+    },
+    {
+      "name": "Mike Martin",
+      "person_id": 40094
+    }
+  ],
+  "release_date": "2011-10-13",
+  "scene_id": 3712641,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Double Lives"
+}

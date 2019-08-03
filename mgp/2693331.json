@@ -1,0 +1,26 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 432
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Cary",
+      "person_id": 17645
+    }
+  ],
+  "release_date": "2006-12-05",
+  "scene_id": 2693331,
+  "series": [],
+  "tags": [
+    "Solo",
+    "Athlete/Jock"
+  ],
+  "title": "Cary"
+}

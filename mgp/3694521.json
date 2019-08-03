@@ -1,0 +1,33 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 2967
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Jimmy Johnson",
+      "person_id": 21573
+    },
+    {
+      "name": "Mike De Marko",
+      "person_id": 39424
+    },
+    {
+      "name": "Ricky Larkin",
+      "person_id": 21435
+    }
+  ],
+  "release_date": "2013-11-24",
+  "scene_id": 3694521,
+  "series": [
+    "Drill My Hole"
+  ],
+  "tags": [],
+  "title": "Coming To Life"
+}

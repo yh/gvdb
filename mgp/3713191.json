@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 2915
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Rocco Reed",
+      "person_id": 497
+    },
+    {
+      "name": "Sander",
+      "person_id": 18159
+    }
+  ],
+  "release_date": "2014-05-29",
+  "scene_id": 3713191,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Hotel Surveillance"
+}

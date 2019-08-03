@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 174
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Riley Price",
+      "person_id": 39305
+    },
+    {
+      "name": "Scott Campbell",
+      "person_id": 39730
+    }
+  ],
+  "release_date": "2012-01-23",
+  "scene_id": 3691711,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Ahoy!"
+}

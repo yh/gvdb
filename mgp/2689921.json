@@ -1,0 +1,25 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 64
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Ben",
+      "person_id": 18279
+    }
+  ],
+  "release_date": "2002-01-28",
+  "scene_id": 2689921,
+  "series": [],
+  "tags": [
+    "Solo"
+  ],
+  "title": "Ben"
+}

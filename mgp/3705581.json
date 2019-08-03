@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 47081
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Damien Stone",
+      "person_id": 39832
+    },
+    {
+      "name": "Forrest",
+      "person_id": 17819
+    }
+  ],
+  "release_date": "2017-12-09",
+  "scene_id": 3705581,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Sorry Dad"
+}

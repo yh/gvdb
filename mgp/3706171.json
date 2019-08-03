@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 28591
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Colton Grey",
+      "person_id": 39230
+    },
+    {
+      "name": "Landon Mycles",
+      "person_id": 39385
+    }
+  ],
+  "release_date": "2016-05-02",
+  "scene_id": 3706171,
+  "series": [
+    "Gods of Men"
+  ],
+  "tags": [],
+  "title": "Yours"
+}

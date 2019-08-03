@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 803
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Bobby Clark",
+      "person_id": 21321
+    },
+    {
+      "name": "Landon Conrad",
+      "person_id": 39440
+    }
+  ],
+  "release_date": "2013-02-07",
+  "scene_id": 3697081,
+  "series": [
+    "Drill My Hole"
+  ],
+  "tags": [],
+  "title": "How To Keep Your Man"
+}

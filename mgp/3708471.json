@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 243
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Boston Miles",
+      "person_id": 39413
+    },
+    {
+      "name": "Kyle Quinn",
+      "person_id": 39428
+    }
+  ],
+  "release_date": "2012-02-18",
+  "scene_id": 3708471,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Uninvited"
+}

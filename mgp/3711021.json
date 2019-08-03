@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 268
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Mitch Vaughn",
+      "person_id": 39604
+    },
+    {
+      "name": "Tyr Alexander",
+      "person_id": 39535
+    }
+  ],
+  "release_date": "2012-03-07",
+  "scene_id": 3711021,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "A Hole Is A Hole"
+}

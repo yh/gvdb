@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 691
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Curtis",
+      "person_id": 17769
+    },
+    {
+      "name": "Rylan",
+      "person_id": 18033
+    }
+  ],
+  "release_date": "2008-10-24",
+  "scene_id": 2695921,
+  "series": [],
+  "tags": [
+    "Behind The Scenes"
+  ],
+  "title": "Curtis & Rylan: Behind the Scenes"
+}

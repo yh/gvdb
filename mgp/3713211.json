@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 778
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Joey",
+      "person_id": 17933
+    },
+    {
+      "name": "Rocco Reed",
+      "person_id": 497
+    }
+  ],
+  "release_date": "2013-01-21",
+  "scene_id": 3713211,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "The Political Convention"
+}

@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 781
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Bruno Knight",
+      "person_id": 24110
+    },
+    {
+      "name": "Marco Sessions",
+      "person_id": 39768
+    }
+  ],
+  "release_date": "2013-01-08",
+  "scene_id": 3710611,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "The Appraisal"
+}

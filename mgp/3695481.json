@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 747
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Ethan Slade",
+      "person_id": 21228
+    },
+    {
+      "name": "Ryan Rockford",
+      "person_id": 39462
+    }
+  ],
+  "release_date": "2013-10-01",
+  "scene_id": 3695481,
+  "series": [
+    "Drill My Hole"
+  ],
+  "tags": [],
+  "title": "Following"
+}

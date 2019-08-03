@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 77
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Diego Vena",
+      "person_id": 39606
+    },
+    {
+      "name": "Philip Aubrey",
+      "person_id": 39593
+    }
+  ],
+  "release_date": "2013-04-08",
+  "scene_id": 3713081,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "The Annoying Colleague"
+}

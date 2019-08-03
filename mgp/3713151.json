@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 105
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Bo Dean",
+      "person_id": 39712
+    },
+    {
+      "name": "Lex Sabre",
+      "person_id": 40687
+    }
+  ],
+  "release_date": "2011-10-13",
+  "scene_id": 3713151,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Snooping Around"
+}

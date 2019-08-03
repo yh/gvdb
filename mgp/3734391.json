@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 15551
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Andy Banks",
+      "person_id": 39484
+    },
+    {
+      "name": "Tom Faulk",
+      "person_id": 22788
+    }
+  ],
+  "release_date": "2015-04-13",
+  "scene_id": 3734391,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Peeping Tom Part 2"
+}

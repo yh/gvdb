@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 216
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Jason",
+      "person_id": 17797
+    },
+    {
+      "name": "Marc Dylan",
+      "person_id": 39260
+    }
+  ],
+  "release_date": "2012-01-18",
+  "scene_id": 3726341,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Stinger"
+}

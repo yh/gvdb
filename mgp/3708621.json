@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 45
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Shane Frost",
+      "person_id": 39406
+    },
+    {
+      "name": "Tyler Andrews",
+      "person_id": 39736
+    }
+  ],
+  "release_date": "2011-07-22",
+  "scene_id": 3708621,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "You Can Run But You Can't Hide"
+}

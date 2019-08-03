@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 34631
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Darin Silvers",
+      "person_id": 23936
+    },
+    {
+      "name": "Leo Fuentes",
+      "person_id": 40137
+    }
+  ],
+  "release_date": "2016-11-15",
+  "scene_id": 3721311,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Hacker"
+}

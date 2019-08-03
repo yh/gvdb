@@ -1,0 +1,37 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 452
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Parker London",
+      "person_id": 39523
+    },
+    {
+      "name": "Phenix Saint",
+      "person_id": 39303
+    },
+    {
+      "name": "Ricky Sinz",
+      "person_id": 39525
+    },
+    {
+      "name": "Tommy Defendi",
+      "person_id": 24232
+    }
+  ],
+  "release_date": "2012-07-14",
+  "scene_id": 3700921,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Behind Bars 3"
+}

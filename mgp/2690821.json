@@ -1,0 +1,26 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 180
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Garett",
+      "person_id": 19214
+    }
+  ],
+  "release_date": "2003-09-05",
+  "scene_id": 2690821,
+  "series": [],
+  "tags": [
+    "Solo",
+    "Athlete/Jock"
+  ],
+  "title": "Garett"
+}

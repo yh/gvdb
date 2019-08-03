@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 55241
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Ian Greene",
+      "person_id": 40502
+    },
+    {
+      "name": "Leo Giamani",
+      "person_id": 40736
+    }
+  ],
+  "release_date": "2018-09-23",
+  "scene_id": 3725901,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Done Waiting Part 1"
+}

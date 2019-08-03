@@ -1,0 +1,25 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 173
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Christian Wilde",
+      "person_id": 39318
+    }
+  ],
+  "release_date": "2012-04-30",
+  "scene_id": 3690741,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Happy Hour"
+}

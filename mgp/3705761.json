@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 669
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Colby Jansen",
+      "person_id": 23826
+    },
+    {
+      "name": "Trey Turner",
+      "person_id": 24049
+    }
+  ],
+  "release_date": "2013-09-22",
+  "scene_id": 3705761,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Sharing A Smoke"
+}

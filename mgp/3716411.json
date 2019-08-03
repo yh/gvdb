@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 3299
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Charlie Harding",
+      "person_id": 39989
+    },
+    {
+      "name": "Colby Jansen",
+      "person_id": 23826
+    }
+  ],
+  "release_date": "2013-11-22",
+  "scene_id": 3716411,
+  "series": [
+    "Top to Bottom"
+  ],
+  "tags": [],
+  "title": "Top To Bottom: Charlie Harding"
+}

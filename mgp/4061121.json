@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 3167949
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Grant Ryan",
+      "person_id": 43158
+    },
+    {
+      "name": "Paul Canon",
+      "person_id": 23938
+    }
+  ],
+  "release_date": "2018-11-26",
+  "scene_id": 4061121,
+  "series": [
+    "Drill My Hole"
+  ],
+  "tags": [],
+  "title": "Revved Up Part 2"
+}

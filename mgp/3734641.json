@@ -1,0 +1,33 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 1926
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Paddy O'Brian",
+      "person_id": 39537
+    },
+    {
+      "name": "Paul Walker",
+      "person_id": 39545
+    },
+    {
+      "name": "Riley Tess",
+      "person_id": 24024
+    }
+  ],
+  "release_date": "2013-04-23",
+  "scene_id": 3734641,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "Lock, Stock and Cock Part 1"
+}

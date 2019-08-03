@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 1958
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Andrew Stark",
+      "person_id": 39506
+    },
+    {
+      "name": "Kurt Von Ryder",
+      "person_id": 40504
+    }
+  ],
+  "release_date": "2013-11-17",
+  "scene_id": 3711291,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "The Conference Table"
+}

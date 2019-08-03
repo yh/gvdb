@@ -1,0 +1,26 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 888
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Neal",
+      "person_id": 19248
+    }
+  ],
+  "release_date": "2009-10-03",
+  "scene_id": 2697891,
+  "series": [],
+  "tags": [
+    "Solo",
+    "Athlete/Jock"
+  ],
+  "title": "Neal"
+}

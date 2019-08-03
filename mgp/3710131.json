@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 1928
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Paul Walker",
+      "person_id": 39545
+    },
+    {
+      "name": "Thomas Spindler",
+      "person_id": 24032
+    }
+  ],
+  "release_date": "2013-04-30",
+  "scene_id": 3710131,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "Lock, Stock and Cock Part 3"
+}

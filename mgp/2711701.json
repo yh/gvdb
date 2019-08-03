@@ -1,0 +1,25 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 1815739
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Conrad",
+      "person_id": 17985
+    }
+  ],
+  "release_date": "2017-04-17",
+  "scene_id": 2711701,
+  "series": [],
+  "tags": [
+    "Solo"
+  ],
+  "title": "Conrad"
+}

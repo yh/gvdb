@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 5531
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "McKensie Cross",
+      "person_id": 39561
+    },
+    {
+      "name": "Paul Walker",
+      "person_id": 39545
+    }
+  ],
+  "release_date": "2014-05-06",
+  "scene_id": 3709441,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "Disconnected"
+}

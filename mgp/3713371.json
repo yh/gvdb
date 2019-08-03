@@ -1,0 +1,33 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 24931
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Addison Graham",
+      "person_id": 30797
+    },
+    {
+      "name": "Damien Michaels",
+      "person_id": 39897
+    },
+    {
+      "name": "Landon Mycles",
+      "person_id": 39385
+    }
+  ],
+  "release_date": "2016-01-27",
+  "scene_id": 3713371,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "The Concierge Part 3"
+}

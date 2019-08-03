@@ -1,0 +1,26 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 1128
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Campbell",
+      "person_id": 18131
+    }
+  ],
+  "release_date": "2010-10-22",
+  "scene_id": 2700281,
+  "series": [],
+  "tags": [
+    "Solo",
+    "Athlete/Jock"
+  ],
+  "title": "Campbell"
+}

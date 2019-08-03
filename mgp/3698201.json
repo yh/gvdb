@@ -1,0 +1,32 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 6641
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Barry",
+      "person_id": 18249
+    },
+    {
+      "name": "Luke Adams",
+      "person_id": 24071
+    }
+  ],
+  "release_date": "2014-06-19",
+  "scene_id": 3698201,
+  "series": [
+    "Drill My Hole"
+  ],
+  "tags": [
+    "Brown Hair",
+    "Short Hair"
+  ],
+  "title": "Last Call Part 3"
+}

@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 21
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Dylan",
+      "person_id": 18093
+    },
+    {
+      "name": "Tim",
+      "person_id": 18095
+    }
+  ],
+  "release_date": "2001-09-07",
+  "scene_id": 2689501,
+  "series": [],
+  "tags": [
+    "Athlete/Jock"
+  ],
+  "title": "Tim & Dylan"
+}

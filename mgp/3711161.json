@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 9801
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Mickey Taylor",
+      "person_id": 40564
+    },
+    {
+      "name": "Paul Walker",
+      "person_id": 39545
+    }
+  ],
+  "release_date": "2014-10-28",
+  "scene_id": 3711161,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "Smack Me Up"
+}

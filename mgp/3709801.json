@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 465
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Drake Wild",
+      "person_id": 39662
+    },
+    {
+      "name": "Jessie Colter",
+      "person_id": 39373
+    }
+  ],
+  "release_date": "2013-04-14",
+  "scene_id": 3709801,
+  "series": [
+    "Drill My Hole"
+  ],
+  "tags": [],
+  "title": "The Arm Wrestling"
+}

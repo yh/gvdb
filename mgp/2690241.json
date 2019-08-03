@@ -1,0 +1,25 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 105
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "<p>Joel is straight and has a girlfriend.</p>",
+  "models": [
+    {
+      "name": "Joel",
+      "person_id": 17929
+    }
+  ],
+  "release_date": "2002-08-02",
+  "scene_id": 2690241,
+  "series": [],
+  "tags": [
+    "Solo"
+  ],
+  "title": "Joel"
+}

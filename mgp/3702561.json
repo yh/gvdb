@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 656
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Josh Long",
+      "person_id": 22319
+    },
+    {
+      "name": "Kirk Cummings",
+      "person_id": 39365
+    }
+  ],
+  "release_date": "2013-08-20",
+  "scene_id": 3702561,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Looking For A Change"
+}

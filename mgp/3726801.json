@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 45371
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Jacob Peterson",
+      "person_id": 39979
+    },
+    {
+      "name": "Leon Lewis",
+      "person_id": 21931
+    }
+  ],
+  "release_date": "2017-10-17",
+  "scene_id": 3726801,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Side Piece Part 2"
+}

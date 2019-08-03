@@ -1,0 +1,25 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 2358261
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Buddy",
+      "person_id": 18469
+    }
+  ],
+  "release_date": "2018-01-22",
+  "scene_id": 2712891,
+  "series": [],
+  "tags": [
+    "Solo"
+  ],
+  "title": "Buddy"
+}

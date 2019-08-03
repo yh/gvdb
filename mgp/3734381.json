@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 241
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Angelo Antonio",
+      "person_id": 40789
+    },
+    {
+      "name": "Trevor Knight",
+      "person_id": 39332
+    }
+  ],
+  "release_date": "2012-05-21",
+  "scene_id": 3734381,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Staying Late"
+}

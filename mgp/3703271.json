@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 34751
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Connor Maguire",
+      "person_id": 17515
+    },
+    {
+      "name": "Tobias",
+      "person_id": 21933
+    }
+  ],
+  "release_date": "2016-11-21",
+  "scene_id": 3703271,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Taking It Too Far"
+}

@@ -1,0 +1,33 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 272
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Johnny Rapid",
+      "person_id": 20324
+    },
+    {
+      "name": "Liam Rosso",
+      "person_id": 39842
+    },
+    {
+      "name": "Luca Rosso",
+      "person_id": 39803
+    }
+  ],
+  "release_date": "2012-01-16",
+  "scene_id": 3723371,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Games Gone Wild"
+}

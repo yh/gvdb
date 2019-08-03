@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 3476
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Connor Maguire",
+      "person_id": 17515
+    },
+    {
+      "name": "Johnny Rapid",
+      "person_id": 20324
+    }
+  ],
+  "release_date": "2014-06-22",
+  "scene_id": 3733411,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Cheating Loophole"
+}

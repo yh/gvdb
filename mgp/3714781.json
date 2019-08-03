@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 32611
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Diego Sans",
+      "person_id": 39527
+    },
+    {
+      "name": "Rikk York",
+      "person_id": 24016
+    }
+  ],
+  "release_date": "2016-09-13",
+  "scene_id": 3714781,
+  "series": [
+    "Gods of Men"
+  ],
+  "tags": [],
+  "title": "Te Amo"
+}

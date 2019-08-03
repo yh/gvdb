@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 3204
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Damien Boss",
+      "person_id": 40548
+    },
+    {
+      "name": "Daniel Johnson",
+      "person_id": 39669
+    }
+  ],
+  "release_date": "2013-09-03",
+  "scene_id": 3709251,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "Barber Shop Part 2"
+}

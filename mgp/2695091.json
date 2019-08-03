@@ -1,0 +1,26 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 608
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "<p>Buck is 29 years old and the owner of a construction company.</p>\n<p>&quot;You are a general contractor?&quot; I asked.</p>\n<p>&quot;Yeah, I just built my first house,&quot; he replied.</p>\n<p>Man, why is it that all of the contractors I've ever used have been fat, straight, and not exactly easy on the eyes?</p>\n<p>It's not hard to imagine Buck all sweaty with his hammer and drill, wearing a tight, white, almost see-through tank top! </p>",
+  "models": [
+    {
+      "name": "Buck",
+      "person_id": 19669
+    }
+  ],
+  "release_date": "2008-04-21",
+  "scene_id": 2695091,
+  "series": [],
+  "tags": [
+    "Solo",
+    "Athlete/Jock"
+  ],
+  "title": "Buck"
+}

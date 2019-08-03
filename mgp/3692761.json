@@ -1,0 +1,33 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 510
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Jessie Colter",
+      "person_id": 39373
+    },
+    {
+      "name": "Jessy Ares",
+      "person_id": 24030
+    },
+    {
+      "name": "Ryan Raz",
+      "person_id": 39762
+    }
+  ],
+  "release_date": "2012-08-27",
+  "scene_id": 3692761,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Bitchy Receptionist"
+}

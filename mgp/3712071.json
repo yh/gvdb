@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 839
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Lance Luciano",
+      "person_id": 40495
+    },
+    {
+      "name": "Rocco Reed",
+      "person_id": 497
+    }
+  ],
+  "release_date": "2013-02-04",
+  "scene_id": 3712071,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Entry Level"
+}

@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 45451
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Cris Knight",
+      "person_id": 39925
+    },
+    {
+      "name": "Diego Sans",
+      "person_id": 39527
+    }
+  ],
+  "release_date": "2017-10-21",
+  "scene_id": 3700601,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Couples Counseling"
+}

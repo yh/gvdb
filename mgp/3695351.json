@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 7051
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Colby Keller",
+      "person_id": 39596
+    },
+    {
+      "name": "Jimmy Fanz",
+      "person_id": 39571
+    }
+  ],
+  "release_date": "2014-07-03",
+  "scene_id": 3695351,
+  "series": [
+    "Drill My Hole"
+  ],
+  "tags": [],
+  "title": "Deep Release"
+}

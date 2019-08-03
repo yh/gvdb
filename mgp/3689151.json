@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 700
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Colby Jansen",
+      "person_id": 23826
+    },
+    {
+      "name": "Logan Vaughn",
+      "person_id": 39643
+    }
+  ],
+  "release_date": "2012-11-26",
+  "scene_id": 3689151,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "The Ceo's Office"
+}

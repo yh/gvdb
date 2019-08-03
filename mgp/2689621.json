@@ -1,0 +1,25 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 33
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Kurt",
+      "person_id": 19679
+    }
+  ],
+  "release_date": "2001-09-07",
+  "scene_id": 2689621,
+  "series": [],
+  "tags": [
+    "Solo"
+  ],
+  "title": "Kurt"
+}

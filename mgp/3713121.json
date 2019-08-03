@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 536
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Francesco D'Macho",
+      "person_id": 40577
+    },
+    {
+      "name": "Lucio Saints",
+      "person_id": 24248
+    }
+  ],
+  "release_date": "2012-09-17",
+  "scene_id": 3713121,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Cut"
+}

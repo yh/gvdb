@@ -1,0 +1,25 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 1514750
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Kipp",
+      "person_id": 20049
+    }
+  ],
+  "release_date": "2017-01-30",
+  "scene_id": 2711311,
+  "series": [],
+  "tags": [
+    "Solo"
+  ],
+  "title": "Kipp"
+}

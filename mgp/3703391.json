@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 1
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Brandon Lewis",
+      "person_id": 21108
+    },
+    {
+      "name": "Hunter Ford",
+      "person_id": 39510
+    }
+  ],
+  "release_date": "2011-07-22",
+  "scene_id": 3703391,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Shower Bait"
+}

@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 17471
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Aspen",
+      "person_id": 30579
+    },
+    {
+      "name": "Colby Jansen",
+      "person_id": 23826
+    }
+  ],
+  "release_date": "2015-06-15",
+  "scene_id": 3705951,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Swipe Part 3"
+}

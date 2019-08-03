@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 20
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Blaze",
+      "person_id": 24844
+    },
+    {
+      "name": "Kyle Cruz",
+      "person_id": 40633
+    }
+  ],
+  "release_date": "2011-08-24",
+  "scene_id": 3704861,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Str8 Bait"
+}

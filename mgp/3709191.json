@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 6421
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Lionel Lilac",
+      "person_id": 39623
+    },
+    {
+      "name": "Mario Torrez",
+      "person_id": 39621
+    }
+  ],
+  "release_date": "2014-07-29",
+  "scene_id": 3709191,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "Cockpit Part 2"
+}

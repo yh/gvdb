@@ -1,0 +1,26 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 891
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "<p>Trent is hoping to compete in the 2012 Olympics.</p>\n<p>&quot;I'm a triathlete,&quot; he said. &quot;I'm training full time.&quot;</p>\n<p>To be honest, I'd never met anyone who was a potential Olympian, so I was curious.</p>\n<p>I asked him about how difficult it is to qualify.</p>\n<p>&quot;It's extremely difficult,&quot; he said. &quot;But I work as hard as I can and hopefully that will be good enough.&quot;</p>\n<p>Trent is 21 years old, Greek/Italian, and he has a girlfriend he's been with for a few years.</p>\n<p>&quot;She keeps me going,&quot; he said. &quot;She's my biggest fan!&quot;</p>",
+  "models": [
+    {
+      "name": "Trent",
+      "person_id": 18340
+    }
+  ],
+  "release_date": "2009-10-07",
+  "scene_id": 2697921,
+  "series": [],
+  "tags": [
+    "Solo",
+    "Athlete/Jock"
+  ],
+  "title": "Trent"
+}

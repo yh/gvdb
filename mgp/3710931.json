@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 9121
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Mickey Taylor",
+      "person_id": 40564
+    },
+    {
+      "name": "Scott Hunter",
+      "person_id": 23961
+    }
+  ],
+  "release_date": "2014-09-24",
+  "scene_id": 3710931,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "The Law Of Men Part 3"
+}

@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 466
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Robert Van Damme",
+      "person_id": 39299
+    },
+    {
+      "name": "Tony Newport",
+      "person_id": 39348
+    }
+  ],
+  "release_date": "2012-09-10",
+  "scene_id": 3713431,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Slacking On The Job"
+}

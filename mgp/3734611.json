@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 789
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Jimmy Johnson",
+      "person_id": 21573
+    },
+    {
+      "name": "Riley Banks",
+      "person_id": 22240
+    }
+  ],
+  "release_date": "2013-07-07",
+  "scene_id": 3734611,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "100 Dollar Bet"
+}

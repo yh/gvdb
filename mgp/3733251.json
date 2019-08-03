@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 8291
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Jack King",
+      "person_id": 39354
+    },
+    {
+      "name": "Jake Wilder",
+      "person_id": 39911
+    }
+  ],
+  "release_date": "2014-08-19",
+  "scene_id": 3733251,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Hump Or Bump"
+}

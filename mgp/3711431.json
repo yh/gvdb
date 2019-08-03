@@ -1,0 +1,33 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 445
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Brenden Cage",
+      "person_id": 40020
+    },
+    {
+      "name": "Luke Marcum",
+      "person_id": 40489
+    },
+    {
+      "name": "Shane Frost",
+      "person_id": 39406
+    }
+  ],
+  "release_date": "2012-10-29",
+  "scene_id": 3711431,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Lunch Break"
+}

@@ -1,0 +1,25 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 1186
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Louie",
+      "person_id": 19957
+    }
+  ],
+  "release_date": "2011-02-10",
+  "scene_id": 2700861,
+  "series": [],
+  "tags": [
+    "Solo"
+  ],
+  "title": "Louie"
+}

@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 81
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Jessie Colter",
+      "person_id": 39373
+    },
+    {
+      "name": "Valentin Petrov",
+      "person_id": 39312
+    }
+  ],
+  "release_date": "2011-12-12",
+  "scene_id": 3689171,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "The Doctor's Office"
+}

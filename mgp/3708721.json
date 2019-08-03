@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 47341
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Damien Stone",
+      "person_id": 39832
+    },
+    {
+      "name": "Diego Sans",
+      "person_id": 39527
+    }
+  ],
+  "release_date": "2017-12-22",
+  "scene_id": 3708721,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Trust Issues Part 2"
+}

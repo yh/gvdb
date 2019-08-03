@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 786
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Issac Jones",
+      "person_id": 39764
+    },
+    {
+      "name": "Marco Sessions",
+      "person_id": 39768
+    }
+  ],
+  "release_date": "2013-02-21",
+  "scene_id": 3693731,
+  "series": [
+    "Drill My Hole"
+  ],
+  "tags": [],
+  "title": "Black Or White"
+}

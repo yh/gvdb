@@ -1,0 +1,25 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 41
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Troy",
+      "person_id": 19993
+    }
+  ],
+  "release_date": "2001-10-05",
+  "scene_id": 2689691,
+  "series": [],
+  "tags": [
+    "Solo"
+  ],
+  "title": "Troy"
+}

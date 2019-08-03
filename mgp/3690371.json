@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 3201
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Connor Maguire",
+      "person_id": 17515
+    },
+    {
+      "name": "Liam Magnuson",
+      "person_id": 39639
+    }
+  ],
+  "release_date": "2013-09-05",
+  "scene_id": 3690371,
+  "series": [
+    "Top to Bottom"
+  ],
+  "tags": [],
+  "title": "Top To Bottom 3"
+}

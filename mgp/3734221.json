@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 9381
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Allen King",
+      "person_id": 39877
+    },
+    {
+      "name": "Leo Domenico",
+      "person_id": 39734
+    }
+  ],
+  "release_date": "2014-09-21",
+  "scene_id": 3734221,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "The Business Of Sex Part 2"
+}

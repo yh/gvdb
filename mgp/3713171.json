@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 886
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Jimmy Johnson",
+      "person_id": 21573
+    },
+    {
+      "name": "Lance Luciano",
+      "person_id": 40495
+    }
+  ],
+  "release_date": "2013-06-10",
+  "scene_id": 3713171,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Employee Of The Month"
+}

@@ -1,0 +1,27 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 1095
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Mack",
+      "person_id": 18415
+    }
+  ],
+  "release_date": "2010-08-31",
+  "scene_id": 2699951,
+  "series": [],
+  "tags": [
+    "Solo",
+    "Athlete/Jock",
+    "Uncut"
+  ],
+  "title": "Mack"
+}

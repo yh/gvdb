@@ -1,0 +1,33 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 548
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Adam Killian",
+      "person_id": 39487
+    },
+    {
+      "name": "Christopher Daniels",
+      "person_id": 24258
+    },
+    {
+      "name": "Jessie Colter",
+      "person_id": 39373
+    }
+  ],
+  "release_date": "2012-10-22",
+  "scene_id": 3713671,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "The Interview"
+}

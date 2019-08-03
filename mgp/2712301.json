@@ -1,0 +1,25 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 2001612
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Dougie",
+      "person_id": 18473
+    }
+  ],
+  "release_date": "2017-09-04",
+  "scene_id": 2712301,
+  "series": [],
+  "tags": [
+    "Solo"
+  ],
+  "title": "Dougie"
+}

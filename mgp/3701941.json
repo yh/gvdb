@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 15761
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Luke Adams",
+      "person_id": 24071
+    },
+    {
+      "name": "Noah Jones",
+      "person_id": 40100
+    }
+  ],
+  "release_date": "2015-04-22",
+  "scene_id": 3701941,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Does This Make Me Gay?"
+}

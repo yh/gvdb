@@ -1,0 +1,25 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 205
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Colby",
+      "person_id": 18101
+    }
+  ],
+  "release_date": "2004-02-27",
+  "scene_id": 2691071,
+  "series": [],
+  "tags": [
+    "Solo"
+  ],
+  "title": "Colby"
+}

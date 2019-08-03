@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 423
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Kris Jameson",
+      "person_id": 39476
+    },
+    {
+      "name": "Tyr Alexander",
+      "person_id": 39535
+    }
+  ],
+  "release_date": "2012-06-13",
+  "scene_id": 3702921,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Teach Me Poker"
+}

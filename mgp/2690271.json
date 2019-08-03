@@ -1,0 +1,25 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 108
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Oscar",
+      "person_id": 18283
+    }
+  ],
+  "release_date": "2002-08-16",
+  "scene_id": 2690271,
+  "series": [],
+  "tags": [
+    "Solo"
+  ],
+  "title": "Oscar"
+}

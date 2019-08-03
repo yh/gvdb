@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 467
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Bobby Clark",
+      "person_id": 21321
+    },
+    {
+      "name": "Christopher Daniels",
+      "person_id": 24258
+    }
+  ],
+  "release_date": "2012-07-09",
+  "scene_id": 3712211,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Sex Toy Delivery"
+}

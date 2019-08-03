@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 3298
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Max Dodds",
+      "person_id": 39680
+    },
+    {
+      "name": "Paul Walker",
+      "person_id": 39545
+    }
+  ],
+  "release_date": "2013-11-16",
+  "scene_id": 3690081,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "Secret Diary Of An Escort 3"
+}

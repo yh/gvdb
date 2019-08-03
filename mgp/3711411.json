@@ -1,0 +1,33 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 4891
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Colby Jansen",
+      "person_id": 23826
+    },
+    {
+      "name": "Dan Broughton",
+      "person_id": 39583
+    },
+    {
+      "name": "Woody Fox",
+      "person_id": 39547
+    }
+  ],
+  "release_date": "2014-04-17",
+  "scene_id": 3711411,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "Scrum Part 6"
+}

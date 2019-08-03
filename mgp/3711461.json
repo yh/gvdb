@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 86
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Adam Russo",
+      "person_id": 24118
+    },
+    {
+      "name": "Alexsander Freitas",
+      "person_id": 39991
+    }
+  ],
+  "release_date": "2012-04-16",
+  "scene_id": 3711461,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Personal Assistant"
+}

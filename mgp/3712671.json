@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 3406
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Sam Northman",
+      "person_id": 40302
+    },
+    {
+      "name": "Topher Di Maggio",
+      "person_id": 39314
+    }
+  ],
+  "release_date": "2013-12-23",
+  "scene_id": 3712671,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Secret Santa"
+}

@@ -1,0 +1,33 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 7061
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Colby Keller",
+      "person_id": 39596
+    },
+    {
+      "name": "Connor Maguire",
+      "person_id": 17515
+    },
+    {
+      "name": "Phenix Saint",
+      "person_id": 39303
+    }
+  ],
+  "release_date": "2014-07-10",
+  "scene_id": 3694821,
+  "series": [
+    "Drill My Hole"
+  ],
+  "tags": [],
+  "title": "Cum Right In"
+}

@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 200
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Christian Wilde",
+      "person_id": 39318
+    },
+    {
+      "name": "Parker London",
+      "person_id": 39523
+    }
+  ],
+  "release_date": "2012-01-09",
+  "scene_id": 3713501,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Staying In"
+}

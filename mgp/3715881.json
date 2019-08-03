@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 23781
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Adam Bryant",
+      "person_id": 39852
+    },
+    {
+      "name": "Diego Sans",
+      "person_id": 39527
+    }
+  ],
+  "release_date": "2015-12-31",
+  "scene_id": 3715881,
+  "series": [
+    "Top to Bottom"
+  ],
+  "tags": [],
+  "title": "Top To Bottom : Adam Bryant"
+}

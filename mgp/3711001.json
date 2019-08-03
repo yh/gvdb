@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 875
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Jimmy Johnson",
+      "person_id": 21573
+    },
+    {
+      "name": "Landen",
+      "person_id": 21253
+    }
+  ],
+  "release_date": "2013-09-09",
+  "scene_id": 3711001,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "The Virgin"
+}

@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 41141
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Noah Jones",
+      "person_id": 40100
+    },
+    {
+      "name": "Tayte Hanson",
+      "person_id": 40046
+    }
+  ],
+  "release_date": "2017-06-15",
+  "scene_id": 3706531,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Revolt Part 3"
+}

@@ -1,0 +1,25 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 2328410
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Jett",
+      "person_id": 19665
+    }
+  ],
+  "release_date": "2018-01-08",
+  "scene_id": 2712791,
+  "series": [],
+  "tags": [
+    "Solo"
+  ],
+  "title": "Jett"
+}

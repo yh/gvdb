@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 3585
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Chip Tanner",
+      "person_id": 39791
+    },
+    {
+      "name": "Topher Di Maggio",
+      "person_id": 39314
+    }
+  ],
+  "release_date": "2014-02-14",
+  "scene_id": 3705131,
+  "series": [
+    "Gods of Men"
+  ],
+  "tags": [],
+  "title": "The Proposal"
+}

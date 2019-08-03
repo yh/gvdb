@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 3061
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Rocco Reed",
+      "person_id": 497
+    },
+    {
+      "name": "Tyler Morgan",
+      "person_id": 39511
+    }
+  ],
+  "release_date": "2014-02-25",
+  "scene_id": 3711361,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Mail Mix Up"
+}

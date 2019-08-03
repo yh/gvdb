@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 3163
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Landon Conrad",
+      "person_id": 39440
+    },
+    {
+      "name": "Paddy O'Brian",
+      "person_id": 39537
+    }
+  ],
+  "release_date": "2013-11-27",
+  "scene_id": 3710631,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "Shaft Lane 3"
+}

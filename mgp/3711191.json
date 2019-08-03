@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 3059
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Liam Magnuson",
+      "person_id": 39639
+    },
+    {
+      "name": "Mike De Marko",
+      "person_id": 39424
+    }
+  ],
+  "release_date": "2013-10-06",
+  "scene_id": 3711191,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Morning Quickie"
+}

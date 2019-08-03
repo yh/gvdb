@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 8831
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Colby Parker",
+      "person_id": 40566
+    },
+    {
+      "name": "Mickey Taylor",
+      "person_id": 40564
+    }
+  ],
+  "release_date": "2014-09-10",
+  "scene_id": 3710691,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "The Law Of Men Part 1"
+}

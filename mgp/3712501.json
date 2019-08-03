@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 866
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Jake Wilder",
+      "person_id": 39911
+    },
+    {
+      "name": "Tommy Defendi",
+      "person_id": 24232
+    }
+  ],
+  "release_date": "2013-04-01",
+  "scene_id": 3712501,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "The Deadline"
+}

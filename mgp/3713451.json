@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 97
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "AJ Monroe",
+      "person_id": 39356
+    },
+    {
+      "name": "Preston Steel",
+      "person_id": 39516
+    }
+  ],
+  "release_date": "2011-10-13",
+  "scene_id": 3713451,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Odd Assignments"
+}

@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 28651
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Brenden Cage",
+      "person_id": 40020
+    },
+    {
+      "name": "Will Braun",
+      "person_id": 22884
+    }
+  ],
+  "release_date": "2016-05-05",
+  "scene_id": 3711751,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "A Hollywood Story Part 1"
+}

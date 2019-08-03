@@ -1,0 +1,25 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 1936072
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Smith",
+      "person_id": 17949
+    }
+  ],
+  "release_date": "2017-07-24",
+  "scene_id": 2712111,
+  "series": [],
+  "tags": [
+    "Solo"
+  ],
+  "title": "Smith"
+}

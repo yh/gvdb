@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 39441
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Griffin Barrows",
+      "person_id": 40048
+    },
+    {
+      "name": "Jacob Peterson",
+      "person_id": 39979
+    }
+  ],
+  "release_date": "2017-04-23",
+  "scene_id": 3706461,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Prohibition Part 2"
+}

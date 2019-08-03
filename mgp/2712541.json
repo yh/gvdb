@@ -1,0 +1,25 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 2247999
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Chester",
+      "person_id": 19458
+    }
+  ],
+  "release_date": "2017-10-30",
+  "scene_id": 2712541,
+  "series": [],
+  "tags": [
+    "Solo"
+  ],
+  "title": "Chester"
+}

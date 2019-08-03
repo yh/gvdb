@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 35751
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Brandon Evans",
+      "person_id": 22736
+    },
+    {
+      "name": "Diego Sans",
+      "person_id": 39527
+    }
+  ],
+  "release_date": "2016-12-24",
+  "scene_id": 3707171,
+  "series": [
+    "Gods of Men"
+  ],
+  "tags": [],
+  "title": "Warmed"
+}

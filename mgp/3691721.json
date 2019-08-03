@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 179
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Jordano Santoro",
+      "person_id": 39616
+    },
+    {
+      "name": "Luke Hass",
+      "person_id": 39732
+    }
+  ],
+  "release_date": "2012-06-18",
+  "scene_id": 3691721,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Stress Release"
+}

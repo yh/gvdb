@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 89
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Jordan",
+      "person_id": 20744
+    },
+    {
+      "name": "Trevor Knight",
+      "person_id": 39332
+    }
+  ],
+  "release_date": "2011-10-13",
+  "scene_id": 3712531,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Mailroom Discoveries"
+}

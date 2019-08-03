@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 529
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Christopher Daniels",
+      "person_id": 24258
+    },
+    {
+      "name": "Marcus Ruhl",
+      "person_id": 39301
+    }
+  ],
+  "release_date": "2012-10-06",
+  "scene_id": 3709141,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "The Magic Trick"
+}

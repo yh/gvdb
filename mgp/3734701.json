@@ -1,0 +1,33 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 710
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Caleb Colton",
+      "person_id": 39756
+    },
+    {
+      "name": "Cameron Knight",
+      "person_id": 40500
+    },
+    {
+      "name": "Sebastian Young",
+      "person_id": 39461
+    }
+  ],
+  "release_date": "2013-01-19",
+  "scene_id": 3734701,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "High School Reunion"
+}

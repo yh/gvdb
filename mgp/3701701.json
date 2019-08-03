@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 448
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Parker London",
+      "person_id": 39523
+    },
+    {
+      "name": "Phenix Saint",
+      "person_id": 39303
+    }
+  ],
+  "release_date": "2012-06-30",
+  "scene_id": 3701701,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Behind Bars 1"
+}

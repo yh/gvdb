@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 3232
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Jay Roberts",
+      "person_id": 39589
+    },
+    {
+      "name": "Marco Rubi",
+      "person_id": 39723
+    }
+  ],
+  "release_date": "2013-11-20",
+  "scene_id": 3710251,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "Shaft Lane 2"
+}

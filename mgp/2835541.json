@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 7779
+    }
+  ],
+  "collections": [
+    "Reality Dudes"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Chase",
+      "person_id": 21751
+    },
+    {
+      "name": "Dallas Reeves",
+      "person_id": 20480
+    }
+  ],
+  "release_date": "2011-01-27",
+  "scene_id": 2835541,
+  "series": [
+    "Gay Revenge"
+  ],
+  "tags": [],
+  "title": "Just A Taste"
+}

@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 15991
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Dakota Vice",
+      "person_id": 39567
+    },
+    {
+      "name": "Denis Vega",
+      "person_id": 40151
+    }
+  ],
+  "release_date": "2015-04-27",
+  "scene_id": 3712621,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Find The Mole Part 1"
+}

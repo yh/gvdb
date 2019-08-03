@@ -1,0 +1,27 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 32
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Alonzo",
+      "person_id": 19055
+    }
+  ],
+  "release_date": "2001-09-07",
+  "scene_id": 2689611,
+  "series": [],
+  "tags": [
+    "Solo",
+    "Black",
+    "Uncut"
+  ],
+  "title": "Alonzo"
+}

@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 488
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Shay Michaels",
+      "person_id": 24174
+    },
+    {
+      "name": "Tony Newport",
+      "person_id": 39348
+    }
+  ],
+  "release_date": "2012-07-18",
+  "scene_id": 3708501,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "The Plea Bargain"
+}

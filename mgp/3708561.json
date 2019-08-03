@@ -1,0 +1,33 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 561
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Dominic Reed",
+      "person_id": 40179
+    },
+    {
+      "name": "Johnny Rapid",
+      "person_id": 20324
+    },
+    {
+      "name": "Ryan Rockford",
+      "person_id": 39462
+    }
+  ],
+  "release_date": "2012-09-19",
+  "scene_id": 3708561,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "The Wrestling Trophy"
+}

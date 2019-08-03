@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 249
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Jason",
+      "person_id": 17797
+    },
+    {
+      "name": "Sebastian Young",
+      "person_id": 39461
+    }
+  ],
+  "release_date": "2012-02-01",
+  "scene_id": 3706401,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Show Me Yours"
+}

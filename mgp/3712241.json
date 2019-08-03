@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 3134
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Colby Jansen",
+      "person_id": 23826
+    },
+    {
+      "name": "Zachary Perry",
+      "person_id": 40678
+    }
+  ],
+  "release_date": "2013-11-10",
+  "scene_id": 3712241,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Old Colleagues"
+}

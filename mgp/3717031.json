@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 20161
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Christian Wilde",
+      "person_id": 39318
+    },
+    {
+      "name": "Will Braun",
+      "person_id": 22884
+    }
+  ],
+  "release_date": "2015-08-28",
+  "scene_id": 3717031,
+  "series": [
+    "Top to Bottom"
+  ],
+  "tags": [],
+  "title": "Top To Bottom : Will Braun"
+}

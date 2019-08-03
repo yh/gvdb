@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 1957
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Andrew Stark",
+      "person_id": 39506
+    },
+    {
+      "name": "Jake Wilder",
+      "person_id": 39911
+    }
+  ],
+  "release_date": "2013-08-06",
+  "scene_id": 3711961,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Married To The Boss"
+}

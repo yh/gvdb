@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 34711
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Diego Sans",
+      "person_id": 39527
+    },
+    {
+      "name": "Ian Greene",
+      "person_id": 40502
+    }
+  ],
+  "release_date": "2016-11-19",
+  "scene_id": 3706391,
+  "series": [
+    "Gods of Men"
+  ],
+  "tags": [],
+  "title": "Together"
+}

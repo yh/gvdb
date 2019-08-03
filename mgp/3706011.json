@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 54571
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "D.O.",
+      "person_id": 40092
+    },
+    {
+      "name": "Paddy O'Brian",
+      "person_id": 39537
+    }
+  ],
+  "release_date": "2018-08-12",
+  "scene_id": 3706011,
+  "series": [
+    "Gods of Men"
+  ],
+  "tags": [],
+  "title": "True One"
+}

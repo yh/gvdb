@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 184
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Joey",
+      "person_id": 17933
+    },
+    {
+      "name": "Topher Di Maggio",
+      "person_id": 39314
+    }
+  ],
+  "release_date": "2012-02-20",
+  "scene_id": 3713321,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Paying The Debt"
+}

@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 611
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Andrew Stark",
+      "person_id": 39506
+    },
+    {
+      "name": "JD Phoenix",
+      "person_id": 39609
+    }
+  ],
+  "release_date": "2013-06-09",
+  "scene_id": 3712431,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Body Painting"
+}

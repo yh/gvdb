@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 3211
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Andro Maas",
+      "person_id": 40572
+    },
+    {
+      "name": "Daniel Johnson",
+      "person_id": 39669
+    }
+  ],
+  "release_date": "2013-10-31",
+  "scene_id": 3711081,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "Supernatural 3"
+}

@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 835
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Phenix Saint",
+      "person_id": 39303
+    },
+    {
+      "name": "Tommy Defendi",
+      "person_id": 24232
+    }
+  ],
+  "release_date": "2013-02-25",
+  "scene_id": 3732991,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Bus Stop Flirting"
+}

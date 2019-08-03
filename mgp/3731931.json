@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 696
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Danny Palick",
+      "person_id": 40756
+    },
+    {
+      "name": "Josh Long",
+      "person_id": 22319
+    }
+  ],
+  "release_date": "2012-11-20",
+  "scene_id": 3731931,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Pool Intruder"
+}

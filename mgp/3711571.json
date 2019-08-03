@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 3060
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Christopher Daniels",
+      "person_id": 24258
+    },
+    {
+      "name": "Landon Conrad",
+      "person_id": 39440
+    }
+  ],
+  "release_date": "2013-09-15",
+  "scene_id": 3711571,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Late Night Break"
+}

@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 776
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Jay Roberts",
+      "person_id": 39589
+    },
+    {
+      "name": "Spencer Reed",
+      "person_id": 39342
+    }
+  ],
+  "release_date": "2013-01-14",
+  "scene_id": 3713181,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Pulling An All Nighter"
+}

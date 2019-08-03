@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 235
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Boston Miles",
+      "person_id": 39413
+    },
+    {
+      "name": "Leo Forte",
+      "person_id": 40076
+    }
+  ],
+  "release_date": "2012-03-05",
+  "scene_id": 3713091,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "First Time Meeting"
+}

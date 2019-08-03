@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 148
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "David Chase",
+      "person_id": 39907
+    },
+    {
+      "name": "Mitch Vaughn",
+      "person_id": 39604
+    }
+  ],
+  "release_date": "2011-11-21",
+  "scene_id": 3713051,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Quickie"
+}

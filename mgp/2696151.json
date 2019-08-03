@@ -1,0 +1,25 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 714
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "<p>Raymond is a 21-year-old college student who lives in a big, wild, noisy frat house.</p>\n<p>&quot;I love it,&quot; he told us. &quot;There's never a dull moment.&quot;</p>\n<p>He said in his interview that he went on a bender for his 21st birthday, but I'm guessing he's been tossing them back since high school!</p>\n<p>The best part of living in a frat house:</p>\n<p>&quot;We're always naked,&quot; he said. &quot;Nobody wears any clothes.&quot;</p>\n<p>He said it was weird for him at first, but after the novelty wore off it didn't really matter any more.</p>\n<p>&quot;I love being naked,&quot; he said.</p>\n<p>Another great thing about the frat house: The girls who visit.</p>\n<p>&quot;They love it there,&quot; he said. &quot;They never want to leave!&quot;  </p>",
+  "models": [
+    {
+      "name": "Raymond",
+      "person_id": 18809
+    }
+  ],
+  "release_date": "2008-12-05",
+  "scene_id": 2696151,
+  "series": [],
+  "tags": [
+    "Solo"
+  ],
+  "title": "Raymond"
+}

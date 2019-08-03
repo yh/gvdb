@@ -1,0 +1,33 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 2917
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Colby Jansen",
+      "person_id": 23826
+    },
+    {
+      "name": "Connor Maguire",
+      "person_id": 17515
+    },
+    {
+      "name": "Mike De Marko",
+      "person_id": 39424
+    }
+  ],
+  "release_date": "2013-08-11",
+  "scene_id": 3711141,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Strip Club"
+}

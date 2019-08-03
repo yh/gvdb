@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 11781
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Colt Rivers",
+      "person_id": 17667
+    },
+    {
+      "name": "Joey Rico",
+      "person_id": 39399
+    }
+  ],
+  "release_date": "2014-12-29",
+  "scene_id": 3712371,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Corporate Welcome"
+}

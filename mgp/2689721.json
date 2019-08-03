@@ -1,0 +1,25 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 44
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Todd",
+      "person_id": 18281
+    }
+  ],
+  "release_date": "2001-10-19",
+  "scene_id": 2689721,
+  "series": [],
+  "tags": [
+    "Solo"
+  ],
+  "title": "Todd"
+}

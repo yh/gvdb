@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 11991
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Alex Garcia",
+      "person_id": 39672
+    },
+    {
+      "name": "Daniel Johnson",
+      "person_id": 39669
+    }
+  ],
+  "release_date": "2014-12-28",
+  "scene_id": 3710661,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "The Abbey Part 4"
+}

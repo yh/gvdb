@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 234
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Matt Singer",
+      "person_id": 39433
+    },
+    {
+      "name": "Tyler Sweet",
+      "person_id": 39327
+    }
+  ],
+  "release_date": "2012-06-04",
+  "scene_id": 3713161,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Faking An Injury"
+}

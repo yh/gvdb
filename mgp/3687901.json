@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 3552
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Paul Walker",
+      "person_id": 39545
+    },
+    {
+      "name": "Woody Fox",
+      "person_id": 39547
+    }
+  ],
+  "release_date": "2014-01-24",
+  "scene_id": 3687901,
+  "series": [
+    "Top to Bottom"
+  ],
+  "tags": [],
+  "title": "Top To Bottom : Woody Fox"
+}

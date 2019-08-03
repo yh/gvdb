@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 481
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Chip Young",
+      "person_id": 39683
+    },
+    {
+      "name": "Jason Goodman",
+      "person_id": 40112
+    }
+  ],
+  "release_date": "2013-07-22",
+  "scene_id": 3733831,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Share My Bed"
+}

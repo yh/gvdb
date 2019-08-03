@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 687
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Jay Roberts",
+      "person_id": 39589
+    },
+    {
+      "name": "Taylor Scott",
+      "person_id": 40716
+    }
+  ],
+  "release_date": "2013-01-15",
+  "scene_id": 3720181,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "The Disciplinary"
+}

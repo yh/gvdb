@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 59
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Jason Crew",
+      "person_id": 39746
+    },
+    {
+      "name": "Seth Knight",
+      "person_id": 39744
+    }
+  ],
+  "release_date": "2011-10-05",
+  "scene_id": 3692041,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Bad Puppy"
+}

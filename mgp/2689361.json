@@ -1,0 +1,25 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 5
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Ken",
+      "person_id": 20013
+    }
+  ],
+  "release_date": "2001-09-07",
+  "scene_id": 2689361,
+  "series": [],
+  "tags": [
+    "Solo"
+  ],
+  "title": "Ken"
+}

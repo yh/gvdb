@@ -1,0 +1,37 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 8455
+    }
+  ],
+  "collections": [
+    "Reality Dudes"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Daniel",
+      "person_id": 20490
+    },
+    {
+      "name": "Johnny Skyy",
+      "person_id": 20488
+    },
+    {
+      "name": "Max Morgan",
+      "person_id": 20486
+    },
+    {
+      "name": "Sean Michael Bradley",
+      "person_id": 20492
+    }
+  ],
+  "release_date": "2011-10-05",
+  "scene_id": 2836191,
+  "series": [
+    "Dick Dorm"
+  ],
+  "tags": [],
+  "title": "Loving Shots"
+}

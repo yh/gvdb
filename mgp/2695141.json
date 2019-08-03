@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 613
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "<p>Behind-the-scenes footage from \"Harley & Berke\"! </p>",
+  "models": [
+    {
+      "name": "Berke",
+      "person_id": 17865
+    },
+    {
+      "name": "Harley",
+      "person_id": 17735
+    }
+  ],
+  "release_date": "2008-05-01",
+  "scene_id": 2695141,
+  "series": [],
+  "tags": [
+    "Behind The Scenes"
+  ],
+  "title": "Harley & Berke: Behind the Scenes"
+}

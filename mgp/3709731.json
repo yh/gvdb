@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 746
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Ethan Slade",
+      "person_id": 21228
+    },
+    {
+      "name": "Jimmy Johnson",
+      "person_id": 21573
+    }
+  ],
+  "release_date": "2014-02-24",
+  "scene_id": 3709731,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Wrong Destination"
+}

@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 2911
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Damien Crosse",
+      "person_id": 24196
+    },
+    {
+      "name": "Frederic Duris",
+      "person_id": 40691
+    }
+  ],
+  "release_date": "2013-07-10",
+  "scene_id": 3713221,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "The Best Employee"
+}

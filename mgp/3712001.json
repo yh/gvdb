@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 236
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Cole Streets",
+      "person_id": 39600
+    },
+    {
+      "name": "Kyle Quinn",
+      "person_id": 39428
+    }
+  ],
+  "release_date": "2012-04-23",
+  "scene_id": 3712001,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Midday Distraction"
+}

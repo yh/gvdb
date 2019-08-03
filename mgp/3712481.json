@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 126
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Dylan Roberts",
+      "person_id": 39269
+    },
+    {
+      "name": "Jessie Colter",
+      "person_id": 39373
+    }
+  ],
+  "release_date": "2011-10-31",
+  "scene_id": 3712481,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "After Hours Screening"
+}

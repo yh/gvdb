@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 47
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Cliff Jensen",
+      "person_id": 39472
+    },
+    {
+      "name": "Guy #1",
+      "person_id": 18625
+    }
+  ],
+  "release_date": "2011-09-03",
+  "scene_id": 3702861,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Neighborly Love"
+}

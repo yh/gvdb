@@ -1,0 +1,25 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 631
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Kipper",
+      "person_id": 19871
+    }
+  ],
+  "release_date": "2008-06-14",
+  "scene_id": 2695321,
+  "series": [],
+  "tags": [
+    "Solo"
+  ],
+  "title": "Kipper"
+}

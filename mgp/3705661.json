@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 47521
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Dante Colle",
+      "person_id": 17408
+    },
+    {
+      "name": "Roman Todd",
+      "person_id": 17502
+    }
+  ],
+  "release_date": "2017-12-31",
+  "scene_id": 3705661,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Midnight Kiss"
+}

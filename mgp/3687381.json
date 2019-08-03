@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 3038
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Kayden Gray",
+      "person_id": 39495
+    },
+    {
+      "name": "Topher Di Maggio",
+      "person_id": 39314
+    }
+  ],
+  "release_date": "2013-08-18",
+  "scene_id": 3687381,
+  "series": [
+    "Gods of Men"
+  ],
+  "tags": [],
+  "title": "The Night After"
+}

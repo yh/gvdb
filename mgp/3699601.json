@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 439
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Devin Adams",
+      "person_id": 22430
+    },
+    {
+      "name": "Luca Rosso",
+      "person_id": 39803
+    }
+  ],
+  "release_date": "2014-01-27",
+  "scene_id": 3699601,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Buzz"
+}

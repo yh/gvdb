@@ -1,0 +1,25 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 16
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Jake",
+      "person_id": 17999
+    }
+  ],
+  "release_date": "2001-09-07",
+  "scene_id": 2689451,
+  "series": [],
+  "tags": [
+    "Solo"
+  ],
+  "title": "Jake 2"
+}

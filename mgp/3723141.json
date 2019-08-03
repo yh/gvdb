@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 91
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Logan Scott",
+      "person_id": 40121
+    },
+    {
+      "name": "Mike Martin",
+      "person_id": 40094
+    }
+  ],
+  "release_date": "2011-10-01",
+  "scene_id": 3723141,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Headshots"
+}

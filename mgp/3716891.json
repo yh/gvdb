@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 742
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Brett Carter",
+      "person_id": 40461
+    },
+    {
+      "name": "Jimmy Johnson",
+      "person_id": 21573
+    }
+  ],
+  "release_date": "2013-04-27",
+  "scene_id": 3716891,
+  "series": [
+    "Top to Bottom"
+  ],
+  "tags": [],
+  "title": "Blocking The Roommate"
+}

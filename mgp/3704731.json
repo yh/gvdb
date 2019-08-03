@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 15461
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Colby Keller",
+      "person_id": 39596
+    },
+    {
+      "name": "Connor Maguire",
+      "person_id": 17515
+    }
+  ],
+  "release_date": "2015-04-11",
+  "scene_id": 3704731,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Look What The Boys Dragged In"
+}

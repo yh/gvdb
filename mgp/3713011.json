@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 11231
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Jarek",
+      "person_id": 17785
+    },
+    {
+      "name": "Jaxon Colt",
+      "person_id": 40683
+    }
+  ],
+  "release_date": "2014-11-22",
+  "scene_id": 3713011,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Executive Suite Part 3"
+}

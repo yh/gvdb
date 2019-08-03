@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 42401
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Cliff Jensen",
+      "person_id": 39472
+    },
+    {
+      "name": "Damien Kyle",
+      "person_id": 39446
+    }
+  ],
+  "release_date": "2017-07-23",
+  "scene_id": 3703231,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Runaway Groom"
+}

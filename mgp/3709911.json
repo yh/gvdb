@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 189
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Brenden Cage",
+      "person_id": 40020
+    },
+    {
+      "name": "Colby Keller",
+      "person_id": 39596
+    }
+  ],
+  "release_date": "2011-12-31",
+  "scene_id": 3709911,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "The Sauna"
+}

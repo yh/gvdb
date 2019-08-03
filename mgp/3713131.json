@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 831
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Donny Wright",
+      "person_id": 39649
+    },
+    {
+      "name": "Marcus Ruhl",
+      "person_id": 39301
+    }
+  ],
+  "release_date": "2013-02-18",
+  "scene_id": 3713131,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Lunchtime Jog"
+}

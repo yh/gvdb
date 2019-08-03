@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 7775
+    }
+  ],
+  "collections": [
+    "Reality Dudes"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "John",
+      "person_id": 20396
+    },
+    {
+      "name": "Zachary",
+      "person_id": 20394
+    }
+  ],
+  "release_date": "2011-03-10",
+  "scene_id": 2835501,
+  "series": [
+    "Gay Revenge"
+  ],
+  "tags": [],
+  "title": "Covered Up"
+}

@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 4311
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Dan Broughton",
+      "person_id": 39583
+    },
+    {
+      "name": "Gabriel Clark",
+      "person_id": 39674
+    }
+  ],
+  "release_date": "2014-03-08",
+  "scene_id": 3709081,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "Cruising Episode 5"
+}

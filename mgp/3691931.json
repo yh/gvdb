@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 132
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Ridge Michaels",
+      "person_id": 39358
+    },
+    {
+      "name": "Tyler St.James",
+      "person_id": 39558
+    }
+  ],
+  "release_date": "2011-11-02",
+  "scene_id": 3691931,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Full Release"
+}

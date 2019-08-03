@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 450
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Issac Jones",
+      "person_id": 39764
+    },
+    {
+      "name": "Paddy O'Brian",
+      "person_id": 39537
+    }
+  ],
+  "release_date": "2012-06-17",
+  "scene_id": 3709511,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "Bashed And Furious"
+}

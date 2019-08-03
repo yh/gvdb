@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 3140856
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Louis Ricaute",
+      "person_id": 40742
+    },
+    {
+      "name": "Lucas Fox",
+      "person_id": 40036
+    }
+  ],
+  "release_date": "2018-11-01",
+  "scene_id": 3702371,
+  "series": [
+    "Drill My Hole"
+  ],
+  "tags": [],
+  "title": "See You In My Dreams Part 1"
+}

@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 2031
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Donato Reyes",
+      "person_id": 40191
+    },
+    {
+      "name": "Jessy Ares",
+      "person_id": 24030
+    }
+  ],
+  "release_date": "2013-08-19",
+  "scene_id": 3733811,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Fooling The Newbie"
+}

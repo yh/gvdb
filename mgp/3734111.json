@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 34
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Cole Streets",
+      "person_id": 39600
+    },
+    {
+      "name": "DJ",
+      "person_id": 40781
+    }
+  ],
+  "release_date": "2011-08-27",
+  "scene_id": 3734111,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Show and I Won't Tell"
+}

@@ -1,0 +1,25 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 2430015
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Dexter",
+      "person_id": 17969
+    }
+  ],
+  "release_date": "2018-02-19",
+  "scene_id": 2713031,
+  "series": [],
+  "tags": [
+    "Solo"
+  ],
+  "title": "Dexter"
+}

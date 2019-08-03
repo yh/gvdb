@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 13621
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Eli Hunter",
+      "person_id": 17357
+    },
+    {
+      "name": "Max Sargent",
+      "person_id": 23993
+    }
+  ],
+  "release_date": "2015-02-18",
+  "scene_id": 3710411,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "The Straight Man Part 3"
+}

@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 123
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Jackson Lawless",
+      "person_id": 40300
+    },
+    {
+      "name": "Tyr Alexander",
+      "person_id": 39535
+    }
+  ],
+  "release_date": "2011-10-13",
+  "scene_id": 3713391,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Evaluation Time"
+}

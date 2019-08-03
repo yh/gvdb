@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 512
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Chris Tyler",
+      "person_id": 39478
+    },
+    {
+      "name": "Jessy Ares",
+      "person_id": 24030
+    }
+  ],
+  "release_date": "2012-09-03",
+  "scene_id": 3713411,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Sloppy Interviewee"
+}

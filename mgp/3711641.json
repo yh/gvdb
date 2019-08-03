@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 557
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Marcus Ruhl",
+      "person_id": 39301
+    },
+    {
+      "name": "Trenton Ducati",
+      "person_id": 39630
+    }
+  ],
+  "release_date": "2012-10-15",
+  "scene_id": 3711641,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Out Of Town Trick"
+}

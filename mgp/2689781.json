@@ -1,0 +1,25 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 50
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Travis",
+      "person_id": 19426
+    }
+  ],
+  "release_date": "2001-11-09",
+  "scene_id": 2689781,
+  "series": [],
+  "tags": [
+    "Solo"
+  ],
+  "title": "Travis"
+}

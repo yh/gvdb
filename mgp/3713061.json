@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 9721
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Damien Crosse",
+      "person_id": 24196
+    },
+    {
+      "name": "Juan Lopez",
+      "person_id": 40285
+    }
+  ],
+  "release_date": "2014-10-05",
+  "scene_id": 3713061,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "The Business Of Sex Part 4"
+}

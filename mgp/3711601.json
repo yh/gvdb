@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 35931
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Jacob Taylor",
+      "person_id": 40133
+    },
+    {
+      "name": "Paul Canon",
+      "person_id": 23938
+    }
+  ],
+  "release_date": "2017-01-02",
+  "scene_id": 3711601,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "A Place Of Yes"
+}

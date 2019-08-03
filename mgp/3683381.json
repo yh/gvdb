@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 2890795
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Diego Reyes",
+      "person_id": 40026
+    },
+    {
+      "name": "Emir Boscatto",
+      "person_id": 40028
+    }
+  ],
+  "release_date": "2018-11-15",
+  "scene_id": 3683381,
+  "series": [
+    "Drill My Hole"
+  ],
+  "tags": [],
+  "title": "See You In My Dreams Part 3"
+}

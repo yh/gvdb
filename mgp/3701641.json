@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 407
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Colby Jansen",
+      "person_id": 23826
+    },
+    {
+      "name": "Jimmy Fanz",
+      "person_id": 39571
+    }
+  ],
+  "release_date": "2012-06-16",
+  "scene_id": 3701641,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Discharged"
+}

@@ -1,0 +1,25 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 1774053
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Slade",
+      "person_id": 19356
+    }
+  ],
+  "release_date": "2017-04-03",
+  "scene_id": 2711571,
+  "series": [],
+  "tags": [
+    "Solo"
+  ],
+  "title": "Slade"
+}

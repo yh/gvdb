@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 4831
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Colby Jansen",
+      "person_id": 23826
+    },
+    {
+      "name": "Woody Fox",
+      "person_id": 39547
+    }
+  ],
+  "release_date": "2014-04-03",
+  "scene_id": 3710561,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "Scrum Part 4"
+}

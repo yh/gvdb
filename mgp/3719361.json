@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 20771
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Denis Vega",
+      "person_id": 40151
+    },
+    {
+      "name": "Letterio",
+      "person_id": 40272
+    }
+  ],
+  "release_date": "2015-09-22",
+  "scene_id": 3719361,
+  "series": [
+    "Gods of Men"
+  ],
+  "tags": [],
+  "title": "Unexpected Passion"
+}

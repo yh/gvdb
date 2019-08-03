@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 6311
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Colt Rivers",
+      "person_id": 17667
+    },
+    {
+      "name": "Phenix Saint",
+      "person_id": 39303
+    }
+  ],
+  "release_date": "2014-06-29",
+  "scene_id": 3701331,
+  "series": [
+    "Drill My Hole"
+  ],
+  "tags": [],
+  "title": "Score Part 2"
+}

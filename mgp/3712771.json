@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 666
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Colby Jansen",
+      "person_id": 23826
+    },
+    {
+      "name": "Spencer Fox",
+      "person_id": 25970
+    }
+  ],
+  "release_date": "2012-11-12",
+  "scene_id": 3712771,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Stiff As A Board"
+}

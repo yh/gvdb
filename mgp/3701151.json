@@ -1,0 +1,33 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 15451
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Gus Turner",
+      "person_id": 39493
+    },
+    {
+      "name": "Paul Canon",
+      "person_id": 23938
+    },
+    {
+      "name": "Roman Todd",
+      "person_id": 17502
+    }
+  ],
+  "release_date": "2015-04-10",
+  "scene_id": 3701151,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Bear Weekend Part 2"
+}

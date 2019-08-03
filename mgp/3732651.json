@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 2992
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Tomas Brand",
+      "person_id": 39903
+    },
+    {
+      "name": "Tony Rivera",
+      "person_id": 40648
+    }
+  ],
+  "release_date": "2013-09-30",
+  "scene_id": 3732651,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "A Big Deal"
+}

@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 525
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Bryce Star",
+      "person_id": 39277
+    },
+    {
+      "name": "Joey",
+      "person_id": 17933
+    }
+  ],
+  "release_date": "2012-09-24",
+  "scene_id": 3712861,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Law And Hoarder"
+}

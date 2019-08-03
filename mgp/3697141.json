@@ -1,0 +1,33 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 607
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Alexander Greene",
+      "person_id": 20184
+    },
+    {
+      "name": "Johnny Rapid",
+      "person_id": 20324
+    },
+    {
+      "name": "Ryan Rockford",
+      "person_id": 39462
+    }
+  ],
+  "release_date": "2012-11-29",
+  "scene_id": 3697141,
+  "series": [
+    "Drill My Hole"
+  ],
+  "tags": [],
+  "title": "Home Invasion"
+}

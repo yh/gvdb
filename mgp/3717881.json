@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 3056
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Andrew Stark",
+      "person_id": 39506
+    },
+    {
+      "name": "Enrique Romo",
+      "person_id": 40705
+    }
+  ],
+  "release_date": "2013-10-23",
+  "scene_id": 3717881,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Warehouse Meeting"
+}

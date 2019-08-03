@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 19031
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Mark Sanz",
+      "person_id": 40554
+    },
+    {
+      "name": "Paddy O'Brian",
+      "person_id": 39537
+    }
+  ],
+  "release_date": "2015-08-09",
+  "scene_id": 3710041,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "Naked Promotion"
+}

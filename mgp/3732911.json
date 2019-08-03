@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 558
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Trenton Ducati",
+      "person_id": 39630
+    },
+    {
+      "name": "Ty Roderick",
+      "person_id": 40325
+    }
+  ],
+  "release_date": "2013-01-07",
+  "scene_id": 3732911,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Sext In The Workplace"
+}

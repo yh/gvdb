@@ -1,0 +1,33 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 26851
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Adam Bryant",
+      "person_id": 39852
+    },
+    {
+      "name": "Ricky Larkin",
+      "person_id": 21435
+    },
+    {
+      "name": "Tommy Regan",
+      "person_id": 40304
+    }
+  ],
+  "release_date": "2016-03-03",
+  "scene_id": 3706601,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Neighbrohood Part 3"
+}

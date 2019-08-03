@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 75
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Girth Brooks",
+      "person_id": 32808
+    },
+    {
+      "name": "Philip Aubrey",
+      "person_id": 39593
+    }
+  ],
+  "release_date": "2011-09-24",
+  "scene_id": 3691321,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Gentlemen Prefer Blondes"
+}

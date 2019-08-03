@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 1953
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Paul Walker",
+      "person_id": 39545
+    },
+    {
+      "name": "Will Helm",
+      "person_id": 40561
+    }
+  ],
+  "release_date": "2013-06-18",
+  "scene_id": 3710521,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "GSI : Gay Scene Investigation 2"
+}

@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 14561
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Bruno Bernal",
+      "person_id": 39563
+    },
+    {
+      "name": "Paddy O'Brian",
+      "person_id": 39537
+    }
+  ],
+  "release_date": "2015-03-07",
+  "scene_id": 3711781,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "Hard Knox Part 1"
+}

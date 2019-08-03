@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 300
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "David Chase",
+      "person_id": 39907
+    },
+    {
+      "name": "Valentin Petrov",
+      "person_id": 39312
+    }
+  ],
+  "release_date": "2014-06-23",
+  "scene_id": 3705741,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Measure My Unit"
+}

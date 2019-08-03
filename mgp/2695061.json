@@ -1,0 +1,33 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 605
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Cooper",
+      "person_id": 18338
+    },
+    {
+      "name": "Nicolas",
+      "person_id": 17945
+    },
+    {
+      "name": "Reid",
+      "person_id": 17639
+    }
+  ],
+  "release_date": "2008-04-10",
+  "scene_id": 2695061,
+  "series": [],
+  "tags": [
+    "Behind The Scenes"
+  ],
+  "title": "Double Stuffed: Behind the Scenes"
+}

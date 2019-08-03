@@ -1,0 +1,36 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 200
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Ashton",
+      "person_id": 18366
+    },
+    {
+      "name": "Chet",
+      "person_id": 18368
+    },
+    {
+      "name": "Thad",
+      "person_id": 20001
+    }
+  ],
+  "release_date": "2004-01-23",
+  "scene_id": 2691021,
+  "series": [],
+  "tags": [
+    "Solo",
+    "Latin",
+    "Athlete/Jock",
+    "Uncut"
+  ],
+  "title": "Auditions 13"
+}

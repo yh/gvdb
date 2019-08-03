@@ -1,0 +1,25 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 2315030
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Dixon",
+      "person_id": 19386
+    }
+  ],
+  "release_date": "2018-01-01",
+  "scene_id": 2712781,
+  "series": [],
+  "tags": [
+    "Solo"
+  ],
+  "title": "Dixon"
+}

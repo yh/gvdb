@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 501
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Rocco Reed",
+      "person_id": 497
+    },
+    {
+      "name": "Tommy Defendi",
+      "person_id": 24232
+    }
+  ],
+  "release_date": "2012-08-01",
+  "scene_id": 3704171,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Rocco Reed's Debut"
+}

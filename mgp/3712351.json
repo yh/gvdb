@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 2969
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Chris Bines",
+      "person_id": 40098
+    },
+    {
+      "name": "Mike De Marko",
+      "person_id": 39424
+    }
+  ],
+  "release_date": "2013-07-03",
+  "scene_id": 3712351,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "After Hours Workout"
+}

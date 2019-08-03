@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 15221
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Chris Harder",
+      "person_id": 40374
+    },
+    {
+      "name": "Jarek",
+      "person_id": 17785
+    }
+  ],
+  "release_date": "2015-04-01",
+  "scene_id": 3723721,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Home Wrecker Part 1"
+}

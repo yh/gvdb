@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 6411
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Darius Ferdynand",
+      "person_id": 24280
+    },
+    {
+      "name": "Mario Torrez",
+      "person_id": 39621
+    }
+  ],
+  "release_date": "2014-06-28",
+  "scene_id": 3709341,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "Cockpit Part 1"
+}

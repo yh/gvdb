@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 567
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Jason Goodman",
+      "person_id": 40112
+    },
+    {
+      "name": "Rafael Alencar",
+      "person_id": 39627
+    }
+  ],
+  "release_date": "2012-09-23",
+  "scene_id": 3716091,
+  "series": [
+    "Top to Bottom"
+  ],
+  "tags": [],
+  "title": "The Bodyguard"
+}

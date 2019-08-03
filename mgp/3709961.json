@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 1941
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Duncan Black",
+      "person_id": 39445
+    },
+    {
+      "name": "Zeb Atlas",
+      "person_id": 39370
+    }
+  ],
+  "release_date": "2013-06-06",
+  "scene_id": 3709961,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "The Set-Up"
+}

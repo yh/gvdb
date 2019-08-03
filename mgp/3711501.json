@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 1959
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Andy Taylor",
+      "person_id": 39519
+    },
+    {
+      "name": "Colby Jansen",
+      "person_id": 23826
+    }
+  ],
+  "release_date": "2013-07-25",
+  "scene_id": 3711501,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "The Secretary"
+}

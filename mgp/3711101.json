@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 1952
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "D.O.",
+      "person_id": 40092
+    },
+    {
+      "name": "Will Helm",
+      "person_id": 40561
+    }
+  ],
+  "release_date": "2013-06-11",
+  "scene_id": 3711101,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "GSI : Gay Scene Investigation 1"
+}

@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 21841
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Gabriel Cross",
+      "person_id": 39543
+    },
+    {
+      "name": "Jessy Ares",
+      "person_id": 24030
+    }
+  ],
+  "release_date": "2015-10-27",
+  "scene_id": 3710901,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "Room In Madrid Part 3"
+}

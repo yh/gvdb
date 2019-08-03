@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 749
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Joey",
+      "person_id": 17933
+    },
+    {
+      "name": "Phenix Saint",
+      "person_id": 39303
+    }
+  ],
+  "release_date": "2013-06-29",
+  "scene_id": 3699441,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Dirty Chiropractor"
+}

@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 461
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Dylan Roberts",
+      "person_id": 39269
+    },
+    {
+      "name": "Steve Stiffer",
+      "person_id": 39466
+    }
+  ],
+  "release_date": "2012-07-04",
+  "scene_id": 3734341,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "If You're Man Enough"
+}

@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 828
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Colby Jansen",
+      "person_id": 23826
+    },
+    {
+      "name": "Jake Steel",
+      "person_id": 39295
+    }
+  ],
+  "release_date": "2013-06-19",
+  "scene_id": 3708691,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "The Straight To Gay Show 4"
+}

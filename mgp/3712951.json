@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 8821
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Dato Foland",
+      "person_id": 40053
+    },
+    {
+      "name": "Denis Vega",
+      "person_id": 40151
+    }
+  ],
+  "release_date": "2014-09-14",
+  "scene_id": 3712951,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "The Business Of Sex Part 1"
+}

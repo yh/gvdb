@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 31771
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Aspen",
+      "person_id": 30579
+    },
+    {
+      "name": "Brandon Evans",
+      "person_id": 22736
+    }
+  ],
+  "release_date": "2016-08-20",
+  "scene_id": 3709421,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "What Happens In Vegas Part 3"
+}

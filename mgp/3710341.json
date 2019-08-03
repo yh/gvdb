@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 15751
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Jay Roberts",
+      "person_id": 39589
+    },
+    {
+      "name": "Theo Ford",
+      "person_id": 39678
+    }
+  ],
+  "release_date": "2015-04-21",
+  "scene_id": 3710341,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "Ivy League Part 2"
+}

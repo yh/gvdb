@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 3281
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Darius Ferdynand",
+      "person_id": 24280
+    },
+    {
+      "name": "Kayden Gray",
+      "person_id": 39495
+    }
+  ],
+  "release_date": "2013-11-09",
+  "scene_id": 3710321,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "Secret Diary Of An Escort 2"
+}

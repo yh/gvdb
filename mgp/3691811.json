@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 54
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Tyler Andrews",
+      "person_id": 39736
+    },
+    {
+      "name": "Tyler St.James",
+      "person_id": 39558
+    }
+  ],
+  "release_date": "2011-09-14",
+  "scene_id": 3691811,
+  "series": [
+    "Top to Bottom"
+  ],
+  "tags": [],
+  "title": "Gym Bait"
+}

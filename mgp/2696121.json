@@ -1,0 +1,37 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 711
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "<p>Behind-the-scenes footage from \"Curtis, Trey & Rylan\"!\n<p>Over 15 minutes of some of the funniest shit I've ever seen!",
+  "models": [
+    {
+      "name": "Curtis",
+      "person_id": 17769
+    },
+    {
+      "name": "Ken",
+      "person_id": 1699
+    },
+    {
+      "name": "Rylan",
+      "person_id": 18033
+    },
+    {
+      "name": "Trey",
+      "person_id": 17649
+    }
+  ],
+  "release_date": "2008-11-27",
+  "scene_id": 2696121,
+  "series": [],
+  "tags": [
+    "Behind The Scenes"
+  ],
+  "title": "Curtis, Trey & Rylan: Behind the Scenes"
+}

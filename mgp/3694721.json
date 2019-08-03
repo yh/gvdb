@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 13001
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Colby Jansen",
+      "person_id": 23826
+    },
+    {
+      "name": "Jake Morgan",
+      "person_id": 39964
+    }
+  ],
+  "release_date": "2015-01-22",
+  "scene_id": 3694721,
+  "series": [
+    "Drill My Hole"
+  ],
+  "tags": [],
+  "title": "Colby Breaks Him In Part 3"
+}

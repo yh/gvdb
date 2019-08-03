@@ -1,0 +1,27 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 219
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Clint",
+      "person_id": 20073
+    }
+  ],
+  "release_date": "2004-06-04",
+  "scene_id": 2691211,
+  "series": [],
+  "tags": [
+    "Solo",
+    "Old",
+    "Muscular"
+  ],
+  "title": "Clint"
+}

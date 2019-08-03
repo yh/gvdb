@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 640
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Bryce Star",
+      "person_id": 39277
+    },
+    {
+      "name": "Ryan Rockford",
+      "person_id": 39462
+    }
+  ],
+  "release_date": "2013-01-05",
+  "scene_id": 3700001,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Heads Or Tails"
+}

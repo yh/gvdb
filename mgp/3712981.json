@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 12461
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Brenner Bolton",
+      "person_id": 39778
+    },
+    {
+      "name": "Luke Adams",
+      "person_id": 24071
+    }
+  ],
+  "release_date": "2015-01-09",
+  "scene_id": 3712981,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Down Low Part 2"
+}

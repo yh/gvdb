@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 3394
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Lance Luciano",
+      "person_id": 40495
+    },
+    {
+      "name": "Topher Di Maggio",
+      "person_id": 39314
+    }
+  ],
+  "release_date": "2013-12-20",
+  "scene_id": 3716491,
+  "series": [
+    "Top to Bottom"
+  ],
+  "tags": [],
+  "title": "Top To Bottom : Topher Di Maggio"
+}

@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 25701
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Jason Maddox",
+      "person_id": 39655
+    },
+    {
+      "name": "Landon Mycles",
+      "person_id": 39385
+    }
+  ],
+  "release_date": "2016-02-19",
+  "scene_id": 3699461,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Betting On The Straight Guy Part 1"
+}

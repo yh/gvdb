@@ -1,0 +1,33 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 3057
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Rocco Reed",
+      "person_id": 497
+    },
+    {
+      "name": "Tommy Defendi",
+      "person_id": 24232
+    },
+    {
+      "name": "Tyler Morgan",
+      "person_id": 39511
+    }
+  ],
+  "release_date": "2014-03-27",
+  "scene_id": 3713341,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Lunch Time Flirting"
+}

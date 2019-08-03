@@ -1,0 +1,25 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 2463804
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Sly",
+      "person_id": 19889
+    }
+  ],
+  "release_date": "2018-03-05",
+  "scene_id": 2713081,
+  "series": [],
+  "tags": [
+    "Solo"
+  ],
+  "title": "Sly"
+}

@@ -1,0 +1,25 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 77
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Dennis",
+      "person_id": 18559
+    }
+  ],
+  "release_date": "2002-04-12",
+  "scene_id": 2690021,
+  "series": [],
+  "tags": [
+    "Solo"
+  ],
+  "title": "Dennis"
+}

@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 33541
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Diego Sans",
+      "person_id": 39527
+    },
+    {
+      "name": "Seth Stark",
+      "person_id": 40685
+    }
+  ],
+  "release_date": "2016-10-09",
+  "scene_id": 3713041,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Business Trip"
+}

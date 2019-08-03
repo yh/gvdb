@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 681
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Colby Keller",
+      "person_id": 39596
+    },
+    {
+      "name": "Jessie Colter",
+      "person_id": 39373
+    }
+  ],
+  "release_date": "2012-12-10",
+  "scene_id": 3732621,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "E-male"
+}

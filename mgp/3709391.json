@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 13451
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Dani Robles",
+      "person_id": 40291
+    },
+    {
+      "name": "Paddy O'Brian",
+      "person_id": 39537
+    }
+  ],
+  "release_date": "2015-02-22",
+  "scene_id": 3709391,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "Body Locking Part 2"
+}

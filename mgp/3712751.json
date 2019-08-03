@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 863
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Duncan Black",
+      "person_id": 39445
+    },
+    {
+      "name": "Rocco Reed",
+      "person_id": 497
+    }
+  ],
+  "release_date": "2013-03-25",
+  "scene_id": 3712751,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "The Lobbyist"
+}

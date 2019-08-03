@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 462
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Jessie Colter",
+      "person_id": 39373
+    },
+    {
+      "name": "Shane Frost",
+      "person_id": 39406
+    }
+  ],
+  "release_date": "2014-03-17",
+  "scene_id": 3734761,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Move That Date"
+}

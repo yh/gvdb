@@ -1,0 +1,25 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 2585802
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Logan",
+      "person_id": 18003
+    }
+  ],
+  "release_date": "2018-03-26",
+  "scene_id": 2713141,
+  "series": [],
+  "tags": [
+    "Solo"
+  ],
+  "title": "Logan"
+}

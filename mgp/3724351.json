@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 50041
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Casey Jacks",
+      "person_id": 39812
+    },
+    {
+      "name": "Connor Maguire",
+      "person_id": 17515
+    }
+  ],
+  "release_date": "2018-03-10",
+  "scene_id": 3724351,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Imaginary Boyfriend Part 2"
+}

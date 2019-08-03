@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 858
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Donato Reyes",
+      "person_id": 40191
+    },
+    {
+      "name": "Paddy O'Brian",
+      "person_id": 39537
+    }
+  ],
+  "release_date": "2013-02-26",
+  "scene_id": 3711631,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "Shut Up And Fuck"
+}

@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 13571
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Brandon Moore",
+      "person_id": 40341
+    },
+    {
+      "name": "Jarek",
+      "person_id": 17785
+    }
+  ],
+  "release_date": "2015-02-01",
+  "scene_id": 3720401,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Betting On The Game"
+}

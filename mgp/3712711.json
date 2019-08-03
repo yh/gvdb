@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 49821
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Paddy O'Brian",
+      "person_id": 39537
+    },
+    {
+      "name": "Pietro Duarte",
+      "person_id": 40165
+    }
+  ],
+  "release_date": "2018-03-18",
+  "scene_id": 3712711,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "The Boss Part 1"
+}

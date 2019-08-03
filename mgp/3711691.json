@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 3343
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Marco Rubi",
+      "person_id": 39723
+    },
+    {
+      "name": "Paddy O'Brian",
+      "person_id": 39537
+    }
+  ],
+  "release_date": "2013-12-26",
+  "scene_id": 3711691,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "Men In Crack"
+}

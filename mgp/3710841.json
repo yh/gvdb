@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 14641
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "McKensie Cross",
+      "person_id": 39561
+    },
+    {
+      "name": "Paddy O'Brian",
+      "person_id": 39537
+    }
+  ],
+  "release_date": "2015-03-28",
+  "scene_id": 3710841,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "Hard Knox Part 4"
+}

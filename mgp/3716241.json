@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 147
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Dereck Fox",
+      "person_id": 39742
+    },
+    {
+      "name": "Tyler St.James",
+      "person_id": 39558
+    }
+  ],
+  "release_date": "2011-11-20",
+  "scene_id": 3716241,
+  "series": [
+    "Top to Bottom"
+  ],
+  "tags": [],
+  "title": "My Bitch"
+}

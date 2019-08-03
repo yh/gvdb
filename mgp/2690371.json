@@ -1,0 +1,25 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 122
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Ray",
+      "person_id": 19478
+    }
+  ],
+  "release_date": "2002-10-25",
+  "scene_id": 2690371,
+  "series": [],
+  "tags": [
+    "Solo"
+  ],
+  "title": "Ray"
+}

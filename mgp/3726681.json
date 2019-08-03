@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 55401
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Danny Montero",
+      "person_id": 40740
+    },
+    {
+      "name": "Ryan Bones",
+      "person_id": 22721
+    }
+  ],
+  "release_date": "2018-10-08",
+  "scene_id": 3726681,
+  "series": [
+    "Drill My Hole"
+  ],
+  "tags": [],
+  "title": "Dick Sobriety"
+}

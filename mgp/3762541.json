@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 830
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Jimmy Johnson",
+      "person_id": 21573
+    },
+    {
+      "name": "Ryan Rockford",
+      "person_id": 39462
+    }
+  ],
+  "release_date": "2013-10-22",
+  "scene_id": 3762541,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Blow Dry"
+}

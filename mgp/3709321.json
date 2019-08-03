@@ -1,0 +1,33 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 777
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Harley Everett",
+      "person_id": 39766
+    },
+    {
+      "name": "Rogan Richards",
+      "person_id": 40243
+    },
+    {
+      "name": "Ryan Stokes",
+      "person_id": 40550
+    }
+  ],
+  "release_date": "2013-01-29",
+  "scene_id": 3709321,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "Breaking Em In"
+}

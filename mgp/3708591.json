@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 33721
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Brandon Evans",
+      "person_id": 22736
+    },
+    {
+      "name": "Darin Silvers",
+      "person_id": 23936
+    }
+  ],
+  "release_date": "2016-10-18",
+  "scene_id": 3708591,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "The Third Wheel Part 3"
+}

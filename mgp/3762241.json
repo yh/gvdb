@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 26991
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Alex Mecum",
+      "person_id": 24149
+    },
+    {
+      "name": "Wesley Woods",
+      "person_id": 39934
+    }
+  ],
+  "release_date": "2016-03-10",
+  "scene_id": 3762241,
+  "series": [
+    "Gods of Men"
+  ],
+  "tags": [],
+  "title": "Wonderment"
+}

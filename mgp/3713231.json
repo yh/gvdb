@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 10791
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Jacob Ladder",
+      "person_id": 39932
+    },
+    {
+      "name": "Jarek",
+      "person_id": 17785
+    }
+  ],
+  "release_date": "2014-11-08",
+  "scene_id": 3713231,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Executive Suite Part 1"
+}

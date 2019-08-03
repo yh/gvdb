@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 35711
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Austin Carter",
+      "person_id": 40390
+    },
+    {
+      "name": "Topher Di Maggio",
+      "person_id": 39314
+    }
+  ],
+  "release_date": "2016-12-21",
+  "scene_id": 3705311,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Take The Bait Part 3"
+}

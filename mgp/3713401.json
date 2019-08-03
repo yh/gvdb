@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 170
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Conner Habib",
+      "person_id": 39409
+    },
+    {
+      "name": "Steve Vex",
+      "person_id": 20612
+    }
+  ],
+  "release_date": "2012-08-06",
+  "scene_id": 3713401,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Smoke Break"
+}

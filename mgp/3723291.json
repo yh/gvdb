@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 10841
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Brenner Bolton",
+      "person_id": 39778
+    },
+    {
+      "name": "Sebastian Young",
+      "person_id": 39461
+    }
+  ],
+  "release_date": "2014-11-16",
+  "scene_id": 3723291,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Before My Wife Gets Home"
+}

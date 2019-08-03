@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 15821
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Blue Moores",
+      "person_id": 40712
+    },
+    {
+      "name": "Paddy O'Brian",
+      "person_id": 39537
+    }
+  ],
+  "release_date": "2015-04-29",
+  "scene_id": 3762401,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "The Professional"
+}

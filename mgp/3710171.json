@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 287
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Casey",
+      "person_id": 22511
+    },
+    {
+      "name": "Luca Rosso",
+      "person_id": 39803
+    }
+  ],
+  "release_date": "2012-03-31",
+  "scene_id": 3710171,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Trick Pickup"
+}

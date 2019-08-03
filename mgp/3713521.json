@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 49961
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Jessy Ares",
+      "person_id": 24030
+    },
+    {
+      "name": "Pietro Duarte",
+      "person_id": 40165
+    }
+  ],
+  "release_date": "2018-03-24",
+  "scene_id": 3713521,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "The Boss Part 2"
+}

@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 3210
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Andro Maas",
+      "person_id": 40572
+    },
+    {
+      "name": "Jonny Kingdom",
+      "person_id": 24288
+    }
+  ],
+  "release_date": "2013-10-24",
+  "scene_id": 3711181,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "Supernatural 2"
+}

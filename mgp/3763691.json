@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 195
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Jake Steel",
+      "person_id": 39295
+    },
+    {
+      "name": "Trey Turner",
+      "person_id": 24049
+    }
+  ],
+  "release_date": "2012-01-02",
+  "scene_id": 3763691,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Stood Up"
+}

@@ -1,0 +1,33 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 3349
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Damien Crosse",
+      "person_id": 24196
+    },
+    {
+      "name": "Dato Foland",
+      "person_id": 40053
+    },
+    {
+      "name": "Donato Reyes",
+      "person_id": 40191
+    }
+  ],
+  "release_date": "2013-12-28",
+  "scene_id": 3712151,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Hotel X Part 4"
+}

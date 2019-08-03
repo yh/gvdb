@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 2970
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Chris Bines",
+      "person_id": 40098
+    },
+    {
+      "name": "Liam Magnuson",
+      "person_id": 39639
+    }
+  ],
+  "release_date": "2013-08-29",
+  "scene_id": 3713251,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Hot Waiter"
+}

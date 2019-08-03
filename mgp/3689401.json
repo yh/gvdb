@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 127
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Christian Wilde",
+      "person_id": 39318
+    },
+    {
+      "name": "Jessie Colter",
+      "person_id": 39373
+    }
+  ],
+  "release_date": "2011-10-26",
+  "scene_id": 3689401,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "He Can Do It Better"
+}

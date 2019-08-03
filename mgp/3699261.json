@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 34911
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Leo Fuentes",
+      "person_id": 40137
+    },
+    {
+      "name": "Rocke Rathburne",
+      "person_id": 40600
+    }
+  ],
+  "release_date": "2016-11-29",
+  "scene_id": 3699261,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Free Rent For A Price"
+}

@@ -1,0 +1,37 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 55361
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Gabriel Phoenix",
+      "person_id": 40746
+    },
+    {
+      "name": "Louis Ricaute",
+      "person_id": 40742
+    },
+    {
+      "name": "Orson Deane",
+      "person_id": 40744
+    },
+    {
+      "name": "Pietro Duarte",
+      "person_id": 40165
+    }
+  ],
+  "release_date": "2018-10-11",
+  "scene_id": 3726861,
+  "series": [
+    "Drill My Hole"
+  ],
+  "tags": [],
+  "title": "Emergency Sex Part 3"
+}

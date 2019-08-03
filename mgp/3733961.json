@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 10871
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Armando De Armas",
+      "person_id": 40210
+    },
+    {
+      "name": "Jake Wilder",
+      "person_id": 39911
+    }
+  ],
+  "release_date": "2014-11-03",
+  "scene_id": 3733961,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "My Pretend Boyfriend"
+}

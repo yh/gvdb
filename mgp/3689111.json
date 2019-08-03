@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 403
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Bobby Clark",
+      "person_id": 21321
+    },
+    {
+      "name": "Dean Monroe",
+      "person_id": 24246
+    }
+  ],
+  "release_date": "2012-05-26",
+  "scene_id": 3689111,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "The Stripper"
+}

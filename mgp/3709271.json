@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 20571
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Aspen",
+      "person_id": 30579
+    },
+    {
+      "name": "Dennis West",
+      "person_id": 39775
+    }
+  ],
+  "release_date": "2015-09-12",
+  "scene_id": 3709271,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "The In-Laws Part 2"
+}

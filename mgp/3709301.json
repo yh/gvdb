@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 35571
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Brenner Bolton",
+      "person_id": 39778
+    },
+    {
+      "name": "Connor Maguire",
+      "person_id": 17515
+    }
+  ],
+  "release_date": "2016-12-12",
+  "scene_id": 3709301,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "The Boyfriend Experience Part 2"
+}

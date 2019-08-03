@@ -1,0 +1,26 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 1278
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Elliot",
+      "person_id": 19204
+    }
+  ],
+  "release_date": "2011-08-17",
+  "scene_id": 2701781,
+  "series": [],
+  "tags": [
+    "Solo",
+    "Old"
+  ],
+  "title": "Elliot"
+}

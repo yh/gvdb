@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 100
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Adam Russo",
+      "person_id": 24118
+    },
+    {
+      "name": "Kirk Cummings",
+      "person_id": 39365
+    }
+  ],
+  "release_date": "2013-05-13",
+  "scene_id": 3713631,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Lunchtime Bet"
+}

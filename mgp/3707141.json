@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 50241
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Andy Star",
+      "person_id": 40153
+    },
+    {
+      "name": "Jean Franko",
+      "person_id": 40061
+    }
+  ],
+  "release_date": "2018-03-28",
+  "scene_id": 3707141,
+  "series": [
+    "Gods of Men"
+  ],
+  "tags": [],
+  "title": "The Specialist"
+}

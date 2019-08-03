@@ -1,0 +1,25 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 9411
+    }
+  ],
+  "collections": [
+    "Sean Cody"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Steve",
+      "person_id": 17873
+    }
+  ],
+  "release_date": "2016-02-01",
+  "scene_id": 2709791,
+  "series": [],
+  "tags": [
+    "Solo"
+  ],
+  "title": "Steve"
+}

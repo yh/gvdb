@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 3311
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Jay Roberts",
+      "person_id": 39589
+    },
+    {
+      "name": "Valentino Medici",
+      "person_id": 39591
+    }
+  ],
+  "release_date": "2013-11-23",
+  "scene_id": 3688301,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "Secret Diary of An Escort 4"
+}

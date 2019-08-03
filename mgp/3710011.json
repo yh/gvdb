@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 28951
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Diego Sans",
+      "person_id": 39527
+    },
+    {
+      "name": "Dirk Caber",
+      "person_id": 24059
+    }
+  ],
+  "release_date": "2016-05-20",
+  "scene_id": 3710011,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "The Pilot Part 3"
+}

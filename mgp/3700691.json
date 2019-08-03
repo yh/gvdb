@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 7081
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Rock",
+      "person_id": 40427
+    },
+    {
+      "name": "Tyler Morgan",
+      "person_id": 39511
+    }
+  ],
+  "release_date": "2014-07-23",
+  "scene_id": 3700691,
+  "series": [
+    "Drill My Hole"
+  ],
+  "tags": [],
+  "title": "Your Dad's Gay"
+}

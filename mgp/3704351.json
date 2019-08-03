@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 52021
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Liam Emerson",
+      "person_id": 40436
+    },
+    {
+      "name": "Manuel Skye",
+      "person_id": 22823
+    }
+  ],
+  "release_date": "2018-05-08",
+  "scene_id": 3704351,
+  "series": [
+    "Gods of Men"
+  ],
+  "tags": [],
+  "title": "To Be Loved"
+}

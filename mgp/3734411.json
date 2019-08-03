@@ -1,0 +1,33 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 2916
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Andrew Stark",
+      "person_id": 39506
+    },
+    {
+      "name": "Chris Bines",
+      "person_id": 40098
+    },
+    {
+      "name": "Rocco Reed",
+      "person_id": 497
+    }
+  ],
+  "release_date": "2013-07-18",
+  "scene_id": 3734411,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "The Sales Call"
+}

@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 15431
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Chris Harder",
+      "person_id": 40374
+    },
+    {
+      "name": "Will Braun",
+      "person_id": 22884
+    }
+  ],
+  "release_date": "2015-04-08",
+  "scene_id": 3699731,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Home Wrecker Part 2"
+}

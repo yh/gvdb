@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 3357
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Connor Maguire",
+      "person_id": 17515
+    },
+    {
+      "name": "Tom Faulk",
+      "person_id": 22788
+    }
+  ],
+  "release_date": "2014-05-01",
+  "scene_id": 3712801,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Nervous Intern"
+}

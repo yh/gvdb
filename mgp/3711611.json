@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 118
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Cameron Adams",
+      "person_id": 39379
+    },
+    {
+      "name": "Nick Forte",
+      "person_id": 39274
+    }
+  ],
+  "release_date": "2013-06-03",
+  "scene_id": 3711611,
+  "series": [
+    "The Gay Office"
+  ],
+  "tags": [],
+  "title": "Performance Review"
+}

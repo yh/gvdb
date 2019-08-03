@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 20061
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Diego Sans",
+      "person_id": 39527
+    },
+    {
+      "name": "Jack Radley",
+      "person_id": 39728
+    }
+  ],
+  "release_date": "2015-08-23",
+  "scene_id": 3705151,
+  "series": [
+    "Str8 to Gay"
+  ],
+  "tags": [],
+  "title": "Rumspringa Part 2"
+}

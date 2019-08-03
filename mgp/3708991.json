@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 5651
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Dan Broughton",
+      "person_id": 39583
+    },
+    {
+      "name": "Rick Bauer",
+      "person_id": 39586
+    }
+  ],
+  "release_date": "2014-05-20",
+  "scene_id": 3708991,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "Disconnected Part 3"
+}

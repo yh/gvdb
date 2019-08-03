@@ -1,0 +1,29 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 3481
+    }
+  ],
+  "collections": [
+    "Men"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Gabriel Clark",
+      "person_id": 39674
+    },
+    {
+      "name": "Jay Roberts",
+      "person_id": 39589
+    }
+  ],
+  "release_date": "2014-02-08",
+  "scene_id": 3709541,
+  "series": [
+    "Men of UK"
+  ],
+  "tags": [],
+  "title": "Cruising Episode 1"
+}
