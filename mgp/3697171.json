@@ -11,12 +11,12 @@
   "description": "",
   "models": [
     {
-      "name": "Ian",
-      "person_id": 22144
-    },
-    {
       "name": "Topher Di Maggio",
       "person_id": 39314
+    },
+    {
+      "name": "Tory Mason",
+      "person_id": 22144
     }
   ],
   "release_date": "2012-03-29",

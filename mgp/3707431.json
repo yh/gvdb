@@ -11,10 +11,6 @@
   "description": "Houseboy Part 3",
   "models": [
     {
-      "name": "Barry",
-      "person_id": 18249
-    },
-    {
       "name": "Johnny Rapid",
       "person_id": 20324
     },
@@ -25,6 +21,10 @@
     {
       "name": "Logan Vaughn",
       "person_id": 39643
+    },
+    {
+      "name": "Paul Wagner",
+      "person_id": 18249
     }
   ],
   "release_date": "2014-07-31",

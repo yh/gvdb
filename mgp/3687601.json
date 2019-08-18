@@ -8,8 +8,12 @@
   "collections": [
     "Men"
   ],
-  "description": "",
+  "description": "Talking To The Enemy",
   "models": [
+    {
+      "name": "Jacob Durham",
+      "person_id": 20720
+    },
     {
       "name": "Randy Star",
       "person_id": 39521

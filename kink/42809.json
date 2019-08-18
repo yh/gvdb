@@ -11,12 +11,12 @@
   ],
   "models": [
     {
-      "name": "Eli Hunter",
-      "person_id": 51998
-    },
-    {
       "name": "Olive Glass",
       "person_id": 60453
+    },
+    {
+      "name": "Shawn Fox",
+      "person_id": 51998
     }
   ],
   "release_date": "2017-11-07",

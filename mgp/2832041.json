@@ -11,12 +11,12 @@
   "description": "",
   "models": [
     {
-      "name": "Ian",
-      "person_id": 22144
-    },
-    {
       "name": "Skyy",
       "person_id": 22146
+    },
+    {
+      "name": "Tory Mason",
+      "person_id": 22144
     }
   ],
   "release_date": "2006-09-18",

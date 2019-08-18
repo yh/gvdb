@@ -8,7 +8,7 @@
   "collections": [
     "Men"
   ],
-  "description": "",
+  "description": "Greek History",
   "models": [
     {
       "name": "Colby Jansen",
@@ -40,7 +40,12 @@
     "Student",
     "Teacher",
     "Anal",
-    "Younger/Older"
+    "Younger/Older",
+    "Bear",
+    "American",
+    "Blond Hair",
+    "Short Hair",
+    "Average Dick"
   ],
   "title": "Greek History"
 }

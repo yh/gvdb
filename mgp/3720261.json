@@ -11,16 +11,16 @@
   "description": "",
   "models": [
     {
+      "name": "Justin King",
+      "person_id": 24032
+    },
+    {
       "name": "Paddy O'Brian",
       "person_id": 39537
     },
     {
       "name": "Paul Walker",
       "person_id": 39545
-    },
-    {
-      "name": "Thomas Spindler",
-      "person_id": 24032
     }
   ],
   "release_date": "2013-05-21",

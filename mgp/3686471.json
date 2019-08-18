@@ -8,15 +8,15 @@
   "collections": [
     "Men"
   ],
-  "description": "",
+  "description": "In A Perfect World",
   "models": [
-    {
-      "name": "Caleb",
-      "person_id": 20330
-    },
     {
       "name": "Hayden Richards",
       "person_id": 18073
+    },
+    {
+      "name": "Matthew Hunter",
+      "person_id": 20330
     }
   ],
   "release_date": "2014-05-05",

@@ -8,15 +8,15 @@
   "collections": [
     "Men"
   ],
-  "description": "",
+  "description": "Pissed Off",
   "models": [
-    {
-      "name": "Ian",
-      "person_id": 22144
-    },
     {
       "name": "Spencer Fox",
       "person_id": 25970
+    },
+    {
+      "name": "Tory Mason",
+      "person_id": 22144
     }
   ],
   "release_date": "2012-06-05",

@@ -9,7 +9,16 @@
     "Men"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Charlie Pattinson",
+      "person_id": 21936
+    },
+    {
+      "name": "Lucky Daniels",
+      "person_id": 22751
+    }
+  ],
   "release_date": "2016-11-10",
   "scene_id": 3698851,
   "series": [

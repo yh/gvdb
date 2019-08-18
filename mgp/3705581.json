@@ -11,12 +11,12 @@
   "description": "",
   "models": [
     {
-      "name": "Damien Stone",
-      "person_id": 39832
+      "name": "Clark Campbell",
+      "person_id": 17819
     },
     {
-      "name": "Forrest",
-      "person_id": 17819
+      "name": "Damien Stone",
+      "person_id": 39832
     }
   ],
   "release_date": "2017-12-09",

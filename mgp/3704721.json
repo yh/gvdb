@@ -11,12 +11,12 @@
   "description": "",
   "models": [
     {
-      "name": "Chris Tyler",
-      "person_id": 39478
-    },
-    {
       "name": "Cliff Jensen",
       "person_id": 39472
+    },
+    {
+      "name": "Nikko Alexander",
+      "person_id": 39478
     }
   ],
   "release_date": "2012-01-22",

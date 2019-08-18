@@ -8,15 +8,15 @@
   "collections": [
     "Men"
   ],
-  "description": "",
+  "description": "Substitute Teacher",
   "models": [
-    {
-      "name": "Chris Tyler",
-      "person_id": 39478
-    },
     {
       "name": "Kyle King",
       "person_id": 39577
+    },
+    {
+      "name": "Nikko Alexander",
+      "person_id": 39478
     }
   ],
   "release_date": "2012-04-27",
@@ -36,7 +36,9 @@
     "Shaved Head",
     "Professional/White Collar",
     "Anal",
-    "Black Hair"
+    "American",
+    "Black Hair",
+    "Average Dick"
   ],
   "title": "Substitute Teacher"
 }

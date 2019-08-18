@@ -11,12 +11,12 @@
   "description": "",
   "models": [
     {
-      "name": "Barry",
-      "person_id": 18249
-    },
-    {
       "name": "Luke Adams",
       "person_id": 24071
+    },
+    {
+      "name": "Paul Wagner",
+      "person_id": 18249
     }
   ],
   "release_date": "2014-06-19",

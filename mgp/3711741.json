@@ -11,12 +11,12 @@
   "description": "",
   "models": [
     {
-      "name": "Mike De Marko",
-      "person_id": 39424
+      "name": "Johnny Ryder",
+      "person_id": 18159
     },
     {
-      "name": "Sander",
-      "person_id": 18159
+      "name": "Mike De Marko",
+      "person_id": 39424
     }
   ],
   "release_date": "2014-01-07",

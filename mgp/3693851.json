@@ -8,15 +8,15 @@
   "collections": [
     "Men"
   ],
-  "description": "",
+  "description": "Bad Juice Beat Down",
   "models": [
-    {
-      "name": "Chris Tyler",
-      "person_id": 39478
-    },
     {
       "name": "Dereck Fox",
       "person_id": 39742
+    },
+    {
+      "name": "Nikko Alexander",
+      "person_id": 39478
     }
   ],
   "release_date": "2014-10-13",
@@ -38,7 +38,9 @@
     "Shaved Head",
     "Anal",
     "Rough Sex",
-    "Black Hair"
+    "American",
+    "Black Hair",
+    "Average Dick"
   ],
   "title": "Bad Juice Beat Down"
 }

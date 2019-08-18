@@ -11,12 +11,12 @@
   "description": "",
   "models": [
     {
-      "name": "Ian",
-      "person_id": 22144
-    },
-    {
       "name": "Shane Frost",
       "person_id": 39406
+    },
+    {
+      "name": "Tory Mason",
+      "person_id": 22144
     }
   ],
   "release_date": "2012-07-17",

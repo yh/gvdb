@@ -8,15 +8,15 @@
   "collections": [
     "Men"
   ],
-  "description": "",
+  "description": "Hotel Surveillance",
   "models": [
+    {
+      "name": "Johnny Ryder",
+      "person_id": 18159
+    },
     {
       "name": "Rocco Reed",
       "person_id": 497
-    },
-    {
-      "name": "Sander",
-      "person_id": 18159
     }
   ],
   "release_date": "2014-05-29",
@@ -24,6 +24,13 @@
   "series": [
     "The Gay Office"
   ],
-  "tags": [],
+  "tags": [
+    "One-on-One",
+    "Dress Socks",
+    "Blowjob",
+    "Muscular",
+    "Anal",
+    "Italian"
+  ],
   "title": "Hotel Surveillance"
 }

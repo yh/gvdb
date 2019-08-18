@@ -11,12 +11,12 @@
   "description": "",
   "models": [
     {
-      "name": "Caleb",
-      "person_id": 20330
-    },
-    {
       "name": "Jimmy Slate",
       "person_id": 20332
+    },
+    {
+      "name": "Matthew Hunter",
+      "person_id": 20330
     }
   ],
   "release_date": "2015-05-15",

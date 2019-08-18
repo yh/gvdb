@@ -11,6 +11,10 @@
   "description": "",
   "models": [
     {
+      "name": "Charlie Pattinson",
+      "person_id": 21936
+    },
+    {
       "name": "Tommy Regan",
       "person_id": 40304
     }

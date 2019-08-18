@@ -11,12 +11,12 @@
   "description": "",
   "models": [
     {
-      "name": "Daniel",
-      "person_id": 17953
+      "name": "Clark Campbell",
+      "person_id": 17819
     },
     {
-      "name": "Forrest",
-      "person_id": 17819
+      "name": "Daniel",
+      "person_id": 17953
     }
   ],
   "release_date": "2015-06-13",

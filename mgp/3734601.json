@@ -11,6 +11,10 @@
   "description": "The Hacker",
   "models": [
     {
+      "name": "Damien Stone.",
+      "person_id": 17345
+    },
+    {
       "name": "Dean Monroe",
       "person_id": 24246
     },
@@ -39,10 +43,12 @@
     "Hairy",
     "Muscular",
     "Professional/White Collar",
-    "European",
+    "25-34",
+    "American",
     "Brown Hair",
     "Short Hair",
-    "Average Dick"
+    "Average Dick",
+    "European"
   ],
   "title": "The Hacker"
 }

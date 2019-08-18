@@ -15,10 +15,6 @@
       "person_id": 20630
     },
     {
-      "name": "Caleb",
-      "person_id": 20330
-    },
-    {
       "name": "Charlie",
       "person_id": 20626
     },
@@ -37,6 +33,10 @@
     {
       "name": "Leah",
       "person_id": 20632
+    },
+    {
+      "name": "Matthew Hunter",
+      "person_id": 20330
     },
     {
       "name": "Michelle",

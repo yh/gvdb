@@ -11,6 +11,10 @@
   "description": "",
   "models": [
     {
+      "name": "Jacob Durham",
+      "person_id": 20720
+    },
+    {
       "name": "Sebastian Young",
       "person_id": 39461
     }
