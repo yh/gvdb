@@ -6,7 +6,7 @@
   "models": [
     {
       "name": "Christian 1",
-      "person_id": 1
+      "person_id": 29602
     },
     {
       "name": "Dakota",
@@ -17,5 +17,5 @@
   "scene_id": 54812,
   "series": "Deep Drilling",
   "tags": [],
-  "title": "Deep Drilling, Scene #02"
+  "title": "Deep Drilling"
 }

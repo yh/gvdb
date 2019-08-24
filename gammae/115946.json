@@ -9,20 +9,8 @@
       "person_id": 26257
     },
     {
-      "name": "Bryce Pierce",
-      "person_id": 37705
-    },
-    {
       "name": "Jeff Allen",
       "person_id": 37566
-    },
-    {
-      "name": "Leif Gobo",
-      "person_id": 47022
-    },
-    {
-      "name": "Matthew Green",
-      "person_id": 37567
     },
     {
       "name": "Michael Soldier",
@@ -41,5 +29,5 @@
   "scene_id": 115946,
   "series": "Up Your Alley II",
   "tags": [],
-  "title": "Up Your Alley II, Scene #02"
+  "title": "Up Your Alley II"
 }

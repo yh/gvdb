@@ -13,20 +13,8 @@
       "person_id": 30191
     },
     {
-      "name": "Damien King",
-      "person_id": 30439
-    },
-    {
-      "name": "J.D. Price",
-      "person_id": 30438
-    },
-    {
       "name": "Jeremy Kirk",
       "person_id": 30432
-    },
-    {
-      "name": "Noah Walker",
-      "person_id": 30436
     },
     {
       "name": "Shane Stone",
@@ -41,5 +29,5 @@
   "scene_id": 57152,
   "series": "Eon Films: Ashton's 11",
   "tags": [],
-  "title": "Eon Films: Ashton's 11, Scene #05"
+  "title": "Eon Films: Ashton's 11"
 }

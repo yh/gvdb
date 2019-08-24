@@ -5,10 +5,6 @@
   "description": "",
   "models": [
     {
-      "name": "Adam Kubick",
-      "person_id": 21030
-    },
-    {
       "name": "Daren Dune",
       "person_id": 20987
     },
@@ -25,24 +21,8 @@
       "person_id": 20870
     },
     {
-      "name": "Jose Scott",
-      "person_id": 20992
-    },
-    {
-      "name": "Jules Terry",
-      "person_id": 21040
-    },
-    {
       "name": "Julian Vincenzo",
       "person_id": 20918
-    },
-    {
-      "name": "Michael Kozec",
-      "person_id": 20993
-    },
-    {
-      "name": "Otto Roberts",
-      "person_id": 21541
     }
   ],
   "release_date": "1998-05-04",

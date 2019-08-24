@@ -2,7 +2,7 @@
   "collections": [
     "Active Duty"
   ],
-  "description": "Behind the Scenes ...Following the film on the second DVD disc is extensive behind the scenes footage, some of which was shot by the guys while they were out on the town partying.",
+  "description": "Behind the Scenes ...<br />Following the film on the second DVD disc is extensive behind the scenes footage, some of which was shot by the guys while they were out on the town partying.",
   "models": [
     {
       "name": "Chaz",
@@ -23,14 +23,6 @@
     {
       "name": "Kasey",
       "person_id": 35026
-    },
-    {
-      "name": "Randy",
-      "person_id": 35130
-    },
-    {
-      "name": "Thomas",
-      "person_id": 35154
     }
   ],
   "release_date": "2009-06-04",

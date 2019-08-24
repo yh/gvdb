@@ -5,10 +5,6 @@
   "description": "",
   "models": [
     {
-      "name": "Brent Moon",
-      "person_id": 21071
-    },
-    {
       "name": "David Rivera",
       "person_id": 21013
     },
@@ -23,10 +19,6 @@
     {
       "name": "Ludovic Canot",
       "person_id": 21070
-    },
-    {
-      "name": "Renato Bellagio",
-      "person_id": 22883
     },
     {
       "name": "Steve Hunt",

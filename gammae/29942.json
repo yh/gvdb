@@ -23,26 +23,6 @@
     {
       "name": "Kent North",
       "person_id": 15819
-    },
-    {
-      "name": "Nick Capra",
-      "person_id": 16093
-    },
-    {
-      "name": "Nick Savage",
-      "person_id": 16108
-    },
-    {
-      "name": "Rik Jammer",
-      "person_id": 16239
-    },
-    {
-      "name": "Rod Barry",
-      "person_id": 16276
-    },
-    {
-      "name": "Tim Rusty",
-      "person_id": 16454
     }
   ],
   "release_date": "2007-12-25",
@@ -64,5 +44,5 @@
     "Sex Toys",
     "Tattoos"
   ],
-  "title": "Twisted, Scene #05"
+  "title": "Twisted"
 }

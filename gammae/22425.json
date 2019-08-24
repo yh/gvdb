@@ -17,32 +17,12 @@
       "person_id": 10809
     },
     {
-      "name": "Eddie Moreno",
-      "person_id": 11251
-    },
-    {
-      "name": "Kyle Hardin",
-      "person_id": 11450
-    },
-    {
-      "name": "Leo Bramm",
-      "person_id": 11376
-    },
-    {
       "name": "Logan Krewe",
       "person_id": 10860
     },
     {
       "name": "Robert Balint",
       "person_id": 10898
-    },
-    {
-      "name": "Roland Dane",
-      "person_id": 11455
-    },
-    {
-      "name": "Trey Rexx",
-      "person_id": 11486
     }
   ],
   "release_date": "2004-03-01",
@@ -59,5 +39,5 @@
     "Romance",
     "Tattoos"
   ],
-  "title": "Shock, Part 1, Scene #04"
+  "title": "Shock, Part 1"
 }

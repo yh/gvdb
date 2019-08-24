@@ -5,20 +5,8 @@
   "description": "",
   "models": [
     {
-      "name": "Anthony Moore",
-      "person_id": 58410
-    },
-    {
-      "name": "Cayden Stone",
-      "person_id": 58409
-    },
-    {
       "name": "Dante Colle",
       "person_id": 51897
-    },
-    {
-      "name": "Elliot Finn",
-      "person_id": 58408
     },
     {
       "name": "Jackson Traynor",
@@ -35,14 +23,6 @@
     {
       "name": "Quin Quire",
       "person_id": 52165
-    },
-    {
-      "name": "Shawn Mason",
-      "person_id": 58407
-    },
-    {
-      "name": "Steve Rickz",
-      "person_id": 57799
     }
   ],
   "release_date": "2019-05-04",

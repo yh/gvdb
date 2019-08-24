@@ -5,24 +5,12 @@
   "description": "",
   "models": [
     {
-      "name": "Anthony Moore",
-      "person_id": 58410
-    },
-    {
       "name": "Dacotah Red",
       "person_id": 52157
     },
     {
       "name": "Dalton Riley",
       "person_id": 48651
-    },
-    {
-      "name": "Elliot Finn",
-      "person_id": 58408
-    },
-    {
-      "name": "Hayden Brier",
-      "person_id": 58823
     },
     {
       "name": "Johnny Hill",

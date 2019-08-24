@@ -5,10 +5,6 @@
   "description": "",
   "models": [
     {
-      "name": "Claudio Antonelli",
-      "person_id": 20919
-    },
-    {
       "name": "Enrique Gardinelli",
       "person_id": 20915
     },
@@ -21,24 +17,8 @@
       "person_id": 20824
     },
     {
-      "name": "Irving Hunter",
-      "person_id": 20917
-    },
-    {
-      "name": "Julian Vincenzo",
-      "person_id": 20918
-    },
-    {
-      "name": "Lucio Maverick",
-      "person_id": 20921
-    },
-    {
       "name": "Martin Hubai",
       "person_id": 20804
-    },
-    {
-      "name": "Rod Stevans",
-      "person_id": 20920
     },
     {
       "name": "Zeno Alexander",
@@ -55,5 +35,5 @@
     "Swimwear",
     "Tattoos"
   ],
-  "title": "Swim Meat 2, Scene #07"
+  "title": "Swim Meat 2"
 }

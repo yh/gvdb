@@ -5,14 +5,6 @@
   "description": "",
   "models": [
     {
-      "name": "Andrew Moretti",
-      "person_id": 20983
-    },
-    {
-      "name": "Chris Sparrow",
-      "person_id": 21000
-    },
-    {
       "name": "Devil",
       "person_id": 20841
     },
@@ -21,16 +13,8 @@
       "person_id": 20962
     },
     {
-      "name": "Greg Orson",
-      "person_id": 20981
-    },
-    {
       "name": "Isidore Nadas",
       "person_id": 20762
-    },
-    {
-      "name": "Jack Dragon",
-      "person_id": 20979
     },
     {
       "name": "Rod Stevans",
@@ -56,5 +40,5 @@
     "butt play",
     "prisons"
   ],
-  "title": "Lock Down, Scene #07"
+  "title": "Lock Down"
 }

@@ -13,20 +13,8 @@
       "person_id": 10830
     },
     {
-      "name": "Christian Taylor",
-      "person_id": 11097
-    },
-    {
-      "name": "Daniel Sinclair",
-      "person_id": 11485
-    },
-    {
       "name": "Jimmy McGuire",
       "person_id": 11066
-    },
-    {
-      "name": "Josh Harting",
-      "person_id": 11213
     },
     {
       "name": "Josh Weston",
@@ -49,5 +37,5 @@
     "Sixty-Nine",
     "Tattoos"
   ],
-  "title": "Deception, Part 1, Scene #03"
+  "title": "Deception, Part 1"
 }

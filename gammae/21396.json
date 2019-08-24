@@ -9,20 +9,8 @@
       "person_id": 11445
     },
     {
-      "name": "Daryl Brock",
-      "person_id": 12002
-    },
-    {
-      "name": "Jackson Phillips",
-      "person_id": 11965
-    },
-    {
       "name": "Jake Andrews",
       "person_id": 11431
-    },
-    {
-      "name": "Ken Ryker",
-      "person_id": 12008
     },
     {
       "name": "Kevin Dean",
@@ -33,16 +21,8 @@
       "person_id": 11027
     },
     {
-      "name": "Steve Marks",
-      "person_id": 12004
-    },
-    {
       "name": "Tom Steele",
       "person_id": 11435
-    },
-    {
-      "name": "Trent Reed",
-      "person_id": 11513
     }
   ],
   "release_date": "2010-07-01",

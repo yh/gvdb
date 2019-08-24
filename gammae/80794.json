@@ -9,10 +9,6 @@
       "person_id": 26257
     },
     {
-      "name": "Bryce Pierce",
-      "person_id": 37705
-    },
-    {
       "name": "Jeff Allen",
       "person_id": 37566
     },
@@ -25,10 +21,6 @@
       "person_id": 26297
     },
     {
-      "name": "Scott Samson",
-      "person_id": 37568
-    },
-    {
       "name": "Sky Donovan",
       "person_id": 26259
     }
@@ -37,5 +29,5 @@
   "scene_id": 80794,
   "series": "Up Your Alley, Part 1",
   "tags": [],
-  "title": "Up Your Alley, Part 1, Scene #04"
+  "title": "Up Your Alley, Part 1"
 }

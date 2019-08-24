@@ -2,7 +2,7 @@
   "collections": [
     "Active Duty"
   ],
-  "description": "Alex Solo ... In this solo from Alex, we are introduced to the fine young gent from many moons ago.",
+  "description": "Alex Solo ... <br />In this solo from Alex, we are introduced to the fine young gent from many moons ago.",
   "models": [
     {
       "name": "Alex",

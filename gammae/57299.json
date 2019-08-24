@@ -5,32 +5,12 @@
   "description": "Triumvirate: Can't Hide That Feeling Part 2",
   "models": [
     {
-      "name": "Andrew Connel",
-      "person_id": 29693
-    },
-    {
       "name": "Bad Surek",
       "person_id": 29612
     },
     {
-      "name": "Bobby Brown",
-      "person_id": 29697
-    },
-    {
       "name": "Bruce Money",
       "person_id": 29529
-    },
-    {
-      "name": "Chet Meyers",
-      "person_id": 29619
-    },
-    {
-      "name": "Janny Rashow",
-      "person_id": 29688
-    },
-    {
-      "name": "Jon March",
-      "person_id": 29614
     },
     {
       "name": "Jude Lowe",
@@ -49,5 +29,5 @@
   "scene_id": 57299,
   "series": "Triumvirate: Can't Hide That Feeling Part 2",
   "tags": [],
-  "title": "Triumvirate: Can't Hide That Feeling Part 2, Scene #05"
+  "title": "Triumvirate: Can't Hide That Feeling Part 2"
 }

@@ -13,10 +13,6 @@
       "person_id": 11355
     },
     {
-      "name": "Cade Devlin",
-      "person_id": 11401
-    },
-    {
       "name": "Chet Roberts",
       "person_id": 11150
     },
@@ -27,10 +23,6 @@
     {
       "name": "Jon Galt",
       "person_id": 11010
-    },
-    {
-      "name": "Tyler Gunn",
-      "person_id": 11452
     }
   ],
   "release_date": "2004-03-01",
@@ -44,5 +36,5 @@
     "Tattoos",
     "Uniforms"
   ],
-  "title": "The Recruits, Scene #03"
+  "title": "The Recruits"
 }

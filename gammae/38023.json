@@ -21,16 +21,8 @@
       "person_id": 19841
     },
     {
-      "name": "Riley Porter",
-      "person_id": 19842
-    },
-    {
       "name": "Tom Vacarro",
       "person_id": 19505
-    },
-    {
-      "name": "Tony Serrano",
-      "person_id": 19843
     }
   ],
   "release_date": "2002-12-31",
@@ -48,5 +40,5 @@
     "international",
     "rimming"
   ],
-  "title": "NeXus, Scene #03"
+  "title": "NeXus"
 }

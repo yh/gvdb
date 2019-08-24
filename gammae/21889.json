@@ -2,7 +2,7 @@
   "collections": [
     "Falcon Studios"
   ],
-  "description": "Solo with Kip Harting.",
+  "description": "Solo with Kip Harting. ",
   "models": [
     {
       "name": "Kip Harting",
@@ -13,5 +13,5 @@
   "scene_id": 21889,
   "series": "Shoot",
   "tags": [],
-  "title": "Shoot, Scene #01"
+  "title": "Shoot"
 }

@@ -2,7 +2,7 @@
   "collections": [
     "Active Duty"
   ],
-  "description": "This time around we've got a hot solo that Hops did for us a while back. We just love seeing Hops chomp down on that cigar &nbsp; so dang hot!Hops has been in many of our features, including Long Deployment 3, Below Deck, About Face 2, Long Deployment 2, Twin Soldiers 2 and Drafted 2. Busy as a bee, ain't he?",
+  "description": "This time around we've got a hot solo that Hops did for us a while back. We just love seeing Hops chomp down on that cigar \u00a0 so dang hot!<br /><br />Hops has been in many of our features, including Long Deployment 3, Below Deck, About Face 2, Long Deployment 2, Twin Soldiers 2 and Drafted 2. Busy as a bee, ain't he?",
   "models": [
     {
       "name": "Hops",
@@ -16,5 +16,5 @@
     "Gay",
     "War Chest"
   ],
-  "title": "Hops, Scene #01"
+  "title": "Hops"
 }

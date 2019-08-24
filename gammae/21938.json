@@ -9,24 +9,12 @@
       "person_id": 11924
     },
     {
-      "name": "Doug Perry",
-      "person_id": 11967
-    },
-    {
-      "name": "Hunter Scott",
-      "person_id": 11971
-    },
-    {
       "name": "Joshua Scott",
       "person_id": 11264
     },
     {
       "name": "Justin Bailey",
       "person_id": 11061
-    },
-    {
-      "name": "Matt Masters",
-      "person_id": 11973
     },
     {
       "name": "Max Grand",
@@ -41,5 +29,5 @@
   "scene_id": 21938,
   "series": "Midnight Run",
   "tags": [],
-  "title": "Midnight Run, Scene #03"
+  "title": "Midnight Run"
 }

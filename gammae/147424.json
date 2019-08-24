@@ -5,20 +5,8 @@
   "description": "",
   "models": [
     {
-      "name": "Dacotah Red",
-      "person_id": 52157
-    },
-    {
-      "name": "Elliot Finn",
-      "person_id": 58408
-    },
-    {
       "name": "Elye Black",
       "person_id": 51047
-    },
-    {
-      "name": "Evan Landers",
-      "person_id": 58024
     },
     {
       "name": "Johnny B",
@@ -35,14 +23,6 @@
     {
       "name": "Scott Finn",
       "person_id": 50329
-    },
-    {
-      "name": "Will Braun",
-      "person_id": 58537
-    },
-    {
-      "name": "Zion Nicholas",
-      "person_id": 58022
     }
   ],
   "release_date": "2019-06-03",

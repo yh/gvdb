@@ -6,7 +6,7 @@
   "models": [
     {
       "name": "Angel 1",
-      "person_id": 1
+      "person_id": 30313
     },
     {
       "name": "Taz",
@@ -21,5 +21,5 @@
   "scene_id": 55434,
   "series": "Hide & Seek Times 3",
   "tags": [],
-  "title": "Hide & Seek Times 3, Scene #01"
+  "title": "Hide & Seek Times 3"
 }
