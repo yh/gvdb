@@ -11,12 +11,12 @@
   "description": "",
   "models": [
     {
-      "name": "Jeremy Bilding",
-      "person_id": 9385
-    },
-    {
       "name": "Parker London",
       "person_id": 39523
+    },
+    {
+      "name": "Ryan Driller",
+      "person_id": 9385
     }
   ],
   "release_date": "2011-07-22",

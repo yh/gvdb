@@ -11,12 +11,12 @@
   "description": "Bad Juice Beat Down",
   "models": [
     {
-      "name": "Dereck Fox",
-      "person_id": 39742
+      "name": "Chris Tyler",
+      "person_id": 39478
     },
     {
-      "name": "Nikko Alexander",
-      "person_id": 39478
+      "name": "Dereck Fox",
+      "person_id": 39742
     }
   ],
   "release_date": "2014-10-13",

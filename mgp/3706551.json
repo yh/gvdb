@@ -11,6 +11,10 @@
   "description": "New Teammate",
   "models": [
     {
+      "name": "Chris Tyler",
+      "person_id": 39478
+    },
+    {
       "name": "Dean Monroe",
       "person_id": 24246
     },
@@ -21,10 +25,6 @@
     {
       "name": "Jordano Santoro",
       "person_id": 39616
-    },
-    {
-      "name": "Nikko Alexander",
-      "person_id": 39478
     },
     {
       "name": "Spencer Williams",

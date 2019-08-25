@@ -11,16 +11,16 @@
   "description": "",
   "models": [
     {
+      "name": "Chris Tyler",
+      "person_id": 39478
+    },
+    {
       "name": "Dylan Roberts",
       "person_id": 39269
     },
     {
       "name": "Jessy Ares",
       "person_id": 24030
-    },
-    {
-      "name": "Nikko Alexander",
-      "person_id": 39478
     },
     {
       "name": "Phenix Saint",

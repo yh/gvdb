@@ -11,12 +11,12 @@
   "description": "",
   "models": [
     {
-      "name": "Luca Rosso",
-      "person_id": 39803
+      "name": "Chris Tyler",
+      "person_id": 39478
     },
     {
-      "name": "Nikko Alexander",
-      "person_id": 39478
+      "name": "Luca Rosso",
+      "person_id": 39803
     }
   ],
   "release_date": "2012-05-02",

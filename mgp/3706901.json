@@ -11,12 +11,12 @@
   "description": "",
   "models": [
     {
-      "name": "John Magnum",
-      "person_id": 17933
+      "name": "Chris Tyler",
+      "person_id": 39478
     },
     {
-      "name": "Nikko Alexander",
-      "person_id": 39478
+      "name": "John Magnum",
+      "person_id": 17933
     },
     {
       "name": "Phenix Saint",
