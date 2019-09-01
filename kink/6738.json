@@ -3,7 +3,12 @@
     "Men in Pain"
   ],
   "description": "Mistress Madeline is here and as scary as ever. Ask Curt.",
-  "directors": [],
+  "directors": [
+    {
+      "name": "Maitresse Madeline Marlowe",
+      "person_id": 57
+    }
+  ],
   "models": [
     {
       "name": "Curt Wooster",
