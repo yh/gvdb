@@ -6,6 +6,10 @@
   "directors": [],
   "models": [
     {
+      "name": "Hannah Shaw",
+      "person_id": 62345
+    },
+    {
       "name": "Lexi Ward",
       "person_id": 61192
     }

@@ -1,0 +1,33 @@
+{
+  "collections": [
+    "Pride Studios"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Brady Hanson",
+      "person_id": 23107
+    },
+    {
+      "name": "Chad Glenn",
+      "person_id": 21118
+    },
+    {
+      "name": "Joe Parker",
+      "person_id": 28044
+    },
+    {
+      "name": "Johnny Parker",
+      "person_id": 28086
+    },
+    {
+      "name": "Mitch Vaughn",
+      "person_id": 28068
+    }
+  ],
+  "release_date": "2019-10-15",
+  "scene_id": 167458,
+  "series": "Best of Joe Parker Compilation",
+  "tags": [],
+  "title": "Best of Joe Parker Compilation"
+}
