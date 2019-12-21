@@ -1,0 +1,33 @@
+{
+  "collections": [
+    "bearback"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Alessio Romero",
+      "person_id": 28032
+    },
+    {
+      "name": "CJ Parker",
+      "person_id": 31291
+    },
+    {
+      "name": "Dean Monroe",
+      "person_id": 28040
+    },
+    {
+      "name": "Dirk Willis",
+      "person_id": 28088
+    },
+    {
+      "name": "Matt Stevens",
+      "person_id": 31203
+    }
+  ],
+  "release_date": "2019-11-05",
+  "scene_id": 167457,
+  "series": "Bear Compilation",
+  "tags": [],
+  "title": "Bear Compilation"
+}

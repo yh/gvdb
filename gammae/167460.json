@@ -1,0 +1,33 @@
+{
+  "collections": [
+    "Pride Studios"
+  ],
+  "description": "",
+  "models": [
+    {
+      "name": "Brett Bradley",
+      "person_id": 28087
+    },
+    {
+      "name": "James Hamilton",
+      "person_id": 27947
+    },
+    {
+      "name": "Matt Stevens",
+      "person_id": 31203
+    },
+    {
+      "name": "Sam Truitt",
+      "person_id": 32028
+    },
+    {
+      "name": "Trenton Ducati",
+      "person_id": 32299
+    }
+  ],
+  "release_date": "2019-12-02",
+  "scene_id": 167460,
+  "series": "Uniform Compilation",
+  "tags": [],
+  "title": "Uniform Compilation"
+}

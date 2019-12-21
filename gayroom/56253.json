@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "Man Royale"
+  ],
+  "models": [
+    {
+      "name": "Adrian Hart",
+      "person_id": null
+    },
+    {
+      "name": "Mateo Rose",
+      "person_id": null
+    }
+  ],
+  "release_date": "2019-12-06",
+  "scene_id": 56253,
+  "title": "Picnic In The Park"
+}
