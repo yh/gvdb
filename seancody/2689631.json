@@ -8,7 +8,7 @@
   "collections": [
     "Sean Cody"
   ],
-  "description": "",
+  "description": "<p><b>Guy #1:</b> Gianni, 24, 6'0&quot;, 170</p>\n<p><b>Guy #2:</b> Jeremy, 21, 5'11&quot;, 150</p>\n<p><b>Guy #3:</b> Jay, 27, 5'10&quot;, 165</p>",
   "models": [
     {
       "name": "Gianni",

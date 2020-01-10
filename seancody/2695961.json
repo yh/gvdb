@@ -8,12 +8,8 @@
   "collections": [
     "Sean Cody"
   ],
-  "description": "",
+  "description": "<p>Behind-the-scenes footage from \"Trey & Ken\"!</p>\n<p>These guys are too funny! </p>",
   "models": [
-    {
-      "name": "Ken",
-      "person_id": 1699
-    },
     {
       "name": "Trey",
       "person_id": 17649

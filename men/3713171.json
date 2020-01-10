@@ -8,7 +8,7 @@
   "collections": [
     "Men"
   ],
-  "description": "",
+  "description": "Employee Of The Month",
   "models": [
     {
       "name": "Jimmy Johnson",
