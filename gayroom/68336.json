@@ -1,0 +1,18 @@
+{
+  "collections": [
+    "MassageBait"
+  ],
+  "models": [
+    {
+      "name": "Marcus Tresor",
+      "person_id": null
+    },
+    {
+      "name": "Parker Matthews",
+      "person_id": null
+    }
+  ],
+  "release_date": "2020-03-13",
+  "scene_id": 68336,
+  "title": "St. Patrick's Day"
+}
