@@ -1,0 +1,25 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 3928304
+    }
+  ],
+  "collections": [
+    "Mile High"
+  ],
+  "description": "MOTM - Fame",
+  "models": [
+    {
+      "name": "Fame",
+      "person_id": 59210
+    }
+  ],
+  "release_date": "2019-07-02",
+  "scene_id": 4409678,
+  "series": [
+    "Noir Male"
+  ],
+  "tags": [],
+  "title": "MOTM - Fame"
+}

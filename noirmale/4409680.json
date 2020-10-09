@@ -1,0 +1,25 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 3928306
+    }
+  ],
+  "collections": [
+    "Mile High"
+  ],
+  "description": "MOTM Interview - Fame",
+  "models": [
+    {
+      "name": "Fame",
+      "person_id": 59210
+    }
+  ],
+  "release_date": "2019-07-02",
+  "scene_id": 4409680,
+  "series": [
+    "Noir Male"
+  ],
+  "tags": [],
+  "title": "MOTM Interview - Fame"
+}

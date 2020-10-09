@@ -1,0 +1,25 @@
+{
+  "alt_ids": [
+    {
+      "name": "spartan",
+      "value": 3928302
+    }
+  ],
+  "collections": [
+    "Mile High"
+  ],
+  "description": "MOTM - Jaxx Maxim",
+  "models": [
+    {
+      "name": "Jaxx Maxim",
+      "person_id": 60838
+    }
+  ],
+  "release_date": "2019-10-16",
+  "scene_id": 4409687,
+  "series": [
+    "Noir Male"
+  ],
+  "tags": [],
+  "title": "MOTM - Jaxx Maxim"
+}
