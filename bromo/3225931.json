@@ -9,7 +9,16 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Brad Banks",
+      "person_id": 39774
+    },
+    {
+      "name": "Tom Faulk",
+      "person_id": 22788
+    }
+  ],
   "release_date": "2016-10-17",
   "scene_id": 3225931,
   "series": [],

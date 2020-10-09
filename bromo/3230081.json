@@ -9,7 +9,12 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Ryan Cage",
+      "person_id": 56847
+    }
+  ],
   "release_date": "2018-05-28",
   "scene_id": 3230081,
   "series": [],

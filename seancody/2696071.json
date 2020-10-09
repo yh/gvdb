@@ -11,6 +11,10 @@
   "description": "<p>Behind-the-scenes footage from \"Rylan & Ken\"!",
   "models": [
     {
+      "name": "Ken",
+      "person_id": 1699
+    },
+    {
       "name": "Rylan",
       "person_id": 18033
     }

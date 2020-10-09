@@ -9,7 +9,16 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Damien Stone",
+      "person_id": 39832
+    },
+    {
+      "name": "Pierce Paris",
+      "person_id": 17423
+    }
+  ],
   "release_date": "2018-05-11",
   "scene_id": 3220211,
   "series": [],

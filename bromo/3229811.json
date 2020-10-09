@@ -9,7 +9,12 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Leon Lewis",
+      "person_id": 21931
+    }
+  ],
   "release_date": "2018-03-29",
   "scene_id": 3229811,
   "series": [],

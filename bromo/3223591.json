@@ -9,7 +9,12 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Brenner Bolton",
+      "person_id": 39778
+    }
+  ],
   "release_date": "2015-12-23",
   "scene_id": 3223591,
   "series": [],

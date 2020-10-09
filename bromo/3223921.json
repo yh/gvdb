@@ -9,7 +9,12 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Dennis West",
+      "person_id": 39775
+    }
+  ],
   "release_date": "2016-02-25",
   "scene_id": 3223921,
   "series": [],

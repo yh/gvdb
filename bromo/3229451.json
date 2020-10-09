@@ -9,7 +9,12 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Thomas Friedl",
+      "person_id": 56495
+    }
+  ],
   "release_date": "2018-02-05",
   "scene_id": 3229451,
   "series": [],

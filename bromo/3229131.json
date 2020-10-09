@@ -9,7 +9,12 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Connor James",
+      "person_id": 44243
+    }
+  ],
   "release_date": "2017-12-18",
   "scene_id": 3229131,
   "series": [],

@@ -9,7 +9,16 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Alex Vichner",
+      "person_id": 56667
+    },
+    {
+      "name": "Dee",
+      "person_id": 66341
+    }
+  ],
   "release_date": "2018-01-22",
   "scene_id": 3229401,
   "series": [],

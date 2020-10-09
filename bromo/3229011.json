@@ -9,7 +9,16 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Leon Lewis",
+      "person_id": 21931
+    },
+    {
+      "name": "Teo Carter",
+      "person_id": 22877
+    }
+  ],
   "release_date": "2017-12-08",
   "scene_id": 3229011,
   "series": [],

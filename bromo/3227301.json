@@ -9,7 +9,12 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Dee",
+      "person_id": 66341
+    }
+  ],
   "release_date": "2017-04-24",
   "scene_id": 3227301,
   "series": [],

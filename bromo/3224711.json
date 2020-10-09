@@ -9,7 +9,16 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Brenner Bolton",
+      "person_id": 39778
+    },
+    {
+      "name": "Jared Summers",
+      "person_id": 40536
+    }
+  ],
   "release_date": "2016-05-30",
   "scene_id": 3224711,
   "series": [],

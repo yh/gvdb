@@ -9,7 +9,16 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Brenner Bolton",
+      "person_id": 39778
+    },
+    {
+      "name": "Gage Unkut",
+      "person_id": 22757
+    }
+  ],
   "release_date": "2016-08-29",
   "scene_id": 3225521,
   "series": [],

@@ -9,7 +9,12 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Rod Pederson",
+      "person_id": 39404
+    }
+  ],
   "release_date": "2016-11-07",
   "scene_id": 3226101,
   "series": [],

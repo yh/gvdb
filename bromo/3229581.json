@@ -9,7 +9,12 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Tristan Jaxx",
+      "person_id": 24097
+    }
+  ],
   "release_date": "2018-02-16",
   "scene_id": 3229581,
   "series": [],

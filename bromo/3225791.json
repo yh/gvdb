@@ -9,7 +9,16 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Beau Warner",
+      "person_id": 64298
+    },
+    {
+      "name": "Jordan Levine",
+      "person_id": 57029
+    }
+  ],
   "release_date": "2016-10-03",
   "scene_id": 3225791,
   "series": [],

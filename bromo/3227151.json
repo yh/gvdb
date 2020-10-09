@@ -9,7 +9,16 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Brad Powers",
+      "person_id": 39350
+    },
+    {
+      "name": "Jay Austin",
+      "person_id": 40127
+    }
+  ],
   "release_date": "2017-03-13",
   "scene_id": 3227151,
   "series": [],

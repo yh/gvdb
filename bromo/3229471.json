@@ -9,7 +9,16 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Michael Roman",
+      "person_id": 40310
+    },
+    {
+      "name": "Phoenix Fellington",
+      "person_id": 40169
+    }
+  ],
   "release_date": "2018-02-02",
   "scene_id": 3229471,
   "series": [

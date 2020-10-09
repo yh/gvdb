@@ -9,7 +9,16 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Jordan Levine",
+      "person_id": 57029
+    },
+    {
+      "name": "Seamus O'Reilly",
+      "person_id": 64746
+    }
+  ],
   "release_date": "2017-06-09",
   "scene_id": 3227501,
   "series": [],

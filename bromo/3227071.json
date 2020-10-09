@@ -9,7 +9,12 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Michael Roman",
+      "person_id": 40310
+    }
+  ],
   "release_date": "2017-03-17",
   "scene_id": 3227071,
   "series": [],

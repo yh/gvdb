@@ -9,7 +9,16 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Dennis West",
+      "person_id": 39775
+    },
+    {
+      "name": "Jake Wilder",
+      "person_id": 39911
+    }
+  ],
   "release_date": "2015-08-13",
   "scene_id": 3223081,
   "series": [],

@@ -9,7 +9,16 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Dante Colle",
+      "person_id": 17408
+    },
+    {
+      "name": "Teddy Bear",
+      "person_id": 40603
+    }
+  ],
   "release_date": "2018-03-09",
   "scene_id": 3229691,
   "series": [],

@@ -9,7 +9,16 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Ashton McKay",
+      "person_id": 39860
+    },
+    {
+      "name": "Tom Faulk",
+      "person_id": 22788
+    }
+  ],
   "release_date": "2016-11-18",
   "scene_id": 3226211,
   "series": [],

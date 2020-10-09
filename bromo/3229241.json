@@ -9,7 +9,16 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Jordan Levine",
+      "person_id": 57029
+    },
+    {
+      "name": "Teddy Bear",
+      "person_id": 40603
+    }
+  ],
   "release_date": "2018-01-08",
   "scene_id": 3229241,
   "series": [],

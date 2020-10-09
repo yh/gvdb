@@ -9,7 +9,16 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Dennis West",
+      "person_id": 39775
+    },
+    {
+      "name": "Rod Pederson",
+      "person_id": 39404
+    }
+  ],
   "release_date": "2017-02-24",
   "scene_id": 3226931,
   "series": [],

@@ -9,7 +9,12 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Roman Todd",
+      "person_id": 17502
+    }
+  ],
   "release_date": "2016-07-18",
   "scene_id": 3225161,
   "series": [],

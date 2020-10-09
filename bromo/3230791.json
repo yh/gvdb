@@ -9,7 +9,12 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Rob Blonde",
+      "person_id": 45041
+    }
+  ],
   "release_date": "2018-07-23",
   "scene_id": 3230791,
   "series": [],

@@ -9,7 +9,16 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Jeffrey Lloyd",
+      "person_id": 43164
+    },
+    {
+      "name": "Rob Blonde",
+      "person_id": 45041
+    }
+  ],
   "release_date": "2018-01-29",
   "scene_id": 3229421,
   "series": [],

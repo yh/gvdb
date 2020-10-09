@@ -9,7 +9,12 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Cameron Kincade",
+      "person_id": 21397
+    }
+  ],
   "release_date": "2016-10-31",
   "scene_id": 3225101,
   "series": [],

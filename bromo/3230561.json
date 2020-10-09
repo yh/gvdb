@@ -9,7 +9,16 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Dino Borisov",
+      "person_id": 67451
+    },
+    {
+      "name": "Ricky",
+      "person_id": 40807
+    }
+  ],
   "release_date": "2018-07-02",
   "scene_id": 3230561,
   "series": [],

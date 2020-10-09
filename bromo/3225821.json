@@ -9,7 +9,16 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Ashton McKay",
+      "person_id": 39860
+    },
+    {
+      "name": "Billy Santoro",
+      "person_id": 39388
+    }
+  ],
   "release_date": "2016-10-07",
   "scene_id": 3225821,
   "series": [],

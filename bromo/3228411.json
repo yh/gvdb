@@ -9,7 +9,16 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Griffin Barrows",
+      "person_id": 40048
+    },
+    {
+      "name": "Pierce Paris",
+      "person_id": 17423
+    }
+  ],
   "release_date": "2017-09-15",
   "scene_id": 3228411,
   "series": [],

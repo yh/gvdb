@@ -9,7 +9,12 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Teddy Torres",
+      "person_id": 51975
+    }
+  ],
   "release_date": "2017-10-30",
   "scene_id": 3228731,
   "series": [],

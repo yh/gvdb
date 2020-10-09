@@ -9,7 +9,16 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Jaxton Wheeler",
+      "person_id": 17359
+    },
+    {
+      "name": "Leon Lewis",
+      "person_id": 21931
+    }
+  ],
   "release_date": "2017-12-15",
   "scene_id": 3229071,
   "series": [],

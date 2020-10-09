@@ -9,7 +9,16 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Gage Unkut",
+      "person_id": 22757
+    },
+    {
+      "name": "Michael Roman",
+      "person_id": 40310
+    }
+  ],
   "release_date": "2016-12-30",
   "scene_id": 3226461,
   "series": [],

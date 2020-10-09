@@ -9,7 +9,12 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Aaron Bruiser",
+      "person_id": 39844
+    }
+  ],
   "release_date": "2016-06-17",
   "scene_id": 3224831,
   "series": [],

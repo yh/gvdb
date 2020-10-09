@@ -9,7 +9,16 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Michael Roman",
+      "person_id": 40310
+    },
+    {
+      "name": "Trey Turner",
+      "person_id": 24049
+    }
+  ],
   "release_date": "2018-02-19",
   "scene_id": 3229641,
   "series": [],

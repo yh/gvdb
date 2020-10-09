@@ -9,7 +9,12 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Scott Riley",
+      "person_id": 40066
+    }
+  ],
   "release_date": "2016-12-26",
   "scene_id": 3226661,
   "series": [],

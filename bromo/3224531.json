@@ -9,7 +9,16 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Rod Pederson",
+      "person_id": 39404
+    },
+    {
+      "name": "Wesley Woods",
+      "person_id": 39934
+    }
+  ],
   "release_date": "2016-05-09",
   "scene_id": 3224531,
   "series": [],

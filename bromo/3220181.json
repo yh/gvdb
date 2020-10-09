@@ -9,7 +9,12 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Desmond Cooper",
+      "person_id": 51719
+    }
+  ],
   "release_date": "2018-05-07",
   "scene_id": 3220181,
   "series": [],

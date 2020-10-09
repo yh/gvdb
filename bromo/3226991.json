@@ -9,7 +9,12 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Kaden Alexander",
+      "person_id": 40119
+    }
+  ],
   "release_date": "2017-02-17",
   "scene_id": 3226991,
   "series": [],

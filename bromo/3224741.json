@@ -9,7 +9,16 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Jared Summers",
+      "person_id": 40536
+    },
+    {
+      "name": "Jeremy Adams",
+      "person_id": 22206
+    }
+  ],
   "release_date": "2016-06-06",
   "scene_id": 3224741,
   "series": [],

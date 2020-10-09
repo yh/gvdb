@@ -9,7 +9,16 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Jay Austin",
+      "person_id": 40127
+    },
+    {
+      "name": "Rikk York",
+      "person_id": 24016
+    }
+  ],
   "release_date": "2018-04-27",
   "scene_id": 3229931,
   "series": [],

@@ -9,7 +9,20 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Damien Stone",
+      "person_id": 39832
+    },
+    {
+      "name": "Leon Lewis",
+      "person_id": 21931
+    },
+    {
+      "name": "Michael Roman",
+      "person_id": 40310
+    }
+  ],
   "release_date": "2017-09-01",
   "scene_id": 3228261,
   "series": [],

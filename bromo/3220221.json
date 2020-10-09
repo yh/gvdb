@@ -9,7 +9,16 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Damien Stone",
+      "person_id": 39832
+    },
+    {
+      "name": "Rikk York",
+      "person_id": 24016
+    }
+  ],
   "release_date": "2018-05-04",
   "scene_id": 3220221,
   "series": [],

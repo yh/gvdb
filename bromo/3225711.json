@@ -9,7 +9,12 @@
     "Bromo"
   ],
   "description": "",
-  "models": [],
+  "models": [
+    {
+      "name": "Shawn Reeve",
+      "person_id": 56273
+    }
+  ],
   "release_date": "2016-09-26",
   "scene_id": 3225711,
   "series": [],
