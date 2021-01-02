@@ -1,8 +1,8 @@
 {
   "collections": [
-    "BLEU"
+    "Bleu Films"
   ],
-  "description": "Spit and Ashes is a reimagining of the historical violence waged against women by\npatriarchy in the name of religion, medicine, and family. The High Priestess\nembodies the wild, sexual and grotesque - the un-tamable hunger of female\ndesire and the ultimate threat to male power. The Midwife is the spirit of all women\nwho sought knowledge and agency over their own bodies and paid for their\nagency with their lives. Through a series of erotic and brutal rituals, these women\ncome together to reclaim their bodies and prepare for the fight ahead.\nLust..rust...and all things painfully delicious.. dividing with knives, these thighs\ntremble. this breath quickens. This skin rises & writhes exquisitely at the hands of\nthe feminine divine...\nThe witches man failed to burn.. the mothers who's scars glow with an untamed\nraging fury. the daughters the church tried to bury, the fierce lovers who will keep\non fighting...\ninto the fire they will go because we know no other way than to keep on\nburning.",
+  "description": "Spit and Ashes is a reimagining of the historical violence waged against women by\npatriarchy in the name of religion, medicine, and family. The High Priestess\nembodies the wild, sexual and grotesque - the un-tamable hunger of female\ndesire and the ultimate threat to male power. The Midwife is the spirit of all women\nwho sought knowledge and agency over their own bodies and paid for their\nagency with their lives. Through a series of erotic and brutal rituals, these women\ncome together to reclaim their bodies and prepare for the fight ahead.\nLust..rust\u2026and all things painfully delicious.. dividing with knives, these thighs\ntremble. this breath quickens. This skin rises & writhes exquisitely at the hands of\nthe feminine divine\u2026\nThe witches man failed to burn.. the mothers who\u2019s scars glow with an untamed\nraging fury. the daughters the church tried to bury, the fierce lovers who will keep\non fighting\u2026\ninto the fire they will go because we know no other way than to keep on\nburning.",
   "directors": [],
   "models": [
     {
@@ -30,7 +30,7 @@
     "Solo Female",
     "spit",
     "Straight",
-    "thirdparty"
+    "Partner Studio"
   ],
   "title": "SPIT AND ASHES"
 }
